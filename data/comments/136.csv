@@ -1,0 +1,407 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,,1526441748.0,29.0,[deleted]
+1,J_de_Silentio,1526478949.0,13.0,"Something that may or may not be related:  If you are comfortable in what you do and your compensation, that's okay.  If you're just a tech and working under a sysadmin, but you're happy with the work place, your job duties, and the money you make, there's nothing wrong with that.  You are not less of a person.
+
+I'm personally really driven and asked another network admin why he doesn't aspire to a higher position or management or something more than simply a network admin at a k12 school.  He simply said ""Look, I'm 45.  Have a family.  I know my job and I'm good at it.  Why do I need anything else.  I plan to retire from the school I'm at in 15 years and live the rest of my life"".  It put some things in perspective for me.
+
+Edit:  This doesn't mean that you can stagnate and not continue to learn, it's just that ""progressing"" in your career by getting more responsibility or money or whatever can stop somewhere if you're comfortable with it."
+2,pdp10,1526443418.0,7.0,"Python is pretty popular, but it's got weaknesses with the poorly-handled version 2 to 3 transition, with runtime dependencies and dependency conflicts, and with poor performance, particularly startup speed. Depending on what you're doing, other tools may be more appropriate or give you an advantage. A lot of devops tooling is being written in Go recently. Libraries in C are accessible from the FFI on nearly any language, and can be made to work on nearly any system. (Most enterprise platforms aren't nearly interesting enough for C not to be practical, alas.)
+"
+3,,1526474930.0,22.0,"What's with all of this 'real talk' on this sub lately?
+
+It all boils down to: work hard, keep yourself in the loop.
+
+That's it.
+
+Stop with all of these pretentious encyclopedias about how YOU do your career.... everyone is different."
+4,sanbaba,1526477485.0,4.0,"""Soft"" skills are so key.  It might not seem ""fair"" to your orderly, merit-based mind, but it is absolutely vital to at least learn to express ideas and receive ideas while showing your conversation partners not the respect and affability that they *deserve*, but the respect and affablity *that they expect*.  Yes, every time.  It really only takes one time for some middle management scrub to come into your IT dungeon, ask some utterly inane question based on a bloomberg report they saw on the plane, you snicker at them, and then you are forever labeled as ""that IT troll"".  You and I know that that's an unfair characterization, and *perhaps* you can overcome that bad first impression over time, but being calm, genial, and *collaborative* (as opposed to ""elite"" or conspiratorial) is vital to getting ahead in most corporate environments."
+5,,1526472516.0,12.0,[deleted]
+6,Colorado_odaroloC,1526478627.0,3.0,"I will say that networking (err, the human kind) is often underappreciated in IT circles. This isn't to say you need to kiss butt and all that, but just periodically check in with your friends once their off in new roles. Be genuine about it (not some sociopath with a script he/she goes through) but just be a good person, keep in occasional touch with your friends (it is also useful for just keeping the pulse on general trends). I have a decent network of folks over the years. Some really good friends, and some more just friendly acquaintances, but it's not a bad thing to have in your back pocket when it comes time to look for something new.
+
+You'd be surprised how some of those acquaintances will remember you (if you were a reasonable person) and will put in the good word for you if there's a position you're a good fit for.
+
+It's also really nice when you can find a gig for a great worker who's also someone you get along with/is a friend.
+
+The reverse from that were some really abusive customers and colleagues (you find a few after so many years in the business) that come back asking for a favor. Yeah, sorry.
+  "
+7,itmondsply,1526479628.0,4.0,"I'm currently at a small FI making 85k and commuting 30 minutes.  I've had offers around 110k+ for positions only 5 minutes from me, but I've turned them all down because my current company respects my family, my time, and my expertise.  It might be harder to get that next big jump in pay here, but they typically hire & promote internally, so here's to hoping."
+8,,1526475772.0,3.0,I turned down a job that paid 15% more and was 6 miles from my house for a job on the other side of the city.  And it was the best decision I ever made.
+9,crankysysadmin,1526440832.0,15.0,"""Everything you mentioned is hard so I'm just going to get angry and double down on what I know how to do"""
+10,brontide,1526473386.0,6.0,"> .. wall of text saying do more spec work
+
+...
+
+> work to life balance
+
+LOL, really?  Don't spend 5 minutes lecturing us for not spending more of our free time ass-kissing and doing IT training and then claim to have any interest in a true work life balance.  Why do we keep internalizing the failings of management?  It's killing us trying to meet and exceed the unrealistic expectations that most companies project on technical folks.
+
+> it is okay to walk away from job offers.
+
+This is true, why did you have to bury the lead.
+
+EDIT:
+
+It's the abusive boyfriend problem, you can't solve the problems of management, they will not learn from within.  There are plenty of companies that you can have a work-life balance at and maybe your salary won't be in the top 5% but you won't be worked to death.  In these companies you will find great benefits, good teams, work that isn't batshit insane but you may not find a lot of room for growth.  I do move the company forward by earning new tools, have a homelab, and all that but I also have a family and a personal life where I'm not worried about being 1 deep on topics at work since I know my boss has my back.
+
+Learn what you want, do what you want, exceed where you want but nothing will change your companies view of IT.  **In the end a company retains the talent it deserves so look around, if you don't fit in there is probably a reason that has nothing to do with you.**"
+11,12345potato,1526472005.0,2.0,"This is a good post. I love the phrase 'life long student'. Too many times, especially in government IT, there are individuals and managers who last opened a book at the release of Windows XP.
+
+Just shut up and learn stuff."
+12,torbar203,1526506341.0,2.0,"> Go to conferences, if your current job won't budget for a conference, see the above point about opportunity. 
+
+At least in my area, there are a decent amount of free conferences that are sponsored by product vendors, usually put on my some type of MSP.  I've gone to a few of those over the years, and have met some really good contacts.  (All this assuming your company will let you take a day to go to one instead of being in the office)"
+13,LookAtThatMonkey,1526471883.0,2.0,"The outside learning is key.  If you're married and/or have kids, unless your spouse works in the field, its very difficult for them to appreciate just how much learning is necessary and that it never stops.  IT is 24/7, always thinking about it, but trying to hide it from the wife and have a normal life."
+14,bmxliveit,1526497999.0,1.0,"I think the part about education goes both ways. For instance, you say that the stuff you do in DevOPs/Sysadmin/etc you can't learn in school, but there are things that you learn in school that are hard to learn at work..
+
+For instance, project management, working well with teams, developing your research skills and most importantly understanding deadlines and time management.
+
+I've become the go-to person at work for many things not because I know them already, but because I have the skills to learn them quickly. Some of my coworkers lack the ability to properly research and most importantly lack the knowledge on how to plan ahead."
+15,_Pooba,1526511052.0,1.0,if ya aint got work life balance ya aint got nuthin'
+16,alisowski,1526456553.0,1.0,"Great Read. I see a lot of career questions on here, most of them with pretty simple answers.    One point I disagree on.....Networking.  
+
+To be honest, I wouldn't want to pay $2000 for an employee to go to a one week convention where they would briefly hear about topics, play some games, and grab a bunch of business cards for future opportunities.  In my mind, this is part of your ""Education"" topic.  You must get out for yourself and do these things.  I'm in a middle sized city and every night of the week there is a group meeting about any of 10 different topics that would interest me.  Meetup is an awesome resource and a much better learning and networking opportunity...and most meetings are off hours so you don't have to try to convince your boss that you need to go to it.  
+
+      "
+17,gabyred884,1526440427.0,-6.0,Holy wall of text Batman 
+18,,1526468352.0,13.0,[deleted]
+19,Zaphod_B,1526443704.0,15.0,"Datacenters need onsite technicians, devs cannot do this work remote
+
+
+Bare metal is so much better than virtualization, it will never catch on.
+
+
+DevOps is such  fad and buzzword, yet here we are a decade later and it is still a thing
+
+
+Cloud computing is a sham, it isn't cheaper, everyone will migrate back to on prem
+
+
+
+Like I said, let the luddite tech workers do this.  It is less competition for those who want to expand their skills and modernize their resumes and land new and exciting jobs.
+
+"
+20,Ironfist,1526475303.0,4.0,Sorry but I have a life outside of work.  The company can pay for people to attend training if they need to.
+21,Colorado_odaroloC,1526480434.0,4.0,"Absolutely. Some of us will hit this at different stages. I was a hard charger for many years, but personal stuff made me wake up one day and realize, ""You know, my work/life balance is all out of whack, and I'm wasting the best days of my life just burning myself out for money"". Now granted, it was damn good money, and there are days when I miss it, but all in all, well worth the throttle back to strike a much better work/life balance. 
+
+It is amazing how it can help your health too.
+
+But back to your point - Yes, absolutely there should be different swim lanes for different workers with different goals, and there is no shame in that so long as you're still at least contributing."
+22,ErikTheEngineer,1526484055.0,5.0,"I agree with this as long as you continue investing the time needed to stay good at the job you want to keep. Personally, I'm at the point where I love what I do, but I work in a low-margin industry that has a penchant for outsourcing/offshoring anything they can. I consider my job at this point to stay relevant so they won't want to get rid of me, and stay up to date so that when they do get rid of me, I won't be one of the sad people in their 50s, stuck 10+ years before retirement and unable to find work.
+
+IMO, unless you live and breathe your work 24/7, you're going to hit a point where you realize that other things in life are more critical. If you're not a super hard-charger, you'll also realize that the next insane levels of work provide diminishing returns. I know so many IT managers/directors/VPs who are flying all around the world, going like crazy and on their 2nd or 3rd marriage. They're quite well-compensated, live in nice houses, drive expensive cars, etc. But I think they'll look back one day and realize they poured all this effort into an employer that threw them out at the end.
+
+My advice would be to save while you're making good money and get some passive income streams of one kind or another...I've seen way too many people just accept more stress because they're scared to death of losing their jobs."
+23,Zaphod_B,1526486908.0,2.0,"Absolutely, you are the expert on your life.  You should decide what is best for you."
+24,Zaphod_B,1526443570.0,7.0,">  Libraries in C are accessible from the FFI on nearly any language, and can be made to work on nearly any system
+
+Okay faaaaiiiir point but I mean learning curve of C to Python?  Python can also bridge to other languages, I have done this myself in Python.  
+
+As far as actual real world job relevance, look at all the hot jobs, most of them use Python.  While there are great jobs that probably use C, they are just in a different spectrum in my experience.
+
+I said I could be wrong, and I admit I am very much just putting in my best guess on this specific subject.
+
+Still giving you an upvote though
+
+
+#### ninja edit
+
+Also while Go is definitely catching on and has a lot of cool features, I don't see full fledged tooling in Go run the show.  I think it is a great language and framework, but I am waiting to see the adoption of it.  Google has a track record of abandoning products
+"
+25,salgat,1526482178.0,1.0,The real value of Python is that the standard library is insanely comprehensive (along with it not needing to be compiled and distributed with a bunch of binaries). That's why I use it.
+26,sanbaba,1526477785.0,8.0,"> What's with all of this 'real talk' on this sub lately?
+
+First day of bathing suit season ;)"
+27,m16gunslinger77,1526478073.0,7.0,"problem is that if you read through a lot of the new posts, there's a lot of ""new"" folks that haven't heard this real talk or that post about things that could be resolved by taking some of this info to heart.  gotta realize that part of the job in IT is repeating  yourself when you DO know what you're talking about.  I spend more time repeating the same thing to management and some coworkers than actually getting the job done, then one day (at least sometimes) it clicks with them.  Same thing with my toddlers...  If you don't need to read this stuff then you can just skip it, but it may be helpful for others."
+28,Ironfist,1526475364.0,1.0,My thoughts exactly.  People get a new job or a promotion and suddenly they're an expert life coach.
+29,,1526476139.0,2.0,Wish I could upvote you a billion times.
+30,TwistedViking,1526477716.0,0.0,"> What's with all of this 'real talk' on this sub lately?
+
+Karma farming."
+31,ErikTheEngineer,1526483310.0,3.0,"Indeed. Even in software companies, where they keep the true nerds locked up in the basement because they need them, it's increasingly important to be presentable. Outside of the lowest layers of the engine rooms of Google/Microsoft/Amazon, traditional anti-social IT people aren't going to get much of a career foothold. If you can't play nice with others, you'd better be among the top 10 geniuses in your field and you will find your job opportunities restricted.
+
+I'm actually glad we're starting to shake off some of the nerd stereotypes. There's nothing wrong with being a technology geek; I'm one too. But having to deal with brilliant jerks to get your job done isn't fun for anyone."
+32,Zaphod_B,1526487139.0,4.0,"damn, can you at least send some ointment for that burn you just gave me?"
+33,Zaphod_B,1526598081.0,2.0,"All of my professional friends all end up working at high end tech companies. This is mostly because of professional networking and probably slight nepotism.  However we are all also on Slack channels, GitHub projects, we see each other at the same conferences, and so forth.  
+
+Professional networking is the best way to get a new job, it beats everything else.  They already know you, know your soft skills and have a good idea of your tech skills.  If they are reaching out to you to apply for a job they are already interested in hiring you."
+34,ErikTheEngineer,1526484387.0,1.0,"The absolute salary number is not the only measure of a job, as you've found. I could easily make 20 or 25% more working somewhere else but don't. I would have a horrible train commute and work in a pressure-cooker environment for that 20%."
+35,Zaphod_B,1526486855.0,1.0,"Yup and that is the balance you have found, which is great for you!"
+36,RolleiflexPro,1526492216.0,1.0,"Do you mean to say that the job that paid more and was 6 miles away was more of a commute, so the job on the other side of the city is less than 6 miles from your house and therefore saved you the commuting time? "
+37,Zaphod_B,1526441313.0,3.0,"That is your choice, but you are a manager you are supposed to invoke change and growth.   "
+38,binaryvisions,1526475704.0,5.0,"Yes, there is clearly no space for work-life balance just because OP observed that the industry moves fast and you might need to do the occasional homelab project to learn.
+
+It's not killing *me*. I have great work-life balance, I'm out of here at 5 every day barring the occasional emergency. I also find some time in my work-life balance for learning new skills off-the-job.
+
+Learning in your spare time doesn't need to equate to 60 hour work weeks. "
+39,Ekyou,1526476584.0,4.0,"The problem I've always had with this sort of blanket advice for ""success"" is that it makes success sound like a 0 or 1, a pass or fail. Not everyone needs to be a rockstar. There are millions of people, even in IT, who go to work to get a paycheck and ""turn off"" when they get home. They might not be as rich or well-connected, but that doesn't mean they're not ""successful"" either. It's sort of ironic that OP even describes himself as that but then goes on to talk about the, IMO, near excessive amount of time he's spent outside of work doing things for work.   
+
+Don't get me wrong, I'm not saying there aren't times that it's worth it to spend time outside of work to learn new skills. But if you have interests outside of IT or a family, there aren't enough hours in the day to be building home labs for every popular new technology or finding random projects to contribute to in the vague hope that it'll be useful in your next position.  "
+40,noreasters,1526492472.0,2.0,"Yeah I am in an accounting position because I thought it would have better work life balance.  Except now I have ended up as de-facto IT because I have an IT background and our MSP is unable to push the business forward (when I came in the servers had hardware warnings that MSP was aware of but business wasn't interested in fixing until one day it failed...then it was ""why did this fail..."")."
+41,vigilem,1526475807.0,1.0,"He *did* qualify the statements with 'non-absolute-truth' and point out viewpoints were derived from his personal experience, but I see what you mean - there does seem to be a slight disconnect there. Perhaps the privilege and positions he has now give a better work-life balance than he had earlier in his career."
+42,TwistedViking,1526478270.0,1.0,"> Don't spend 5 minutes lecturing us for not spending more of our free time ass-kissing and doing IT training and then claim to have any interest in a true work life balance.
+
+Be fair, it's not like he said you have to dedicate 100% of your off hours to working. If you're in a situation where you're working 65 hours a week, your situation sucks and it makes sense you don't want to do more.
+
+But the ones closer to the beginnings of their careers, the ones most often wondering about advancement and career progression, aren't necessarily going to have that limitation. Hell, I've been in various areas of IT for a little over a decade and am in a situation where I do my 40 and go home. At home, I play with my kid until bedtime and then spend an hour working on things I'm interested in that my current employer doesn't do.
+
+>  Why do we keep internalizing the failings of management? It's killing us trying to meet and exceed the unrealistic expectations that most companies project on technical folks.
+
+The way I read it (through OP's proselytizing) is that progress isn't necessarily on management. Shitty management is absolutely a thing but it's not up to them to train you on things you want to learn that are irrelevant to the company. If you want to be a cloud guy and they're stuck with all on-prem, it has to be on you to learn that stuff."
+43,ErikTheEngineer,1526482965.0,2.0,"My wife works too, and has a crazy busy job, but when it's over she gets to go home and forget about it. That's one of the things about ""normal people"" that make me a little jealous, but I still keep at this because it's challenging.
+
+What's funny is that in every other field that isn't IT, the career progression scramble dictates that you get up the ladder into management as soon as possible. That way, you don't have to do whatever mind-numbingly boring paper processing task your department does anymore, you supervise those that do, and there's no more technical learning needed. It's hard to explain to people that you can still have a reasonably good career progression by continuing to actually do work, as long as you invest the outside learning time. I've heard from the wife and others, ""Why aren't you a manager yet?"", not in a mean way, but more like in a concerned way. The reality is that as you progress you're responsible for more important/visible stuff and your role shifts (in orgs that care) towards passing on knowledge.
+
+I'm married with 2 kids and lose a fair bit of sleep keeping up on my own time. But I do keep at it, because I've run into more than a few people my age who are settling into a comfortable routine and not quite aware that something might upset the order for them. At 42, I have to think about how best to combat the idiotic, rampant ageism we find in our line of work, and keeping up to date is one of the things that helps."
+44,m16gunslinger77,1526477925.0,1.0,"I wouldn't say it's 24/7 but technology is everywhere and if folks (including spouses) know you're a tech person they'll expect the tech around you to work.  Luckily my wife, because I do talk to her about it, understands a) a lot of the stuff I work on is high-level jargon she doesn't get but knows it's difficult and changing and b) knows that sometimes there's afterhours stuff that may affect other plans and c) there WILL be a lot of half-working/dead or in-process tech laying around the house that most ""normal"" households won't have and that's ok."
+45,Zaphod_B,1526489432.0,2.0,"> To be honest, I wouldn't want to pay $2000 for an employee to go to a one week convention where they would briefly hear about topics, play some games, and grab a bunch of business cards for future opportunities.
+
+Everyone takes away something different from the conference circuit.  For me I gain very little from the keynotes, but I gain a ton from the side conversations during the conferences.  You network with peers and you start to talk shop.  You find someone who is doing similar things that you are doing, and now you have a peer to bounce ideas off of.  This is really valuable at times.  You also get to learn how other Orgs handle their tech and processes.  This is also very good info at times.   You may not go to a keynote and say wow that changes my entire outlook, but you may have dozens of conversations with your peers that do change your outlook, or give you great ideas.   
+
+I mean I have gone to conferences and then web conferenced a month or two later with the team I networked with to go over things we are both working on.  Sometimes there can be value in that.
+
+Plus it is incentive for your employees to stick around.  Everyone could use a week of learning and professional development.  It helps refresh you, and it shows that your Org takes care of you at some level."
+46,Zaphod_B,1526440837.0,4.0,Sorry I guess I went a bit overboard :-(
+47,galad2003,1526472195.0,13.0,"I find this is why having an IT job that has some downtime is the best. I use that downtime to study (and browse reddit). yea, some jobs are balls to the wall your entire shift, but that is why one needs to get the skills to get the jobs at the places that aren't."
+48,m16gunslinger77,1526477716.0,9.0,"I've made my organization (through lots of extended discussion) order ""Extras"" of some of our newer hardware for me to put into labs.  That and out of support equipment like the Dell R710s in my VM lab have been a must.  Thankfully that is one thing the new manglement does understand is the usefulness of not testing in production and running proofs of concepts to make sure it works as expected.  
+&nbsp; 
+
+Also, if you want VMWare experience, the VMUG Advantage is $200 a year for Enterprise level vSphere licenses as well as Workstation...  Bare minimum get your org to get that and throw Workstation on an old desktop/laptop to make a virtual lab with.  I have an out of service Dell tower server I confiscated for a Linux lab to learn more about *nix operating systems and in doing so have also created a ""WAN"" lab as we now have 2 spare firewalls.  Take the time to discuss with your boss the importance of being able to test things and it really doesn't cost the company a lot, especially utilizing old assets that would be dumped anyways.  *nix labs and VMWare can PoC a lot of things for you.  
+&nbsp;
+
+Full disclaimer, I have a homelab but like you said, it's difficult to find time in the evenings after putting kids to bed (multiple times and giving in to their demands to have a plane on the tarmac fueled and waiting to go....) to really work on things but even still I have it there to work on when I can.  I try to make time mainly at work but also at home to test things to at least extend my knowledge a little bit every month so that I'm not stagnant.  Testing SNMP monitoring at home is how I got Observium setup in our office and now all the helpdesk guys and the Director use it to keep an eye on the network...  It doesn't take a lot of time but dedicating small amounts of time here and there (and keeping a notebook of what you've done so far so if you get interrupted by the bedtime terrorists, er, kids....)."
+49,,1526475929.0,5.0,"Assuming you have a non-trivial commute, time in the car is time people seem to often overlook.
+
+You can definitely listen to audiobooks about technology while in the car, and it doesn't cost you any time you weren't already spending.
+
+You can also throw some headphones on while mowing the yard or whatever.  A lot of knowledge can be absorbed this way.  Then actual time dedicated to the thing can be small, and reserved for actual practice."
+50,INeverEffinSleep,1526477767.0,1.0,"I have three kids and a wife. My kids get me until their bedtime, and my wife gets me 4 nights a week. The other three nights a week, from 9pm until I’m tired (which is usually midnight or 1am) is my time. Some nights that means playing a video game, but most nights that’s me fucking around in my home lab, building and breaking shit. It’s no different than going to the gym, it’s a habit you need to build and stick to.
+
+
+
+Trying to learn new skills aside, everyone needs time to themselves, it’s healthy. "
+51,Zaphod_B,1526490490.0,1.0,There is nothing wrong with taking it slow.  30 to 60 minutes a day 2 days a week is better than nothing.  Maybe I didn't articulate that as well as I could but that was the point I was getting across
+52,,1526443935.0,7.0,[deleted]
+53,,1526492227.0,4.0,"> DevOps is such fad and buzzword,
+
+It most certainly is.  Less than 1 percent of the IT jobs out there are real DevOps positions, now the trend is to call anything that involves any type of automation ""DevOps"".  You don't work in DevOps just because you script and automate.  DevOps is how Facebook and Reddit deploy, the vast majority of us here are not even close to that kind of customer facing volume.  I work for a multi billion dollar company with over 100 people in IT and while we have a shit ton of automation in place, it's still not DevOps."
+54,Ironfist,1526475187.0,3.0,"> Datacenters need onsite technicians, devs cannot do this work remote
+
+Who is racking servers and running cables for your machines?  Not devs."
+55,xinit,1526482409.0,3.0,"> Bare metal is so much better than virtualization, it will never catch on.
+
+TV IS A FAD!"
+56,ReverendDS,1526502277.0,3.0,"I made the mistake when VMWare was just becoming a thing.
+
+""Virtualization is just a fad. Bare metal will never be supplanted outside of some very specific use-cases.""
+
+This belief set my career back 5-8 years from where I wanted it to be. I've been playing catchup ever since. Though, I'm now almost where I was aiming at back in the day, I could have been here sooner and had newer goals than I did...
+
+I have never dismissed a technology since then. Even if **I** can't see the use for something, I try to at least keep an eye on it as it progresses so I'm not caught blind by it when it hits my desk."
+57,,1526473474.0,2.0,I honestly think there needs to be a new sub for modern admins because the people here seem to be stuck in the 90s.
+58,,1526477211.0,3.0,[deleted]
+59,J_de_Silentio,1526485247.0,5.0,"I'm just about opposite you.  Working small/medium k12 school, I never made much money.  I made enough to get by comfortably, but I never had (or have, I guess) nice cars, we didn't do big family trips, I didn't buy expensive bourbon to share with friends, and I didn't have a lot of discretionary income for games and such.  But we ate healthy, did things like camping on friends property, and my wife was able to not work and stay home with kids (which is a big contributor to not being ""well off"").
+
+With that said, I worked with absolutely wonderful people, had an excellent mentor, and have an extremely healthy work/life balance (verging more on the life than work, tbh).  I learned a lot and had freedom to grow.
+
+When my boss retired I became director (which is more like the leader of technology in the district, rather than a ""true"" director for a fortune 500).  So I make more money now and we feel more comfortable taking vacations and such.
+
+I guess my point is the same as yours:  My choice was to choose a lower salary for a higher life balance (and excellent working conditions).  I had offers to make more money other places, but never took them since I loved where I worked, what I did, and who I worked for.  It paid off in the long run since I'm able to run my own department now with a lot of trust from the School Board/CFO/CEO equivalent (superintendent/Financial Director)."
+60,sanbaba,1526489407.0,2.0,Some guys seem to consider it like a badge of honor to be so busy and important that they barely know their families.  Doesn't work for me.
+61,pdp10,1526451057.0,6.0,"I've become disenchanted with Python at various times, even though the weaknesses might be addressable (optional typing now, compiling to static bin, SNI support in 2.7). But mostly every time I read `virtualenv` I want to use a better tool. I have warm feelings toward Go at the moment, and Go has been used to build a lot of devops tooling in recent years, but I've been coding more in C recently than anything, largely by choice. Parsing data files and generating spreadsheets? C. Infrastructure code unsuitable for shell? C. Lightweight cross-platform network metainformation daemon? C. API test cases? C.
+
+I'm fond of -- or interested in -- other languages, too, but they have much more confined use-cases until you're working up-stack, and even then I don't run into very many interesting environments any more. Almost everybody decided to go ""minimal risk"" with language/toolchain selection years ago.
+"
+62,,1526459172.0,2.0,[deleted]
+63,,1526478243.0,2.0,"> I spend more time repeating the same thing to management and some coworkers than actually getting the job done
+
+This is the problem with IT.
+
+Some people have a superiority complex because they can whip around a computer and fix problems fairly quickly. 
+
+""**This** is how you should do **X** job"" is a perfect example of how that complex creeps in to everyday life."
+64,,1526477777.0,3.0,"Is this really a thing? Is there something about Reddit karma that I don't know about? Cash these points in or something?
+
+People are so fucked these days."
+65,sanbaba,1526489204.0,1.0,Awesome.  I hope it doesn't come off as offensive to anyone - the nerd I describe above is the nerd I once was.  Prob still am - but I'm at least a little better ;)
+66,,1526496268.0,1.0,"No - 6 miles away is super close and paid more.
+
+I took a job with a much longer commute that didn't pay as much because it felt right."
+67,crankysysadmin,1526441492.0,6.0,"perhaps you didn't note the quotes.
+
+I actually agree with most everything you wrote."
+68,TwistedViking,1526478380.0,3.0,"> Learning in your spare time doesn't need to equate to 60 hour work weeks.
+
+One of the common complaints I see here, and one I see a lot of people projecting onto OP, is that they're assuming learning in your spare time is in addition to 60+ hour work weeks. OP seems to be assuming that doesn't happen. There's a disconnect.
+
+I'm in the same situation as you. I read on my lunch break and lab for an hour or so after my son goes to bed. Then spend the rest of the evening with my wife. It's workable if you aren't in a situation where you're treated like an indentured servant. I feel like the people this post applies to are the younger crowd, the help desk, desktop, and junior types who haven't fallen into that kind of work week yet."
+69,NoyzMaker,1526641773.0,2.0,"The hardest lesson I had to learn as a manager was that not everyone wants to (or is) a rock star employee or as ambitious as I am. Many people are quite content with their setup because they just use their job to cover bills or fund their hobbies and there is absolutely nothing wrong with that. Having a consistent ""worker"" on my team is just as valuable as having rock stars rotate out every two years."
+70,Zaphod_B,1526489093.0,1.0,"I disclaimed several times this is anecdotal advice, but it is something I have observed over 20 years in the field hold various jobs, and I have observed others use similar methods."
+71,brontide,1526513531.0,1.0,"It may be more common in IT but it is hardly unique to IT and this gaslighting of workers here into believing they are the problem is endemic.  Nobody would look at an accountant and tell them they were responsible for poor sales and a failing business.  Nobody would go up to an Architect and ask them to help them design a kick-ass garage for free, but these are common in IT for some reason."
+72,LookAtThatMonkey,1526484091.0,1.0,"I get that.  I have no inclination to be a manager at all.  My parents don't get that mentality as they worked in industries where that was the goal, get promoted.  I like tech more than people, and my current role where I'm the only guy in infrastructure with responsibility for a global company, yeah I like that."
+73,pdp10,1526503427.0,1.0,"> What's funny is that in every other field that isn't IT, the career progression scramble dictates that you get up the ladder into management as soon as possible.
+
+Not true, of course. As soon as a new doctor finishes their residency they don't put down their stethoscope and move into the bureaucracy.
+"
+74,LookAtThatMonkey,1526483988.0,1.0,My wife understands my job.  It's more in my mind that I need to strike a fair balance for her and not let my job become all consuming because I assume she's OK with it.
+75,sysvival,1526458599.0,5.0,I enjoyed the read. Thank you. 
+76,12345potato,1526472076.0,5.0,">Sorry I guess I went a bit overboard :\-\(
+
+No, you're fine. It's good and informative."
+77,,1526517393.0,2.0,[deleted]
+78,hoppi_,1526459885.0,4.0,"> Sorry I guess I went a bit overboard :-(
+
+What no, it really was a great read, but actually also really great formatting and structured well. So not a wall of text at all. There *always* are these weird one-liner replies in reddit threads who seem troll-ish or nonsensical/pointless."
+79,discgman,1526485330.0,3.0,My job is hot or cold with lots of downtime on reddit. I have been trying to use this time these last few months to improve my skills and catch up with the latest technology. 
+80,Zaphod_B,1526597586.0,1.0,If you don't have a test environment how can you test and R&D things?  That is how you sell it.  It is for business continuity and huge mitigation of error.
+81,Zaphod_B,1526444247.0,10.0,"> I remember the ""cloud computing will never catch on"" talk. Funny to look back on it now
+
+I was laughing at day one because the CFO was like I can lay off the entire team in the data center, not pay rent and/or taxes for the data center property (or better yet keep it and rent it out if you owned it) and I can call someone if my Org needs support 24/7?  
+
+The cloud is just a smart business decision in many ways.  I get it, some Orgs by their nature cannot use the cloud, but I consider those not to be the majority out there.
+"
+82,Drizzt396,1526500107.0,2.0,"I feel like it's still a pretty common sentiment you can find on here, though not nearly to the degree it was like 3-4 years ago."
+83,Zaphod_B,1526492599.0,4.0,"DevOps isn't a job title, it is a philosophy, concept and process."
+84,ButterGolem,1526480736.0,6.0,"The physical work has been relegated down the labor tree to lowest wage, lowest skill, entry level personnel. "
+85,Zaphod_B,1526487083.0,3.0,"Contractors, for the cheapest possible.   Not many Orgs really employ tons and tons of data center employees like they did in the 80s and 90s.  Those jobs have dwindled a ton.  Also, now with remote tech, devs and other teams can do all the work remotely and push changes to servers with out having anyone in the middle."
+86,pdp10,1526502131.0,1.0,"That's done homogeneously and at scale, and everything else is software-defined -- just like everything else now.
+
+Less labor and very little troubleshooting is needed when the job is to plumb a hundred racks at a time, each one identical and according to plan, every few weeks/months/years. This is how cloud scales more efficiently than traditional datacenters full of high-margin semi-custom configurations and pet bare-metal servers.
+"
+87,Zaphod_B,1526597506.0,2.0,"We all learn the hard way at times for sure.  I have done similar things as you have, but I typically learned new things anyway.   I mean containers is a new tech which parallels this example to virtualization. 
+
+Not every Org and Tech Company knows how we are going to use containers moving forward exactly, but everyone does think that right now they are the right thing to invest into."
+88,CtrlAltDelLife,1526478904.0,4.0,"There are several.
+
+
+/r/aws /r/azure /r/googlecloudplatform  /r/devops and more.
+
+
+Not being sarcastic."
+89,ErikTheEngineer,1526482046.0,4.0,"Almost all the large companies share management consultants. The current prevaling wisdom is that employees should learn 80% of their stuff on the job, 10% from reading and 10% from formal training. So don't expect those training budgets to come back anytime soon unless you're in government or academia.
+
+(I think OJT is the most important, but for technical stuff 10% from courses is too low IMO. This formula works for traditional paper-pushing jobs, but not for highly-skilled complex stuff.)"
+90,Zaphod_B,1526487674.0,3.0,"I get what you are saying, but for me personally I am not really looking to stay in the sys admin, device management, or even devops job spectrum.  I'd like to get into tooling, machine learning, data science, big data, and so forth.    Python runs in all those aspects of tech.  I totally think Go is great but I don't see it in demand anywhere and while I do tinker with go right now I am just learning it.  I am not pushing any production code in Go, at least not yet.
+
+I totally get your points though and you aren't wrong."
+91,UrbaneTexan,1526474972.0,3.0,">But mostly every time I read virtualenv I want to use a better tool.
+
+Come to the future. Use [pipenv](https://docs.pipenv.org/)
+
+I agree with you though, I've never stopped using C and I started playing with Go for apis recently."
+92,pdp10,1526502775.0,1.0,"> The benefit to Go is dropping a single binary at the end.
+
+For the record it's also very straightforward to drop a single C binary (use musl, not glibc, etc) and entirely possible to drop a single Python binary if that's what you want (Nuitka, and certainly at least one other I haven't used).
+
+In theory an interpreted language works across architectures more simply, but in practice that's barely a consideration for most of us anymore -- especially when distributing software over HTTP and package managers instead of site-wide or global filesystems.
+"
+93,m16gunslinger77,1526478577.0,3.0,"I wouldn't say it's a superiority complex as much as in general people don't listen to comprehend, they listen to respond or defend themselves.  That being the case it takes repetition and sometimes changes in terminology to get a point through.  If you know that some of the things said don't apply to you, great, move on, but criticizing someone for trying to help others isn't really all that necessary."
+94,Jables237,1526480071.0,3.0,"https://medium.com/@Rob79/what-i-learned-selling-my-reddit-accounts-c5e9f6348005
+"
+95,Zaphod_B,1526443758.0,5.0,"Sarcasm is very hard to detect in text form, also I will upvote you since someone else downvoted you because I do feel you mostly make good points.  I just don't think you see the forest for trees or the bigger picture always.  ;-)"
+96,binaryvisions,1526479312.0,2.0,"Maybe. I just don't see the OP as suggesting something crazy, simply because some people are in bad employment situations. I'm a senior engineer and work 40-45 hours per week because that's a sane work schedule and my company supports their employees having sane work schedules.
+
+/u/brontide made a snarky comment that OP was making mutually exclusive statements: like it's simply not possible to spend a little time on your skills while still maintaining work-life balance.
+
+I'm sorry that some people are in bad jobs where they're treated like servants and are working 60 hours/week. That sucks. But that's unhealthy for a lot of reasons, and I don't think anyone is suggesting that it's fair to both drown yourself in work and then continue drowning yourself at home.
+
+edit: I understand the point, which is that employers should provide some opportunity for growth and learning. I agree with that, yet there is always a limit because there's still a need for productivity. Dedicating some time to learning at home is pretty common in a lot of industries."
+97,Zaphod_B,1526489030.0,1.0,"you can spend 30 to 60 minutes a day 2 to 3 days a week learning something, it doesn't have to be an additional 20 hours of lab work in your off hours.   People just need to learn patience and figure out what works best for them.  However, if your current job doesn't promote training or growth then you sadly have little option but to learn on your own time"
+98,noreasters,1526516371.0,1.0,"You say that...my CFO is in sales meetings and helps to drive sales leads, probably because he enjoys it; my father is an architect and people ask him to draft something up “real quick”...so yeah it does happen.
+
+I take your point though. IT, in general, is thought of like building maintenance except for the data instead of the building.
+
+Often the business directs IT and says, “make this work” but not ever really care how as long as it is free or is successfully argued that it can’t be done for free but rather for $ instead of $$$. The reality is that to do it properly would cost $$ but that is too much:  “You don’t need that Admin training seminar, just read the manual (10k page wiki)”, “We don’t need to have an instructor come out and train the users...you installed it, don’t you know how to work it?....what do you mean no?”
+
+This is all in addition to daily tasks that you can never quite get ahead of, and users popping in to say “the internet is down”...no, you aren’t connected to the WiFi.
+
+And this is with the official title of “Accounts Receivable”."
+99,m16gunslinger77,1526491178.0,1.0,"I agree, I don't usually work after 4:59:59PM and not from home unless it's scheduled maintenance that can be done from home or a grade A catastrophe that I have to respond to.  Thankfully no 'on-call' expectation with this job."
+100,Zaphod_B,1526597334.0,1.0,thanks!
+101,,1526546549.0,1.0,"What sort of resources do you use, and what do you study specifically? I'm kind of stagnating at the bit and don't really know where to go."
+102,m16gunslinger77,1526601248.0,1.0,"this exactly, and if for nothing else simulating upgrades and config changes"
+103,lostdoormat,1526461824.0,8.0,"I've found the biggest issue, is bandwidth. Of course it can be nearly a non factor depending on where you are. But if you don't have the bandwidth there's no heavy cloud usage you can do."
+104,,1526486550.0,1.0,"Let's also not forget that a hybrid method is a great option for a lot of places.
+ 
+All of our websites, email, skype and sharepoint is in our O365/Azure tenant and I used to run all of that on prem years ago.
+
+So much better now."
+105,,1526493638.0,2.0,I agree with you but because it's a buzzword I see a lot of postings calling the position DevOps engineer.  It's always just a position that requires a lot of python or Powershell.
+106,Ironfist,1526494001.0,1.0,"I guess it depends on the company.  Where I work racks and cables are installed by the facilities team who are full time employees at each site. 
+ We also still have several on-premise servers that need to be managed and not everything can be handled by Dell technicians.  Virtualization doesn't solve everything and nothing beats the raw performance or reliability of bare metal hardware."
+107,ReverendDS,1526610916.0,1.0,Well said.
+108,,1526480824.0,2.0,"eh, with the exception of devops, those are for a particular product.  
+
+DevOps might be where its at though... never hung around that sub, thanks for the suggestions."
+109,Ironfist,1526494180.0,1.0,I guess I'm glad I don't work for a large company.  One of our management philosophies is to develop our people which includes training when needed.  Any time we get a new software stack or tool to work with we make sure people are trained how to use it.
+110,pdp10,1526502547.0,1.0,"> The current prevaling wisdom is that employees should learn 80% of their stuff on the job, 10% from reading and 10% from formal training.
+
+I hadn't come across this piece of wisdom before.
+
+Many larger organizations have per-person training budgets, and most of those are flexible with how they are used. A good pattern is training diversity; you want different people exposed to different things, not all of them with the same things. So some of the staff can use training budget to attent conferences, some can choose online training courses, etc.
+
+A smaller number of organizations have formalized internal learning programs or induction courses. Those are usually invaluable, but they're typically not used to introduce new methodologies or technologies until a decision has been made to adopt them.
+"
+111,pdp10,1526502914.0,2.0,"Didn't expect a non-sarcastic response to parent post, but got one anyway. Good job.
+"
+112,TwistedViking,1526479470.0,2.0,I don't disagree. There's a lot of projection going on in this thread.
+113,brontide,1526518737.0,1.0,"Which gets to my first point, this is often a management issue that due to impostor syndrome and gas-lighting is being pushed to the employee as a personal failing and not recognizing the bat-shit crazy management who seem to think that because you're ""good with tech"" makes you some sort of fucking miracle worker.  You've been hired to make sure the company gets paid and you can hardly do a good job if you are being asked to deal with walk-up tech problems."
+114,LookAtThatMonkey,1526491712.0,1.0,"Home based worker :)
+
+There is a reasonable expectation of work the hours to get the job done, which I don't mind, because I get flexibility if I need to take personal time."
+115,Zaphod_B,1526609380.0,1.0,"Upgrades should be the most obvious reason, in my opinion.  You want to upgrade the production database to the newest release?   You are going to test that in your test env first, right?
+
+"
+116,thecravenone,1526482027.0,6.0,"I have a friend who has bandwidth issues *in* the cloud. As in, the cloud they're in cannot handle the bandwidth they require.
+
+But it's a multi-million dollar deployment, so they're working with the provider to change things rather than move to another provider."
+117,NoyzMaker,1526641320.0,1.0,"But the cost differential makes it easy to upgrade your circuits and still have a large dent in savings from equipment, electrical and real estate space costs."
+118,,1526477322.0,0.0,[deleted]
+119,Zaphod_B,1526496247.0,1.0,"I just don't get that critical of things, I mean automation can be a buzzword as well.   DevOps isn't a set thing either, so your example of Google and Facebook may be one example of DevOps, it isn't the only definition.
+
+If you read into the philosophy a lot of it is being agile and using what works for you, so it isn't a specific set system."
+120,Zaphod_B,1526496172.0,2.0,"Trust me, your CFO and finance people would love to lay those people off and hire contractors which are exponentially cheaper.   It is a really crappy thing to say and think about, but in reality on paper contractors to do one time manual labor make a ton of more sense in most cases.
+
+Sure there will always be exceptions."
+121,Drizzt396,1526499580.0,2.0,"/r/devops is about 90% blogspam
+
+/r/linuxadmin is probably the closest to a quality ops-focused technical sub"
+122,pdp10,1526502254.0,1.0,"/r/devops has its own predilections, focus, and enthusiasms, though. There is no single technical subreddit that doesn't have its own distinct strengths and weaknesses.
+"
+123,Jables237,1526503274.0,1.0,What a world we live in...
+124,,1526507606.0,1.0,"NO YOU ARE
+
+/s"
+125,noreasters,1526521358.0,1.0,"My curse is that the previous person in this position was the only person who knew anything about computers (and I’m finding that he really didn’t know much, as would be expected from an accountant) and they hired me because of my tech background and my Math degree...so they knew they were getting an IT person who is also good with numbers (even though accounting today has no real Math involved...the software does all of the formulas and calculations). I took the job telling them I wanted to get away from tech and the poor work-life balance...so much for that.
+
+Yes, in my case, management is all over the place but I guess that comes with the territory in small businesses (we have 25 employees). I am looking for new work, probably in IT to be honest, but this time I will have some better questions to ask during the interview."
+126,lostdoormat,1526641811.0,1.0,The equations can be quite different depending on your location.
+127,Colorado_odaroloC,1526477545.0,3.0,"I think u/lostdoormat is talking about bandwidth issues at their doorstep, not the cloud providers."
+128,Ironfist,1526563933.0,1.0,Contractors do not know our facilities as well as people that work in the plants every day and they do not do nearly as good of a job as in-house personnel.
+129,NoyzMaker,1526642130.0,1.0,Completely understandable. I have just found it's rare that a bandwidth increase (outside a truly isolated or rural location) is going to be notably more expensive than all the related cost savings combined.
+130,,1526477642.0,0.0,[deleted]
+131,Zaphod_B,1526597393.0,1.0,"There will always be exceptions, but in reality most Orgs will hire out contractors to do lots of facilities and data center type work.  A common exception where you keep it to regular employees is when dealing with sensitive data, like version control and build servers for source code.
+"
+132,lostdoormat,1526642275.0,1.0,Perhaps if your renting a whole building just for a datacentre.
+133,Colorado_odaroloC,1526478205.0,3.0,"I don't think you're following. If on prem, where the users are, the external bandwidth limitation isn't an issue (at least for the on-prem apps). If you were to push that off to a cloud provider, for a customer that has limited bandwidth options in their location, then that is where the problem would lie. (And I believe what u/lostdoormat 's point was)
+
+Over time, hopefully these kind of bandwidth issues will be resolved for more rural areas, and/or areas where it is prohibitively expensive for whatever reason."
+134,lostdoormat,1526478436.0,1.0,"I'm not really understanding how it's as limited when it's all on prem?
+Most of what we do doesn't go to the internet."
+135,NoyzMaker,1526645578.0,1.0,"Our biggest savings where when we would relocate offices because it saved us a lot on retrofitting a dedicated room for servers. Didn’t need a new electrical circuit, ac, larger footprint, etc. 
+
+Just needed to use the existing communication closets already in place for switches and routers. "
+136,lostdoormat,1526478689.0,2.0,"Basically. Still a major city. Our head office is about 350 people, with a internet connection of 100mb/s. Used to be 50 mb/s up until a week ago.
+Cloud will certainly still become a thing one day, but we'll be a while behind until the cost and infrastructure issues are resolved."
+137,,1526480952.0,1.0,If they have limited bandwidth or such shit connections how are they expecting to host those services themselves?  This argument never makes any sense...
+138,lostdoormat,1526651061.0,1.0,That's certainly a great use of the cloud for savings if offices move a bit. Hadn't considered that one.
+139,Colorado_odaroloC,1526479047.0,1.0,I figured that was what you were driving at. I think the other guy may have been thinking more as an MSP mindset or something like that. Not sure.
+140,Colorado_odaroloC,1526481530.0,2.0,"You can have really crappy Internet bandwidth options in your area, but still easily have high bandwidth local network gear. Your apps run on prem (where the clients are also at) and your performance is fine. 
+u/lostdoormat 's point didn't have anything to do with hosting apps to external sites elsewhere that would need to flow over that poor internet connection.
+
+Summary: It is all on the same prem in this scenario (clients and servers/applications), and doesn't need to flow over the poor internet connectivity out of the site."
+141,lostdoormat,1526489060.0,2.0,"We don't all host external web services :)
+But with the occasional saas you might offer, it's deployed to a client's on prem servers."
+142,lostdoormat,1526479215.0,2.0,I'm sure this kind of on prem thinking never comes up for some. Certainly on the dev side of the fence.
+143,,1526490997.0,1.0,"I've got enough experience to say that for the last majority of places if they don't have a stable or decent connection they aren't getting shit done.  For example in most cases if we can't create an outside connect ion with the client all of our internal work is useless and just sits.  We can't ship things customers want without being able to notify the company they are going out the door.  
+
+I've been enough places to know situation s like the above are far more common that a shop having the ability to be their own island."

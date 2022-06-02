@@ -1,0 +1,25 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,marcusklaas,1428469930.0,17.0,Is any one really using Rust for their day jobs though? I suspect part of the reason rust is ranked this high is that only a few enthusiasts are working with it right now.
+1,tikue,1428445327.0,9.0,"Below C++11, no less!"
+2,sigma914,1428486329.0,4.0,"C++11 is probably being used by people who've been traumatised by years of writing C++03(or older). Go seems to have picked up a lot of python programmers, so some basic type checking is very refreshing, etc etc. Swift users have likely had to deal with ~~the clusterfuck that is~~ ObjC.
+
+Whether people love something or not is usually going to be based on their previous experience and/or reasons for starting the thing in the first place. I'd say all the languages listed have the same bias.
+
+Ninja edit: Obeying rule 4!"
+3,Skrapion,1428464034.0,3.0,"Yeah, that kind of surprised me. C++ is my language of choice, but only because it's practical, not because it's inspirational. I *did* find C++0x inspirational, but that was when the features started getting implemented a decade ago. The implication I'm inferring from this is that there's still a large number of people still stuck on C++98/03 in their day jobs, which is a right shame.
+
+And after all these years it's kind of surprising to see system programming languages gaining so much favour again. The top four favourite languages are all systems languages!"
+4,,1428489501.0,3.0,"Rust and C++11 might have the same bias.. people love learning about it, but can't really use it at their job yet."
+5,_ben_lowery,1428517091.0,3.0,"> And after all these years it's kind of surprising to see system programming languages gaining so much favour again. 
+
+The days of the ""write it now and in 18 months it'll be twice as fast"" approach are coming to an end (arguably already have) and the rise of mobile devices with poor battery life has put a much bigger premium on processor hammering languages.
+
+I think with the speed of the machines we have now in terms of compilation it's not surprising that we are starting to look at compiled languages with the syntactic niceness of interpreted languages.
+
+I live fully in the 'interpreted' world (Python, PHP and Javascript the last compiled language I used for work was Object Pascal) but I'm following Go and Rust closely."
+6,jkleo2,1428480215.0,5.0,Swift and Go are not systems languages.
+7,Skrapion,1428487163.0,6.0,"Those two are debatable, due to the fact that ""system programming language"" isn't a terribly well-defined term, but both languages statically compile to native code, and the official documentation for each language claims that they are:
+
+[Go was born out of frustration with existing languages and environments for systems programming.](https://golang.org/doc/faq#creating_a_new_language)
+
+[[Swift] is the first industrial-quality systems programming language that is as expressive and enjoyable as a scripting language.](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewBook?id=881256329)"

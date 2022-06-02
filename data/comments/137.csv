@@ -1,0 +1,23 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,mimsmuscle,1595622518.0,2.0,Here in NI I think it looks like a lot more jobs going  .net route and think it’s kinda snowballed
+1,Interstate75,1595628370.0,2.0,I can only share my experience in N.A.  It all depends on where you want to end up.  Microsoft stack is popular in small and medium size non-tech companies.   Larger enterprises prefer Java stack.   Many new tech startups don't like Microsoft products.  They prefer free opensource  software and Java used to be popular among them.  They also use other free softwae like Ruby/Python/Node.js.   You don't make a lot of friends using a Windows notebook in these new tech startups.
+2,aelytra,1595629470.0,2.0,"I've worked for a few years in both Java and .NET. They're pretty similar.
+
+I prefer .NET."
+3,SomeGuyInSanJoseCa,1595628151.0,3.0,".NET is really for enterprises beholden to Microsoft's ecosystem.  
+
+Sorry my .NET comrades, but these are usually medium enterprises that do boring, run of the mill, medium enterprise stuff for cost centers.  Cost center development in medium enterprise isn't going to yield you big bucks.
+
+Java (while still huge in boring enterprise) is still used a lot in innovation.  You open yourself to a huge world of opportunities.
+
+To put this in perspective, let's look at Sunnyvale, Ca.  Probably midpoint of Silicon Valley - where software isn't a cost center, but more often, a revenue generator and where the big bucks are.  The number of jobs with "".NET"" jobs on indeed: 376.  The number of jobs with Java: 3765.  10x more in Silicon Valley."
+4,Snoo-10872,1595660138.0,-1.0,If you bothered look at job ads you'd see.
+5,Snoo-10872,1595660089.0,1.0,Nicaragua?
+6,reijndael,1595631942.0,1.0,I think there's a bit of a perception issue on the point about open source. Net Core has been open source for a while and the whole ecosystem has been more open. But yeah I see the point about what companies use it.
+7,EnderMB,1595635780.0,4.0,"I spent eight years as a .NET developer, and this wasn't my experience at all.
+
+My .NET experience was mostly in consultancy and agencies, but also a solid three years of working at a startup.
+
+While statistically speaking, you might be right, it's not wise to tar every language/framework with the same brush. I've seen enterprise bullshit written in Ruby on Rails, large-scale applications written in PHP, startups on Windows with .NET, and boring medical software written in Scala.
+
+Ultimately, most software is written in what the engineer at the time knows, and it's often as simple as that."

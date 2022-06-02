@@ -1,0 +1,17 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,Big-Dudu-77,1628014099.0,4.0,What makes react so much more loved vs angular?
+1,BocksyBrown,1628005841.0,2.0,"If you like typescript so much, take it a step further and work with a language where your types aren’t lies."
+2,litido4,1628021113.0,1.0,"I’ve graduated from angular etc onto blazor server, so much better.  You don’t need web services etc, just simple server side code and let it do its magic to make it come alive on the client"
+3,fucktheseguys123,1628016994.0,5.0,"Jsx > a string template or html file
+
+functions > classes
+
+hooks > directives/getters/setters
+
+observables are a pretty got damn good data structure though.
+
+and if I absolutely must use typescript I think I probably like angular more at that point.
+
+Honestly I'd love Angular with jsx I think."
+4,handcrafted_bug,1628015509.0,1.0,Stockholm symdrome
+5,,1628014971.0,4.0,I enjoy having a type system but being able to ignore it when necessary.

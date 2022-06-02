@@ -1,0 +1,70 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,fishyofsea,1596439387.0,9.0,"Other proposals are all over the place, so worth highlighting a few nuggets when comparing proposals:
+
+1. **TPS != Scaling.**  TPS is just an initial point -- it’s the y-intercept of a graph.  Scaling is about what happens over time as your needs grow (the slope). Can the network keep up? It’s naive to blindly compare TPS numbers side by side.
+2. **Not all transactions are created equal.**  Simple transactions like transfers use very little gas and it’s easy to run misleading tests that just use these for benchmarking. Pay attention to complex function calls and cross-contract calls.
+3. **Don’t forget interoperability, composability and cross-contract calls.**  Very few contracts actually operate in “single player” mode and many “scaling” solutions fail to properly handle cross contract calls or composability, which are part of what makes blockchains so useful. Layer 2 solutions can become islands with 1-week or more times to move between them and the main chain and they will have a more limited ecosystem of components to interact with than a full layer 1 can offer.
+4. **Cost stability matters.** Ethereum gas prices are up 5x in the last 4 months.  You wouldn’t sign a contract for Amazon AWS that could move that much. Pay attention to the economic mechanism that derives cost stability (if any)."
+1,hugelung,1596221402.0,25.0,"Analysis of this proposal follows. I'm familiar with the Near team, and have considered using Near as a scaling solution / engine for my game, flowerpatch.app
+
+It's kinda funny how this comes down to marketing and positioning at some level
+
+Near, OMG, and MATIC are kind of similar. They all act as separate network sidechains and can sync back to Ethereum. OMG and MATIC could support multiple chains, and even become independent of Ethereum altogether! So the border between ""layer1"" and ""scalability sidechain"" is very thin. We are slowly sliding into a world where cross-chain bridges provide new opportunities
+
+Though Near is trying to position itself as a layer1 first and foremost, and not just a scaling solution. I think this makes Eth fans uncomfortable 
+
+Also, whereas we kind of understand how plasma is decentralized, I'm still confused on Near. I guess the design is kind of eth2-like, but I don't know how complete it is, or where the security tradeoffs are. From what I heard a couple months ago, the Near-Ethereum bridge is quite new as well, and I'm curious as to how seamless all that is. But I guess stuff like the following makes me feel uncertain about where Near will end up, or what it is exactly:
+
+> NEAR launched MainNet POA earlier this year. Currently, ironing out last bits and pieces of the infrastructure before transitioning to a fully decentralized validator set
+
+I.e. POA = Proof of Authority. So the network currently runs in centralized mode. We will have to see what it means to ""iron out the last bits and pieces of the infrastructure"". Remember that IOTA did the same play, starting centralized and promising decentralization. That promise launched in 2016, and IOTA is still struggling to transition. The Near team claims that they will basically have eth2 before eth2, but the truth of that claim is yet to be seen. Eth2 has an awful lot of smart people working on it
+
+Will users need custom Near wallets to interact with community points? Iirc the answer with Near is yes, but Near can make the end user wallet experience pretty transparent, with no extra plugins to install. They have some cool stuff that lets you log into your crypto account using OAUTH. I.e. sign in with Google / Facebook / Reddit maybe 
+
+Otherwise, Near is quite a solid network. They have a good team, funding, quite a number of projects working with them. I've also heard several silicon valley vcs say that they are very interested in, or have already put money towards, Near. I think it probably has a bright future ahead, and the tech is adaptable enough to find a niche in the crypto space. But overall, I don't think this proposal is as solid as some of the other ones"
+2,mesquka,1596631776.0,7.0,"Sharding: ✅
+Fast confirmations: ✅
+Apps pay for fees (good UX): ✅
+
+Looking good!
+
+I particularly like the capped load on each shard keeping the cost to entry low to start up a node. I'm going to have to give the SDKs a try soon."
+3,casualPat,1596283830.0,10.0,"Up voted. You probably won't win this battle, but keep up the good work.  Sharding blockchain is very difficult and ambitious problem."
+4,jjangg96,1596764267.0,3.0,I think it would be good to do PoC. It seems that it is time for Reddit to adopt blockchain as well.
+5,fishyofsea,1598096714.0,3.0,"This was posted to the NEAR blog recently, which provides a ton more detail about the Rainbow Bridge with Ethereum: [https://near.org/blog/eth-near-rainbow-bridge/](https://near.org/blog/eth-near-rainbow-bridge/) .  That's a very useful piece and relevant for any integrations which will potentially take advantage of NEAR for ""fast/usable"" things and Ethereum for existing components or checkpointing.  
+
+
+From cofounder Alex S via Twitter (https://twitter.com/AlexSkidanov/status/1296139890778726400?s=20)  
+2/ Any statement about the state of Ethereum, or about any transaction outcome, can be verified on NEAR side, and vice versa. This trivially enables any asset transfers, but it also enables arbitrary cross-chain calls and arbitrary data transfers.  
+3/ With the Rainbow bridge Ethereum and NEAR become fully interoperable. Devs who build on NEAR have access to all the assets on Ethereum, and developers who build on Ethereum can move performance or gas-fee critical parts to NEAR while keeping their Ethereum-native user base.  
+4/ The bridge is implemented as a NEAR light client on Ethereum side, and Ethereum light client on NEAR side  We understood the necessity of such a bridge early on, and from the get go designed NEAR protocol in a way that it's light client can be run as an Ethereum smart contract  
+5/  ETH->NEAR direction in is secure as long as nobody controls 51% of ETH hash power sufficiently long.  NEAR->ETH it is secure as long as nobody at any point controls 2/3 of the stake (which is an assumption not only for the bridge, but for the rest of the protocol too)."
+6,,1596251141.0,5.0,Woohoo\~ Reddit points are Ethereum-based. We don't need ghostchains in here.
+7,singlefin12222,1596220660.0,7.0,Nope
+8,foyamoon,1596220891.0,5.0,No thanks
+9,HodlDwon,1596223228.0,0.0,***pukes***
+10,mattlock1984,1596587818.0,3.0,"One of the things that drew me to working on Near was the approach to sharding. It seems as though every project, scaling solution and even ETH 2.0 is going to be difficult for developers who will have to code everything to be shard aware. On Near it will just work since the blockchain does the difficult job of deciding which shard txs make it into the block, even when cross contract calls are involved. I haven't seen any other project that claims this in their design!"
+11,ilblackdragon,1596508164.0,6.0,"Regarding L1/L2: I do think more reasonable is distinguishing between own-security vs parent-security.
+
+E.g. OMG, Matic, Optimism, parachains in Polkadot are using parent chain for security and provide liveness themself (if operator(s) go down - chain stalls).
+
+Vs what usually referred as L1 have their own security, and their consensus is not affected by changes of whatever chains they are bridges to. E.g. Ethereum (from Bitcoin), Tendermint chains, NEAR,  etc.
+
+*I'm actually curious how Plasma considered decentralized? A single operator usually means that if they go down (for malicious or not reason) - there are both issues with liveness of operation and ppl can exit not their funds unless others are monitoring. I mean I agree that Plasma is trustless within bounds of being online once per 7 days - but I think requirement for having operation without single point of failure is not really met.*
+
+The security trade-offs in NEAR compared to ETH2 Serenity are mainly around less decentralization/liveness for better confirmation/finality time and better cross-contract/composability: 
+
+ \- ETH2 Serentiy: \~12 second slots, minimum \~13 minutes finality, can in theory keep going even if 1 validator left (aka survive ""third world war"")
+
+ \- NEAR: 1 second slots, usually 2-3 seconds finality, stalls if more than 33% are offline
+
+This ensures that we can have guaranteed cross-shard interaction within 1 block, transitioning everything into async mode as it's fast enough.
+
+For using community points, there are a few options: 
+
+ \- Using in-Reddit Vault. NEAR supports both ED25519 (which everyone should use) and SECP256K1. Meaning that even currently launched Vault key can be used with NEAR
+
+ \- NEAR has it's own wallet - you can checkout here - [http://wallet.testnet.near.org/](http://wallet.testnet.near.org/). It supports Multisig, 2FA, Ledger, doesn't require installation, can send funds to new users via link. Indeed adding ""Login with Reddit"" would be interesting, to allow people move from Reddit Vault and try more stuff with their points.
+
+ \- Third-party wallets that people already use are rolling out NEAR support in upcoming months."
+12,,1596280128.0,4.0,"OMG is a child chain, not a side chain. So OMG has the security level of Ethereum, which is a hugeee difference with the rest."

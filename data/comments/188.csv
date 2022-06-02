@@ -1,0 +1,788 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,Supadoplex,1649271070.0,1823.0,I'm voting to close this as a duplicate.
+1,lugrugzo,1649266680.0,213.0,Stackoverflow has their DB schema public somewhere in stackexchange. Did you built on top of that schema?
+2,JessieArr,1649282681.0,156.0,"FYI, OP - the StackOverflow data is in the Creative Commons and is released in a bulk data dump periodically on [Archive.org](https://Archive.org): [https://archive.org/download/stackexchange](https://archive.org/download/stackexchange)
+
+I've used this in the past to create an [offline viewer](https://github.com/JessieArr/StackOfflineFlow) for StackOverflow data (as a toy project to see if I could - don't anyone get excited thinking it's good enough to be actually useful.)
+
+I was able to take the bulk data and implement a desktop app that can perform a trivial in-place [search of the XML data dump](https://github.com/JessieArr/StackOfflineFlow/blob/master/StackOfflineFlow/StackOfflineFlow/Services/StackOverflowBulkDataService.cs#L53), so you might be able to use that data to seed this site as well if you wanted to keep going with this project."
+3,glider97,1649288606.0,78.0,"OP, one day you’re hopefully going to look back at this and cringe. But for now it is an impressive piece of work, regardless of quality. Keep improving, you have a lot of room to grow. You can rest now."
+4,Philpax,1649287043.0,115.0,"Hey mate, good effort and it's really impressive that you've put all this work in, but your code needs a lot of work. You have a lot of redundancy and inconsistency, and there's significant room for improvement across the board.
+
+It's hard to give you a detailed breakdown of what to address as the codebase is so large; instead, I'd suggest working on smaller codebases and practice the areas where you find your code to be difficult to read, overly verbose, or otherwise more complicated than it needs to be. It'll take a while to develop a feel for this, but it's worth the effort.
+
+Practice makes perfect and you're clearly capable of putting the hours in; I'm sure you'll be able to rise up high and show us another project before long!"
+5,Turd_King,1649285094.0,93.0,/r/programminghorror material
+6,JazzXP,1649286879.0,46.0,"I don't think this has been mentioned yet, but remove all your commented out code, you don't need it later, that's what source control is for.
+
+Ambitious project though, my hats off to you for even attempting this, let alone getting somewhere."
+7,linux_needs_a_home,1649278551.0,377.0,"The variable names are bool_1, bool_2, and bool_3. Who the fuck upvotes this crap?"
+8,Dave3of5,1649283469.0,36.0,"I know other have already pointed out that the backend is messy but the frontend is also quite messy.
+
+I notice a lot of formatting errors all over this project my suggestion is to user or configure your editor such that it will automatically format. [EditorConfig](https://editorconfig.org/) is a good example of this.
+
+Also for Js and Python use a linter for example eslint and pylint are common ones (others are available)."
+9,ColetteFeetFan,1649316137.0,6.0,"Holy crap, this is impressive. And I'm sorry for saying this but code base is awful and ugly af"
+10,mattwelke,1649309244.0,5.0,"I created an account but I wasn't able to post a question because it said I needed to select at least one tag, but no existing tags appeared when I started typing things. For example I'd type ""ja"" expecting ""java"" to be suggested as an existing tag, but it wasn't suggested. I tried creating a tag but it said I needed 1500 reputation to do so.
+
+Consider adding sign in and login via OpenID Connect like Google etc. Many people are willing to give you an OAuth token rather than enter a password into your database, when they're trying a random app created by someone.
+
+I mentioned this in another comment already, btw, but fantastic work. Your code is messy and poorly architected which shows that you're a beginner, but this is a huge, mostly functional project. It's extremely impressive to see this from a beginner. I think you have a great future in coding ahead of you. :)"
+11,angstypoo,1649310165.0,13.0,"""Almost every functionality""
+
+*Frontend devs grumbling about responsive functionality*
+
+In all seriousness though, impressive work... ignore the haters.  Programmers really need to learn how to be more supportive of each other, especially toward those with less experience.
+
+Scaring away a promising mind is nothing short of a tragedy.
+
+The rest of the world is already pretty abusive to us, we might as well lift each other up."
+12,throbbaway,1649285410.0,19.0,"Looks like you put in a lot of work in this project.
+
+Those `tests.py` files look a little empty though - try to get 80%+ test coverage as a next challenge hehe.
+
+Nice work my friend."
+13,AuroraVandomme,1649281290.0,133.0,Sorry man but this is not a good project. Long road ahead of you but good luck 💪
+14,cs466throwaway,1649300337.0,37.0,Don't get discouraged bro. Super cool work and 90%+ of the commenters have never written anything close to this in their spare time
+15,skaag,1649289085.0,5.0,"PostgreSQL 14, not 4."
+16,AlexDeathway,1649314841.0,4.0,"Hey op, as you have already got so many reviews(both +/-),
+
+ I will suggest you create a new separate detailed log with all the issues from this post thread only (maybe an MD file in the project itself, Avoid using GitHub issues for this), Update Every little thing you change in the project issue in the log, this will greatly help when you will be presenting this project to someone or review yourself about how much you have learned.
+
+
+Also, don't discourage your present self for the past self who was coding while learning, you may have learned the right way to do things but never went back to already completed code to refactor it to the right way."
+17,defunkydrummer,1649281865.0,40.0,"https://github.com/Yawan-1/StackOverFlow--Clone/blob/master/profile/views.py
+
+This is a horrible mess. Refactor it. Use dictionaries instead of tons of repetitive ""if...then"" blocks to drastically reduce the lines of code and making it clearer."
+18,lenswipe,1649282585.0,27.0,"What about arrogant, dickish replies? Do you have THAT feature?"
+19,nutrecht,1649319531.0,8.0,"I think people already gave you a lot of feedback. Just wanted to give mine as well, from someone who's been working as a dev professionally for 20 years:
+
+We all started out like this. My first 'big' project probably wasn't as large as this one. But I felt like really hot shit too. It had actual users even! It was basically a webscraping tool that I built to scrape user profiles from forums and present all kinds of statistics. It was very functional.
+
+The code however was at least as bad as yours. I never heard of SQL injection for example, but I certainly hope no one found out and stole passwords. I would not have known if they did; someone dropping the database would probably have been a best case scenario :) I had massive monster PHP files too :)
+
+So; keep it up! Don't get demotivated by people calling your code crap. I mean it is. But we all started writing crap code :) The feedback is what makes you learn."
+20,No-Temperature395,1649318233.0,3.0,"Fuckin A man. Really good project. Can it use improvement? Yes. 
+
+Don't let the snarky comments get to you though"
+21,TibixMLG,1649328662.0,3.0,"Hey man, this is a really impressive project. The sheer amount of time dedicated to it must be insanely high. The amount of egoistical comments here is just saddening, but please do not get discouraged!
+
+Yes, there are many things you could've done better, but this is already extremely impressive as it stands. I'm not really an expert but I recommend splitting your files into smaller ones because a 5000 line file is very very long, and you should also avoid alot of these if else if chains by using dictionaries or by directly setting the value. You could also leave some more comments in the code that explain what things do.
+
+Just keep up the good work man and you will get better as time passes, we all start with code that's not optimal. :)
+
+P. S. Rest assured many of the people here haven't done anything that's even remotely close to the scale of your project, so don't pay those negative people too much mind. Just take the positive criticism where you can."
+22,Markm_256,1649288996.0,9.0,"I think this is a fantastic achievement! And it even looks nice too :)
+
+That said - I wouldn't encourage using this for real use - as many people have mentioned - it doesn't look like it would scale well.
+
+Regarding code - you have a lot of duplication (just to pick something for easy feedback...)
+
+Code at [https://github.com/Yawan-1/StackOverFlow--Clone/blob/master/qa/views.py#L2970](https://github.com/Yawan-1/StackOverFlow--Clone/blob/master/qa/views.py#L2970)
+
+Could be refactored to something like:
+
+```python
+                    for bv in que.bounty_set.all():
+                        if bv.bounty_value in ('50', '100', '150', ...):
+                            Reputation.objects.create(
+                                answer_O=post,
+                                answer_rep_C=int(bv.bounty_value),
+                                awarded_to=post.answer_owner,
+                                reputation_on_what='Bounty_Awarded')
+                            PrivRepNotification.objects.get_or_create(
+                                for_user=post.answer_owner,
+                                type_of_PrivNotify=""BOUNTY_AWARDED_REP_P"",
+                                url=question_URL,
+                                answer_priv_noti=post,
+                            )
+```
+
+
+There are many places where such refactoring would make the code easier to understand.
+
+I.e. I didn't look through all options to 500 to see if it was really the same code - but if doing the above - any different handling would likely be clearer - as it would need to be done explicitly."
+23,DoppelFrog,1649276597.0,27.0,Why?
+24,wichwigga,1649290321.0,23.0,"Dam, so many rude, sad comments on this thread. It's a fine project. Thanks for sharing."
+25,HobblingCobbler,1649272527.0,9.0,"Is this a redux of the first done in Flask? I recall seeing this a while ago, but I swear it was done in Flask. Could be wrong but I recall it was renamed ""clone"" and the icon was changed to blue. Fantastic project."
+26,Zardotab,1649311237.0,2.0,So it's **rude** and boots people out without giving them a chance to adjust to feedback? Slick!
+27,hedgefund_programmer,1649315035.0,2.0,"Nice learning project but 99% of the difficulty in something like this is scalability, reliability, performance etc.
+
+That stuff can completely change the design or take 100x longer to implement."
+28,jbtwaalf,1649315929.0,2.0,"Great job Op! Judging by the time you spend on this and the project you probably don't have any professional experience and are probably in your teens which makes this a lot more impressive!
+
+I hope you don't get discouraged from what all the people are saying they have a lot more experience than you and had examples to look up to and learn from. This is quite impressive and you probably learned a lot from it so keep going bro! Try to learn a bit from the comments and definitely start looking into IT studies if you aren't doing one already."
+29,divyaank98,1649266827.0,13.0,Awesome project!! How long did it take to complete?
+30,defnotasysadmin,1649295712.0,2.0,But does it have pretentious users?
+31,Edward_Morbius,1649298885.0,4.0,Where did you find that many narcissists?
+32,BienBo123,1649311361.0,3.0,"Fuck the haters. You did an amazing job doing this while others are either doing nothing or are following tutorials and skipping corners. This is yours, you wrote it. Sure, it’s janky and a bit convoluted, but it’s **yours**. Overtime you **will** be better. In fact, look back at yourself from 3 months ago and be proud of how far you’ve come / what you’ve accomplished. 
+
+
+Aside from that, there are some genuine good feedback here if you would like to pick some of them up.
+
+
+Well done again. Be proud of yourself :)"
+33,jeenajeena,1649276361.0,2.0,"Great job.
+Did you also provide it with unit tests?"
+34,0_____1,1649310844.0,2.0,Why need to do this?
+35,metahuman_,1649317249.0,2.0,"Impressive feat, managing to finish such a big project! I bet most of the people who spit on your codebase have never done anything even close in terms of scope in their spare time. Yes, it needs work on the code and architecture, but you'll learn the ropes as you work. To be honest it's way harder to just finish a project and have it work, congrats on that!"
+36,,1649266035.0,1.0,[deleted]
+37,jmkni,1649276074.0,-1.0,Very impressive!!
+38,bill_1992,1649291787.0,-1.0,"Scrolling down, I see some people talking shit about the code, wondering why this project has so many Github stars/upvotes. Yes, most senior engineers would most likely have a field day on code review. However, I hope you take this as a reminder that execution trumps all: you don't need the prettiest code or use the newest ""best practices"" to build something cool or something of value.
+
+Yes being a strong IC who can write ""clean"" code is great, but business empires have been built on shit code. In that case, what kind of value do I bring to my company, and the world in general? It's something I sometimes think about, and I certainly don't think the value I bring is enough to justify being a dick to less experienced coders, on reddit or in real-life."
+39,IshKebab,1649266901.0,-36.0,"Nice work. There's actually surprisingly few open source StackOverflow clones (like if you wanted to run your own). Last time I checked none of them were really *good*.
+
+Shame this is written in Python though."
+40,person49321849,1649288145.0,-2.0,"This shouldn't be advertised as something to ""show developers how StackOver-Flow [sic] works"".
+
+Building a (poorly implemented) clone of a pretty straight forward product is not hard, especially when your clone has *zero users* and no data, and nobody has to maintain the live app.
+
+The actual novel part is scaling it to millions of users and hundreds of thousands of requests per second, and hardening it against persistent and sophisticated attack."
+41,baordog,1649287722.0,2.0,Does it come with power tripping mods?
+42,sally1620,1649304333.0,1.0,"Users make a platform, not the tech"
+43,orangelord234,1649296348.0,-5.0,"god this is horrible. first of all, seems ""almost"" is like 25%. 
+
+- search bar is missing
+- the ui looks empty without it
+- messy 3000 line code 
+- the overflow blog doesn't go anywhere
+- pfp don't load on the users page
+- clicking user profile on the main page doesn't do anything"
+44,kodingnights,1649265316.0,-22.0,Why
+45,RattleyCooper,1649279315.0,-12.0,In python lol
+46,,1649278302.0,-18.0,[deleted]
+47,finrivengurka,1649309955.0,0.0,Very impressive work!
+48,TedDallas,1649301365.0,-1.0,"You should step back and take a look at the problem you are trying to solve, and realize that you should not even need to solve this problem as here is an entirely different technology that requires an entirely different skill set that you should use instead.
+
+But you know? They are right. :-("
+49,BegRoMa27,1649281325.0,1.0,"Very cool, but does it insult you when you ask question? Lol. That’s a feature we could do without"
+50,LeCrushinator,1649286548.0,1.0,"Syntax highlighting seems broken for me, on Chrome.
+
+https://imgur.com/g9jQWVx"
+51,gabagool-aficionado,1649311867.0,1.0,What’s with the migrations folders that are scattered throughout ?
+52,green_meklar,1649313432.0,1.0,"Yes, but does it have people who tell you to use JQuery for every single problem?"
+53,elphoeniks,1649370367.0,1.0,"Great job. Yes, there is a lot to improve but don’t get frustrated by the rude comments. Keep learning !"
+54,Achaidas,1649380119.0,1.0,There’s a ton of negativity on this sub which sucks for such a great achievement. You didn’t perfect anything but you seem to have done your damnest and that counts for more than the losers here. I look forward to making a similar project for my own learning and hope someone like you will take the time to appreciate the work done.
+55,godiscominglolcoming,1649284162.0,-8.0,"how.. stuff like this gives me major impostor syndrome
+
+and I've been programming 15 years"
+56,d1gital_love,1649306382.0,-2.0,"I need neither of those.
+
+
+They had pretty pointless, lawless and not helpful bureaucracy. Do you want groundless and lawless bureaucracy or results?"
+57,melgish,1649294766.0,-4.0,It’s not stack overflow without the naz… er moderators
+58,0xDEAD_C0DE,1649319674.0,0.0,"Impressive work don't let internet heros keep you down. Try to filter through the negativity and find the places where things need improvements.  
+
+
+I've read through the comments and there is lot of negativity but there is also some helpful tips somewhere how to improve your code, architecture and codebase layout.  
+
+
+Best of luck and godspeed in refactoring this.  
+
+
+Cool project and it's impressive that you got it up and running :)"
+59,Komnos,1649290695.0,60.0,I was genuinely expecting the code to just post that for everything.
+60,warhead71,1649275539.0,38.0,a clone or fork? :-)
+61,thebritisharecome,1649313356.0,10.0,"You joke, but this has been posted like 14 times and everyone has made the same joke"
+62,BaroquenLarynx,1649274414.0,25.0,I shrieked.
+63,,1649266786.0,-160.0,[deleted]
+64,MzCWzL,1649291192.0,87.0,"I was wondering how there were so many thinly veiled knockoff sites with the exact question and answers that rank highly in DuckDuckGo. Now I know the answer.
+
+Example: https://entityframeworkcore.com/knowledge-base/38543193/proper-way-to-get-current-user-id-in-entity-framework-core"
+65,skerit,1649316907.0,9.0,Exactly. It's not as if everyone in here has never written spaghetti code.
+66,allInOneBoy,1649303042.0,30.0,"Thank You very Much for the Appreciation and for suggestions , I am also planning to decrease the size of long dinosaur functions with short understandable functions so others   can understand and main better
+
+&#x200B;
+
+Thanks again"
+67,brainplot,1649315481.0,10.0,"Not OP but I appreciate your encouraging response, especially looking at the rest of this thread. Yeah, the code can be improved a lot but people seem to have forgotten they used to write subpar code too at some point."
+68,gabagool-aficionado,1649311958.0,9.0,For real. This would be an absolute nightmare to maintain
+69,duckducklo,1649305638.0,4.0,why
+70,allInOneBoy,1649303277.0,3.0,"I think you're right, But some commented out code have some features commented, that i'll need it later, But still have unusable code that i will remove. Thanks again"
+71,XCapitan_1,1649278997.0,135.0,But... at least you know the types of the variables!
+72,zordtk,1649279776.0,65.0,"`if bool_1 and bool_2 == False and bool_3 == False:`  
+`print(""Only First is True"")`"
+73,ROFLLOLSTER,1649289144.0,61.0,"    elif saveToFalse.ban_till == ""4_YEARS"":
+        seconds_2 = 62208000
+        time.sleep(seconds_2)
+
+[Oh god](https://github.com/Yawan-1/StackOverFlow--Clone/blob/41efb4ece6db9bdb89a8899eaf15770ba08637f3/qa/views.py#L102)"
+74,azkv,1649279265.0,153.0,"Also. Aming convention on everything else is all over the place, a little bit of snake, a little bit of camel, pascal etc.. functions being 700 lines long, 0 architecture to speak of. Looks like a new dev tring to learn the ropes and if thats the case all power to him, it is not a small feat despite all this"
+75,BeowulfShaeffer,1649283238.0,41.0,"No kidding. Speaking as a 90s Windows programmer they clearly should be m_fOne, m_fTwo and m_fThree."
+76,recursive-analogy,1649298297.0,10.0,"    questions = Question.objects.filter(
+                        bounty_date_announced__lt=minutes_10,
+                        is_bountied=True,
+                        is_deleted=False).exclude(
+                        answer__accepted=True).distinct()
+
+omg the formatting!"
+77,danweber,1649284107.0,4.0,user_1
+78,DrunkensteinsMonster,1649290310.0,46.0,"And yet it’s an almost fully complete clone of stackoverflow which is very impressive. Clearly this won’t be as scalable as the real thing, but there are millions of devs who can wax poetic about how to name variables and yet have never built anything half this impressive.
+
+The fact that this comment was upvoted so highly shows that we have too much crossover with r/learnprogramming"
+79,cuddlebish,1649280681.0,22.0,"Because even if the code isn't that great, it's an impressive achievement, especially if they are a new dev."
+80,Kissaki0,1649318231.0,1.0,"It works, it’s a big project, it’s open source/source code.
+
+Doesn’t have to be good code. Some people may be interested to join in and/or extend on it/work with it.
+
+Source code, even if not particularly good, is closer to the name of r/programming and its rules than many other popular posts here."
+81,allInOneBoy,1649296413.0,5.0,"Thanks for suggesting that, I am also planning to do that to prettify the js and html."
+82,allInOneBoy,1649316536.0,2.0,"Thanks, And It's okay, I am trying to fix everything everyone pointed out in this post in this context"
+83,allInOneBoy,1649311281.0,2.0,"Thanks, But Autocompletion is not functionable yet, I am still creating that, But You can use existing tags I stored for demo purpose."
+84,allInOneBoy,1649303379.0,7.0,"Yes, you're right, It would much great with more tests, Many peoples suggested me about it."
+85,br_vndon,1649282069.0,29.0,this comment basically sums up the post ahaha
+86,letmelive123,1649288047.0,-17.0,"How did you get upvoted lol why be a jerk to someone who's excited about a project that they put a lot of effort into.
+
+
+I don't see OP anywhere saying ""Hey here's how you should build a stack overflow clone"""
+87,PaddiM8,1649288733.0,-14.0,Uhm how about constructive criticism?
+88,mattwelke,1649308725.0,28.0,"I've worked as a professional dev for 4 years and I still haven't made something this big (alone). This is amazing. Other commenters have already mentioned the code kind of sucks. But OP pulled it off.
+
+I'd hire them simply for their demonstrated ability to work in large, confusing code bases and pull off the features needed, getting them deployed to prod. I get the impression they could walk into a huge, legacy code base, riddled with tech debt, and get to work delivering little features here and there while helping the team refactor it."
+89,skerit,1649316962.0,8.0,Real developer ship. Perfect is the enemy of good. Especially for hobby projects
+90,allInOneBoy,1649316819.0,3.0,"Hey there, I have created a file \*\*(.md)\*\* to keep track issues I am going to fix and features to implement. [Upcoming Features and To Fix Issues](https://github.com/Yawan-1/StackOverFlow--Clone/blob/master/Upcoming%20Features%20and%20Issues%20to%20Fix.md)"
+91,allInOneBoy,1649315248.0,2.0,"Yes, You're right , I am going to create it now. Thanks for this precious suggesstion."
+92,orangelord234,1649296133.0,8.0,ah yes the organized 3000 line file
+93,whatapitynevermind,1649288690.0,13.0,"For op, additionally, the exception “handler” techniques need a solid rethink. For example, more defensive coding as you refactor it, and fail early within smaller functions. 
+
+Example: see line ~209, check before your call to avoid PageNotAnInteger exception, etc). And avoid calling the same function that failed inside the handler. It’s just not that elegant."
+94,vman512,1649303379.0,24.0,Plenty in this thread :)
+95,shawntco,1649281563.0,42.0,[Question closed as too vague]
+96,PaddiM8,1649288762.0,15.0,...to learn?
+97,No-Temperature395,1649318128.0,2.0,Thought I stepped into cscareers for a moment. Good job op
+98,YeetCompleet,1649313201.0,6.0,"People here are awful. this person just created their GitHub account early last year, so I imagine they're a new programmer. I tell you what, I certainly wasn't recreating an entire stack overflow when I was at that level of experience, and neither were my colleagues. 
+
+Frankly, even experience aside, this project is still impressive. I don't think developers here truly appreciate the amount of effort OP put in here for a personal project. I'm sure this was a fantastic learning experience, and it's definitely something OP should be really proud of. I sure am."
+99,soultoyo,1649274572.0,11.0,"Here's the tech stack from the github repo:
+*    Python 3.7.x
+*    Django Web Framework 3.2.x
+*    Redis 5.x
+*    BootStrap 4
+*    Jquery 3
+*    Postgresql 4"
+100,allInOneBoy,1649266985.0,28.0,It took me about 3 months to build and test this project.
+101,allInOneBoy,1649311500.0,7.0,"Thank you Very Much for your Support, I really appreciate it,"
+102,Dragollax,1649315770.0,2.0,"To learn, seems like OP is a new programmer, says his github was created just last year"
+103,allInOneBoy,1649317400.0,1.0,Thank you very Much for Your Support and Love.
+104,ChemicalRascal,1649277476.0,17.0,"Dunno why OP got downvoted for suggesting practice, because frankly that's the best way to learn how to do what you asked about. Setting up that sort of stuff is really dependent on what languages (and potentially frameworks) you use, what database you go with and then what you use in your code to communicate with that database.
+
+As a result, the best advice one can give is, well, practice. Pick a well-documented language you know, pick a popular database, and follow some documentation to get everything running. Once you've done that, dive into the docs for what you used and you can build a better understanding of how they work.
+
+To go one step further would be to look into how to write your _own_ library for interacting with a database. That'll involve more looking into the documentation for that database."
+105,allInOneBoy,1649266151.0,12.0,Practice more and you'll learn
+106,stronghup,1649297484.0,6.0,"You are right. Let's compare to the construction industry. Some architects and engineers build sky-scrapers which can stand   hurricane winds. That provides lots of value and requires great expertise to build.
+
+Some other builders  build shoddy houses fast for hurricane victims. They perhaps don't  follow the best practices in everything and what they produce might not stand the next tornado. But they are still valuable for providing shelter.
+
+Like you say the end-result and the value it provides (to somebody) trumps all other things.
+
+It is also valuable to provide ""constructive"" (pun intended) feedback. But producing valuable software is not a beauty contest."
+107,scnew3,1649267803.0,30.0,What’s wrong with Python?
+108,allInOneBoy,1649267047.0,2.0,"Yes right, But I am thinking about changing the old frontend to new one"
+109,Dragollax,1649315816.0,2.0,"No hate here, but I think this was like a beginner's project."
+110,allInOneBoy,1649296693.0,2.0,"Yes, Thanks for pointing that out, But I use stacks for designing the frontend for the website But you know stack overflow changes the website few times in last months so i didn't prepare for that, and the design ruined, But don't worry I will everything back"
+111,allInOneBoy,1649265415.0,-14.0,"If i understand you correctly, You mean ""Why did i create this ?"", so, I just wanted to check and show some developers how stack overflow works under the hood"
+112,collimarco,1649281892.0,10.0,">As of Apr 2021, jQuery is used by 77.8% of the top 10 million websites"
+113,allInOneBoy,1649312102.0,1.0,"I am sorry, I didn't catch that , What did you mean by ""scattered"" ?"
+114,shawmonster,1649287510.0,16.0,If it makes you feel better just take a look at the code lol
+115,Philpax,1649286634.0,17.0,"Well, how wouldn't you? Look at Stack Overflow, decompose what each feature is and does, and reimplement it. Nothing here is *difficult* - the key is perseverance, not smarts."
+116,person49321849,1649288375.0,8.0,"This is not at all a hard product to build. It's mostly CRUD. If you have been working as a programmer for 15 years and you don't think you could replicate this, what are you doing for your job? What do you actually program all day?"
+117,gabagool-aficionado,1649313322.0,3.0,You won’t feel like an imposter If you look at this code.
+118,Sir_Spaghetti,1649308166.0,1.0,"Sir, we use streams here"
+119,Supadoplex,1649315141.0,24.0,I guess we'll have to close my comment as a duplicate as well ¯\\_(ツ)\_/¯
+120,blackAngel88,1649322326.0,2.0,So it's a duplicate joke of a repost of a duplicate software..
+121,ChemicalRascal,1649277182.0,85.0,"Hey, folks have interpreted this to mean that you didn't write a backend, when it appears you mean that you just aren't hosting a copy.
+
+/u/lugrugzo 's question was more about the initial design, if you used SO's public DB schema as a foundation to build upon."
+122,add1ct3dd,1649272999.0,171.0,"Uh, what?"
+123,0qxtXwugj2m8,1649276474.0,-3.0,ooof
+124,dethb0y,1649301382.0,29.0,"I'd consider it a feature, not a bug, as it prevents the site from disappearing if the people running SO suddenly decide to pull the plug."
+125,retrolasered,1649322179.0,6.0,You guys don't write spaghetti code?
+126,gabagool-aficionado,1649312204.0,21.0,"Break out files into logical components as well. No file should be 6000 lines.
+
+Study Domain driven design for a good breakdown of separation of concerns."
+127,BedtimeWithTheBear,1649332562.0,-1.0,"One thing that will really help your code quality is a free [Sonarsource](https://sonarcloud.io/pricing) account.
+
+You will likely learn so much about your code that you didn’t expect."
+128,Philpax,1649320337.0,5.0,"Yeah - we all started somewhere, and it's just not that productive or healthy to kick someone while they're down. I'd rather give them a chance to pick themselves up and try again :)"
+129,sirk390,1649320961.0,17.0,"Some examples. Just opening a random file ([https://github.com/Yawan-1/StackOverFlow--Clone/blob/master/profile/views.py](https://github.com/Yawan-1/StackOverFlow--Clone/blob/master/profile/views.py)) I can see many patterns like these:
+
+    if TagBadge.objects.filter(awarded_to_user=profileData.user,badge_type=""BRONZE"", tag_name=""Citizen Patrol"",bade_position=""BADGE"").exists():
+        ctzn_ptrl_earned = True
+    else:
+        ctzn_ptrl_earned = False
+
+From this, you can see that you are still a beginner. A more advanced programmer would just use the boolean return value (or cast to bool if needed) :
+
+    ctzn_ptrl_earned = TagBadge.objects.filter(awarded_to_user=profileData.user,badge_type=""BRONZE"", tag_name=""Citizen Patrol"",bade_position=""BADGE"").exists()
+
+And to write maintainable code, you have to create some abstractions, classes and functions.
+
+Like this:
+
+    class BadgeDatabase:
+        def has_badge(self, user, badge_type, tag_name):
+            return TagBadge.objects.filter(awarded_to_user=user,badge_type=badge_type, tag_name=tag_name,bade_position=""BADGE"")
+
+and use it like this:
+
+    ctzn_ptrl_earned = badges_db.has_badge(profileData.user, ""BRONZE"", ""Citizen Patrol"")"
+130,What_Is_X,1649308320.0,25.0,https://github.com/Yawan-1/StackOverFlow--Clone/blob/master/qa/views.py
+131,gabagool-aficionado,1649311981.0,5.0,Look through the repo
+132,TuckerCarlsonsWig,1649305699.0,-4.0,Because
+133,Affectionate_Car3414,1649307215.0,16.0,">	But some commented out code have some features commented, that i’ll need it later
+
+Make a branch for each feature, then"
+134,Zardotab,1649311330.0,25.0,"bool\_3 = ""My string variable"";"
+135,G_Morgan,1649279335.0,64.0,We know the usage. They are for determining if thing is true or false.
+136,retrolasered,1649322329.0,3.0,Haha typhonscript
+137,SwitchOnTheNiteLite,1649339018.0,2.0,"No no, they are variables that tell you if 1 is a boolean obviously. I guess this should have been a boolean constant maybe because 1 is never a boolean."
+138,The0nlyMadMan,1649287559.0,34.0,"views.py line ~140
+
+`if bool_2 and bool_3 == True and bool_2 == False:
+        print(""Second and Third is True"")`"
+139,joonazan,1649303815.0,30.0,"> I used threading for automatic removal of the User's Ban Suspension, But the only problem in ""threading"" is that if server goes down for any reason than all the threads will stop and lost, all the background tasks will stop.
+
+At least he knows it's bad. No mention of the RAM wasted by keeping a thread open, though."
+140,xe3to,1649297063.0,22.0,LOL JFC
+141,starofdoom,1649290833.0,49.0,"If it's a new dev, this is impressive as hell. If not, this is a disaster. Regardless, they really need to learn naming conventions, splitting up functions, and learning basic architecture."
+142,Isvara,1649283940.0,23.0,">No killing.
+
+Aww. Not even just a little bit?"
+143,_zkr,1649312630.0,1.0,"Serious question, what would be the better formatting here?
+
+Coming from the Java world, if you have a function with a long number of arguments, a formatting like this, where every argument is on it's own line, would be OK."
+144,mtizim,1649310077.0,39.0,"There's a lot of devs who have jobs and are building actual stuff, having a website built by a dev is not that rare...
+
+It sure is impressive, but having a 
+
+```
+ban(user)
+await sleep(4 years)
+unban(user)
+```
+
+In your code means that there's still a *lot* left to learn."
+145,IncognitoErgoCvm,1649304400.0,11.0,"> The fact that this comment was upvoted so highly shows that we have too much crossover with r/learnprogramming
+
+Funny, 'cause that's what I was thinking about the OP."
+146,wankthisway,1649299733.0,5.0,"Yeah jank or not it works and is more impressive than having no project at all, especially if they're in school because then they're ahead of most students already.
+
+It's something cool to show for internship interviews, or even something to keep around and iterate upon as they learn."
+147,cinyar,1649322032.0,-1.0,">And yet it’s an almost fully complete clone of stackoverflow which is very impressive. 
+
+Which part of stackoverflow website is impressive?"
+148,Mmmcakey,1649298059.0,-27.0,The only thing that's going to prettify this abomination is the delete button.
+149,glider97,1649288271.0,21.0,He was very clearly not being a jerk.
+150,virtualmang,1649289169.0,17.0,He’s just being brutally honest. Anyone posting something on the internet should expect no less. Honestly it’s pretty civil.
+151,SurgioClemente,1649293436.0,32.0,"There is way too much to even begin a fair effort, have you looked at it?  Everyone's first project was shit, he shouldn't be any different nor take offense at being called out.  It's how most self-taught people learn.
+
+It's like your first craft project, you learn from the experience of building but at the end of the day you chuck it and start over.  He spent 3 months on this.  Normally you start with a box or something simple instead of a complete custom library/office.
+
+The best piece of advice is congrats on building something on your own, but pick a smaller project and ask for some help.  Maybe just one aspect of stackoverflow like the ability to create an account and login."
+152,Iggyhopper,1649292729.0,18.0,"disregarding the naming of the bool_1 bool_2 and bool_3, there are areas with repetition. First rule of a manageable codebase is to not repeat yourself.
+
+                if formCleanedData == ""50"":
+                    Reputation.objects.create(
+                        question_O=data,
+                        question_rep_C=-50,
+                        awarded_to=request.user,
+                        reputation_on_what='Applied_Bounty')
+                elif formCleanedData == ""100"":
+                    Reputation.objects.create(
+                        question_O=data,
+                        question_rep_C=-100,
+                        awarded_to=request.user,
+                        reputation_on_what='Applied_Bounty')
+                elif formCleanedData == ""150"":
+                    Reputation.objects.create(
+                        question_O=data,
+                        question_rep_C=-150,
+                        awarded_to=request.user,
+                        reputation_on_what='Applied_Bounty')
+
+I'm not a python guru but I'm sure this can be rewritten as:
+
+    data_obj = Reputation.objects.create(data)
+    data_obj.rep_C = formCleanedData
+
+Or something like that. And honestly it is as much constructive criticism as it is grading a homework assignment. This is not an opinion on handling control flow, there are mistakes made here."
+153,shadowknight094,1649333267.0,3.0,Link is broken
+154,lenswipe,1649303750.0,11.0,"Closed, locked and marked as duplicate of this post from /r/sewing that also mentions the word ""thread"""
+155,BeakerAU,1649279351.0,16.0,"Postgres 4? That can't be right, surely. The first PostgreSQL version was 6 back in 97, doubt there would be runnable installers 25 years later."
+156,HobblingCobbler,1649316368.0,1.0,My bad I was totally wrong. I don't know why I thought you had said `Flask` previously.  Guess I'm having memory leaks.
+157,CyAuo6Q3WkjH,1649267237.0,25.0,holy crap that is a lot of work. good for you
+158,agumonkey,1649280125.0,3.0,first django project ? do you like django ?
+159,rabid_briefcase,1649278619.0,11.0,"> Dunno why OP got downvoted for suggesting practice, because frankly that's the best way to learn how to do what you asked about. 
+
+For me it was the way he said it.  
+
+When I was learning music I was told *""practice make permanent, not perfect,""* which I think explains it quite well. [Variations on the quote are hardly new](https://www.brainyquote.com/quotes/vince_lombardi_138158).  Practice doing things badly and you'll just implement bad stuff faster. Even worse, you'll have bad habits that can be quite difficult to break.
+
+Practice is an important piece certainly, but if you're looking for improvement it must be coupled with learning, experimentation, collaboration, and study of past work including critical review."
+160,,1649278681.0,0.0,[deleted]
+161,canal_smarts,1649277312.0,13.0,This is a strange comment to downvote
+162,cohortq,1649272512.0,10.0,Failure is a great teacher
+163,IshKebab,1649269462.0,-88.0,"Extraordinarily slow, and the static typing story is bad.
+
+It's actually decent if you write all your own code and only use Pyright (which is a very good Python static type checker) but in reality you will use lots of third party libraries with nonexistent or wrong type annotations, and they probably use MyPy which is not very good and even disagrees with Pyright about some things (because the semantics of Python type annotations are undefined).
+
+Typescript is better in almost every way. If you're considering Python you should slap yourself and consider Typescript instead, in almost every situation. The only exceptions are if there's some library you really need to use, e.g. Pytorch.
+
+To be fair I'd half put Django in that category. There aren't many server frameworks that are as complete and easy to use.
+
+Edit: Well this is the weirdest comment I've had downvoted! I don't think I've said anything remotely controversial."
+164,ham_coffee,1649292607.0,0.0,"With large projects, dynamically typed languages can start to cause issues.  It's also very slow, but that doesn't matter much in this context since I doubt they're trying to do anything complex enough for it to make a difference (same would apply to most web related projects)."
+165,cdsmith,1649274370.0,7.0,"That's fine, but I wouldn't do it just because someone decided to pick a language war on Reddit.  Python is a perfectly adequate programming language, which has advantages and disadvantages to be sure, but you certainly shouldn't be ashamed to have used it for your project.  It's not like you wrote it in VBScript."
+166,person49321849,1649334493.0,3.0,"That's fine, but have some awareness of your own limitations, and don't try to advertise the repository as something that gives others some sort of educational value. This is the blind leading the blind, no one should be learning from this project."
+167,skalpelis,1649277290.0,39.0,"How can you show others how Stack Overflow works under the hood, if you've written something of your own, in a completely different stack, that you're not even completely sure has all the same features? The only resemblance to the real Stack Overflow is the UI, and nothing in the code or supporting infrastructure would match the real SO.
+
+That is, unless you've been privy to the actual SO codebase, in which case, well, I wouldn't want to attract too much attention with this. As benevolent a company they have been, there's limits to everything."
+168,person49321849,1649288462.0,10.0,You have absolutely no idea how stack overflow is implemented. We can be certain that it isn't implemented the way you've implemented it.
+169,thebritisharecome,1649315465.0,3.0,"Stats are misleading, it's baked in to a lot of old school CMS systems, like WordPress. It doesn't mean it's popular, it's just default"
+170,gabagool-aficionado,1649313490.0,2.0,"I saw folders for db Migrations in multiple places. 
+As an outsider looking in this is most unexpected"
+171,XCapitan_1,1649276803.0,82.0,"Maybe they didn't understand something, there definitely *is* a backend. [And it's huge](https://github.com/Yawan-1/StackOverFlow--Clone/blob/master/qa/views.py)"
+172,PaintItPurple,1649276963.0,35.0,"I think they misunderstood the question as asking ""Did you import the actual Stack Overflow tables into this?"" and they were clarifying that they don't have a real site running with this, it's just the software."
+173,PunkS7yle,1649273207.0,63.0,It's just a front-end clone I guess? No backend
+174,MzCWzL,1649303981.0,56.0,That’s a decent reason to make it public but man the knock off sites are useless
+175,JessieArr,1649346291.0,1.0,"Yeah, it's the data equivalent of being open source. If the maintainers of an open source project suddenly decide to be dickheads, the community can fork it and continue to operate the project as non-dickheads.
+
+But if someone hosts the data and adds nothing to the SO formula then it just creates search engine clutter for no real value.
+
+The main reason for my project was to create a backup option for when there's no internet e.g. on an airplane etc. There's no way for a website to do that, so desktop was the option.
+
+It works in that capacity as a last resort, but without a bunch more work it won't be a good UX. Also, dedicating 113GB of HDD space to StackOverflow data just in case you don't have internet and need a coding question answered at the same time is a questionable value proposition, haha."
+176,redmaniacs,1649329046.0,11.0,Not anymore. I only write spaghetti code in a moving window 3 years ago.
+177,allInOneBoy,1649312805.0,14.0,"That's the new thing I learn today, Thanks for suggesting."
+178,SToo-RedditSeniorMod,1649323478.0,1.0,Thank you.
+179,k-mera,1649310620.0,23.0,"i particularly like this:
+
+    def UnBanUser(id):
+        """"""
+        I used threading for automatic removal of the User's Ban Suspension, But
+        the only problem in ""threading"" is that if server goes down for any reason
+        than all the threads will stop and lost, all the background tasks will stop.
+        """""""
+180,duckducklo,1649305739.0,-8.0,ur face
+181,alternatex0,1649284433.0,74.0,You've got a point. They should've been named `thing_to_determine_if_true_or_false1` and `thing_to_determine_if_true_or_false2`.
+182,caltheon,1649296315.0,24.0,Is this that quantum state processing I keep hearing about?
+183,fiocalisti,1649290382.0,5.0,rofl
+184,ROFLLOLSTER,1649297624.0,24.0,What's worse is it's only about two years...
+185,skalpelis,1649339628.0,9.0,"> impressive as hell
+
+It's impressive as hell similar to that guy who tried to build a human scale house out of matchsticks - a ton of effort but no one would want to live in one, and it would have been easier, quicker, safer and looked better if it was done with appropriate methods."
+186,BeowulfShaeffer,1649284105.0,14.0,Aw man. I committed the fix in Visual Source Safe.  Please refresh.
+187,VapidLinus,1649318106.0,13.0,"    questions = Question.objects
+        .filter(
+            bounty_date_announced__lt = minutes_10,
+            is_bountied = True,
+            is_deleted = False)
+        .exclude(answer__accepted = True)
+        .distinct()"
+188,MyUsernameIsLongDong,1649314183.0,8.0,"Generally you would just pump it through a tool like black. Only ever 4 space indent increments, brackets close on the same level as the start of the statement. Either all args on one line or fully chopped down, etc.
+
+Would look like this: 
+
+    questions = Question.objects.filter(
+        bounty_date_announced__lt=minutes_10,
+        is_bountied=True,
+        is_deleted=False,
+    ).exclude(
+        answer__accepted=True,
+    ).distinct()"
+189,JimBean,1649302512.0,3.0,"That's the nice thing about reddit. You an be a complete asswipe, as long as you do it _politely_.
+
+If you come down all angry and shouty, you will just get down voted. Even if the original post _was_ crap."
+190,nutrecht,1649319258.0,1.0,"That's not even ""brutally"". It's friendly feedback."
+191,,1649290285.0,-9.0,[deleted]
+192,elphoeniks,1649371169.0,0.0,You could have written the last paragraph and moved on instead of your « not a good project » .
+193,allInOneBoy,1649333343.0,2.0,"OMG! Thanks for pointing out, I have fixed it"
+194,StickiStickman,1649279836.0,16.0,Probably 14
+195,lrem,1649277403.0,5.0,"And here I am, working full time on a piece of code I have started in 2016. But I'm getting paid for doing that. This makes one more patient."
+196,allInOneBoy,1649267320.0,10.0,"Yes, it was very hard to monitor every feature closely at stack overflow"
+197,allInOneBoy,1649303779.0,3.0,"No this is not the first project, But this is my first big project. And Yes i like Django"
+198,glider97,1649288420.0,2.0,"OP looks like English is not his first language, we can cut him some slack. Y’all get worked up over the littlest things, lol."
+199,Infrid,1649270221.0,37.0,"Looking forward to your solution made in scala, Akka, cats and monads all over the place. /s
+
+Edit: /s"
+200,argh523,1649281367.0,12.0,"> If you're considering Python you should slap yourself and consider Typescript instead, in almost every situation.
+
+> I don't think I've said anything remotely controversial.
+
+lol.."
+201,gaunts_account,1649277405.0,3.0,"No issue in this type of application, the bottleneck is the database, and GET requests can be cached."
+202,WJMazepas,1649275082.0,9.0,"Use Typescript? That's it? 
+You are saying to him use directly Typescript and not a framework? 
+Also, i never thought I would see someone defending types so hard. 
+
+I love types as well, but if you want types so much you probably should go with a language that is statically typed not one that is compiled to another language without types"
+203,CreeperInAVan,1649271708.0,12.0,"LMAO are you actually being serious or is this some troll post?
+
+The stupidity and ignorance of people never ceases to amaze me."
+204,Philpax,1649285662.0,3.0,"I agree with you, and think your opinions are not that controversial. The Python static typing experience is *okay*, but not great, and Python has *never* been known for its performance.
+
+It's an okay language with a significant ecosystem, but it's not amazing by today's standards of language. Static typing offers many benefits for programming in the large - especially for reasoning about complex systems - and I find anything beyond toy codebases in Python to be frustrating to work with as a result.
+
+If you're planning on building a service or an application to last, I would agree that you should really use TypeScript, or Go, or C# instead. You'll be saving yourself a lot of trouble in the future. Python is fine for scripts, glue code, and science work, but I believe you're doing yourself a long-term disservice if you use it for more than that."
+205,godmin,1649279861.0,4.0,"> Well this is the weirdest comment I've had downvoted! I don't think I've said anything remotely controversial
+
+Shitting on python because it's ""slow"" and doesn't have types while promoting a language that's essentially a wrapper around a dynamically typed language - nice
+
+I'm not sure how else you could trigger this subreddit more besides saying something like ""rust is a bad language because the borrow checker slows down development time""
+
+Python is an incredibly useful and powerful language. Literal billions have been spent by companies like Google, Lyft, and Dropbox to make it work for projects large and small. Writing it off because it's dynamically typed reeks of immaturity."
+206,Infinitesima,1649276486.0,-9.0,"You're downvoted by all the normies who learned Python from ""Automate boring things with Python"" course 😂🤣"
+207,Dragollax,1649357055.0,1.0,Oh yeah I agree with that. It was a little wrong for him to describe the project like that
+208,katzey,1649280310.0,19.0,"don't cha know, this is how stackoverflow deals with unbans. OP just wanted to show the world how it's done!
+
+https://github.com/Yawan-1/StackOverFlow--Clone/blob/41efb4ece6db9bdb89a8899eaf15770ba08637f3/qa/views.py#L80"
+209,kryptomicron,1649281615.0,2.0,"A demonstration of something with similar functionality can still be useful even, or maybe especially, if it's not implemented in the same way.
+
+That written, probably the 'interesting' parts of SO are precisely the infrastructure.
+
+But there still could be a lot of value to *someone* in seeing an example of a site very much like SO, even without the 'technically interesting' parts."
+210,Dragollax,1649277426.0,54.0,HOLY CRAP I kept scrolling and it just kept going...
+211,TheUnamedSecond,1649278282.0,54.0,"and kind of ugly, for example the questionDetailView function is over 700 lines long, just one function. I havent tested it but my guess is that this project is a good to okFrontend rebuild, with a rudimentary backend that would clog up if used on any scale"
+212,anotherThrowaway1919,1649278154.0,29.0,"https://github.com/Yawan-1/StackOverFlow--Clone/blob/41efb4ece6db9bdb89a8899eaf15770ba08637f3/qa/views.py#L4693
+
+# Damn so use lot of logics But I don't care, I will build this UP !
+
+…yeah…"
+213,thebritisharecome,1649279453.0,5.0,lmao
+214,nutrecht,1649318985.0,2.0,Holy shit.
+215,AeroNotix,1649284476.0,1.0,"[The goggles, they do nothing](https://github.com/Yawan-1/StackOverFlow--Clone/blob/master/qa/views.py#L4689-L5428)"
+216,gabagool-aficionado,1649311691.0,1.0,You’d think after the first couple thousand lines in that file there would be some alarms going off
+217,ColetteFeetFan,1649315794.0,0.0,"Oh no, it doesn't even follow PEP-8. Why? I mean, it's not the worst thing about it but still"
+218,ChemicalRascal,1649277121.0,9.0,"Yeah, this is just a miscommunication."
+219,hypocrisyhunter,1649372157.0,3.0,"Please, don't distract the snobs on here from turning their noses up at somebody trying to learn."
+220,epicar,1649273512.0,163.0,"> with almost every functionality
+
+(backend not included)"
+221,lt-gt,1649276100.0,29.0,But there is a back-end. The setup instructions explain how to set up postgres.
+222,Kissaki0,1649317766.0,15.0,"Arguably not just useless, but detrimental."
+223,okay-wait-wut,1649337425.0,2.0,On the other hand…. You made a thing and that’s what matters. Useful immaculate code base is the ideal but any code that does something cool is way better than pristine immaculate code that never gets used.
+224,lilred181,1649311115.0,21.0,It’s fine. Our system is highly available so we never ever need to restart it. We also have infinite threads
+225,gabagool-aficionado,1649312054.0,3.0,😩
+226,Kissaki0,1649317962.0,-2.0,"Interestingly enough, .NET has a thread setting for controlling whether it is blocking or not blocking on exit: [Thread.IsBackground](https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread.isbackground?view=net-6.0).
+
+So I take python does not? Or did the author just miss it?"
+227,TuckerCarlsonsWig,1649306694.0,-5.0,Ur mom
+228,Iggyhopper,1649292394.0,29.0,You're hired.
+229,moi2388,1649319536.0,8.0,"Am I doing it right?
+
+    
+    var result =  
+    thing_to_determine_if_true_or_false 
+    ? “true” 
+    : “false”
+
+    if (result == “true”) 
+    { 
+        // profit  
+    }"
+230,evolvingfridge,1649297663.0,6.0,I need eye bleach after reading this
+231,fabianShade,1649332322.0,2.0,This uses 30 day months hence 360 day years. Probably forgot to update the label to match the value or vice versa. More egregious the 3 day ban is only 10 seconds.
+232,glacialthinker,1649303437.0,0.0,"As a way to try to ignore what's really going on here, I'm going to make this quip:
+
+Maybe the variable name is ""seconds_2"" as a hint that `time.sleep()` takes a value in two-seconds? :P"
+233,whatapitynevermind,1649287956.0,10.0,"Ah, crap. “names.dat may be corrupt” again, can you get the backup off the Zip Drive?!"
+234,Crinesis,1649318907.0,2.0,this is the way
+235,_zkr,1649315848.0,6.0,"Oh yes, this looks so much better. With the original formatting I didn't even see the _.exclude()_ and _.distinct()_ calls at the first glance.
+
+Thanks for the answer."
+236,pringlesaremyfav,1649291936.0,6.0,"Honestly I've seen some extremely brutal code reviews constructively pointing out all the ways somebody has utterly fucked up and breaking their spirit. 
+
+Sometimes it's just better to leave a comment like this guy did for all parties involved."
+237,BeakerAU,1649283464.0,2.0,Yeah true.
+238,agumonkey,1649313158.0,2.0,"Aight, pretty cool"
+239,Pythonistar,1649272448.0,16.0,"> Extraordinarily slow, and the static typing story is bad.
+
+You do realize that [Reddit is written in Python](https://reddit.zendesk.com/hc/en-us/articles/204536739-What-is-Reddit-written-in-), right? It can't be that slow... (In fact, I know it isn't ""extraordinarily slow"" by any stretch of the imagination, but clearly you feel otherwise...)
+
+> static typing story is bad.
+
+Well, yeah, Python is a Dynamically typed language. The best you'll (reasonably) get is `type hinting`. But if you're a disciplined developer, you can do really well with this.
+
+That said, I get it. Coding in Django everyday, I still get bit by Python type errors on a semi-regular basis, despite using full type hinting everywhere. And List comprehension / generator syntax still isn't as good as C#'s LINQ, but it's good enough.
+
+> Typescript is better in almost every way.
+
+For frontend? sure. For backend? That's crazy talk. 
+
+> Shame this is written in Python though.
+
+Nah, that's probably how /u/allInOneBoy managed to get this all done in 3 months."
+240,IshKebab,1649272960.0,-6.0,Why would I do that when I already suggested Typescript? Come on dude.
+241,IshKebab,1649282083.0,-2.0,"Ha yeah well apparently I was wrong about that. Should have said ""disputable""."
+242,Kurren123,1649271845.0,4.0,"As someone that knows nothing about python, what was inaccurate in his comment?"
+243,IshKebab,1649272604.0,-13.0,"Of course, I don't know why I've been downvoted. It's all accurate. Which bit do you disagree with?"
+244,IshKebab,1649280336.0,0.0,"Lol I had no idea so many people thought Python was fast.
+
+> something like ""rust is a bad language because the borrow checker slows down development time""
+
+Weird because that's like the exact opposite of what I'm saying. It's worth it in the long term to do it properly and (not use Python / use the borrow checker).
+
+> Literal billions have been spent by companies like Google, Lyft, and Dropbox to make it work for projects large and small.
+
+Kind of funny you would bring both of those up. They've both written their own Python engines because CPython is so slow, and they both gave up in the end. Dropbox rewrite things in other languages where possible but it's easy to let an fundamental design mistake last for years because rewriting is so costly.
+
+I'm pretty sure Google barely uses Python these days. Except for Tensorflow."
+245,Senikae,1649398858.0,1.0,"""rust is a bad language because the borrow checker slows down development time**, and has worse error handling than Go**""
+
+There you go, guaranteed replies."
+246,IshKebab,1649276794.0,-2.0,Insane right? I think it must have been linked from a Python sub or something.
+247,skalpelis,1649281154.0,9.0,"I don't even understand what's going on there. If the user is banned for 4 years, the thread is going to sleep for a little less than 2 years and then save something somewhere?
+
+I am willing to bet real money that that isn't what the real SO does ""under the hood""."
+248,parowki_z_dzemem,1649281627.0,19.0,That's hilarious! Creating new thread for each banned user and putting it to sleep for four years 😀 and relying on the server not going down for four years 😀
+249,gabagool-aficionado,1649313191.0,2.0,This wouldn’t scale to even two instances. It definitely wouldn’t even work on one instance with little traffic.
+250,Turd_King,1649285270.0,7.0,"I don't see who this horrendous code base would be useful to, other than maybe a 1st year student who has left their SO clone assignment till the last minute and need something to rip off."
+251,Pussidonio,1649350469.0,1.0,"""I cloned X in a single file of code."""
+252,732,1649280900.0,133.0,"I mean, if you look at the ban user function, it just launches a new thread and puts it to sleep, for up to 4 years."
+253,ajb32,1649282723.0,10.0,Cyclomatic complexity alarms going off.
+254,katzey,1649279978.0,73.0,"`if bool_1 and bool_2 == False and bool_3 == False:`
+
+o my god. theres like 10 of these in a row. man......
+
+holy shit, the unban code is even worse 
+
+https://github.com/Yawan-1/StackOverFlow--Clone/blob/41efb4ece6db9bdb89a8899eaf15770ba08637f3/qa/views.py#L80
+
+is posting this bullying? I think posting this is considered bullying lmao"
+255,allInOneBoy,1649296130.0,6.0,"I will put comments in few hours to understand better , ""what the logic is doing"""
+256,thelehmanlip,1649274542.0,68.0,(insane scale problems not considered)
+257,PaintItPurple,1649277044.0,22.0,"If you look at the linked repo, it very obviously does include a backend."
+258,PunkS7yle,1649277640.0,8.0,"To be honest I was in the bath on phone when I replied, didn't even check the repo :D Happy cake day btw"
+259,TheRealMrSit,1649341305.0,3.0,Until you need to reasonably maintain it.
+260,rakidi,1649347409.0,1.0,Nobody is saying it has to be immaculate.
+261,nutrecht,1649319079.0,6.0,"You're missing the point. He's using long-blocking threads to 'schedule' stuff which is just a completely horrible idea that's never going to properly work. 
+
+All it takes is really just using datetime fields in the database."
+262,k-mera,1649318768.0,4.0,either way its a terrible idea to do it like that. further down someone posted a code snipped where it started a thread waiting more than two years to unban someone lol
+263,FoleyDiver,1649352784.0,2.0,"Python does indeed have the same concept, they're called ""daemon threads"":
+
+> A thread can be flagged as a “daemon thread”. The significance of this flag is that the entire Python program exits when only daemon threads are left. The initial value is inherited from the creating thread. The flag can be set through the daemon property or the daemon constructor argument.
+
+https://docs.python.org/3/library/threading.html#thread-objects"
+264,skalpelis,1649339673.0,2.0,"I see you're paid by line of code, in that case, congratulations!"
+265,BeowulfShaeffer,1649292137.0,4.0,*click…click…click…*
+266,recursive-analogy,1649319360.0,5.0,">I didn't even see the .exclude() and .distinct() calls 
+
+exactly"
+267,,1649292046.0,-2.0,[deleted]
+268,cdsmith,1649274172.0,13.0,"""Reddit is written in Python, so it must not be slow"" is poor reasoning.  You can make any code scale at the web server layer with enough servers.  YouTube's front end also was (probably still is) written in Python, and it cost them a crapload of money to run a hundred thousand server instances.  Since ""just rewrite the whole thing from scratch"" is a death sentence for any sizable project, the solution was to move as many parts as possible into back-end web services, implemented mostly in C++, and try to starve the Python so there was less of it that needed to be scaled by brute force.
+
+That said, of course I disagree with the parent comment that implied Python has almost no valid use cases.  That's ridiculous.  If you build something cool quickly, and then it becomes popular enough that performance matters, you will often find ways to pay for the wasteful compute resources until you can make it better."
+269,IshKebab,1649273080.0,-12.0,"> Python is a Dynamically typed language
+
+So is JavaScript, yet Typescript is much better than Python.
+
+> For backend? That's crazy talk.
+
+Why?
+
+> that's probably how /u/allInOneBoy managed to get this all done in 3 months.
+
+Yeah but I would put it down to Django rather than Python. Django is pretty great. If there was an equivalent for Typescript I'm sure he could get it done even faster using that."
+270,,1649274991.0,0.0,[deleted]
+271,argh523,1649286668.0,1.0,Yeah that would have fixed it for sure..
+272,japanfrog,1649272594.0,11.0,"Two points. First, python is a perfectly acceptable language for someone that is familiar with it and existing frameworks. Second, if speed is the issue, there is CPython and PyPy for most use cases.
+
+This is especially true with web development, where the benefit of using a “safer” language for speed and safety is easily solved with load balancing and familiarity with the language/best practices.
+
+Now that’s not to say typescript isn’t safer/harder to create bad code, just that it doesn’t apply to this projects scope."
+273,Remocracy,1649272325.0,-15.0,The fact that most top Python libraries are wrong.
+274,LightShadow,1649273474.0,20.0,Shitting on Python while plugging TypeScript is pretty funny imho.
+275,maikindofthai,1649275852.0,9.0,"> It's all accurate.
+
+I think you mean ""so vague as to be meaningless"", while also being incredibly short-sighted and condescending.
+
+For instance,
+
+> Typescript is better in almost every way. If you're considering Python you should slap yourself and consider Typescript instead, in almost every situation. The only exceptions are if there's some library you really need to use, e.g. Pytorch.
+
+is spoken like a teenager who only knows Python and JS. There are plenty of valid reasons to choose one PL over another, and ""needing a library"" is only one of them. If that's the only reason that comes to mind for you, you don't have the breadth of experience necessary to make informed technology choices.
+
+You're either smarter than every lead/architect on every team that uses a non-TS language for their project, or you're ignorant of the many considerations that factor into these decisions. I'm placing my money on the former!"
+276,godmin,1649281578.0,4.0,"I never said python is fast. It's not - well written c or rust will blow it away.
+
+For data manipulation you're using libraries that are written in c or assembly, negating most of the performance problems of python... How else do you think the biggest 2 machine learning frameworks are written in python?
+
+You're still pushing this narrative that python is fundamentally a bad language to write projects in - even worse you're saying that in the context of someone's hobby project. Get a grip and realize that there are many reasons thousands of companies still use it on daily basis despite its flaws.
+
+>I'm pretty sure Google barely uses Python these days
+
+Pretty sure you're talking out of your ass"
+277,fireflash38,1649283149.0,10.0,"Nah, SO just has one single server that has thousands of threads sleeping. Makes sense to me!
+
+
+Who needs a user database anyway."
+278,MathWizz94,1649286599.0,7.0,Why would the server go down? Do you choose to write unstable software?
+279,Tblue,1649291095.0,28.0,"That’s very… creative. Who needs reboots, amirite?"
+280,kevindqc,1649295798.0,22.0,"```
+""""""
+    I used threading for automatic removal of the User's Ban Suspension, But
+    the only problem in ""threading"" is that if server goes down for any reason
+    than all the threads will stop and lost, all the background tasks will stop.
+""""""
+```"
+281,MCRusher,1649284429.0,39.0,wtf
+282,user29302,1649292932.0,12.0,I thought you were joking... WTF
+283,shawmonster,1649287305.0,23.0,lmao
+284,stulleman,1649287481.0,16.0,Please not be true
+285,blakeman8192,1649288982.0,14.0,I checked. Absolutely incredible.
+286,allInOneBoy,1649296029.0,3.0,"Actually, Ban user is not on production I am going to implement it in next commit or update. It is not useable yet."
+287,Pussidonio,1649350490.0,1.0,:D
+288,A-Grey-World,1649280774.0,42.0,"Wait, is that a new thread with a 4 year sleep statement to unban a user after some expiry time, or am I misunderstanding the code (don't use python)?"
+289,ElongatedMuskrat122,1649286248.0,9.0,"So basically the code like documents itself, you know?"
+290,allInOneBoy,1649296158.0,3.0,">I will put comments in few hours to understand better , ""what the logic is doing"""
+291,anotherThrowaway1919,1649297817.0,10.0,"To remain positive as you appear to be trying, definitely give some of the other comments a shot in terms of potential refactoring, linting, variable name cleanup(have the variable be descriptive of what it is, if you were to come back to in in a month would you know what it’s doing?), splitting up the logic into more components/files, etc etc
+
+It might slow you down from doing more features but it’ll be worth the learning experience"
+292,djulioo,1649285837.0,3.0,"In OP's post history, there was a [link](https://stonkoverflow.herokuapp.com/) with a running version"
+293,What_Is_X,1649332123.0,0.0,Further up... Two parent comments up...
+294,pringlesaremyfav,1649293728.0,6.0,Yeah I really don't think the comment above is going to break anyone's spirit lol. Discourage at worst.
+295,IshKebab,1649276772.0,0.0,No shit.
+296,IshKebab,1649314428.0,1.0,Well nobody has disputed anything I said! Just got upset about it and downvoted my comments.
+297,lisbonant,1649273257.0,11.0,"Nitpick - i think you're referring to Cython.  CPython is the ""standard"" Python implementation."
+298,IshKebab,1649272635.0,1.0,I said they have missing or inaccurate type annotations. It's 100% true.
+299,IshKebab,1649276743.0,-1.0,Why? Typescript is far superior.
+300,IshKebab,1649276698.0,-4.0,"Poor performance and bad static typing is ""so vague as to be meaningless"" ok.
+
+You still didn't say which bit you disagreed with."
+301,IshKebab,1649282054.0,-1.0,"> You're still pushing this narrative that python is fundamentally a bad language to write projects in
+
+I'm not. I'm saying Typescript is better in almost every way so why would you use Python? (Aside from library availability which I already mentioned.)
+
+This is really not a crazy opinion!"
+302,gabagool-aficionado,1649313220.0,2.0,Assuming /s ?
+303,randomlemon9192,1649317878.0,1.0,Wait until they learn about the cloud.
+304,mattwelke,1649308408.0,41.0,This is actually a really great way to learn these concepts. I commend OP for actually creating something instead of just being stuck in analysis paralysis and asking questions of the community without trying things for themself.
+305,AdoobII,1649293640.0,16.0,"it's the first function you see in the file, really weird implementation. I don't work on websites or databases so I was confused about why it was implemented this way. I figured maybe the memes on r/ProgrammerHumor are true when they say web developers are weird."
+306,occams--chainsaw,1649319471.0,6.0,That would be a good scenario to use `raise NotImplementedError` instead
+307,aholmes0,1649303855.0,9.0,"M8, it's not tenable at all. Don't use the application itself to track state, let alone in dedicated threads. Use any kind of database for this."
+308,YM_Industries,1649285575.0,23.0,"I was a little alarmed when I saw this in the README:
+
+> `Threading` to keep track of the remaining days of Bounty."
+309,allInOneBoy,1649296256.0,0.0,"Ban user is not functional yet, That is why you're seeing it with unusual weird variables .But I will implement it in next few days."
+310,katzey,1649296668.0,6.0,"it's not that people don't understand what you're doing
+
+you're just really overcomplicating this solution. or perhaps not overcomplicating, it's just a really bad idea
+
+look into celery to accomplish this task"
+311,,1649293760.0,-2.0,[deleted]
+312,japanfrog,1649273369.0,3.0,"Nice catch, thanks!"
+313,42TowelsCo,1649275328.0,-3.0,Type annotations don't mean anything in Python :)
+314,FedaykinLanfear_8423,1649278822.0,-1.0,"It is not, Elixir is"
+315,godmin,1649284287.0,0.0,">Typescript is better in almost every way
+
+It's not though."
+316,pringlesaremyfav,1649293824.0,5.0,It gives them some self awareness that they have room to improve
+317,IshKebab,1649276716.0,3.0,Well exactly!
+318,IshKebab,1649314725.0,1.0,Ha maybe try thinking of an actual *reason* for your opinions rather than just blindly asserting them.
+319,,1649301470.0,1.0,[deleted]
+320,blablaXP,1649349205.0,1.0,"I completely agree with you and all the other similar comments give me vibes of toxic coworkers that hide behind excuses like being ""brutally honest"" (as you say) or just being ""direct"". It's no use if someone tells me my code sucks (without elaborating) even though it's the first iteration, especially if it's open source and when you're kinda proud of it.
+
+Even the other parent comments that shudder at variable names, thread sleeps etc. are better feedback and more honest and direct than just saying "" that's not good, long road ahead. good luck you'll need it"""

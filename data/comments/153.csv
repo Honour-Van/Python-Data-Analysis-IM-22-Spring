@@ -1,0 +1,424 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,XDcl2mT0rAIklBSUwq,1653488516.0,165.0,I'd really like to see pandas supplanted. Polars's API is infinitely better
+1,Knecth,1653512357.0,45.0,"Just today I was trying Polars and comparing it with Pandas for a personal project I've been working on.
+I was able to reduce quite a few lines of code (mostly group by and left joins due to the low versatility of Pandas) to just five, and it ran TWENTY TIMES FASTER.
+
+Let me tell you, I love Pandas, but I'm starting to think if more people knew about Polars they'd start switching (or at least mixing it in) quite quickly."
+2,ridicalis,1653488276.0,94.0,"I never heard of this before today, but I can instantly start thinking of ways to put Polars to use.  I'm now a little worried I'm holding a hammer in search of a nail.
+
+Edit: a letter"
+3,Helpful_Arachnid8966,1653506415.0,17.0,What about some sklearn implementations in rust? Python's parallel processing is quite underwhelming sometimes.
+4,Feeling-Departure-4,1653501532.0,15.0,"I think it could replace Pandas in new code, but there is as much of an advertising issue to this as anything else.
+
+For local Spark jobs it's not quite there for me yet, but that could literally come from arrow2 growing pains more the Polars.
+
+Anyway, the devs seem super nice and dedicated to the project so I have high hopes."
+5,cigrainger,1653518152.0,13.0,"Can confirm: polars is really excellent. And Ritchie has been one of the most responsive and tireless devs I've seen on such a popular open source project.
+
+I've got to make a shameless plug for [Explorer](https://github.com/elixir-nx/explorer), which is a dataframe library for Elixir that builds on \`polars\`. It's not quite just bindings, as the idea is to have a functional, dplyr-esque API with pluggable backends (e.g. ExplorerSQL, ExplorerBallista). The main/default backend uses Elixir NIFs via Rustler to call polars.
+
+I'm primarily an Elixir developer and would really love some eyes on the Rust code from some more experienced Rustaceans."
+6,Shnatsel,1653486244.0,29.0,So what is the performance difference? I couldn't find any benchmarking numbers in the article.
+7,Programmurr,1653502692.0,8.0,"An elixir liveview notebook dataframe backed by polars may dethrone some work done with pandas and jupyter notebooks, but there's a really large surface area to consider:  https://www.cigrainger.com/introducing-explorer/"
+8,matt4711,1653496702.0,41.0,"The main problem with Polars is that while it is written in rust, the rust api and version published to crates.io is a second class citizen. The python version is updated once a week (taking deps directly from github repos) whereas the rust version can lag behind multiple months. 
+
+That means bugs that are fixed in the python version remain in the crates.io package potentially for a very long time."
+9,moneymachinegoesbing,1653495229.0,6.0,"I love polars, but it lacks ergonomics around generic, total DataFrame expressions. Something simple like “give me all columns, their data types, their counts and metadata” can be tough, especially with the lazy api. Maybe I missed something, but df.describe with a 6GB file tends to be the first place I look, and I had a lot of trouble implementing this. I think the core missing piece surrounds functionality with dynamic data, as in pipelines, where knowledge of column names and column types is difficult to establish dynamically. For exploration, it’s bar none. For automation, I found a lot lacking."
+10,DO_NOT_PRESS_6,1653520960.0,5.0,"Man pandas is useful but its API drives me nuts. I'm constantly googling ""how does this work?"" The apply function docs say ""it tries to do the right thing"" ffs."
+11,nyc_brand,1653501936.0,6.0,"I am a machine learning engineer by trade who loves rust. In my opinion it will not. Most people who use pandas are people who would never put in the time to learn Rust, as they can do most of their job in python."
+12,babuloseo,1653544267.0,1.0,How about we get a decent Jupyter notebook setup going first.
+13,VTWAX_ONLY_INVESTOR,1653499302.0,-26.0,"No, No it won't. Rust is wayyyyyy to low level for data science."
+14,DontForgetWilson,1653491008.0,70.0,"This.
+
+Change is slow when you have really powerful but flawed tools (such as git). When there is a chance for an equally powerful and less flawed one to overtake the incumbent it is a huge bonus."
+15,SinusoidalElephant,1653496583.0,15.0,"It's not just pandas though, it's everything else that Python offers and Rust doesn't (so far)."
+16,gravitas-deficiency,1653518087.0,2.0,"Not to mention, pandas performance is just godawful in so many common cases (like, oh I don’t know… ***iterating through rows***)."
+17,rikyga,1653541561.0,0.0,i would be onboard with a better pandas...but is the API the problem? example?
+18,ricklamers,1653495047.0,23.0,A wise person once said “great tools are half the job” 😁
+19,Helpful_Arachnid8966,1653506545.0,7.0,I have to add that would be awesome to have other tools that can work with Polars Dataframe objects. Or at least have a list of the libraries which already work.
+20,jorgecaleitao,1653558726.0,6.0,"\> but that could literally come from arrow2 growing pains more the Polars
+
+Arrow2 dev here. Could you elaborate? :)"
+21,juanluisback,1653487360.0,38.0,"We didn't conduct our own benchmarks for this post, but in this comparison from \~1 year ago, Polars emerged as the fastest [https://h2oai.github.io/db-benchmark/](https://h2oai.github.io/db-benchmark/)"
+22,ritchie46,1653498016.0,100.0,">That means bugs that are fixed in the python version remain in the crates.io package potentially for a very long time
+
+We release every month to crates.io. I Don't think that's too bad, is it? Our hands are a bit tight here, because we are tightly coupled with arrow2 and we (in arrow2) are willing to do minor backward incompatible changes to make the libs better. That means that for python polars we can release every week, because we patch cargo to point to a specific git version. However you cannot publish to crates.io, if any of your dependencies point to github. I don't think its too bad, because you as a rust use can always point to our master, until we issue a new release next month.
+
+**edit**: formatting"
+23,ritchie46,1653499934.0,22.0,"Not yet released, but we have a `DataFrame::describe` in master.
+
+> Something simple like “give me all columns, their data types, their counts and metadata” can be tough, especially with the lazy api
+
+I'd argue that you have all control to do so with the lazy API. The following snippet gives you a long table with all those statistics. 
+
+```rust
+use polars::prelude::*;
+
+fn main() -> Result<()> {
+    let out = LazyCsvReader::new(""/home/ritchie46/code/polars/examples/datasets/foods1.csv"".into())
+        .finish()?
+        .select([
+            all().count().suffix(""_count""),
+            all().sum().suffix(""_sum""),
+            all().min().suffix(""_min""),
+            all().mean().suffix(""_mean""),
+            all().null_count().suffix(""_null_count"")
+        ]).collect()?;
+
+    // wide table to long format
+    let mut long = out.transpose()?;
+    // add the headers as new column
+    long.insert_at_idx(0, Series::new(""statistic"", out.get_column_names()));
+
+    dbg!(long);
+    Ok(())
+}
+```
+
+```
+[src/main.rs:19] long = shape: (20, 2)
+┌─────────────────────┬──────────┐
+│ statistic           ┆ column_0 │
+│ ---                 ┆ ---      │
+│ str                 ┆ str      │
+╞═════════════════════╪══════════╡
+│ category_count      ┆ 27       │
+├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌┤
+│ calories_count      ┆ 27       │
+├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌┤
+│ fats_g_count        ┆ 27       │
+├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌┤
+│ sugars_g_count      ┆ 27       │
+├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌┤
+│ ...                 ┆ ...      │
+├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌┤
+│ category_null_count ┆ 0        │
+├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌┤
+│ calories_null_count ┆ 0        │
+├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌┤
+│ fats_g_null_count   ┆ 0        │
+├╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌┤
+│ sugars_g_null_count ┆ 0        │
+└─────────────────────┴──────────┘
+
+```
+
+The `DataTypes` are exposed via `DataFrame::schema` and are show default in the table pretty prints.
+
+
+**Edit**: Addendum
+
+> but it lacks ergonomics around generic, total DataFrame expressions
+
+This is something that polars doesn't want to provide too much by design. We strive for a small API that is composable, and by combinatorial explosion still will be large :).
+
+Our expression API gives these composable blocks. With that you should be able to do all generic `DataFrame` methods, but then with a consistent API that is predictable and similar in:
+
+- selecting columns/ projection
+- groupby operations
+- horizontal operations
+- filtering data
+
+In the snippet below, we show how we can apply a computation on columns/groups of datatype `Float64` and how we can use the same sort of expressions in a vertical operation (projection), a groupby operation, and a horizontal operation (via `arr().eval()`)
+
+```rust
+let my_expression =
+    dtype_col(&DataType::Float64).pow(2.0) / dtype_col(&DataType::Float64).sum();
+
+// do vertical operations
+df.lazy().select([my_expression]).collect()?;
+
+// do groupby + aggregate operations
+df.lazy().groupby([""foo""]).agg([my_expression]).collect()?;
+
+// do horizontal operations
+df.lazy()
+    .select([concat_lst(vec![all()])
+        .arr()
+        .eval(first().pow(2.0) / first().sum())])
+    .collect()?;
+
+```"
+24,ritchie46,1653502546.0,43.0,">eople who would never put in the time to learn Rust, as they can do most of their job in python.
+
+Polars has a first class python API"
+25,hatuthecat,1653500509.0,25.0,Polars has included python bindings. Same idea as numpy being bindings for a C library.
+26,alt32768,1653491366.0,44.0,Whats going to overthrow git?
+27,Sw429,1653495433.0,8.0,"Wait, what's flawed about git?"
+28,DontForgetWilson,1653496712.0,25.0,Polars works great using its python API.
+29,apjenk,1653765783.0,3.0,"Polars would be very slow too if you iterate over rows in python. That’s a python problem, not a polars/pandas problem. You avoid that by using the library’s built-in mechanisms for iterating or aggregating, so that the actual looping happens in C/Rust."
+30,elingeniero,1653557061.0,2.0,To be fair the reason doing that is so discouraged is because you need to use the aggregate functions (can't remember their specific terminology) to get any performance enhancement. It's not intended for that purpose.
+31,elingeniero,1653557183.0,1.0,"https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html
+
+I hate it a lot.
+
+Edit: Actually the polars docs offers a direct comparison:
+
+https://pola-rs.github.io/polars-book/user-guide/indexing.html"
+32,Feeling-Departure-4,1653566616.0,3.0,"The work you are doing is also wonderful, I didn't mean that in a disrespectful way. It's ambitious work and I'm grateful for it.
+
+I think you have been CC'd on the issue I had in mind that was filed in Polars."
+33,Al3xR3ads,1653494912.0,13.0,Gotta love those numbers with R consistently placing near the top.
+34,Hadamard1854,1653512858.0,4.0,somebody does need to update those benchmarks though.. they are starting to get very old.
+35,Hadamard1854,1653512769.0,18.0,that was a *wild* critique.. I think you're good..
+36,matt4711,1653540738.0,3.0,"I'm bringing this up because inside corporate environments you are not allowed to take dependencies directly on github repos as we mirror crates.io for various reasons (think license compliance, supplychain attacks etc.)
+
+Concretely I'm still waiting to be able to use the fix to [this](https://github.com/pola-rs/polars/issues/3312) issue I reported 20 days ago :). I like your crate that's why I'm bringing up this issue as it is frustrating to see the python version having the fix while I need to use workarounds till the next version is released."
+37,nyc_brand,1653502616.0,18.0,I stand corrected haha. Than it just becomes about showing it’s better than pandas
+38,DontForgetWilson,1653491666.0,46.0,"Nothing anytime soon.
+
+I believe a lot of people think Mercurial has a better API. I know there is a Rust based one that is supposed to make more complex merges and such easier.
+
+Git is a very effective tool(I don't use any other stuff over it), but it suffers a bit from the whole ""no single way"" problem that perl was known for."
+39,livrem,1653492686.0,19.0,"Probably nothing, but I started using fossil for my personal projects over a year ago and see no reason to go back (well, almost all my older projects still use git, but not going back to use git for new projects).
+
+As for Pandas, it seems like it did a pretty good job at replacing R in only a few years? As in, a few years ago all I saw everywhere was R, but now Pandas is everywhere?
+
+Tried to use Pandas for the first time only a week or two ago, but figuring out their APIs was just too much work for the little thing I wanted to do. Curious about Polars. Never saw that before. Might be a good reason to get some more practice with Rust."
+40,Chad_Nauseam,1653521992.0,4.0,Pijul isn’t a serious contender yet but I’d really like it to be. It has a beautiful model of patches and makes version control much more intuitive
+41,Kaathan,1653492736.0,1.0,"Offtopic:
+
+It doesn't exist yet, but i predict it will be able to have better abstractions and usability for dealing with related groups of commits than (or in addition to) branches/tags. Feature branches are a pain with plain Git. 
+
+Let's say you want to look at your history two years from now and determine which commits belong together (and you didn't squash because that would mean you are literally giving up on treating changesets like a set of commits). You have these options:
+
+- Not delete your feature branches and end up with hundreds/ thousands of them over time or add some script that auto-renames or tags merged branches, which is still ugly and does not prevent errors or reuse of those branches/tags (tags are horrible in general because they don't have a tracking mechanism, which makes correcting wrong tags a chore).
+- Use commit messages or a custom freetext field to tag commits that belong to the same feature. Bad because Git doesn't know that those belong together and therefore cannot give you good tools to browse changesets.
+- Not use Git at all and use external software instead to record which commits belong together (basically Pull Requests)"
+42,gnosnivek,1653498151.0,31.0,"I personally found [these](https://stevelosh.com/blog/2013/04/git-koans/) to be quite funny. They're a little tongue-in-cheek, but IMO git has always had problems in how intuitive it is to use. I've rarely, if ever, figured out how to do something in git without googling it.
+
+Also, I think it's interesting that `git checkout` is such a mess that `git help` no longer displays it as a common subcommand, instead preferring `git switch` and `git restore`."
+43,OS6aDohpegavod4,1653495640.0,10.0,"Just a guess, but a lot of devs have the mentality of ""just learn the 4 or 5 git commands you need to get by and don't worry about the hundreds of others"". So maybe complexity?"
+44,obsidian_golem,1653498658.0,12.0,"Git's functionality is fine (except for at megascale). The UI is horrifying however, as anyone who has ever tried to work with submodules can tell you."
+45,IshKebab,1653503495.0,8.0,"The UI and terminology are awful. It has some other minor issues but overall I don't think any of that is quite bad enough to overcome the network effects and bother with something else.
+
+People are quite willing to put up with bad UIs generally.
+
+That said, one alternative I've seen that is compatible with Git is [JJ](https://github.com/martinvonz/jj) which looks interesting. And Pijul may have a chance."
+46,pmeunier,1653590973.0,1.0,"When people describe the algorithms in Git, they tell you about diff'ing and branches. They almost never think merging is a problem. I strongly disagree: diff algorithms have been known for decades, and branching is the natural thing in functional programming languages.
+
+Merging and conflicts are the only interesting topics in any *technical* discussion about version control tools. Conservatism/community is a cool topic to discuss too: I'm sure you can find people to discuss these on the C++ subreddit, but I'm surprised to see those here.
+
+First, there are some deep correctness issues in Git. Although these have been observed in the real world, I am not aware of major security breaches caused by these, but it could very well happen:
+
+1. Merges don't really do what you think: 3-way is the wrong problem to solve when merging. It is a essentially a diff of diffs. As you probably know, ""diff"" or ""longest common subsequence"" may have multiple solutions in some cases (e.g. when you add a function, sometimes the last \`}\` of the function immediately above gets added instead of the last \`}\` of the new function). This is fine for diffing, since applying a patch is unambiguous. However, it doesn't make sense for merges to have many solutions and just pick one at random.
+2. This has the consequence that merging commits one by one often does the wrong thing and results in artificial conflicts (Git even has a command called \`git rerere\` to ""try and fix that in some cases"", but as the description says, it doesn't always succeed).
+
+There are also practical/modelling issues. I am aware of countless occurrences of expensive engineers wasting considerable amounts of time due to these:
+
+1. Commits do not model most people's work: except for the very first commit in a repo, I can't remember of a single time where I've felt like I was working on a *snapshot* (i.e. working on an entirely new version of the project referencing zero or more other versions in its metadata). When I work, I *change* my repos. And commits are almost never shown to you as what they are. All UIs I know of show them as diffs with other commits.
+2. Conflicts are not modeled internally. This means that when you solve a conflict, you can't easily use your resolution on another branch when the exact same conflict has occurred.
+3. The order in which commits are linked together matters. While this may sound reasonable, it means that you can't easily cherry-pick a feature from another branch. Why would you need to choose between \`git pull\` and \`git pull --rebase\`? Note that I'm not saying that you should not be able to reference versions by their names/hashes (for example, Pijul has ""states"", which use elliptic curve algebra to compute a hash that is insensitive to the order). I'm also not saying that the order doesn't matter **in the UI**: it does matter, a lot (and Pijul does order patches locally).
+
+Unlike other commenters here, I don't mind Git's broken UI (even though I've worked hard to make Pijul's UI as small and tidy as possible), because I know where it comes from and I like Git's elegant, simple design for storage and forking. It makes me smile to see people think that Pijul isn't ready yet because it has 20 times less commands than Git: Pijul will never have more commands, and it's a feature.
+
+Note that GitHub and IDEs are extremely useful when using Git, because Git is easier to manage when centralised, and because it's hard to remember all the commands. With a tool that models the intuition (which Pijul tries to be), this is a nice-to-have, but not as fundamental as with Git.
+
+Finally, Git has this magical property that whatever you say about it (this thread is a great example), its fans will come up with suggestions to change your natural way of working, sometimes in radical and costly ways, so that these flaws have a lower probability of coming up. They might even tell you that you should spend time thinking about version control instead of actually working."
+47,real_men_use_vba,1653497187.0,23.0,I would even assume the majority of polars users are using it as a Python library
+48,SinusoidalElephant,1653497184.0,4.0,"That's great, I'll try it."
+49,ritchie46,1653576250.0,1.0,Note that we regard indexing in polars as an anti-pattern for most cases. ;)
+50,jorgecaleitao,1653569582.0,2.0,"not at all, I am genuinely interested to see how we can improve things.
+
+Sorry, I can't figure out by your username here your github handle. This one? https://github.com/pola-rs/polars/issues/3473"
+51,CrossroadsDem0n,1653496971.0,30.0,"Which, if I recall, means what is being measured is BLAS or LAPACK. How these benchmarks are set up, and how they correspond (or dont) to what you want to do, is the real story. Pandas and Numpy do great with vectorized operations and can blow chunks horribly otherwise. Similarly for R. The languages themselves are rarely what is under the magnifying glass, more it is how efficiently they deal with sharing data with libraries vs whether the benchmark is thumping on a point of performance weakness."
+52,BayesDays,1653530112.0,5.0,"R's package 'data.table' has a really awesome api that enables some really complex operations with a clean and coherent syntax, both for ad Hoc and dynamic use. 
+
+For example, if I want to modify / create a column with conditional logic, it's as simple as df[, ColName := fifelse(OtherCol > 3, 1, 0)].
+
+What's even better, is the ability to easily do rolling style calculations by grouping dimensions without aggregating the data.
+
+I wish polars had replicated data.table's API instead of pandas. I realize there is a Python datatable package meant to replicate R data.table, but the performance of polars is serious business in comparison."
+53,matt4711,1653540480.0,-12.0,insightful comment dude... NOT
+54,ritchie46,1653542095.0,6.0,"I can understand your frustration. 
+
+When we fix something in master and we are already ahead the released arrow, there is nothing we can do but wait until it's released.
+
+Your specific issue has been patched in arrow2 and released to crates.io, so that should be fixed without us updating.
+
+Cargo can update to patch releases. E.g. z in x.y.z.
+
+In any case, I don't consider rust second citizen even though we release a bit slower paced."
+55,sparky8251,1653494920.0,49.0,"https://pijul.org/
+
+From what little Ive read of it and used of it, it is quite a bit better."
+56,masklinn,1653495441.0,19.0,"> I believe a lot of people think Mercurial has a better API. 
+
+It very much does, before we even start comparing revsets to the crime against humanity that is gitrevisions(7). 
+
+So does darcs incidentally. 
+
+> Git is a very effective tool(I don't use any other stuff over it), but it suffers a bit from the whole ""no single way"" problem that perl was known for.
+
+Not really, there aren’t too many different ways to do the same thing unless you start mixing plumbing (any thing that’s two words separated by a dash) and porcelain but that makes sense. There are some but they tend to be shortcuts, and… meh.
+
+The issue of git’s UI (high-level, the porcelain) is how incoherent it is, its logic is piecemeal and bottom-up, it’s logical (kinda) in terms of implementation details, rather than having a top-down task-oriented logic.
+
+It also made some really annoying naming mistakes early on. And has a fair amount of frustrating (and dangerous) defaults."
+57,PepegaQuen,1653563394.0,3.0,"Even if git has worse api than <any other project>, git has one giant advantage that makes it does not matter. 
+
+GitHub. Network effect there is very large."
+58,weberc2,1653621206.0,1.0,"Mercurial had a better user interface, but it had no API. The docs told people that the only stable interface was the CLI."
+59,clovak,1653495238.0,36.0,"> As in, a few years ago all I saw everywhere was R, but now Pandas is everywhere?
+
+I think it has much more to do with Python being general-purpose programming language than with Pandas being fast, robust and easy-to-use library. 
+
+Anyone who worked with R can probably confirm that dplyr + ggplot is simply much better than polars + matplotlib. Polars + plotly has potential to become a reasonable replacement. Actually,  it is very interesting that given the popularity of Python in data science and machine learning, Python data preparation and visualization libraries feel quite inadequate."
+60,CartmansEvilTwin,1653509379.0,8.0,"Pandas feels so weird, because it's only a semi-abstraction of the underlying data structure (NumPy), which in turn incorporates decades old Fortran code. 
+
+Not that this is a valid ""excuse"", but it does make kind of sense."
+61,TinySpidy,1653504737.0,2.0,"How do you like Fossil, if I may ask? Is it nicer to use for personal projects with a single contributor?"
+62,weberc2,1653621296.0,1.0,Are there any good code hosting services for fossil?
+63,nuunien,1653496359.0,1.0,Merge commits?
+64,Sw429,1653495937.0,15.0,"[Like this?](https://xkcd.com/1597/)
+
+I honestly don't think it's that complex, but I guess I've used it for years so maybe I've grown accustomed to it. But feature-wise, I've never come across something I couldn't do with git that I wanted to do."
+65,WormRabbit,1653518126.0,7.0,"No matter how great Pijul is, I won't use it until Github or Gitlab _and_ my IDE support it natively, and they won't bother until it gets strong momentum. So, we have a bit of a pijul and egg problem here..."
+66,cosmicbridgeman,1653559550.0,2.0,"Jujitsu looks pretty interesting, thanks for the intro."
+67,kaplanfx,1653536250.0,9.0,Yeah it didn’t make sense to me that people would use a complied language for general purpose data analysis. It makes a lot more sense when you realize it’s also a Python library.
+68,Feeling-Departure-4,1653585865.0,1.0,"https://github.com/pola-rs/polars/issues/3120
+
+This one. 
+
+I'm not sure where the issue lies whither in Polars or arrow2, but the memory consumption more than the version issue is what would make me reluctant to replace my Spark workflow at this time.
+
+PS I love that you are using portable SIMD in your code, this is my favorite unstable feature in Rust."
+69,DontForgetWilson,1653495158.0,12.0,"That's the rust one i was thinking of.
+
+I can't speak to whether it is better or not."
+70,johnm,1653501728.0,3.0,It's the one that I'm following closely (and playing with when new releases come out). It's great that their focus has been on getting the core fundamentals but it's still very young.
+71,rikyga,1653541486.0,-1.0,so no reason why it's better
+72,DontForgetWilson,1653495837.0,7.0,"> Not really, there aren’t too many different ways to do the same thing unless you start mixing plumbing (any thing that’s two words separated by a dash) and porcelain but that makes sense. There are some but they tend to be shortcuts, and… meh.
+
+Given the length of most git command -h outputs, I don't believe you. Some of that could have been handled by better defaults, but a lot of it is just a case of people thinking about adding functionality without considering usability. It reminds me of grep versus ripgrep. Aside from the speed, rg has good defaults and not overwhelming extensibility."
+73,DontForgetWilson,1653605231.0,5.0,"Network effects change.
+
+Otherwise we'd all still be on sourceforge.
+
+That and github would probably be fine moving to a superior technology while providing the same kind of services."
+74,SuspiciousScript,1653499767.0,7.0,"The best one I've found is [plotnine](https://plotnine.readthedocs.io/en/stable/), which is just a reimplementation of the ggplot API."
+75,mandradon,1653507196.0,1.0,"I was in grad school about 8 year ago working in social science. Did a lot of work with R, MPlus, and Stata.
+
+Recently learned Python and checked out Pandas and realized how much easier it is to manipulate data frames that fiddling with R. R got the job done, but Pandas makes sense. It may be I've learned a lot more and learning Python has helped, but I bet if I tried to go back to R, I'd still prefer Pandas over R.
+
+That being said, I've recently started learning Rust and have fallen for it and any would be excited for learning any tools for it."
+76,danielv134,1653564521.0,1.0,"I have used python + pandas, and also used R+data.table+ggplot, and I prefer the former. It is mostly the python over R, but the data.table API is, while concise, not comfortable IMO. At small scales it was lack of uniformity and symmetry in the API. At large scales the super comfy binding of column names would lure people into large nested data.table blocks. Both cases make for bad readability. This does not matter for data exploration if you are alone, but if someone ever wants to redo it on next version of dataset..."
+77,livrem,1653516902.0,2.0,"I think most benefits, with the built-in issue-tracker and wiki etc, are more useful if you have a small team, as in the intended use, or if you want to host a public source repo (like https://sqlite.org/src/doc/trunk/README.md). All that from a single statically linked binary. The way I use it is more like an easier to use git that has nice defaults, and I play around with the other features and think it is neat that they exist if I ever need them. It has some git interop as well, so it is possible to have a public git repo somewhere you sync against (e.g. on GitHub)."
+78,livrem,1653681386.0,1.0,"I have no idea, but one nice thing about fossil is that it is just a single binary that is trivial to self-host."
+79,eo5g,1653502840.0,1.0,"How do you tell which parent of the merge had the feature branch, and which one was the one it was based off of?"
+80,Kaathan,1653506663.0,1.0,"Maybe, if merge commits would actually easily tell you what the hell happened and you always had only ever one final merge. For example, can you tell of the top of your head:
+
+- How do you get the div of the feature against the main branch at the time of merge (its possible thanks to merge commit parents having a fixed order, but that is stupid to rely upon UI-wise)
+- How you can tell that the merge was done without any manual conflict resolution, or what was manual conflict editing and what was auto-merged (of course in reality you would ensure no conflicts with PRs but my argument is you should not need that kind of additional software; this is also possible with plain Git if you happen to be a Git console/diff god)
+- How do you do all of this if one of your teammates fucks up by reusing an already merged feature branch, so now you deal with multiple merges?
+- How do you get the name of the merged feature if you don't religiously repurpose every commit's title to contain ticket references? (im not arguing against doing that, im saying there should be a better solution)"
+81,OS6aDohpegavod4,1653497523.0,20.0,"There are a ton of very advanced features I've never used, and I've used it for a very long time too. Even something as simple as an interactive rebase, I have to remind myself what the syntax is for where the tilde goes, how many commits will be included, etc. IMO it isn't very intuitive. Don't get me started on resolving merge conflicts during a rebase and how the meaning of ""ours"" and ""theirs"" changes depending if it's a rebase vs merge. Even if it were consistent, the naming of those is just horrible and ambiguous IMO."
+82,IshKebab,1653559233.0,1.0,"I mean there's a point at which it could be so amazing I would. E.g. if I have to manually resolve like 1/3 as many conflicts as with Git.
+
+But I agree, it's a high bar because of how widespread Git is."
+83,Thick-Pineapple666,1653610069.0,1.0,"To be honest, I had so much pain with pandas because Python is not strongly typed, that I would surely use a worthy pandas alternative in a ststically typed language like Rust. I don't care whether it is compiled or not."
+84,jorgecaleitao,1653587460.0,2.0,"gotcha, indeed that slipped through the cracks of the triage. I am sorry for that. I will look at it."
+85,sparky8251,1653496699.0,15.0,Pretty much same here. So much inertia behind git its genuinely hard to use alternative source control systems with large groups and projects to see how it pans out in the real world.
+86,KingStannis2020,1653527465.0,32.0,"> ## One Thing Well
+> 
+> A UNIX programmer was working in the cubicle farms. As she saw Master Git traveling down the path, she ran to meet him.
+> 
+> ""It is an honor to meet you, Master Git!"" she said. ""I have been studying the UNIX way of designing programs that each do one thing well. Surely I can learn much from you.""
+> 
+> ""Surely,"" replied Master Git.
+> 
+> ""How should I change to a different branch?"" asked the programmer.
+> 
+> ""Use git checkout.""
+> 
+> ""And how should I create a branch?""
+> 
+> ""Use git checkout.""
+> 
+> ""And how should I update the contents of a single file in my working directory, without involving branches at all?""
+> 
+> ""Use git checkout.""
+> 
+> After this third answer, the programmer was enlightened.
+> 
+> 
+> ## The Hobgoblin
+> 
+> A novice was learning at the feet of Master Git. At the end of the lesson he looked through his notes and said, ""Master, I have a few questions. May I ask them?""
+> 
+> Master Git nodded.
+> 
+> ""How can I view a list of all tags?""
+> 
+> ""git tag"", replied Master Git.
+> 
+> ""How can I view a list of all remotes?""
+> 
+> ""git remote -v"", replied Master Git.
+> 
+> ""How can I view a list of all branches?""
+> 
+> ""git branch -a"", replied Master Git.
+> 
+> ""And how can I view the current branch?""
+> 
+> ""git rev-parse --abbrev-ref HEAD"", replied Master Git.
+> 
+> ""How can I delete a remote?""
+> 
+> ""git remote rm"", replied Master Git.
+> 
+> ""And how can I delete a branch?""
+> 
+> ""git branch -d"", replied Master Git.
+> 
+> The novice thought for a few moments, then asked: ""Surely some of these could be made more consistent, so as to be easier to remember in the heat of coding?""
+> 
+> Master Git snapped his fingers. A hobgoblin entered the room and ate the novice alive. In the afterlife, the novice was enlightened.
+
+https://stevelosh.com/blog/2013/04/git-koans/"
+87,eo5g,1653502755.0,5.0,"That's sort of the inverse of ""there's more than one way to do it"". It's more like ""one command does multiple things"", right?"
+88,masklinn,1653508393.0,4.0,"> Given the length of most git command -h outputs, I don't believe you.
+
+Feel free to actually go and check[0]. Like, sure, there's overlap between `checkout -b` and `git branch`, that's the entire point, it's a shortcut and it's documented as such. And `git pull` makes no secret that it's a convenience shorthand for combinations of `fetch` and `merge` (or `rebase`).
+
+[0] although do be careful when you do, they are *wilfully* trying to add new commands with a more top-down and thoughtful design. That e.g. `git switch` overlaps with `git checkout` makes perfect sense as the entire point is to provide a more focused alternative for a subset of its operation. Likewise `git restore`."
+89,Hadamard1854,1653512708.0,2.0,"things have changed quite a lot.. there is `data.table` and the tidyverse rocks.. 
+
+I'd say you'd be surprised."
+90,weberc2,1653685057.0,1.0,"Sure, but I get a lot of value out of GitHub’s web interface, specifically the pull request view (I like to glance over my code there before I merge to master—for whatever reason I catch things in that view that I miss with terminal visualizers). I also need web hooks to trigger CI jobs."
+91,pejatoo,1653516721.0,2.0,I wrote a merge driver for a release notes txt at my last job just for the hell of it. I still don’t feel I fully understand ours vs theirs and how it changes from rebase to merge :/
+92,DontForgetWilson,1653501663.0,13.0,"Yeah, justifying moving forward more or less requires a major flaw in the existing solution directly hindering the project.
+
+AFAIK, for SVN the big flaw was speed when dealing with a large enough repo with too much centralization being an important second. Git solved that.
+
+I don't think there is yet a big show stopper in git. Once someone iterates enough on something like pijul, it may get easier/more powerful enough to justify changing. However, that is going to require one heck of a critical mass."
+93,Dietr1ch,1653616541.0,1.0,"There's a lot of inertia, but I often run into things that should be easier, but are tiresome.
+
+Maybe something could be built on top of git, but we already have things like git-flow and there's probably reasons on why they are not widely used anyways."
+94,rikyga,1653541661.0,0.0,"umm, what...git has been in the real world for years and has supplanted all other VCS's"
+95,digikata,1653596565.0,2.0,"I think they should have added 
+
+""And how can I delete a remote branch""
+
+""git push <remote> :<branch>"
+96,DontForgetWilson,1653540353.0,1.0,Had not seen that before. Quite amusing.
+97,DontForgetWilson,1653503760.0,8.0,"Yes, but sometimes you'll have two commands that do the same or similar things based on combinations of options.
+
+Also, if you have near infinite variations of commands, the ""real"" subset of commands implicitly exists among the userbase, but just isn't documented as such."
+98,masklinn,1653508074.0,1.0,"If commands are larger, there's more chances of overlap between them."
+99,epicwisdom,1654052420.0,1.0,"`merge` and `rebase` are the most common offenders... Although they of course do different things, the problem is they're *subtly* different, and in many cases are used to accomplish the same outcome."
+100,mandradon,1653515790.0,2.0,"I'll have to check it out. I've been pretty disconnected from R since I went back to teaching. I never disliked R, but I really liked what I found in Pandas.
+
+I remember being frustrated trying to do HLM analyses in R before, but those modules were pretty new at the time and my datasets were a mess, so it would have been hard had in the best of times."
+101,Sharwul,1653533199.0,7.0,"git's show stopper is not being able to handle huge monorepos well. Google has a huge monorepo and does not use git internally, because it doesn't scale to the repository size they have. Google rolls their own version control solution (named Piper), which afaik is not publicly available"
+102,Taladar,1653524579.0,2.0,"SVN's other big flaw was mutable tags. The whole ""everything is a file/directory"" model just didn't work very well for version control."
+103,jonathansharman,1653789485.0,1.0,They mean it's hard to use the alternatives in the real world.
+104,n_girard,1653546171.0,1.0,That's what she said.
+105,flashmozzg,1653574056.0,4.0,"Well, MS on the other hand created a fork/tool adding VFS support to Git: https://github.com/microsoft/VFSForGit
+and it seemed to have worked out for them. It is sort of a hack (although I see that they now have a Scalar thingy that is just a thin shell around git core features, so it's not that bad), but just shows that Git has had enough momentum to justify this hack, instead of going with some better suited alternative tools."
+106,farcaller,1653553855.0,2.0,"according to Wiki piper uses Mercurial as its frontend, which somewhat shows that hg has a good user experience on that side."
+107,rikyga,1653541723.0,2.0,maybe that approach isn't advisable
+108,mvdw73,1653562153.0,1.0,"Don’t forget that git was developed because the Linux kernel was no longer allowed to use it as its source control for free. Linus and Andrew Tridgell basically wrote the first version of git in a weekend. 
+
+Edit: it was bitkeeper, not mercurial, that withdrew the free license to use. Mercurial was developed at the same time as git for largely the same reasons."

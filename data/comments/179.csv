@@ -1,0 +1,998 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,its_a_gibibyte,1590622249.0,64.0,Is rust really that lovable? What's the deal?
+1,ChainsawArmLaserBear,1590630388.0,27.0,"I wonder how much of this is based on active use.
+
+Like, as a non-Rust developer, I actually don't find myself on Stack Overflow all that often unless there's a really esoteric, one-off question that I don't feel like reading a textbook to answer."
+2,zitrusgrape,1590614641.0,42.0,https://www.reddit.com/r/rustjerk/ /s
+3,,1590668526.0,7.0,The best part of programming is breakpointing and single stepping with a debugger to find memory access defects and adding short delay loops to fix race conditions. WillI like Rust?
+4,gaoshan,1590639795.0,28.0,My takeaway from that survey is that the most beloved language that a lot of people use is Typescript. Rust is an anomaly to me.
+5,sm2345,1590716583.0,3.0,"There's this excellent video (not made by me) called [Considering Rust](https://www.youtube.com/watch?v=DnT-LUQgc7s) which goes into some detail on Rust's selling points, drawbacks and so on. I think it's a good watch for programmers who have experience in other languages but are curious about Rust.
+
+Kudos to the author for making this!"
+6,Malgidus,1590622384.0,23.0,"And VBA the most hated. I pleasantly agree with both: Rust is easily one of the best languages, and VBA is easily one of the worst."
+7,,1590638782.0,38.0,[deleted]
+8,,1590670649.0,3.0,[deleted]
+9,shruubi,1590707686.0,3.0,"I feel like Rust is currently going through a cycle similar to how Ruby was a few years ago, it's a reflection of it being the current trendy thing in the industry due to certain people who are ""Twitter-influential"" jumping ship to the Rust bandwagon like they have for every other new, trendy technology over the last few years."
+10,typenil,1590667411.0,8.0,"Only started getting into Rust in the last few weeks (after meaning to for years). It's much clearer to me now why actual usage is so low.
+
+All that safety comes at the cost of frontloading a lot of required knowledge to get things to compile."
+11,,1590663332.0,8.0,[deleted]
+12,,1590642250.0,2.0,[deleted]
+13,devraj7,1590665062.0,2.0,I love the idea and execution of Rust but I'm pretty sure I would dislike actually coding in it.
+14,Artikash,1590684348.0,1.0,How is Swift so far down? What’s not to like about Swift?
+15,Dean_Roddey,1590702397.0,1.0,"I'm a long, long time C++ developer and staunch OO advocate (when it's appropriate of course.) I've been digging heavily into Rust for the last couple months. Of course I could have just read articles forever and wouldn't have ever really gotten it. You sort of have to just jump in. And of course of course with only a couple months, despite deep diving, I've only scratched the surface.
+
+It's like the completely annoying, known it all purist guy, and it can drive you crazy. And I hate that it ignores full inheritance. And I hate the fact that I spend a lot of time doing manually what exceptions could have done for me.
+
+But, it has that one big party trick that's hard to ignore. That's probably why most folks who use it are using it. My hope is that some company (AKA Microsoft) would come along with a language that has the same memory safety, but learning from Rust's mistakes and making it a full on OO language. I'd be all over that.
+
+In the meantime, I'll continue to explore Rust. Just to give myself a practical target I'm attempt to port my large C++ code base. Well, mutate my large C++ code base, you can't really 'port' from C++ to Rust for the most part, since they are so different. You really never appreciate how convenient a cavalier attitude towards memory safety is until you can't do it anymore.
+
+One big problem Rust has is that it can't be some all seeing, all knowing code analysis tool as it's compiling. The overhead would be huge and compilation painfully slow. So it keeps its analysis very localized. That means that some things that actually would be safe if it could understand them, it will reject. That can be annoying."
+16,,1590656088.0,-9.0,"Jesus, the fanbois are out in force today!
+
+> Rust held onto it’s spot as the most beloved language among the professional developers we surveyed. That said, the majority of developers who took the survey aren’t familiar with the language.
+
+If you read the small print the graph shows the following:
+
+> % of developers who are developing with the language or technology and have expressed interest in continuing to develop with it
+
+That means 13.9% of rust developers hate it."
+17,,1590696235.0,-1.0,I'll just leave this here: https://www.cvedetails.com/product/48677/Rust-lang-Rust.html?vendor_id=19029
+18,,1590683445.0,-6.0,[removed]
+19,,1590667646.0,-9.0,Rust is a one trick pony.
+20,,1590624030.0,173.0,[deleted]
+21,,1590670241.0,16.0,"Coming from a C++ background it's a huuuuuge upgrade.
+
+After the initial learning curve just about everything is easier. Coding is easier since the compiler thinks about a lot of the stuff you had to think of manually when using C++ and building is waaaay easier since Rust comes with a pretty good build system out of the box. There's no haphazardly duck taping libraries and build systems like you do in C++.
+
+The only thing I miss about C++ is the rock solid utility libraries like boost, but the Rust ecosystem is getting bigger and more mature by the year so it'll get there."
+22,the_game_turns_9,1590625485.0,126.0,"Rust isn't used in many production environments, so very few people are forced to use it. As Bjarne put it, ""There are only two kinds of languages: the ones people complain about and the ones nobody uses.""
+
+Rust is the kind of language that you wouldn't even want to approach unless you were buying what it is selling, so you won't get very many dislikers since the dislikers will just never bother to become proficient in it.
+
+And I'm sorry to say this, but when the Rust language fails to handle a case well, the Rust community tends to blame the coder for wanting to do the wrong thing, rather than the language for not being able to handle it. In cases where other language users would say, ""oh for fucks sake, this is stupid"", the Rust community tends to say ""That's bad form, you should rearchitect."" If you're outside the community, it can look a bit rose-tinted-glasses.
+
+I'm not saying Rust isn't a good language, but I don't think that's all thats going on here."
+23,UK-sHaDoW,1590671567.0,7.0,"Learning to write C++ bug free is freaking hard. It easy to get started with C++ but your probably writing tons of bugs with every line of code.
+
+Rust is hard to get started, but its covering your butt for you most the time. It's pain in the ass to get it to compile though.
+
+So its like marmite. A lot of people really hate it because they don't understand what it's protecting you against and feels really hard to use. They haven't learned **RAII** and the thousands things of that C++ lets you write code without, and don't realise the stuff their code is missing. Or they're just really lax in writing code?
+
+Then there's people who know what its protecting you against and love it for it."
+24,sex-fluids,1590643548.0,13.0,"I had to pick it up in the last few months (started by building something to parse and normalize huge amounts of data from multiple sources) and coming from JavaScript it's kind of incredible. The ergonomics aren't great at times (especially at first), and if you're used to a foot-gun language like JS or Ruby you could find yourself writing weird unnecessary abstractions that Rust probably already solves for. It's a bizarre shift in that regard. But Cargo *just works* like you'd hope npm would. The packages are generally high quality. The compiler is pretty good at telling you how you're fucking everything up. The type system is very capable and helpful. When you design things well, you can get away with remarkably concise yet robust solutions. I find when I finish something I feel pretty good, like... I wrote something that'll run and perform well.
+
+At first I thought things like ""God damn, I need to worry about x and y? I just want to write code"", but now I actually enjoy writing it a lot. It's been an eye opener.
+
+If you haven't tried it, I recommend starting out with a simple CLI tool tutorial. It's very easy to get going and once you've written something that actually works, you might see the value in it."
+25,netsec_burn,1590628231.0,22.0,"I love Rust for two reasons. One, because of how easy it is to make relatively safe code. The compiler is very helpful. Two, the community is so friendly and welcoming. I contrast that to my experience with the Python community, where I was repeatedly told to read the docs, use lib x, or that I shouldn't bother to code y if I didn't know how. The Rust developers really go out of their way to help, even extending beyond the language (s/o seri). One year on, I'm a happy Rust programmer and I like helping the newbies. It's been a positive experience and the language just keeps getting better."
+26,,1590667367.0,2.0,I recommend trying it. It’s open source and has no barrier to entry.
+27,IndependentDocument5,1590635864.0,-21.0,"Honestly people like to say they love rust just like the idea of it
+
+It's poorly executed trash for half a dozen reasons which anyone knows if they actual used the language. It's terrible and not well thought out."
+28,GayAnalMan2,1590716710.0,-2.0,It is a superior language for a truly superior kind of mind.
+29,thiago2213,1590665142.0,15.0,"Only 5% of the surveyed actually use it. The post itself points out _Rust held onto it’s spot as the most beloved language among the professional developers we surveyed. That said, the majority of developers who took the survey aren’t familiar with the language_"
+30,,1590668106.0,9.0,Read the article and wonder no more.
+31,,1590667422.0,-13.0,Salty
+32,coderstephen,1590688473.0,6.0,"No, you monster."
+33,zerakun,1590784278.0,3.0,"While it's true, the sentiment is not shared by management.
+
+I can see you implementing unsafe heavily optimized data structures in rust"
+34,Dall0o,1590655243.0,36.0,My humble guess is that TypeScript fix a lot of troubles js devs face like Rust fix a lot of troubles C++ devs face.
+35,thiago2213,1590666333.0,9.0,"It is _my_ favorite at the moment for sure. I worked many years with C# and disliked JS so much. Once TS started gaining traction I put some effort into convincing my colleagues to migrate, now our legacy project is hybrid and new projects are TS only. I love it."
+36,JB-from-ATL,1590694056.0,4.0,I toyed with Rust. I found it very enjoyable. Great tools and helpful documentation.
+37,asmx85,1590654786.0,2.0,Rust – for sure – is an anomaly in every sense of the word.
+38,Sokusan_123,1590689581.0,1.0,"I agree,
+
+This graph should've been somewhat weighted in regards to # of responses imo, not just a raw percentage."
+39,LegitGandalf,1590624708.0,6.0,"Just think about how much of the world runs on VBA now, terrifying really!"
+40,milliams,1590655787.0,37.0,"The percentage of people who ""loved it"" is actually the percentage of ""people who use the language who loved it"". So in that 2019 survey 3.1% of respondents had used Rust and 83.5% *of that 3.1%* loved it.
+
+This year 5.1% of respondents had used Rust and 86.1% of them love using it.
+
+There's no artificial promotion here, just conspiracy theories."
+41,coderstephen,1590693421.0,7.0,"I don't really understand this position myself. I use Rust weekly, and really enjoy it. Its my preferred language for many kinds of programs (not all). The language is well-designed and solves real-world problems. Why _wouldn't_ I suggest it to people? I always share languages and tools I come across to other people if they're useful; how is Rust any different?
+
+Granted, I don't want to be pushy, and there are a few who definitely push it way too far. But on the other hand, I've also seen a lot of people who unfairly push back on _any_ discussion of Rust, labeling it as ""spam"" and ""fanboy noise"" just because they hate it so much. Both are equally unnecessary."
+42,GYN-k4H-Q3z-75B,1590651417.0,9.0,"In system's programming, Rust competes with C and C++. Look how long it took C++ to take over. The only reason it did was complexity and even that still wasn't enough for many to switch from C. It's hard enough to find people who master C++ to work in such a field."
+43,TrueTom,1590649690.0,28.0,It's the Haskell of this generation.
+44,404_Identity,1590643943.0,12.0,[removed]
+45,gaumutra_fan,1590650754.0,19.0,"This is only partly true. 
+
+In 2019, 83.5% loved it but only 3.2% used it. In 2020, as the headline stated, it's 86.1% loved with 5.1% using. The % of people who love Rust has actually increased despite the total number of developers increasing. That’s pretty impressive growth for one year, on both metrics.
+
+> artificially promote
+
+All of these represent real world usage - Google (Fuschia, experimental branch on Chrome), Amazon (Firecracker), Facebook (Mercurial server), Dropbox (core sync engine), Mozilla (11% of Firefox). 
+
+This is actually being used by companies to solve problems today."
+46,LightShadow,1590686655.0,2.0,"Is it wrong that I like the idea of Rust, but I don't have enough time to dedicate learning to use it right?
+
+I'm loving the tooling that's coming out of the rust community and leverage it heavily. (ripgrep, pyoxidizer, rust-csv)"
+47,matthieum,1590684612.0,6.0,"If you're only used to OO the transition can be a tad difficult, indeed.
+
+It seems that users with Modern C++ or JavaScript experience, where the traditional inheritance model isn't as used, have an easier time picking it up.
+
+There are some books out there (like Rust in Action) that may help you getting used to the mindset by accompanying you in the implementation of larger-scale examples."
+48,Kissaki0,1590702590.0,3.0,"Learning different programming paradigms can elevate how you can see and interpret things. It can be difficult to get familiar with different concepts of course, but peeking into OO, true functional (data flow and transformation), and rust borrowing can provide some interesting insights and perspective.
+
+Where do you get lost? Is the concept of borrowing clear to you? The idea behind it?"
+49,matthieum,1590685155.0,19.0,"It's the blank-page syndrome.
+
+In many languages, you can just start by throwing plaster at the wall: it's ugly, some parts are not covered, but it lets you iterate.
+
+In Rust, there are two obstacles to the strategy:
+
+ - Ownership,
+ - You.
+
+One mistake that many Rust developers make is wanting to create an _optimized_ application from the get go. They still don't _quite_ know what they want, but they're already attempting to absolutely minimize the number of copies and borrowing left and right -- and crash into the wall.
+
+The easiest way to start a program in Rust is to `.clone()` left and right. When you don't quite know where you're going, borrowing is a premature optimization which unnecessarily slows you down and impedes your progress.
+
+Get a prototype rolling, even if it's got terrible performance. As you do, you'll gain experience on the problem and find yourself in a better position to see _how_ to more cleanly solve it.
+
+Then it's time to refactor and introduce those borrows^1 . If it were C++, it would be a horrifying thought -- I know, I'm in the middle of such a refactoring -- but it's Rust: as long as you don't use `unsafe` the compiler will make sure that you're not wrecking stuff with your refactoring. So go ahead, address the `.clone()` that most annoys you, then the next, and little by little you'll get to the efficient piece of Rust code you wanted... and that nobody could have thought of out of nowhere.
+
+^1 *Or start from scratch, if you realize you took a really wrong turn.*"
+50,,1590669931.0,12.0,Once you have that bit of front loaded knowledge it’s fairly smooth sailing.
+51,,1590826273.0,1.0,"IMO, this is a good point that’s similar to learning Haskell or functional programming in Scala with the Typelevel ecosystem: you’re basically acknowledging that as the codebase and/or team grows, the issues you can foresee facing warrant an up-front investment in their prevention, and that the compiler is the right place to prevent them.  The trade-off is exactly the flash-to-bang experience. And if you come from an ecosystem with a particularly good flash-to-bang experience, this can be hard to take at first, even if you’re already looking forward to the later benefits."
+52,,1590676449.0,13.0,"86.1% of the 5.1% using it.
+
+Last year it was already at 3.2% using with 83.5% loving it.
+
+It's growing and getting more loved. But yes, growth is slow. Systems programming isn't a field that changes fast and rust is on the steeper side of learning curves."
+53,,1590669764.0,9.0,"Also 86% of the 100% that use it, love it."
+54,sex-fluids,1590643766.0,7.0,"How did you shoot yourself in the foot? I think I haven't managed to yet, but I might just not realize it yet."
+55,,1590669667.0,2.0,"This post probably isn’t serving you well. It sounds like you were lazy and just gave up. 
+
+I originally replied with a different tone but decided to point this out to you rather than assume you knew."
+56,,1590669798.0,8.0,Based on what?
+57,coderstephen,1590688689.0,3.0,"I love coding in it, most of the time. Better than most other languages I've used. I recommend trying it so that you can develop a solid opinion."
+58,_demilich,1590675551.0,1.0,Why don't you try it? ;)
+59,lelanthran,1590751252.0,3.0,"For all practical purposes, it's single platform?"
+60,,1590713368.0,6.0,So many people complaining about OOP here. Am I the only one not that much into OO andore functional style that really likes the trait approach? 🤷‍♀️
+61,wrongerontheinternet,1590677777.0,8.0,"Which is lower than the percentage of developers in every other surveyed programming language, so... uh... huh?  It's not like Rust is anywhere close to the most obscure programming language on Stackoverflow, why aren't those more obscure ones doing better?"
+62,,1590670038.0,4.0,"Jesus, fanbois be hatin yo!"
+63,Kissaki0,1590702955.0,3.0,"> Rust Vulnerability Statistics
+
+> 2018 3, 2019 3"
+64,CryZe92,1590697996.0,7.0,"Nice attempt at impersonation, lmao"
+65,,1590669956.0,3.0,What’s its trick?
+66,,1590637037.0,7.0,[deleted]
+67,,1590634688.0,33.0,[deleted]
+68,beefsack,1590629496.0,30.0,"It's being picked up very quickly - in the 2019 survey Rust had been used by [3.2% of respondents](https://insights.stackoverflow.com/survey/2019#technology-_-programming-scripting-and-markup-languages) but this year it had [grown to 5.1%](https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents).
+
+Last year it had less than half the usage of Swift, but this year it's within 13% of it.
+
+It powers a lot of tools that people depend on every day, from core components of large systems, to the search function inside VS Code. It's not really a small language that nobody uses anymore."
+69,lanzaio,1590634096.0,25.0,"> Rust is the kind of language that you wouldn't even want to approach unless you were buying what it is selling, so you won't get very many dislikers since the dislikers will just never bother to become proficient in it.
+
+This is the main cause. Nobody uses Rust that wasn't self motivated to learn Rust out of their own interests. In fact, those that I do know that were forced into Rust showed a relatively standard ratio of like/dislike that I see from most languages."
+70,matthieum,1590683808.0,4.0,"> Rust isn't used in many production environments, so very few people are forced to use it. As Bjarne put it, ""There are only two kinds of languages: the ones people complain about and the ones nobody uses.""
+>
+> Rust is the kind of language that you wouldn't even want to approach unless you were buying what it is selling, so you won't get very many dislikers since the dislikers will just never bother to become proficient in it.
+
+In short: selection bias.
+
+The only people answering they've used Rust are those who still use Rust and like it, hence the top score.
+
+Those who tried it and didn't like it abandoned early enough that they do  not think to answer ""I used Rust"", and thus do not pull down the score.
+
+Despite this, though, that's still a surprisingly high number of users who adopted the language given its relative immaturity!"
+71,coderstephen,1590688154.0,4.0,"Usage of Rust in production is increasing though. Besides, Rome wasn't built in a day; _no_ language can accelerate to top production usage quickly regardless of how good it is. This is _especially_ true in the sort of industries that are also known for using C++, which tend to be more slow-moving."
+72,quicknir,1590727387.0,5.0,"Matches my experience as well. I was pretty shocked to discover the Rust duration type is a) positive only, and b) a two field, 96 bit, seconds and nanos approach. When I went to a rust chat to discuss it, and I mentioned that such an approach were too slow in HFT (high frequency trading), a *moderator* told me that making code unusable for HFT was a feature (and got some kind of positive emoticon). There wasn't any real technical discussion, and it was just an unpleasant experience."
+73,MadRedHatter,1590632124.0,31.0,">but when the Rust language fails to handle a case well, the Rust community tends to blame the coder for wanting to do the wrong thing, rather than the language for not being able to handle it. In cases where other language users would say, ""oh for fucks sake, this is stupid"", the Rust community tends to say ""That's bad form, you should rearchitect."" If you're outside the community, it can look a bit rose-tinted-glasses.
+
+Often the architecture that Rust pushes you towards is *legitimately* the better architecture though.  This talk explains it well.
+
+https://www.youtube.com/watch?v=P9u8x13W7UE
+
+There are certain pathalogical cases like graph data structures that you will struggle with in Rust compared to a GC'd language though."
+74,SkiFire13,1590663560.0,8.0,"> the Rust community tends to blame ...
+
+You're identifying all the rust community with just a part of it. That's also the part that tries to sell Rust as the definitive language without bugs. But in the rust community there's also people that will honestly tell you when rust is good and when is bad. 
+
+Ps: Part of the C/C++ community is not that great either. Blame rust for not being able to handle certain cases, blame java for having a GC but blame the developer when there's a memory safety bug in C/C++ code"
+75,Kache,1590626772.0,7.0,"For a young language that's already got a solid community and popularity, I'd say that's the right way to go.
+
+Worse would be a language that needs to ""buy"" popularity by acquiescing and starting the path towards feature bloat and other language design issues.
+
+If Rust can ride on its innate popularity and grow while staying ""not a language you're forced to use"", it can grow in a well-directed and designed manner and even make breaking changes if necessary without splitting the community."
+76,,1590663166.0,8.0,[deleted]
+77,PrancingPeach,1593065888.0,1.0,"Production/industry usage is nearly doubling each year, which is incredible for a language this young that didn't have massive backing by Google/Apple. I think it's going to eat the software industry in the next 10 years."
+78,camelCaseIsWebScale,1590678390.0,1.0,This is what happens when an overambitious community shoehorns a well designed systems language into applications domain and hype it as a silver bullet.
+79,thiago2213,1590665049.0,1.0,You make some compelling arguments
+80,,1590667365.0,-3.0,"> if you're used to a foot-gun language like JS or Ruby
+
+On what planet are they a foot-gun language?"
+81,kankyo,1590648686.0,11.0,The size of the community often predicts pretty accurately the toxicity. There are outliers of course (elm I'm looking at you) but it's a good rule of thumb. Python is just so damn big. It's the same in Java online communities for the same reason.
+82,butt_fun,1590637025.0,19.0,"I don't disagree with anything, but your experience with the python community surprises me. It's been a while but I remember mostly good things about it"
+83,,1590658126.0,5.0,"This is what you can expect at this stage of the lifecycle. The Rust community is still fairly small and full of enthusiasts. Also, there's not a ton of industry experience and documentation of it (compared with Java or Python at least), so everyone needs to rely more on the community instead of telling you to RTFM."
+84,username-is-mistaken,1590643694.0,16.0,[deleted]
+85,0rac1e,1590718074.0,4.0,"This fuckin' guy again. When this account gets suspended too, are you gonna come back as `GayAnalMan3`?"
+86,0xC1A,1590668617.0,-13.0,Like being 10x uglier and 20x harder to learn?
+87,the_game_turns_9,1590626482.0,14.0,"`On Error Resume Next`
+
+haven't used it in 15 years and its still burned into my skull"
+88,Malgidus,1590625059.0,10.0,I ... I have to put it into production in industrial control systems for critical infrastructure.
+89,Shnorkylutyun,1590693013.0,2.0,A terrifying number of hedgefunds are apparently supported by VBA + Excel sheets.
+90,JB-from-ATL,1590694344.0,6.0,"And the relevant quote from SO is
+
+> % of developers who are developing with the language or technology and have expressed interest in continuing to develop with it"
+91,lelanthran,1590751041.0,3.0,"> In system's programming, Rust competes with C and C++. Look how long it took C++ to take over.
+
+I respectfully disagree; Rust is competing with C++, and C++ alone. Those C developers who wanted something better either already took the leap into C++ or jumped ship altogether to some other language already.
+
+Those who remained *and wanted better static error analysis* made valgrind and clang-tidy and cppcheck part of the build/test process.
+
+ C will die off on its own with no help from other language simply due to attrition - no competing language is necessary. Go might possibly pull a few C developers, maybe?"
+92,jiffier,1590654597.0,-4.0,"Mm, I think Rust mistake is trying to sell itself as a systems language. A few days ago a guy told in /r/rust about how they moved from Wordpress to Rust for webdev, and they were loving it."
+93,afnanenayet1,1590676743.0,15.0,I’m gonna go out on a limb here and say Haskell is still the Haskell of this generation. I think Haskell is a bit different because it’s actively developed by academia
+94,camelCaseIsWebScale,1590681272.0,-7.0,Haskell was nowhere that bad. They were people who felt they were enlightened. Rust is mostly people trying to show off.
+95,darderp,1591339091.0,3.0,"I'm a week late, but I just wanted to say as someone starting out with Rust this is a very valuable nugget of info. Thank you!"
+96,typenil,1590757942.0,2.0,I appreciate the advice. I'll endeavor to make ugly code until I know enough to make it prettier
+97,slowpush,1590676809.0,-11.0,"3 -> 5% isn’t significant growth. Feel free to look at typescript’s growth over time to show how a new language actually grows and gains acceptance. 
+
+Also rust has moved way past the idea of being a systems language with how it’s being marketed nowadays. 
+
+“A language empowering everyone to build reliable and efficient software”"
+98,,1590746383.0,1.0,...and 14% hate it.
+99,,1590644294.0,6.0,[deleted]
+100,matthieum,1590685287.0,12.0,"I would note that it's perfectly OK to be lazy and give up ;)
+
+There's lots more to life than learning Rust, so if you're not enjoying the experience, you may as well do something else. And maybe come back later."
+101,devraj7,1590691184.0,3.0,"Fair enough but I think I have a pretty accurate picture of the language.
+
+These past two decades, my programming has just been geared more toward higher level (not system) programming because I'd rather not think too much about lower level details such as memory management. Rust puts this front and center, which is why I think I wouldn't enjoy it. But it's a great language with a fantastic and well executed vision."
+102,,1590826566.0,2.0,"FWIW, it looks like the other platforms are getting more love in 5.3."
+103,,1590703768.0,-3.0,"Well, considering it was designed to avoid these errors it's failed, hasn't it. And this is code written by the authors of the language! lol."
+104,,1590670623.0,-1.0,Memory safety. There is nothing more interesting about it.
+105,couchrealistic,1590641564.0,46.0,"Rust prevents you from doing all the stupid things we sometimes accidentally do when coding in a language like C++. Like using an uninitialized variable (that just happens to be 0 most of the time, but sometimes not) or occasionally modifying a collection while we still hold a pointer or reference to some of its content, or while iterating over it – which often works fine, but depending on the implementation might be undefined behavior and lead to rare Segmentation Faults.
+
+In short, you can't possibly hit a Segmentation Fault when only using Rust without the ""unsafe"" keyword\*. This also means that coming up with programs that compile successfully can be quite a bit harder in Rust compared to C++. This might lead to something like Stockholm Syndrome and therefore ""Rust love"".
+
+\* If all your dependencies also refrain from using unsafe, or use unsafe only in safe ways, and there are no bugs in rustc.
+
+Also, Qt might have almost everything and the kitchen sink included, but sometimes you need even more. Cargo really comes in handy in those cases, because adding dependencies is really easy. It's also much nicer to use than qmake or cmake to build your project (though less feature-rich). No crazy CMakeLists.txt or qmake config files, you just put your code in .rs files, list the required dependencies in Cargo.toml, set some options like the optimization level, and cargo knows what to do.
+
+AFAIK, the rust ecosystem is lacking a decent cross-platform GUI library though. So Qt definitely still has very valid use cases."
+106,sm2345,1590716879.0,2.0,"If you're using Qt to make GUI-based applications, I don't think Rust has an equally usable and mature GUI library yet, as pointed out by others.
+
+I'd honestly just get my feet wet and try writing a few things. It does have a steep learning curve though, but for me, the end result keeps being worth it."
+107,404_Identity,1590643521.0,15.0,[removed]
+108,,1590655355.0,9.0,[deleted]
+109,crabbytag,1590693401.0,4.0,Sounds like survivor bias?
+110,lelanthran,1590743415.0,1.0,"> Despite this, though, that's still a surprisingly high number of users who adopted the language given its relative immaturity!
+
+
+Doesn't seem that way to me; I can't think of a popular language that had a slower adoption rate than Rust. Can you?"
+111,UncleMeat11,1590633561.0,24.0,"> There are certain pathalogical cases like graph data structures that you will struggle with in Rust compared to a GC'd language though.
+
+Are these really pathological? ""It is really hard to implement thread safe persistent data structures because of ownership"" has been a known problem in C++ for ages and comes up with surprising frequency."
+112,betamos,1590639769.0,35.0,">Often the architecture that Rust pushes you towards is legitimately the better architecture though.  
+
+\[I've been developing on Rust professionally for about year and a half.\]
+
+I think that's true often but not always. For instance, simple CS 101 data structures like linked lists, DAGs and trees require some serious gymnastics to get working and each performance improvement often comes with major re-architecture. [This tutorial](https://rust-unofficial.github.io/too-many-lists/) is an excellent example of this issue. Each iteration of improving the implementation goes down a completely different route. It's such a large tutorial (for making a linked list) and manages to cover really esoteric parts of Rust, even unsafe. So the implicit deception from the Rust community, the way I see it, is that showing some neat self-contained examples of pattern matching, borrowing, generic types, meta-programming, aren't representative of real world usage. More often than not, you have to step into the dark esoteric caverns of the language, or use community-maintained crates for standard use cases.
+
+TL;DR: I think Rust delivers on performance, multi-paradigm and leaving the user in control over almost every single trade-off. However, it doesn't deliver quite so well on sane defaults and incremental learning. This results in a steeper-than-ideal learning curve and sub-dialects that vary from project to project."
+113,camelCaseIsWebScale,1590678643.0,0.0,This is true maybe 1 out of 4 times. Other times you might end up with inefficient/bad design in order to work around the language.
+114,,1590653157.0,0.0,[deleted]
+115,the_game_turns_9,1590627467.0,7.0,"I am honestly not sure the point you are trying to make. Acquiescing to what? Features are what makes a language useful and not an enemy of language design, adding features doesn't in my head equate to ""buying"" popularity, and what makes Rust unique isn't a lean feature set.
+
+In my head, Rust isn't rare because it is feature-lean. It's rare because it's an acquired taste the way that Haskell and F# are. It's a difficult path. The road less travelled. And while Rust will take its place in the world, I honestly think it can and will never be in the top five of TIOBE. Not because of what it is now, but because of what it is trying to be."
+116,newpavlov,1590695501.0,4.0,"When have you tried to do that? [RustCrypto](https://github.com/RustCrypto) supports all kinds of basic cryptographic primitives, even broken ones (such as DES and MD-5) with appropriate [warnings](https://github.com/RustCrypto/hashes#supported-algorithms)."
+117,,1590667320.0,-5.0,"I remember that issue. It was explained to you, in extremely clear and simple terms, that the crate in question would not be adding a _known insecure cipher algorithm_ to its codebase. Your intransigence in demanding they weaken the security of their crate for your particular dangerous use-case was spectacularly obnoxious, and they rightly kicked you to the curb."
+118,coderstephen,1590688565.0,11.0,Earth?
+119,sex-fluids,1590726326.0,3.0,"I've spent my career shooting myself in the foot with them occasionally so I just kind of figured, I guess. I mean, things like Sentry and Rollbar exist because this is just reality as far as I'm concerned."
+120,BubuX,1590668401.0,-2.0,"the rust planet
+
+it's not rare to see rust users trashtalk every other language like rust is the second coming"
+121,matthieum,1590683929.0,1.0,"It doesn't surprise not because the Python is not friendly, but simply because it's so big you're bound to find less friendly people... and those experiences stick."
+122,IndependentDocument5,1590644730.0,-11.0,I would want to write a full blown post but don't really know where to post it. And it'd totally get removed here or downvote to invisibility
+123,GayAnalMan2,1590941929.0,3.0,"that would follow, yes."
+124,,1590669569.0,19.0,"The only ugly thing about it are the lifetime annotations, which you won't be using that often anyway.
+
+It has a bit of a learning curve but honestly it's worth it for what you're getting.
+
+C++ also has a huge learning curve if you really want to learn it properly but even if you have an extensive C++ knowledge you're still gonna be shooting yourself in the foot quite often."
+125,PrancingPeach,1593066134.0,2.0,Really it's considerably easier to learn than modern C++.
+126,GYN-k4H-Q3z-75B,1590651020.0,7.0,"VB really went too far with that, and its reputation is irreparably damaged. Even today's VB which has little to do with VBA has these crazy options. Option Explicit Off, On Error Resume Next. Valid code that compiles and causes no error with such options:
+
+x = ""Foo"" : x = 2
+y& = x.ToLower
+unknown.doStuff(42, y)
+
+It's fun if you want to just glue together a few lines like when scripting but it's crazy to run business critical apps using that. Then again, today we have JS to do that and that's arguably worse than VB since the mid 2000s."
+127,hector_villalobos,1590688575.0,1.0,"How stupid I was by using that, what was I thinking?"
+128,netsec_burn,1590630302.0,4.0,https://i.redd.it/4fwnuc211ml01.jpg
+129,haCkFaSe,1590635072.0,2.0,You mean VBScript?
+130,LegitGandalf,1590625637.0,3.0,Oh gawd...please tell me it's not California?  I don't want to move!
+131,,1590669897.0,12.0,"It can easily be both a systems language and a high level general purpose language.
+
+It's definitely more suited for systems stuff since it's normally compiled to native and forces you to be aware of lifetimes, I wouldn't mind using it for web but I could think of more suitable languages."
+132,,1590746203.0,1.0,"lol, it's ironic that the biggest web development framework for Rust is completely memory unsafe!
+
+https://words.steveklabnik.com/a-sad-day-for-rust"
+133,tsbockman,1590686867.0,2.0,"Learning basic Haskell made me a better programmer, by forcing me to learn the pure functional paradigm and how to implement data structures without mutability.
+
+But, I have no desire to actually *use* Haskell for anything serious. Real computers have mutable memory, and practical programming languages should accept that..."
+134,,1590677335.0,10.0,"Yeah, that's never gonna be comparable. JS is a fast moving eco system that constantly changes. Also typescript is completely compatible with JavaScript and only adds some extras on top of it, it's not difficult to learn for anyone already knowing JS which is a huge advantage for it.
+
+Rust goes beyond systems programming but it's still with new concepts and a steep learning curve. And even if it's spreading into different fields it's main use is still in fields that aren't fast changing, especially not when compared to something like JS."
+135,,1590864187.0,2.0,"...if you can only love or hate a thing with nothing in between, and also less “hated” than any other language at ONLY 14%, again assuming you are a emotionally binary automaton."
+136,_demilich,1590675463.0,9.0,"It is called ""fighting the borrow checker"" and everybody has to go through that phase. At least I did and it was rough. They were times where I literally thought ""Fuck this, stupid compiler won't let me write perfect valid code"". Of course, the compiler was right, the code was not memory safe. My advice is: Take your time, keep on trying! Accept the rules of the borrow checker and over time you will encounter less and less issues. You will develop a skill to anticipate the borrow checker objections. 
+
+And what is really interesting: This skill transfers to other languages without borrow checker. As a simple example: Many programmers write code where they want to modify a list while iterating over it. No matter the programming language, this is usually a bad idea. With Rust, the compiler will just not allow you to do that and as a result, you internalize that this just won't work."
+137,gaumutra_fan,1590651059.0,7.0,I’d suggest asking for help on /r/rust. Folks are pretty friendly there.
+138,CryZe92,1590698218.0,4.0,"I feel like it's somewhat the opposite. The fact that the compiler cares about all sorts of thread safety issues, memory issues and co. means I can actually focus on my actual application logic much more than I would be able to in other languages as I don't have to actively think about those as much, as you can rely on the compiler helping you out if you do indeed get them wrong."
+139,Kissaki0,1590742649.0,4.0,"There’s a difference between avoid and eradicate though. If you can reduce them by 90% I would definitely consider that worth it.
+
+I also think it’s unfair to look at just this statistic and say they failed when I don’t know what the cause was. Maybe this was not caused from within the safe rust code.
+
+I certainly don’t know where the cause was. And the CVEs don’t say specifically. One mentioned a fix commit, which commit hash I searched for, but did not find. I did not check further."
+140,,1590682024.0,6.0,"- faster than Java
+- safer than C++"
+141,CryZe92,1590698053.0,1.0,What about derives? Those seem fairly unique to Rust.
+142,comentarista,1590645704.0,20.0,"I am learning rust, and lacking a production ready GUI library seems to be a problem. So I stay with C++ & Qt for these use cases.
+
+Anyway, rust is a great language, I'm enjoying. Pattern matching is awesome."
+143,coderstephen,1590687948.0,2.0,"In theory you can use existing GUI libraries since Rust has good C FFI. For example, the Rust wrapper around GTK is pretty comprehensive and well-received. C++ FFI is a bit lacking though."
+144,,1590673968.0,0.0,[deleted]
+145,,1590656623.0,-9.0,[deleted]
+146,,1590678518.0,-24.0,[removed]
+147,matthieum,1590769805.0,3.0,"Possibly, as well.
+
+I picked Selection Bias because I am not sure that people who tried Rust and quit identify as ""Rust users"" or even ""former Rust users"".
+
+I mean, I toyed with Haskell for a week or two a long time ago, and I don't claim to be a ""former Haskell user"" because it seems to me it would imply some degree of accomplishment that I do not feel I have.
+
+Of course, the question is whether such users _should_ identify as ""former Rust users"" from the POV of the survey. It's hard to say that you love/hate a language after 8h or 16h of practice -- is your opinion really relevant when you know so little about it?^1
+
+^1 *It's certainly relevant to the Rust community, as an indicator that the initial onboarding experience is lacking, but that's a separate topic.*"
+148,matthieum,1590769407.0,2.0,"Well, I was born 1 year after the latest popular systems programming language was (C++), so its early history quite eludes me.
+
+The only language which similar enough to Rust -- being a systems programming language and not forced upon developers -- is Zig; and it is younger and less popular, so cannot serve as a yardstick."
+149,matthieum,1590682779.0,3.0,"That's indeed another case of a GC making things easier, but it's a very distinct one: it has nothing to do with the architecture of the program."
+150,,1590666949.0,16.0,"> More often than not, you have to step into the dark esoteric caverns of the language, or use community-maintained crates for standard use cases.
+
+I'm sorry, but no one should be rolling their own pointer-based linked list today. In any language. Especially in the presence of threads. As Simon Peyton-Jones put it when talking about [Software Transactional Memory](https://www.youtube.com/watch?v=4caDLTfSa2Q):
+
+> A double-ended queue... if you write the code for just a sequential program, it's an undergraduate project to get queue insertion and deletion going. If you want to do this scalable lock-per-node thing, it's a publishable result. I kid you not. There are international academic conferences with a succession of papers that have been published about this very problem.
+
+One of the truly great things about Rust is that it forces you out of this kind of naïve ""in-place mutation with pointers is easy to get right"" thinking."
+151,matthieum,1590683168.0,10.0,"> For instance, simple CS 101 data structures like linked lists, DAGs and trees require some serious gymnastics to get working and each performance improvement often comes with major re-architecture.
+
+I think the fault is in the premise, those data-structures are NOT simple.
+
+Every single time I see a Stack or Linked-List C++ implementation on codereview.stackexchange.com, it's buggy. The good posters include tests, they still fail.
+
+An array is a simple data-structure, after that it gets complicated. Even a dynamic array in C++ is quite the endeavor -- insertion of N elements in the middle is surprisingly complicated to handle^1 .
+
+Data-structures are foundational bricks; the fact that they are _simple to use_ despite the complexity of their implementation is a testament to encapsulation.
+
+^1 *And I say that after finishing coding yet another variant just today...*"
+152,,1590657868.0,4.0,"Thanks, this is a great summary. I haven't been using Rust professionally but on the side for about a year. There's so much good stuff in there, but every time it seems like doing simple, practical, everyday things is far too complex. In some ways, the product and its culture reminds me of the early days of git. 
+
+As a point of comparison, I've been using Go for a few years and while it has many annoyances, you can always find workarounds without going into esoteric hacks. They may not be pretty (heck, Go isn't pretty in general), but they aren't complex. Go developers tend to use the same idioms and patterns throughout, so finding your way around an existing codebase is fairly easy. It's a blue-collar language indeed."
+153,Pand9,1590661901.0,0.0,"On the other hand - if you do dive deep, you can do anything.
+
+IMO the biggest misconception in rust community is that ""obscure"" features are only for those that choose to use it, and most people are good with basics. This is not the case - programmers don't choose problems they encounter.
+
+But that is still nothing compared to c++."
+154,asmx85,1590654444.0,1.0,That's not how i remember what Mr. Blow was saying.
+155,matthieum,1590683542.0,3.0,"Adding features is a dangerous game, though.
+
+Stroustrup made a call [Remember the Vasa!](http://www.stroustrup.com/P0977-remember-the-vasa.pdf) for C++2a, and honestly it's not clear to me it's been heard.
+
+C++ has too many features, interacting in subtle ways, and this entanglement generates a lot of complexity for everyone involved -- from compiler writers to developers.
+
+I'm not saying you should never add a feature; just that you need a vision for the language -- a domain in which it should excel -- and make sure that the feature you plan on adding pull its weight for that domain.
+
+Attempting to be everything sunk the Vasa, and drove the budget of the F35 through the roof. You don't want that for your language of choice."
+156,gaumutra_fan,1590650259.0,8.0,"TIOBE is an absolute terrible measure of anything. It’s utterly meaningless. It’s literally the number of google results for a query. Not even something relatively clever like Google trends. 
+
+If you disagree, please explain how C and Java seemingly lost half their popularity in 2017 and regained it the next year. We’re there some seismic shifts in the most stable languages in existence ... or maybe Google just made some changes to their algo. I’m inclined to believe the latter.
+
+I get what you’re trying to say, that Rust won’t become as popular as the most popular languages (according to a real measure like Stackoverflow survey, Github repos, SO questions) - JS, Python etc. that’s a pretty reasonable take. Rust will always be more niche than them. 
+
+The interesting question is - can Rust become comparable in popularity to C and C++ which currently have 5x the users."
+157,,1590631010.0,4.0,[deleted]
+158,TribeWars,1590693500.0,1.0,The near infinite amount of features and things to learn in C++ is what makes it so hard to use competently.
+159,Izacus,1590669885.0,15.0,"I don't remember filling any such issue so I think you mistook me for someone else.
+
+But this is the exact attitude I'm talking about though - not being able to even open documents like PDF from rust code due to some strange idea that adding decryption support for older cypher algorithms is just insane.
+
+Being able to decrypt data that's older than a year is not a security hole by any definition."
+160,lelanthran,1590750259.0,2.0,"> I remember that issue. It was explained to you, in extremely clear and simple terms, that the crate in question would not be adding a known insecure cipher algorithm to its codebase. Your intransigence in demanding they weaken the security of their crate for your particular dangerous use-case was spectacularly obnoxious, and they rightly kicked you to the curb.
+
+You are demonstrating the problem they are complaining about. If you had only kept quiet the rest of us might have been skeptical."
+161,sex-fluids,1590726264.0,1.0,"I love JS and Ruby for what it's worth. They're great for certain things. I wouldn't use Rust for plenty of things I'd use JS for, too. For a simple script on a server, I'd probably pick Ruby too. They all have their place. If anything I'm just trying to point out that there really are great uses for Rust. It has qualities those other two don't, and never will."
+162,username-is-mistaken,1590645830.0,16.0,[deleted]
+163,0xC1A,1590670003.0,-10.0,Not my fault u using Turbo C++.
+164,Malgidus,1590636235.0,3.0,"Both, but mostly VBA."
+165,Malgidus,1590628667.0,4.0,"Nah and TBH the VBA is usually not mission-critical code. At best it's  Excel reports that dont get generated the next day and at worst its an HMI screen not updating correctly.
+
+The mission critical stuff is written in standard logic languages (ladder, function block, structrured text, etc.) which are tried and true for decades and run on processors with very low failure rates."
+166,shadow31,1590750838.0,3.0,"1. It was never ""completely"" memory unsafe
+2. The project actually takes those issues seriously now and has fixed them."
+167,UARTman,1596623525.0,0.0,"You should research the situation before posting, my friend. I suggest heading to r/rust , looking for actix keyword, finding the controversy, reading more than one article about it, and *then* go to r/programming to pose as an expert throwing gotchas at these silly rustaceans."
+168,,1590864233.0,0.0,Yeah but that doesn't seem to be the case with Rust fanbois!
+169,,1590745515.0,1.0,"> If you can reduce them by 90% I would definitely consider that worth it.
+
+So would I, but reading replies from fanbois you would have thought Rust is the holy grail of languages being perfect from top to bottom."
+170,,1590682330.0,-3.0,Many languages fit this.
+171,,1590702380.0,1.0,What?
+172,UARTman,1596623900.0,1.0,"Like traits, they exist in all ML-based languages. Rust is just the only imperative one, so you never used others."
+173,incompletebreadstick,1590645841.0,31.0,https://areweguiyet.com/
+174,matthieum,1590682591.0,16.0,"> I never have a problem using variables that are null.  I actually use this functionality a lot.
+
+Not that uninitialized != null.
+
+Uninitialized in C++ is what you get when you write: `int i;`. The language simply doesn't initialize the variable:
+
+ - The compiler may pull all kinds of shenanigans when it realizes this.
+ - Even if it doesn't you'll get some unpredictable value -- whatever is left over there by the previous variable.
+
+GCC compounds the issue by zeroing the stack in Debug, often hiding the issue until you compile in Release.
+
+When it's an integer, it's annoying, when it's a pointer:
+
+ - It will not likely be null, so you'll think it points to something.
+ - If you're lucky it points into the nether, and you get a segmentation fault.
+ - If you're not it points into the memory of the process, and you'll scribble all over another object, and get one hell of a headache attempting to understand what happened."
+175,SkiFire13,1590677257.0,9.0,"> I never have a problem using variables that are null.  I actually use this functionality a lot.  If a variable is null it tells me something in the logic of my program.  How can you do that in rust if you have no null variables, or am I misunderstanding what you are saying?  
+
+In Rust you can use `Option` instead of nullable variables."
+176,teryror,1590677905.0,14.0,"Nullable pointers exist in rust, they just have a different type, `Option<&T>` for references, `Option<Box<T>>` for the equivalent of `unique_ptr`, etc. So you have the same functionality without the risk of passing null where that isn't allowed."
+177,ThirdEncounter,1590684825.0,5.0,"It's not a fair comparison, since Qt is a framework, not a programming language.
+
+
+
+It's like saying ""why would I want to crop an image in Rust when I can simply upload them and Facebook can do it for me?"""
+178,AndreasTPC,1590680200.0,2.0,"Instead of having a null value you have an enumerable type like this:
+
+    enum Option<T> {
+        Some<T>,
+        None,
+    }
+
+So if a function returns an Option<i32> you can tell just from the function signature that this function might return an integer, but it might also return nothing, and you need to handle that. If a function returns an i32 instead, you will know that this function is guaranteed to return a valid integer, no need to check anything.
+
+You deconstruct the Option type to get at the value inside Some, typically via pattern matching. The nice part is that when pattern matching you are forced to consider all the possibilities. Forgetting to consider the None case is a compile time error, so the class of bugs that comes from forgetting a null check can never happen. After deconstructing the type you're left with a variable with a guaranteed valid value you can use for the rest of the scope.
+
+There's also nice syntax shortcuts for common cases like ""if there isn't valid value I just want to print an error message and exit"" or ""if there isn't a valid value I just want to pass on the error state to the function that called me"", making the code quite elegant and readable.
+
+The Option type is defined in the standard library, and often sufficient, but you can also define your own that matches whatever states your function might return.
+
+This is by no means unique to rust, this style of handling multiple states for values has been popular in functional languages for some time. This is just one of many advantages that comes from using a language with a modern type system."
+179,,1590658452.0,15.0,"Can you please give me a link to a tool which quickly identifies all the issues in a C++ code base, which would have been prevented by Rust's guarantees?"
+180,UltraNemesis,1590663184.0,6.0,"Why would anyone move from assembly to C programming when everything can be achieved in assembly?
+
+Because, even if you can do the same things, getting up to speed would make it less tedious to maintain your software in the longer run.
+
+Rust adds major improvements over C in the areas of memory safety. That alone makes it worth moving to for a lot of cases, especially for large code bases and critical frameworks.
+
+A simple memory safety bug in OpenSSL like Heartbleed was responsible for billions of $ worth of expenses for companies. Security Incidents can be more expensive than the cost of ditching your pipeline and migrating to a safer language. You don't have to run additional tools like a static analyzer to know about basic issues or have to live with the possibility that somethings may have crept in despite the tools.
+
+So, Rust is finding use in browser code bases, device drivers, Operating systems, TLS engine libraries and the like. Microsoft is porting parts of the Windows code base to Rust."
+181,,1590686736.0,6.0,"Making an account with almost the same name as a well known person in the rust community to keep shitposting about it, really?"
+182,ChannelCat,1590680865.0,1.0,What makes this shilling?
+183,betamos,1590724630.0,2.0,">I'm sorry, but no one should be rolling their own pointer-based linked list today. In any language.
+
+Nothing to be sorry about, but yes, that's a good injunction. I can agree with that. I guess I'm reluctantly accepting the ""here's how you do X, but never do it yourself"" in this case, similar to crypto.
+
+>Especially in the presence of threads
+
+Yes, absolutely. Lock free programming is considered one of the hardest areas of computer programming. Heck, even basic message passing queue based concurrency adds a layer of complexity that is often larger than the rest of your application combined. And if you go even lower level to threads, not a chance. ""We"" just can't do it right. I honestly think that's a contributing factor of success for JS, that ""everything is single threaded BUT async"" (or, well, non-blocking might be a better term since callbacks and ""async"" aren't exactly the same). It's a paradigm that holds up surprisingly well to this day (despite all its downsides).
+
+>One of the truly great things about Rust is that it forces you out of  this kind of naïve ""in-place mutation with pointers is easy to get  right"" thinking.
+
+Yep, but even without that seemingly minor changes often warrant large refactors. I have yet to convince myself that it's because of Rust as opposed to that they are intrinsically large changes in the ""abstract data model"", if that makes sense. I'm open to either. But it's definitely something that I've noticed with Rust as compared to higher level languages."
+184,betamos,1590725045.0,2.0,">In some ways, the product and its culture reminds me of the early days of git.
+
+That's a good analogy since git is amazingly powerful but lacks good defaults, imo.
+
+> Go developers tend to use the same idioms and patterns throughout 
+
+Totally agree, and this is by far my favorite trait (ha!) about Go. Rust is not bad in this respect, unless you go async. In C and C++, you can just forget it - every project has its own dialect to the point of almost being its own language.
+
+>It's a blue-collar language indeed. 
+
+This may be the best compliment that Go has ever gotten. Struggle with the problem, not with the language."
+185,quicknir,1590726699.0,2.0,"Where did you get 5x the users? I suspect the ratio is much, much larger. C++ seems to commonly be estimated to have 5 million or so users. I'd be shocked if Rust has a tenth of that."
+186,the_game_turns_9,1590681631.0,2.0,"I really don't care which metric of programming language popularity  you like or dislike, it's not the point I'm making, just substitute as appropriate."
+187,lelanthran,1590750164.0,1.0,"> The interesting question is - can Rust become comparable in popularity to C and C++ which currently have 5x the users.
+
+C++ alone is estimated between 4m and 5m users. C probably adds another 1m or so on top of that.
+
+Where do you get 1m - 1.2m user population for Rust?"
+188,the_game_turns_9,1590652312.0,5.0,"To put it mildly, I have not found Rust 'a joy to use'. I described this [a few days ago](https://old.reddit.com/r/programming/comments/gpbthh/chrome_70_of_all_security_bugs_are_memory_safety/frllepf/)."
+189,SkiFire13,1590677733.0,6.0,"> not being able to even open documents like PDF from rust code due to some strange idea that adding decryption support for older cypher algorithms is just insane.
+
+You can do that, it's just that others don't want to write a library for that."
+190,,1590670153.0,-16.0,"Whether you’re the same person or not, you exhibit exactly the same failure to understand the risks of what you’re demanding, and characterizing refusal to comply as “insane” like an entitled jackass. And jackasses, it turns out, are interchangeable."
+191,,1590750580.0,0.0,"While fair enough, it just underscores that the issue is not as cut-and-dried as OP claimed. I could think of a few alternative paths forward, like implementing the cipher in the PDF library, or forking the crypto crate to add the cipher, ideally with some docs about its known weaknesses. But the demand was literally “add this known weak cipher to your crate.” Now, OP here says it wasn’t him, but also characterizes refusal as “insane.” So I’m sorry, but that kind of behavior will never get a pass from me."
+192,BubuX,1590759652.0,-1.0,"Agreed. rust's already steep learning curve only gets steeper as they shove more features in.
+
+Not to mention the intentionally shallow standard library adds even more cognitive load by requiring developers to decide, learn and stay updated on external libraries that can break at the authors whim for a lot of functionality. Hell even today there are popular crates that don't t work well or at all together because they use different implementations of threads.
+
+It'll never be a get stuff done language.  Forever relegated to small niche. Not even close to being comparable to more productive languages.
+
+I'd only use rust as a last resort only if absolutely required for a project. And even then i'd consider waiting a few years for rust to mature."
+193,IndependentDocument5,1590647750.0,2.0,"Ok you get my light version
+
+Rust officially says it's memory safe, but it also has 'safe' written everywhere. It's no safer than java which is considered by a safe language by noone. Java was so unsafe it's no longer used by browsers
+
+It's not well thought out. Without going into a rant, you can't build a good app with the standard library. There are essential cargo libraries that should be included in every app and really should be part of the language. Syntax is part of what they didn't think through but that's more subjective
+
+Big projects take too long to compile. If you're going after C++ noone will switch. If you're going after Java, noone will switch. I understand why rust is not used in production anywhere. Who the fuck wants to deal with poor build/development time and garbage standard library
+
+They fucked it up so bad you can't even use the rust language server protocol. Another plugin replaced rls
+
+And this is just my light version. I haven't talked about arrays, null, reflection, error handling, etc  
+It's a mess"
+194,camelCaseIsWebScale,1590681068.0,0.0,"Not him;
+
+* compile times: technical debt in LLVM IR generation, mainly. Elsewhere written well about how it was a mistake not prioritizing it earlier. Generic monomorphization is so pervasive even in debug builds and no suitable strategy exists to reduce the impact.
+
+* Crates ecosystem: it is being webshit-invaded. Micro packages, holding package names for hostage, no package names pacing by author. Crate-as-compilation-unit also hurts compile time but that's a different issue. Another side effect is big dependency graphs. Hundreds of crate dependencies, requiring lot of disk space and RAM.
+
+* Rust started for servo (the chrome killer™). They discarded GC pointer types shifting goalposts. (Note that RC doesn't interface well with JS world of the browser. That's why chrome has oilpan). Their current flagship is ripgrep where it appears forking the process is a valid GC strategy. (This point is not mine, stolen from somewhere)
+
+* Cognitive overhead: the rust community heralds rust as a language for everything - but there is lot of overhead in reasoning about lifetimes. Some people may say / act like they are not a thing - but in a world where people have different cognitive abilities, and not willing to endure cognitive overhead just in order to show off on reddit ..
+
+* Circlejerk community: They are so annoying.. heralding about their crab god to anyone who talks about anything remotely programming related topics. When you point out the flaws in their language 10% (members doing useful work) acknowledge or clarify. The rest repeats cliche like ""borrow checker fades into background"" or outright start a flamewar. Are you mandated by code of conduct to shill rust whenever Go is mentioned? Go authors never told Go is awesome language for writing OS kernels or UIs. Rust is a well-designed-for-memory-safety systems language.
+
+It appears like lot of influx to 'inclusive' rust community is from webshit communities like RoR which explains spread of webshit micropackages. There is more to CS than knowing difference between stack and heap. Stop showing off webshits!!
+
+/rant"
+195,IndependentDocument5,1590688856.0,0.0,You can probably see why I didn't want to post my thoughts. If you look it's clear people are comparing rust to C when I compared it to java. They're nitpicking on things I clearly explained (such as how to use panics after I said panics aren't good enough for error handling and how it's obviously not good enough in java)
+196,,1590671467.0,14.0,"I've been using C++17 mostly and Rust is still way better.
+
+I like all the new modern features C++ got recently (especially 'auto' and lambdas) but the committee is just never gonna be able to get rid of the nasty baggage of C and earlier C++ unless they deprecate a whole bunch of stuff and thus invalidating a lot of old code.
+
+I don't get why you're so much against the idea that sometimes new things are just better. Rust learned from the design mistakes of an older generation of languages and came out better for it."
+197,AyrA_ch,1590651595.0,1.0,"I automated COVID19 related responses for permits for part of Switzerland this way because the government it department only gave us a half finished solution.
+
+VBA is ugly but it can get shit done fast. [It can also do a lot more than some people think](http://i.imgur.com/VMqYo5b.png)"
+198,,1590687739.0,6.0,"Rust is faster and more efficient than every language that fit these conditions. In fact, Rust has the fastest runtime aside from C and assembly.
+
+There is no language that's both faster and safer than Rust. And this is specifically because of their memory management design."
+199,CryZe92,1590702444.0,2.0,"If you don't know what I'm talking about, then you don't really know Rust enough to argue that only memory safety is its only trick."
+200,leviathon01,1590646023.0,5.0,Nice
+201,,1590695215.0,1.0,[deleted]
+202,,1590694165.0,0.0,[deleted]
+203,,1590659384.0,-4.0,[deleted]
+204,,1590668705.0,0.0,[deleted]
+205,steveklabnik1,1590688317.0,6.0,"He is not the first, and will not be the last, unfortunately."
+206,zerakun,1590781254.0,3.0,"I bet they get their number from the survey: https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages
+
+In ""All respondents"" C++ is at 23.9%, rust is at 5.1%, so yes roughly a factor 5.
+
+In ""professional developers"", the number is at 20.5% for c++ and 4.8% for rust users, so even closer to a x4.
+
+It is also interesting to note the growth of rust, from 3.5% last year"
+207,gaumutra_fan,1590821356.0,3.0,The survey we’re discussing. Rust is at 5% of the respondents while C++ is at 25%.
+208,Izacus,1590678562.0,12.0,"That was an example. Not having a feature complete crypto library that can handle older encrypted data is a big oversight for a programming language that wants to compete with C++ no matter how you look at it.
+
+Yes, I can reimplement my own crypto (or use an unsafe mess that is OpenSSL whose bindings won't build for Windows), but that's orders of magnitude worse.
+
+Also note that I did not expect others to implement it (I've contributed to plenty of OSS projects on my own), but even the idea of filling out the library to feature completeness was stonewalled with insults like some other commenters did here.
+
+Having been called a ""jackass"" over this pretty much proves my point about the Rust community attitude you can expect when building software in the language. I've never been called ""jackass"" by people on CppCon, PyCons or pretty much any of Java communities or conferences when working with large systems. Rust is the first."
+209,Izacus,1590671108.0,16.0,There's really no need for insults here.
+210,sex-fluids,1590795449.0,1.0,"> It'll never be a get stuff done language
+
+I don't know, I've been getting plenty done with it. I also don't agree that the standard library is all that shallow. This seems like a very broad generalization. Plus, like I mentioned, there are things I can't practically get done with JS that I can with Rust. Like, parsing 15-20MM rows of multi-gigabyte CSV files. I'm just not going to do that at any feasible pace or with code I can rely on in JS. In Rust it was pretty easy to get something running which still doesn't crash and runs really quickly. In that sense, it's a 'get stuff done language'. Doing it with C++ for comparable performance would have been misery for me, personally."
+211,kankyo,1590648856.0,11.0,"Everyone considers Java a memory safe language. It's just that no one is impressed because it's a managed memory model with a normal tracing GC. 
+
+Rust is memory safe without a GC, that's why people are mentioning it."
+212,username-is-mistaken,1590648562.0,2.0,"I can see what you mean, and those are some good criticisms.
+
+I can't make an argument for or against the safety of Rust since I'm not familiar enough with it yet, but I definitely agree that some of the standard library is lackluster.
+
+I personally ran into something like this when trying to work with converting relative paths to absolute ones. I know we have `File.canonicalize`, but we need an external crate to convert a relative path to an absolute path (without resolving symlinks)? That should be built-in along with canonicalize.
+
+As for the compile time... yeah... All that borrow checking is pretty costly, but they've managed to make some small increases in compile time over the past year or two. With LTO enabled, the link time is absolutely awful, but that's not really a Rust problem from my understanding.
+
+And oddly enough, I've had the opposite experience with Rust and C++ compile times. I've had abysmal incremental compile times with CMake and a multi-module C++ project, while a similarly sized Rust one took maybe 2/3rds of the time. That might have just been because of CMake, though.
+
+What's the issue with the LSP? I use CLion for my Rust projects, and it's pretty decent. I haven't had to use another IDE though, so I'm not very familiar with type state of things."
+213,shadow31,1590698982.0,2.0,"It comes across like you don't actually know enough about Rust to be able to critique it in the way you're trying to do. A lot of your complaints are misinformed and the comparisons to Java just don't hold water. 
+
+You're free to have whatever opinion of Rust you want but you're never going to convince anyone else they should care about your opinion if you can't communicate it effectively."
+214,0xC1A,1590704887.0,-1.0,We've seen this movie before.
+215,Shnorkylutyun,1590692925.0,1.0,...is that why Switzerland is reporting such low numbers lately? O\_o
+216,,1590696016.0,2.0,"> Rust is faster and more efficient than every language that fit these conditions. In fact, Rust has the fastest runtime aside from C and assembly.
+
+Apart from D.
+
+Also, Rust itself suffers from memory safety bugs: https://www.cvedetails.com/product/48677/Rust-lang-Rust.html?vendor_id=19029
+
+Rust is not the second coming. Stop talking nonsense."
+217,,1590703686.0,1.0,What?
+218,matthieum,1590769543.0,2.0,"> Why would you do that?
+
+Performance, in general.
+
+While creating an integer without an initial value doesn't bring much, creating 10MB worth of integers without an initial value saves quite a bit of time. It's of course done with the assumption that _something_ will initialize them later, but those assumptions are sometimes erroneous."
+219,ThirdEncounter,1590694562.0,2.0,"You started right off the bat comparing Rust with Qt. So, my point stands.
+
+
+>  If Rust doesn't have such a framework well then it isn't as good yet.
+
+As good as yet for what? If that's a general statement, then it's an inaccurate one.  You have to be more specific than that."
+220,SkiFire13,1590660852.0,17.0,"Can't test fbinfer right now, but clang doesn't seem to handle this simple case:
+
+    #include <iostream>
+    #include <vector>
+
+    int main()
+    {
+        std::vector<int> vec = { -1 };
+        int& first = vec[0];
+
+        std::cout << ""First is "" << first << std::endl;
+
+        for(int i = 0; i < 100; i++)
+            vec.push_back(i);
+
+        // This is now UB, first probably points to invalid memory
+        std::cout << ""First now is "" << first << std::endl;
+    }"
+221,,1590660873.0,6.0,"I didn't read it as an attack and I'm just curious myself, because I'm neither an expert in C++ nor Rust.
+
+But I wonder if it's that easy and reliable to provide all the guarantees Rust offers, then why do most C++ code bases (including professional ones with lots of highly skilled developers like Qt, Firefox, Chromium, ...) still suffer from all these issues? Are the number of issues found with analyzers just so overwhelming or hard to fix, or do they lack in certain regards?"
+222,wrongerontheinternet,1590677454.0,6.0,"I know the people who work on Infer.  It's cool technology, but is not close to the level of static guarantees Rust can provide (for pretty fundamental reasons)."
+223,UltraNemesis,1590674678.0,8.0,"That's utter rubbish. If a language improves something that's worth more than the cost of the migration, then it will always be worth migrating. Memory safety is definitely one such feature. Its clear that what ever support tools there are for C have not always helped given how many memory safety issues leading to security vulnerabilities are being discovered 20-30 years after the code was written and in heavily used pieces of software.
+
+I also call bullshit on the size of software argument. I worked on a pretty massive code base of a professionally used software product which was first written in the mid 80's for Apple Mac's using C and Assembly. After more than a decade, it was subsequently ported to support Windows which was a massive port in itself given the difference in CPU architecture as well. Then a majority of the Mac side of the code was ported to Objective-C after another 15 years. I am no longer with the company, but I hear parts of the code are being ported to Rust now. You do whatever is needed to improve your product and keeping it current.
+
+I am not saying that you need to port every damn thing written in C to Rust just for the sake of doing it, but there is always technical and business sense in doing some upgrades regardless of how massive the code base is.
+
+As for Microsoft, they are indeed ""experimenting"" with rust and that experimentation involves porting/rewriting existing software in rust through they have not revealed which parts they are. Obviously, they have also adopted rust for new projects as well.
+
+[https://msrc-blog.microsoft.com/2019/11/07/using-rust-in-windows/](https://msrc-blog.microsoft.com/2019/11/07/using-rust-in-windows/)
+
+""Recently, I’ve been tasked with an experimental rewrite of a low-level system component of the Windows codebase (sorry, we can’t say which one yet). Instead of rewriting the code in C++, I was asked to use Rust, a memory-safe alternative. Though the project is not yet finished, I can say that my experience with Rust has been generally positive."""
+224,crabbytag,1590694315.0,6.0,"I think it's reasonable to want to use older, insecure decryption algorithms. 
+
+I also think it's reasonable to not want to add the corresponding insecure encryption algorithms in case someone uses it by accident. Adding something and maintaining it is a burden, and it's understandable that someone maintaining a library for free wouldn't want to add something insecure and deprecated. It goes against the founding principle of that library - ""no insecure crypto"".
+
+If you feel strongly about this, you can create your own crate for this. If your use case is only decryption and only for an offline use case, I don't see any potential security issue. It doesn't seem ""orders of magnitude worse"".
+
+Lastly, I would encourage you not to extrapolate about the hundreds of thousands of Rust developers in the community based on one or two people. The Rust sub alone has 100k subscribers. That seems like sampling bias to me."
+225,,1590671477.0,-20.0,"Yes. There really, _really_ is."
+226,BubuX,1590818130.0,0.0,"> Like, parsing 15-20MM rows of multi-gigabyte CSV files.
+
+This can and IS frequently done with python in a performant way. No need for rust. It's not even a recommended niche for rust.
+
+> Rust it was pretty easy to get something running which still doesn't crash and runs really quickly.
+
+No it isn't. Naive rust implementation is often slower than other languages for various reasons. Here's an example of a naive Rust implementaion being slower than Go: https://news.ycombinator.com/item?id=23058147"
+227,IndependentDocument5,1590649594.0,5.0,Yes. It is interesting that they did it without using a GC. However their community acts like it's safe as in it won't have a shitton of security vulnerabilities in a nontrivial app. The community annoys me so much as they think 'panic at runtime instead of memory corruption is good'. Like what in the actual fuck... Exceptions that people don't catch existed for over 25years and NOONE uses that
+228,MEaster,1590668266.0,6.0,"> As for the compile time... yeah... All that borrow checking is pretty costly, but they've managed to make some small increases in compile time over the past year or two.
+
+That doesn't match anything I've seen. Every compile time metric I've seen has shown borrow checking to be one of the faster stages of compilation. Typically it's been code gen, macro-related things, and heavy (ab)use of the trait system that tends to take the longest to compile."
+229,IndependentDocument5,1590649903.0,2.0,"> All that borrow checking is pretty costly
+
+That's another thing that annoys me. That's complete bullshit. Their implementation of borrow checking is bad (or something in the critical path)
+
+I'm not sure as I haven't written a line of rust for a long time (but continue to check if my problems have been fixed). All I can remember was the official one or the one they tried to make from the compiler is far too slow to be used and a different compiler/analyzer is used. That's not a good thing"
+230,IndependentDocument5,1590701531.0,1.0,">A lot of your complaints are misinformed
+
+Such as?"
+231,,1590704296.0,3.0,"D is not safer than rust when it comes to memory management unless you're using the garbage collector. But if you run it with the garbage collector, it's not as fast as Rust. So D is not a good counterpoint."
+232,,1590695834.0,-1.0,[deleted]
+233,InsignificantIbex,1590664133.0,-2.0,"And is this something rust can prevent, and if so, how? It seems to me that as soon as you have pointers, all bets (as far as preventing ""ghost pointers"") are off."
+234,kopczak1995,1590662502.0,2.0,"Well, I'm not C++/rust expert, just random guy on /r/programming. I suppose it's much easier for rust to be (almost) full bulletproof, because there is no issue with legacy stuff. C++ stack need to be highly backwards compatible.
+
+Just think of it, smart pointers started with C++11, yet engine like Chromium didn't used any features of C++11 till 2015.  
+[https://www.reddit.com/r/programming/comments/gpp9le/the\_chromium\_project\_finds\_that\_around\_70\_of\_our/fro7hjd?utm\_source=share&utm\_medium=web2x](https://www.reddit.com/r/programming/comments/gpp9le/the_chromium_project_finds_that_around_70_of_our/fro7hjd?utm_source=share&utm_medium=web2x)"
+235,,1590662831.0,1.0,[deleted]
+236,sex-fluids,1590854610.0,0.0,I guess I've been lucky.
+237,Koxiaet,1590650224.0,8.0,"Exceptions are fundamentally different to panics. Exceptions catch both runtime errors and programmer errors, while panics indicate that there is something seriously wrong with the logic of your program.
+
+Panics are far far better than memory corruption. They give you an exact location and backtrace to make it super easy to debug, and they can be caught so they don't crash your program."
+238,kankyo,1590660547.0,5.0,You seem confused. Rust will in fact have a shitton less security vulnerabilities than comparable C programs. We know this already. You lost your credibility here.
+239,SkiFire13,1590665235.0,3.0,"> it won't have a shitton of security vulnerabilities
+
+Since 70% of security vulnerabilities are memory safety bugs...
+
+> The community annoys me so much as they think 'panic at runtime instead of memory corruption is good'. Like what in the actual fuck... 
+
+Because they should be used in situations where the developer is sure it will never be called. This is because checked exception are so annoying in those cases. 
+
+> Exceptions that people don't catch existed for over 25years and NOONE uses that
+
+Everyone use them, it's just that they don't realize it because of the invariants of their programs."
+240,username-is-mistaken,1590657190.0,3.0,[deleted]
+241,shadow31,1590753160.0,2.0,"> Rust officially says it's memory safe, but it also has 'safe' written everywhere. It's no safer than java which is considered by a safe language by noone.
+
+Java is considered memory safe by everyone. You seem to be complaining that the JVM (which is different than Java) has security issues which is to be expected considering it's a massive pile of C++. Security issues <> memory safety bugs; there are many kinds of security issues of which memory safety are a large percentage. 
+
+> Java was so unsafe it's no longer used by browsers
+
+Java was never ""used"" by browsers, there was a Java Applet plugin which is no longer supported. It's true that there were many security issues with it but again, that's to be expected as the plugin was written in an unsafe language (not Java). There were a lot of other factors that also lead to the plugin being discontinued unrelated to security. 
+
+> Without going into a rant, you can't build a good app with the standard library.
+
+Is just your opinion. I've built ""apps"" that only depend on the standard library. 
+
+> There are essential cargo libraries that should be included in every app and really should be part of the language.
+
+You can say this about every programming language out there. Furthermore, you probably mean ""should be part of the standard library"". 
+
+> Syntax is part of what they didn't think through but that's more subjective
+
+I personally like the syntax but as you say, that's subjective. It's certainly not for everyone.
+
+> Big projects take too long to compile.
+
+That's fair but not fundamentally different than C++ (which Rust is actually competing with not Java). 
+
+> If you're going after C++ noone will switch.
+
+Why? You provide no explanation of this and in reality people are switching from C++ so your statement is false. 
+
+> If you're going after Java, noone will switch.
+
+Again, why? You don't think *anyone* would be interested in a language that's faster than Java, far lighter to deploy and uses a fraction of the memory? Really? 
+
+> I understand why rust is not used in production anywhere.
+
+Rust is used in production so maybe your conclusions here don't hold? 
+
+> Who the fuck wants to deal with poor build/development time and garbage standard library
+
+The amount of time I see developers spend waiting for their JS to transpile and the actually garbage std lib that JS has suggests otherwise.
+
+> They fucked it up so bad you can't even use the rust language server protocol.
+
+Fucked what up? There's no ""rust language server protocol"" you're talking about the plugin which uses the LSP. 
+
+> Another plugin replaced rls
+
+So the issue is fixed and you're complaining why? Why is improving the IDE experience a negative? 
+
+>  I haven't talked about arrays, null, reflection, error handling, etc
+
+Probably for the best considering null is widely considered to be a huge mistake, reflection is largely just used to work around deficiencies in your language and error handling is controversial. 
+
+> However their community acts like it's safe as in it won't have a shitton of security vulnerabilities in a nontrivial app.
+
+The community touts the memory safety which you constantly confuse in your responses for complete safety. 
+
+> The community annoys me so much as they think 'panic at runtime instead of memory corruption is good'. Like what in the actual fuck
+
+Yes, yes that is good. That you don't understand why that is undermines your argument. No one is arguing that apps should panic *more* than necessary, the argument is that a controlled panic is better than memory corruption which is objectively true. 
+
+> Exceptions that people don't catch existed for over 25years and NOONE uses that
+
+I don't even know what this is supposed to mean...
+
+> Crashes/termination isn't considered 'safe' to most people and loses state/memory.
+
+Again, you're conflating memory safety with some kind of general notion of correctness which you call safety. The term memory safety has a very specific meaning. No one is claiming that Rust prevents all kinds of logic errors or that your app will never loose important data. Over and over you confuse these ideas which tells the reader you don't know what you're talking about.
+
+> You realize I am comparing it to Java right??
+
+Why? Rust is not competing with Java anymore than C++ is. 
+
+> Are you telling me rust is more safe than java? 
+
+What do you mean by ""more safe""? Considering Rust does not have `NullPointerException`s or `ConcurentModificationException`s because that code errors at compile time instead of run time, yes you could easily make that argument. 
+
+> Can you tell me anyone who calls java safe?
+
+Yes, nearly everyone except you consider Java to be a safe language. 
+
+> You do realize browsers use to run java but not anymore before there was a neverending cycle of security issues?
+
+Again, you confuse Java the language with a particular version of the JVM. This is an amateurish mistake and your conclusion that Java the language has security issues because the JVM written in C++ has issues does not hold. 
+
+> You can talk about memory safety all you want but that doesn't actually mean it's safe
+
+Again, you're arguing that memory safety <> safety which is 100% true and something no one has claimed. That you think they have shows you don't understand what you're arguing against. 
+
+> > All that borrow checking is pretty costly
+> That's another thing that annoys me.
+
+Borrow checking consistently takes less than 0.1% of compile time. Do you have any evidence that suggests otherwise? 
+
+> That's complete bullshit. 
+
+Completely nonsensical.
+
+> Their implementation of borrow checking is bad (or something in the critical path)
+
+Why? What are you even talking about? 
+
+> All I can remember was the official one or the one they tried to make from the compiler is far too slow to be used and a different compiler/analyzer is used. That's not a good thing
+
+Why? Even in Java, the compiler your ide uses to drive completions is not the same as `javac`. Support your argument with facts or otherwise convince me why I should care! This is an implementation detail 99.9% of developers will never think about. You need to explain why I should care.
+
+You complain that people don't understand your argument and that is certainly true! But you need to actually post something that's intellectually defensible and not just string together rants about random parts of the language. 
+
+Your basic argument seems to be that
+
+1. Rust is not Java
+2. Java is not safe
+3. Rust is not safe
+
+Surely you can see that doesn't make any sense?"
+242,,1590708078.0,1.0,"You've no idea what you are talking about.
+
+https://dlang.org/spec/memory-safe-d.html
+
+https://dlang.org/phobos/std_typecons.html#Unique
+
+https://dlang.org/blog/2019/07/15/ownership-and-borrowing-in-d/"
+243,ThirdEncounter,1590697134.0,1.0,"> If you don't want to be logical then this conversation won't be logical.
+
+
+I was being logical, and you just used a logical fallacy.  This conversation is now over.  Good day."
+244,aeiou372372,1590665347.0,20.0,"Yes it is prevented in rust — you can’t have multiple references to an object if one of them is mutable. In this case, rust would count the reference to the vector entry as an immutable reference to the vector, and prevent the subsequent mutable reference necessary for push_back.
+
+This is a great example of a case where Rust’s compile time checks prevent what could be a very confusing intermittent issue for someone without systems programming background."
+245,SkiFire13,1590666250.0,20.0,"Yes, **safe** Rust prevents this. In Rust the direct translation would be the following:
+
+    fn main() {
+        let mut vec: Vec<i32> = vec![-1];
+        let first = &vec[0];
+        
+        println!(""First is {}"", first);
+        
+        for i in 0..100 {
+            vec.push(i);
+        }
+        
+        println!(""First now is {}"", first);
+    }
+
+The compiler fails to compile with this error:
+
+    error[E0502]: cannot borrow `vec` as mutable because it is also borrowed as immutable
+      --> src/main.rs:8:9
+       |
+    3  |     let first = &vec[0];
+       |                  --- immutable borrow occurs here
+    ...
+    8  |         vec.push(i);
+       |         ^^^^^^^^^^^ mutable borrow occurs here
+    ...
+    11 |     println!(""First now is {}"", first);
+       |                                 ----- immutable borrow later used here
+    
+    error: aborting due to previous error
+
+This is because this program break's rust's borrowing rules. They say that at any time in a program you can have any number of immutable references or one mutable reference to some piece of data.
+
+In this case we're borrowing `vec` with `first` and we hold this borrow until the second print (we say the borrow is alive). In the meantime we also try to push an element to the `vec` but this requires a mutable reference to `vec`. This would mean we have an immutable **and** a mutable borrow alive at the same time which goes against the borrowing rules.
+
+I think someone proven that this prevents every memory safety bugs but of course it comes with its downsides. For example the following code doesn't compile, even though it is perfectly safe!
+
+    fn main() {
+        let mut vec: Vec<i32> = vec![1];
+        let first = &mut vec[0];
+        println!(""vec's length is {}"", vec.len());
+        *first = 2;
+    }
+
+Pretty much the same error as before, this time we're trying to get an immutable borrow while a mutable one still exists.
+
+This is a simple example, and tbf it could be solved with partial/disjoint borrows that for now are supported only for fields. More complex examples involve self-referential structs and graphs."
+246,,1590665964.0,2.0,"Rust has a limited form of ""linear types"" that ensure once-and-only-once use of memory. and specific types of ""owned"" or ""borrowed"" pointers the typechecker ensures are used correctly, given the ownership semantics."
+247,wrongerontheinternet,1590677499.0,3.0,Chromium used smart pointers *well* before 2015.
+248,,1590666267.0,11.0,"Turn this around, though: Rust was developed by Mozilla, maintainers of one of the largest C++ codebases on earth. It's not like they lack C++ experts or failed to try other solutions like ""static analyzers"" over the years. While I've never worked for  Mozilla, I _have_ worked on large C++ codebases, and the sort of ""why not use C++ better?"" line of questioning is just frustratingly naïve."
+249,madmoose,1590667378.0,11.0,"Well, you can't really complain about downvotes when what you said was wrong. C++ people who don't understand Rust frequently jump into threads claiming that this or that static analyzer or compiler pass or std::pointer will find all your problems or that all those Chrome developers just don't understand C++ well enough.
+
+The whole point of Rust is to soundly enforce memory safety (outside code explicitly marked as unsafe). You said ""all [these] things described can be prevented by using a static analyzer"", and, no, they can't. It's the same tired arguments that come up in every Rust discussion.
+
+I say this is somebody who works primarily on C++ projects."
+250,drawtree,1590674557.0,7.0,"I really don't get convinced on this. If C++ memory errors could be prevented by static checks or some shiny tools, why are MS and Google constantly suffering by C++ memory errors? They are one of the biggest, wealthiest, and technically strongest companies in the world and literally throwing millions of dollars on their C++ products. They are willing to do whatever if they can cut the cost of memory bugs, but still failing.
+
+Are you telling me that you discovered a magical tool that MS and Google couldn't afford or apply on their codebase?"
+251,IndependentDocument5,1590650581.0,1.0,Crashes/termination isn't considered 'safe' to most people and loses state/memory. Try telling someone writing a documented that because he wasn't connected to the internet saving to the cloud didn't work and that crash is a good thing cause it's not going to save corrupt data... That person would think you're on some kind of acid
+252,IndependentDocument5,1590688219.0,1.0,You realize I am comparing it to Java right?? Are you telling me rust is more safe than java? Can you tell me anyone who calls java safe? You do realize browsers use to run java but not anymore before there was a neverending cycle of security issues?
+253,IndependentDocument5,1590687566.0,1.0,">Since 70% of security vulnerabilities are memory safety bugs...
+
+You're not listening. I said **JAVA**, a language that doesn't have memory safety issues and throws exceptions, was EXTREMELY unsafe that chrome and firefox no longer allows it in their browser
+
+You can talk about memory safety all you want but that doesn't actually mean it's safe"
+254,IndependentDocument5,1590779094.0,2.0,I'd have to write the long version to clarify and unless I'm posting someplace (rust would probably take it down) it's probably not worth the bother
+255,InsignificantIbex,1590668893.0,6.0,"That's simultaneously less and more than I expected. It's a limitation, of course. That's generally true of memory safety, there's either a run-time-overhead, or you can't do some things. But at the same time it's kinda minimal and I can easily see the use.
+
+Thanks for the explanation. I can't say too much about it right now, other than that I would wish for sort-of the opposite, that is that a borrow updates automatically where possible. But that'd violate the principle of least surprise for me, too. But then I'm not surprised if a pointer to a datum in another thing becomes dangling.  Hm."
+256,csgotraderino,1590671220.0,3.0,Can you show examples that do compile? Never used Rust.
+257,kopczak1995,1590679283.0,1.0,I see. Probably I just passed word from someone who seemed to know his stuff. Never trust people in internet :P
+258,,1590669488.0,-5.0,[deleted]
+259,,1590668165.0,1.0,[deleted]
+260,Tuwtuwtuwtuw,1590684804.0,5.0,"Because he is wrong, that's why. I've been doing C++ development for 25 years now and the idea that memory errors (as a whole category of problems) could largely be prevented using static checks is ridiculous."
+261,kankyo,1590660664.0,6.0,You're being silly now. A tool that is safe to use isn't a tool that will always do what you want. No one thinks that.
+262,SkiFire13,1590664278.0,4.0,"> because he wasn't connected to the internet saving to the cloud didn't work
+
+Seems like you don't understand where panics should be used. This is a predictable error and should be handled with result. If you use panic here you're saying that this is a situation that will never happen."
+263,Koxiaet,1590651581.0,1.0,In any meaningful program panics will be caught before they can do harm.
+264,kankyo,1590690733.0,2.0,"Man you really are super confused! The reason there were so many security issues was because the JVM was implemented in C. 
+
+The reason Java died in browsers was not because of the security problems but because it was slow, ugly, under featured and was crushed by flash. Which btw thrived even though it had even MORE security problems. Again because of C."
+265,SkiFire13,1590692485.0,1.0,"Your talking about the JVM, which is not written in Java. So how does this prove that Java the language is unsafe? Also, chrome and firefox removed NPAPI support, which is different than just java support."
+266,shadow31,1590783884.0,1.0,"That's totally fair and you're probably right. Reddit (especially proggit) loves to nitpick arguments so it's usually better to orient your comment around one point and support it well than to make a bunch of points that aren't well supported at the same time. The voting system kind of encourages that too because with only one topic in your comment, it's more likely somebody reading will agree and give you an upvote than when you mix a lot of different arguments together."
+267,SkiFire13,1590670309.0,4.0,"> I can't say too much about it right now, other than that I would wish for sort-of the opposite, that is that a borrow updates automatically where possible. But that'd violate the principle of least surprise for me, too. But then I'm not surprised if a pointer to a datum in another thing becomes dangling.  Hm.
+
+I don't that's possible. What if you borrowed something that's not there anymore? Rust's references aren't just pointers, they're guaranteed to point to valid data. So there isn't such a thing as a dangling reference in safe rust."
+268,somebodddy,1590709512.0,3.0,"> That's simultaneously less and more than I expected. It's a limitation, of course. That's generally true of memory safety, there's either a run-time-overhead, or you can't do some things. But at the same time it's kinda minimal and I can easily see the use.
+
+The thing about this limitation is that it is baked into the language, so everything in the Rust ecosystem is going to be designed around it and expose API that lets you (or at least makes an honest attempt to let you) use it while respecting that limitation."
+269,SkiFire13,1590673106.0,6.0,"Let's fix the two previous examples.
+
+For the first you can just avoid saving the reference into a variable. This way the reference doesn't live for the duration of the for-loop.
+
+    fn main() {
+        let mut vec: Vec<i32> = vec![-1];
+        
+        println!(""First is {}"", &vec[0]);
+        
+        for i in 0..100 {
+            vec.push(i);
+        }
+        
+        println!(""First is still {}"", &vec[0]);
+    }
+
+For the second only you can either save the length in a local variable before getting the mutable reference or get the mutable reference after printing the length. This is a simple example so both works, but in a more complex usecase one could be better than the other
+
+    fn main() {
+        let mut vec: Vec<i32> = vec![1];
+        let len = vec.len();
+        let first = &mut vec[0];
+        println!(""vec's length is {}"", len);
+        *first = 2;
+    }
+
+or
+
+    fn main() {
+        let mut vec: Vec<i32> = vec![1];
+        println!(""vec's length is {}"", vec.len());
+        vec[0] = 2;
+    }"
+270,,1590669972.0,10.0,"Er, no. The point, which I made _explicitly_, is “very large C++ codebase with as much C++ expertise on the team as you could hope for, and years of experimenting with many C++ analysis tools.”
+
+If your reading comprehension issues reduce that to “but the company X use it! so it must be good!” in your head, that’s your problem, not mine."
+271,madmoose,1590669089.0,9.0,"I quoted you. The thing you said that was wrong was literally in quotes. I'll quote it again here: ""all things described can be prevented by using a static analyzer"". I could have quoted more but I thought that was enough."
+272,CanJammer,1590669428.0,5.0,"It is not an attack or bullying to downvote incorrect assertions. I use both languages on the job, but static analyzers are far from sufficient for catching all common classes of memory safety errors.
+
+Edit: clarified sentence"
+273,IndependentDocument5,1590651985.0,2.0,"IDR if they recommend not catching panics but in practice, it doesn't matter. It's still as unsafe as java which also can catch things"
+274,IndependentDocument5,1590693834.0,1.0,https://www.reddit.com/r/programming/comments/grsn9h/2020_stack_overflow_developer_survey_rust_most/fs4bmuo/
+275,IndependentDocument5,1590693231.0,2.0,"You may be right but I remember specifically there were multiple issues with XML and how java let you create any type of object you wanted and malicious XML causing a series of bugs.
+
+I remember a ruby issue due to a similar problem as well. https://arstechnica.com/information-technology/2012/03/hacker-commandeers-github-to-prove-vuln-in-ruby/ bug report https://github.com/rails/rails/issues/5228"
+276,InsignificantIbex,1590670775.0,3.0,"I was speaking more generally, not specifically about rust. If you borrowed something that is now gone, that violates the mutable/immutable borrowing rule you outlined. But references (or more generally immutable pointers to data) could be re-seated in many cases. As long as the compiler can prove that the vector you referenced into has moved, it could just reset the reference to the same element in the new vector, unless that new vector is now too small or something, in which case it could generate an error again. 
+
+But again, these are special cases, so perhaps it'd be more confusing than helpful if that happened. It probably would. As I said, I haven't though about this in any detail."
+277,,1590670322.0,-4.0,[deleted]
+278,,1590669382.0,2.0,[deleted]
+279,,1590669575.0,2.0,[deleted]
+280,Koxiaet,1590659373.0,5.0,"And Java isn't unsafe, no memory safety bugs can happen. Some form of crashing when there are bugs is unavoidable (unless you use dependent typing). What do you want to happen in that case?"
+281,SkiFire13,1590695273.0,3.0,"These bugs don't take advantage of invalid memory access, such as buffer overflows and dangling pointers so they can't be classified as memory safety bugs. It falls in that 30% of other types of bugs.
+
+Anyway it looks like you're trying to prove that Java isn't a safe language but you completly missed the point. Java, like Rust, guarantees **memory-safety**, not safety in general."
+282,,1590670761.0,8.0,"And you continue to miss the point that Mozilla _developed_ Rust and _has_ rewritten their CSS engine in it from a very complex C++ base, for extremely good reasons based on literally decades of experience.
+
+I get that you think you’re making salient points. But among your lack of critical thinking skills; apparent unfamiliarity with the difficulty of rewriting large, complex C++ codebases; and demonstrated pattern of reducing the opposing point to an intellectually dishonest soundbite; you’re just embarrassing yourself."
+283,madmoose,1590670410.0,9.0,"No, they cannot all be prevented by using a static analyzer. If you've been following Rust discussions like you say you have you know this.
+You even pointed out a case current static analyzers can't handle: https://www.reddit.com/r/programming/comments/grsn9h/2020_stack_overflow_developer_survey_rust_most/fs2q6lz/
+
+Can we keep adding special cases to static analyzers? Of course, and we will for years to come, but they'll never be complete. Rust is memory safe today."
+284,shadow31,1590688945.0,1.0,What memory safety error does rustc not catch?
+285,IndependentDocument5,1590695598.0,0.0,"This is why I don't like posting online.
+
+For a guy who said I don't understand multiple times you didn't realize that was my point from the very start"
+286,,1590671361.0,-7.0,[deleted]
+287,Tuwtuwtuwtuw,1590684584.0,2.0,What the fuck dude? Your reasoning seems completely off. You misinterpret his sentences in a way only a drunk or high person normally would.

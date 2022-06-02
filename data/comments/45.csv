@@ -1,0 +1,13 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,darzolne,1514373224.0,33.0,Yes so the “best paying jobs in scala” are in big data or machine learning in general. I’m an engineer doing “traditional” back-end development on scala micro-services and I don’t get a significantly different salary than the java engineers in my company. It’s really about the value you bring rather than the tools you use.
+1,lihaoyi,1514398556.0,22.0,"Alternative interpretation: all the entry-level Scala developers are unemployed and don't turn up in the statistics, whereas there is great demand for entry-level PHP/JS/C# developers who can always find a job
+
+(Not saying that this is the case, just showing how you can really see what you want to see from this statistic)"
+2,Isvara,1514352334.0,9.0,Where are the best places to find Scala jobs? (Remote in particular.)
+3,Vitamon,1514395674.0,-2.0,"number crunching, seriously?"
+4,OIPROCS,1514402787.0,3.0,"Yeah Big Data is what's generating those, and my own, salary. We utilize Scala but oddly enough we have been reverting to Python and R for a lot of stuff we envisioned Scala being best at."
+5,teknocide,1514657520.0,1.0,Why Go though? 🤔
+6,DucksHaveLowAPM,1514411422.0,5.0,As someone in this space who came from Python and R can you elaborate please?
+7,woztzy,1514442416.0,5.0,"I'm not /u/OIPROCS but both of those languages are more familiar to data scientists. This means there's significantly lower onboarding cost than Scala (which many folks never end up learning because why would they when Python is sufficient?), and Python has enormous momentum for deep learning.
+
+Spending time learning domain knowledge here is probably a much higher priority than spending time learning a language."

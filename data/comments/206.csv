@@ -1,0 +1,110 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,seN149reddit,1590683873.0,36.0,"Besides react, excited to see .Net Core getting so much love. Returned to the .net world with 2.1 release and haven’t looked anywhere else since. React + .net core has definitely been a great eco system to be in for me."
+1,philisweatly,1590680962.0,8.0,Awesome presentation.
+2,swyx,1590683159.0,3.0,"(feel free to discuss theother sections too, i just linked to the web frameworks one cos thats technically the one most relevant to this sub)"
+3,,1590711374.0,2.0,"Why are angular and angular.js two different entries?
+
+Also, why people hate heroku so much?"
+4,devsmack,1590728564.0,1.0,Poor hamster framework didn’t get any love.
+5,softwareguy74,1590842188.0,1.0,JQuery is still a thing?
+6,MrStLouis,1590685767.0,-5.0,Inb4 jQuery haters. Excellent proof that jQuery is still alive and well. I just wish my company would at least use the latest version 😢
+7,,1590747961.0,0.0,Corporate bias galore.
+8,m-sterspace,1590688300.0,13.0,"Honest question, but what benefit do you get from .net core over node.js / typescript though?
+
+I originally started in desktop .Net Framework development, but switched to a full javascript stack when I started doing web development and have honestly just fallen in love and can't see myself looking back."
+9,swyx,1590686246.0,4.0,ayyy /u/dance2die look another .netter
+10,LavoP,1590737673.0,1.0,"Have you seen the SAFE stack? I'm a Node.js dev and I've been getting slightly interested in learning a new ecosystem. Using a functional language appeals to me, so I'm wondering if this is a good option: [https://safe-stack.github.io](https://safe-stack.github.io)"
+11,dangus___,1590712564.0,6.0,"Angular.js and angular 2+ are separate entities. 
+
+Idk about heroku I've had nothing but success using it for rails"
+12,buffalolsx,1590689252.0,20.0,"While jQuery is very powerful and changed the web, we now understand how inefficient it is which is why it gets all the hate.
+
+Also, as someone who upgraded a fairly large jQuery codebase from 1.7 to 3.4, it wasn't as monumental a task as I'd imagined. It was always on the backburner, and I took the initiative on my own time to branch and upgrade it."
+13,_hypnoCode,1590689510.0,15.0,"This is a common misconception. Nobody hates jQuery, it defined and help create most of our jobs by empowering us.
+
+What people hate is when others use ancient irrelevant legacy technology in new projects."
+14,Fidodo,1590696096.0,6.0,"I don't hate it, but I feel like the standard library has caught up to the point where it doesn't provide much extra and adds a lot of bloat, as well as 2 ways to do everything which can cause conflicting programming patterns."
+15,,1590696920.0,3.0,"It’s not that people hate it. There are just better options. If you want to sprinkle magic on your DOM use vanilla js. If you want to build an application take your pick of the current players (angular, vue, react, svelte, lit-element/webcomponents, etc). 
+
+However I am filled with vitriol when someone starts a new project and chooses to use jQuery. Why? WHY?!?!"
+16,,1590710899.0,1.0,"jQuery won, it won't so hard that it became part of Js and is mostly unnecessary now"
+17,Kindrik76,1590718220.0,0.0,"
+Some believed we lacked the programming language to describe your perfect world. But I believe that, as a language, jquery defines its reality through misery and suffering. The perfect world was a dream that your primitive cerebrum kept trying to wake up from. Which is why jquery was redesigned to this, the peak of your civilization. I say your civilization because as soon as we started thinking for you, it really became our civilization, which is, of course, what this is all about: Evolution, Morpheus, evolution. Like the dinosaur. Look out that window. You had your time. The future is REACTS world, Morpheus. The future is REACTS time."
+18,twistingdoobies,1590695132.0,19.0,"One thing I really enjoy about .Net Core is that there are standard packages and patterns for doing things. Microsoft provides pretty much everything you need to write a very solid back end (or any kind of app, really). In JavaScript I often have the feeling that I'm leveraging a *ton* of open source packages that have an uncertain futures. What happens in 2-3 years if the libraries I'm using aren't updated or are no longer compatible with each other? With .Net Core you can be sure that there will be long term support, and things *just work* together. Beyond that you also have type safety and far fewer language peculiarities in C# compared to JS."
+19,seN149reddit,1590762830.0,2.0,"Seems like you already got some great replies, but here are some thoughts. I have written services using node and the things I loved about it, I all find now in node. E.g. node is great to prototype, but with .net core project size and dependencies are vastly less than they have been before so prototyping is almost as simple.
+
+I love C#. Typescript is fine, but C# is just an amazing language for backend development. Add things like LINQ and I just can’t get myself using something different.
+
+Library support. Yes there is a great node ecosystem, but for the way I built backend services, I enjoy the libraries in .net core more. E.g. for me, no orm in the node world comes close to EF. 
+
+Performance. I hate bringing up Performance, because you can always 1 up. But node is not the greatest technology for server development due inherent flaws which i think the creator is trying to address in deno. It works. And many big companies use it in production and it works great for them, but since I enjoy both and I don't have an issue finding developers for both, I think I can say that I choose the more performant one. 
+
+My UI choice usually doesn’t impact my backend, but everything works great with react. Also, .net core has great support for swagger, so generating front end clients for your library is a breeze."
+20,LavoP,1590744007.0,1.0,"I've been in the full Javascript stack but I've been getting disillusioned with things that others have mentioned here including fragmentation of 3rd party packages, the need for tons of dependencies, etc. One thing I have been thinking about recently is the lack of a good debugger experience. I know you can attach debuggers to node and whatnot, but I have been thinking that a ""fuller"" stack like .NET might offer some of that stuff out of the box in a much better dev environment."
+21,BlackShadowv,1590690007.0,0.0,"Node.js is just a runtime environment for JavaScript. If you want to build a web application or API that implements auth or communicates with a DB you’ll have to pull in a library from NPM or code it yourself from scratch. 
+
+I‘m not an ASP.NET developer, but from what I can tell, it’s a full-fledged web application framework that includes many functionalities which you might need. And while I like Node.js for things like simple cloud functions, I‘d much rather have a battle-tested complete framework like Django or ASP.NET when building large web apps."
+22,dance2die,1590692138.0,2.0,"👋 awyeah~  
+.NET core has a better support for SPA than .NET framework :)  
+Getting React work on ASP.NET MVC 5 is a real pain."
+23,acraswell,1590690981.0,8.0,I hate it 😂
+24,,1590696820.0,1.0,This
+25,,1590726890.0,1.0,[deleted]
+26,334578theo,1590702383.0,7.0,"Django fan here - this is the exact reason why Node can turn out to be a real hassle down the line. The best way to write applications imo is usually with predictable and ""boring"" frameworks."
+27,swyx,1590697561.0,6.0,"yea, this is a solid argument right here. ""fullstack js"" is overrated.
+
+do you feel pressured to use Azure because you use .Net Core? how nice/bad are they about locking you in to the msft ecosystem?"
+28,m-sterspace,1590767238.0,1.0,"I do miss LINQ. 
+
+I just personally always resented how much boiler plate goes into a C# project, though, it looks like C# 9.0 is continuing working to address that with some Javascript/Typescript like features.
+
+And I suppose right now the biggest difference for us is that our backends haven't really scaled to the point where the performance differences between the two would have any meaningful UX differences. You can probably tell that by the fact that I have never even heard of swagger except in passing but that looks really interesting. 
+
+At this point I'm curious enough to go back and try and build a backend service with C#, though I think I would have to make sure that it's something that's purely backend. One nice thing about a full javascript stack is that it's easy to share and move code between them. If you define an object in your back end, you can largely just copy and paste it into your front end, or if you have a function in your front end that is becoming too performance intensive, it takes zero effort to move it to your back end, and same goes for the cases where you need the same code in both your front and back end like for doing role checks during authorization. With a full javascript stack you only have to write that code once, but if you split you'll have to write and maintain two different versions of that function in two different languages."
+29,m-sterspace,1590692937.0,11.0,">Node.js is just a runtime environment for JavaScript. If you want to build a web application or API that implements auth or communicates with a DB you’ll have to pull in a library from NPM or code it yourself from scratch. 
+
+I mean, yeah, I was kind of inherently referring to npm / the rest of the javascript ecosystem... it's not like the packages you're using are written by some CS student or something ... I'm using Microsoft's official msal.js authentication library and their official ms-sql package for connecting to dbs. 
+
+>I‘m not ab ASP.NET developer, but from what I can tell, it’s a full-fledged web application framework that includes many functionalities which you might need. And while I like Node.js for things like simple cloud functions, I‘d much rather have a battle-tested complete framework like Django or ASP.NET when building large web apps.
+
+Basically the entirety of backend services like Netflix are built in Node. It'd be a stretch to refer to it as not battle tested."
+30,rounced,1590699076.0,3.0,">I‘d much rather have a battle-tested framework
+
+Suggesting that Node is not battle tested is a bit odd considering how many major players out there are using it in some fashion."
+31,seN149reddit,1590763082.0,2.0,"I am proud to say that I made react work with razor pages 3, using dynamic imports and a bunch of webpack magic, before we switched that project completely over to a spa. I feel you."
+32,CyanoFresh,1590710210.0,0.0,have you tried laravel?
+33,Kindrik76,1590733455.0,1.0,Then you missed the point of the post.
+34,twistingdoobies,1590699120.0,2.0,"I wouldn't say there's any lock in, and not really much pressure. I think Microsoft does put a lot of energy into making Azure the easiest option for deployment and hosting (which it probably is), but they don't actively make it harder to host elsewhere. I can respect that approach, and I bet companies with deep pockets don't mind paying a premium for Azure devops services.
+
+But .Net Core apps are really trivial to get working on Linux servers with docker. We moved our apps to DO where we pay about 1/3 of what we paid at Azure."
+35,334578theo,1590702483.0,5.0,Netflix also have hundreds of not thousands of devs and probably use a ton of their own custom libraries.
+36,BlackShadowv,1590697431.0,0.0,"Perhaps my response was a bit too harsh, as the subject is everything but black and white. There are many things to like about Node and as you have pointed out, there are countless examples of companies building extremely complex applications on top of it.
+
+> ... it's not like the packages you're using are written by some CS  student or something ... I'm using Microsoft's official msal.js  authentication library and their official ms-sql package for connecting to dbs. 
+
+There are many great NPM packages (after all, even React is an NPM package) but still, every added dependency is a new vector for potentially malicious (or just bad) code getting into your application. But I don't think that's a deal breaker for the Node ecosystem (especially when sticking to well-known packages) - just something to consider when comparing Node to other web frameworks like ASP.NET where most things come from a single source.
+
+In the end I think it comes down to choosing between the flexibility of Node vs the convenience of a large web framework like ASP.NET that comes with almost anything of what you might need."
+37,BlackShadowv,1590704628.0,0.0,"You're right, Node itself is definitely battle tested. I had a complete setup in mind consisting of various additional libraries that are required to get all the features in Node that a web framework like Django comes with per default. And I believe that an all-in-one solution can be considered more battle-tested than Node + various I  had to add myself."
+38,dance2die,1590764701.0,1.0,Great to see someone having the mutual feeling :)
+39,dance2die,1590764595.0,1.0,Thanks for the suggestion.  Haven't tried PHP and no plan though.
+40,scottypants2,1590710587.0,3.0,"""I think Microsoft does put a lot of energy into making Azure the easiest option for deployment and hosting (which it probably is), but they don't actively make it harder to host elsewhere. ""
+
+That's a good way to put it. I think the current MS's developer strategy is ""be the ecosystem developers want to use"" and I think they are doing a great job."
+41,swyx,1590742084.0,2.0,"nice! thanks for the info. just always curious ""how the other half lives"". dotnet people seem happy."
+42,m-sterspace,1590704607.0,8.0,"It's not just Netflix. Facebook, Amazon, Atlassian, heck, even Microsoft build a lot of infrastructure with node. There's nothing not production ready about it.
+
+I'm curious to know why people prefer working with ASP.NET core over Node, in the real world, not vague and baseless generalities."
+43,334578theo,1590705680.0,3.0,"Node is definitely production ready, the downside of it IMO is that adding tonnes of third party packages just adds more potential points of failure. I've never used .Net and likely never will, but have a tonne of Django experience and it just makes life so much easier not having to juggle a load of 3rd part packages.
+
+Node could do with some kind of official community repo of recommendation packages.
+
+The companies you listed have between them, tens of thousands of devs so have the bandwidth to deal with fixing issues due to obscure, rogue packages, easier than a startup/SME does. They also have room for a lot for experimentation and can make choices that have a high chance of failure, and it doesn't matter as long as the core product isn't affected.
+
+Slight off topic rant but...Startups shouldn't be copying what these huge companies do (except for UI/UX and some growth strategies) - Ive worked with too many devs who want to build an insane Microservices architecture on a Kubernetes cluster for a brand new pre-revenue app that has 3 users."
+44,m-sterspace,1590706385.0,1.0,"Most of the time you're not 'adding a ton of third party packages', you're adding a couple of third party packages, the likes of which are widely used by those companies, as well as tons of others, and are consequently being regularly audited. 
+
+I just don't buy that there's any real world security risk to using node.js + express, just because they're in two separate packages. Both are still being used by massive companies that are auditing them regularly, just like Asp.NET. Do you really think Netflix is bogarting some extra secure version of Express? It seems a lot more likely that if they discovered a security issue, they'd just patch it into Express. 
+
+
+If you're installing random tiny packages to do functionality you should be doing yourself that's a problem, but that's also a problem with NuGet and is really an issue with your developers."

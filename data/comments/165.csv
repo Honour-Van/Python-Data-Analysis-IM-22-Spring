@@ -1,0 +1,30 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,denialerror,1602327545.0,4.0,"The only similarity between Rust and TypeScript is they are strongly typed. C++ is also strongly typed, so your analogy doesn't really hold in any sense. There are also dozens of high-level languages that are strongly typed."
+1,mo_al_,1602327751.0,2.0,"Well you seem to be comparing it to C++. In that sense the answer is no. C++, unlike javascript, is statically typed. Rust however has a stronger type system than C++ in the sense it disallows implicit conversions, has stricter pointer aliasing, encodes the lifetimes into the type system for borrowed values and performs lifetime analysis statically at compile time (using the type system)."
+2,edwbuck,1602337152.0,1.0,"They are both imperative programming languages organized in an Object-Oriented fashion; however, they are quite different.
+
+TypeScript is permissive (mutable data structures), interpreted, and enforces strong type checking with support for a class hierarchy.
+
+Rust is rigid (data structures do not mutate after compilation), is compiled, and enforces strong type checking without support for a class hierarchy.
+
+In addition, TypeScript operates in a managed memory model, where memory reclamation is automatic.  Rust uses an unmanaged memory model, where obtaining and using memory is a manual operation written by a programmer.
+
+The advantages of Rust over other unmanaged memory model languages is that Rust's compiler imposes rules on memory handling which prevents many common bugs that programmers tend to write in an unmanaged memory model.
+
+There are many other details; but, this is enough to show that the two languages do share strong typing, but are still quite different."
+3,javascript_dev,1602363817.0,1.0,"So Rust can't do OOP?
+
+That would be a paradigm shift for me."
+4,edwbuck,1602373582.0,1.0,">hey are both imperative prog
+
+My first sentence; ""They are both ... organized in the Object Oriented fashion""
+
+Rust is OOP, but it doesn't support class hierarchies.  This can be a huge benefit, as many people abuse the parent / child class relationship to do things that eventually become problems.
+
+Class hierarchies work well, but only withing the confines of the Liskov substitutability principle.  If you don't know what that principle means, odds are higher you might create a class hierarchy that will cause more problems than solutions.
+
+The classical example of the Liskov substitutability principle being violated is the traditional ""Shape"" example of class hierarchy.  One starts with an abstract ""Shape"" object, and then sub-classes it for circles, squares, rectangles, etc.  Where it starts to fall apart is when a sub-class gains new features that aren't modeled in the Shape.  For example, 2D Shapes lack depth when compared to 3D Shapes.  This is a Liskov violation, because now shapes aren't interchangeable without inspecting them for some other sub-classification.  The flip side of the coin is when you start adding a lot of features to the abstract class to support detection of sub-classes.  This is a violation because you are no longer dealing with the abstract at the abstract level of representation, instead you're just exporting your switch statement to the abstract class, forcing everyone to write the conditional code instead of relying on polymorphisim.  An example of this failure would be to include an abstract ""is2D()"" to the Shape class or interface.
+
+Rust does not have parent class inheritance as a built-in.  By avoiding parent class inheritance, it constrains programmers into avoiding a whole category of code structure problems; but, for those who know how to solve problems without introducing these code structure problems, it also forces them to use different approaches.  
+
+Constraint in languages is not always a bad thing.  Strongly typed languages constrain users to use matching or compatible types.  But if you constrain the wrong items, or constrain them in inelegant ways, people find it harder to write programs.  Rust's memory constraint model certainly makes your program harder to compile (if you want to avoid the unsafe keyword at all costs)."

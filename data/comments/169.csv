@@ -1,0 +1,144 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,Plasma_000,1571917488.0,47.0,"Rust has only been officially released for 4 years - there simply hasn’t been enough time for it to fully permeate large businesses with existing infrastructures (outside of Mozilla of course). It’s adoption rate has been miraculous given the time period. At the moment it’s been mostly piece meal rewrites of old or unreliable or security sensitive parts of larger systems, which is exactly where it fits in."
+1,coderstephen,1571925583.0,37.0,"First off, I must point out that Rust is **not** one of the most popular languages; that is a misunderstanding of what the StackOverflow surveys are measuring. The thing they are measuring there (where Rust has topped the charts) is which languages are ""most loved"", which more or less boils down to `number of users who enjoy the language / total language users`. In other words, most people who try Rust really like it. Which is great news, but gives absolutely no indication about popularity. 
+
+While there are lots of great answers to your question here, I think the premise to your question is not accurate."
+2,WellMakeItSomehow,1571918465.0,34.0,I suppose you're aware of [this list](https://www.rust-lang.org/production/users)?
+3,oefd,1571924901.0,7.0,"There isn't any niche quite so Rust-defined in the way that, say, statistics is so dominated by R. There's a good amount of Rust interest in the niche of systems programming - things like operating systems, and libraries usable by many other languages, but a lot of that niche is still working the more traditional choice of C / C++. 
+
+Which is not surprising, Rust is still a pretty new and fresh language, and it still has some obvious points of immaturity compared to the long storied histories of C or C++. (For my part I'm still really keen on seeing Rust get `const fn` sorted out because it can be a pain how much Rust can't do at compile time compared to C++)
+
+It may eventually be that Rust is a dominant player in that niche because it has two key advantages over basically all other non-C/C++ languages
+
+* C ABI compatible - you can make a precompiled library with Rust that'll be usable from any language that can load C libraries. That's a very important thing for being able to integrate Rust into existing OSes and libraries.
+
+* Comparable-to-C runtime - IE Rust can be used to write an operating system because it doesn't need an operating system to alraedy exist on the machine in order to be able to work. Most languages out there need some runtime features that only a pre-existing operating system can provide, Rust does not.
+
+The biggest advantage Rust has over the currently-dominant C and C++ is the borrow-checker helper alleviate memory safety issues. You can kind of get this in C or C++ with static analyzers and runtime sanitizers, but it's not as thorough as Rust's checking and it's a lot more of a hassle - Rust has it built right in.  
+
+Whether that's enough to ever unseat C and C++ remains to be seen, but I'm hopeful."
+4,,1571917373.0,5.0,"it isn’t clear what you are looking for. you seem to have already answered your own question? i can think of other examples (an energy analytics company using rust for performance, embark games using rust, ea and microsoft doing research projects in rust) but i don’t know how those examples are different than cloud fare or mozilla"
+5,fiedzia,1571924210.0,3.0,"> Is there any environment where Rust is heavily used and treasured that I am missing
+
+There are some (seems to be popular among blockchain implementations), but you are using wrong metric. Rust is popular among many individual developers or small teams who found tool that is great at solving their problems, but they are not centered around one company, industry or project. This may change with time, when some companies or projects built with Rust will get larger."
+6,JuanAG,1571952904.0,3.0,"You have to understand that developers would want some things but real life has it owns rules, my boss or the boss of my boss doesnt care at all that Rust is awesome and we are using \[X\] lang that sucks, that's why the comunity enjoys Rust and the industry dont use it more, because it is not our call to make, the people to choose the langs and tech to use have other points of view, many CTO arent even developers and if they were they dont care anymore about new things, there are exceptions but i understand, adopting Rust is taking a big risk, if it goes well you dont get any credit, it is your job after all but if it goes wrong, prepare to enter in hell. So it is undestable that they use caution, me, you and any other developer can code in whatever we want our personal things so as i said, two worlds that has nothing in common
+
+My opinon is that is it trending, the lang is good and many bosses will see it could lead to faster developements times with less bugs which equals to more money and the industry will start using it more and more. I never planed to learn it but here i am, i though some things that wasnt real and time has show me how wrong i was, time will put in it place because Rust deserves it, it is an incredible and awesome lang"
+7,CantankerousV,1572341280.0,2.0,"As others have mentioned, there is no single environment that accounts for the majority of rust users.
+
+I work at an NLP-focused startup that recently adopted rust and a large part of the appeal for us was specifically that it let us unify large parts of our codebase that was written in three different languages (Go, Python, JS) into one core rust library that can be called from all the other languages. Rust made sense for us not because it was specialized for our particular environment, but because it is flexible enough to work across all of these areas without many sacrifices.
+
+In comparison with some alternatives that we considered:
+
+* Go: Go was originally chosen for performance and simplicity, but we started hitting a barrier where we had to choose to sacrifice either performance, ergonomics, or safety. Rust makes it possible (though still challenging) to have all at the same time. Go is also harder to call from JS/Python, so it couldn't solve the language interop issue in the same way.
+* Python/Typescript: We considered using python/node as the driver for our backend, and calling into some more performant language for the bottlenecks. This ended up being infeasible because nearly every component was CPU intensive. 
+* C++: C++ would have solved most of the performance/interop issues, but the cost of dealing with memory unsafety and general language difficulties made it seem less appealing.
+
+The transition to rust was challenging but the overall feeling is that even though it takes a bit of effort to get everything right, you can end up with a no-compromises solution even in an environment with very diverse requirements."
+8,lazyear,1571933462.0,2.0,"I just program for fun, but I mostly use Rust. I'm kind of confused by the question, I assumed that people would just learn new languages for fun and then decide if they like them or not. Presumably where Rust is used the most is wherever there are programmers working on problems that benefit from using Rust"
+9,miauwmjam,1571918657.0,1.0,We build a consumer for rabbitmq in Rust. Much faster than the php one.
+10,protestor,1571924453.0,3.0,"> Is there any environment where Rust is heavily used and treasured that I am missing?
+
+Well, Rust is hot in cryptocurrencies / blockchain, mainly because [Parity is written in Rust](https://www.parity.io/rust-jobs/) (and [Facebook's Libra is too](https://medium.com/meetbitfury/libra-and-exonum-a-comparison-of-rust-based-blockchain-solutions-6963a7f4a81d))
+
+See this incomplete list
+
+https://www.reddit.com/r/rust/comments/a93dv8/cryptocurrencies_written_in_rust/
+
+edit: adding to this, maidsafe was one of the first coins to be written in rust. you may find this discussion from 2015 (on the eve of the rust 1.0 launch), when they migrated from c++ to rust, to be interesting https://safenetforum.org/t/rust-vs-c/3216"
+11,,1571936400.0,4.0,"My company with more than 10k people is taking tiny steps towards introducing Rust. I had the honor to participate in a first proof of concept.
+
+The tremendous problem we faced is that our build servers must not have access to the internet, security etc. etc. Installing the toolchain is problematic. The packages for many linux distros are old, often don't contain the cross toolchain or rustup, also the tarballs on the website are not really complete when it comes to cross-compiling.
+
+I got the feeling that Rust is mostly used by ""internet programmers"" and therefore few realize that the embedded industry would very much like easy solutions to store the entire toolchain locally and reproducable, so it can still be used in 10 years."
+12,mgattozzi,1571943867.0,18.0,"Google, Facebook, and Amazon all use rust and in some majorly critical parts. I'd say it has. It's just not ""Enterprise"" software yet."
+13,__claire_0,1571979397.0,4.0,"I wonder if it'll replace C eventually, just like how C has almost entirely replaced Assembly"
+14,Nazka231,1571922696.0,12.0,"Also Amazon for instance for their lambda with [Firecracker](https://github.com/firecracker-microvm/firecracker), Microsoft with their own version of Firecracker named [iotedge](https://github.com/azure/iotedge), and also in devops with [com-rs](https://github.com/microsoft/com-rs), and MS + Alibaba in devops too with [rudr](https://github.com/oam-dev/rudr)."
+15,dorfsmay,1571925915.0,12.0,"Also, almost all Rustconf sponsors are using Rust in prod:
+
+https://rustconf.com/sponsors/"
+16,ronCYA,1571979234.0,1.0,"Yeah, at the moment it feels like Rust is more Are We X Yet than not. The first 'dominated niche' Rust has a chance of claiming is probably WASM but even that isn't household yet. I'd love to see it overtake Python in machine learning but that's going to take a long time."
+17,sergioaffs,1571920504.0,3.0,"It is the bane of my existence to ask questions for which I don't know what kind of answer to expect. I'm sorry for the vagueness, but I hope that it still attracts some ideas. 
+
+The core is that while I'm eager to learn Rust, and it does come with some clever ideas built in that are worth checking just for the sake of being exposed to them, I'm struggling to find an ecosystem to leverage that skill. As I mentioned, I haven't met a Rust developer (even one as amateur as myself) ""in real life"" and I've found virtually no opening besides those at Mozilla where Rust is a requirement or at least a nice-to-have skill (even if Go or C are, for example). 
+
+I don't think the situation is as dire, but it does seem as if I'm overlooking something large."
+18,Evanjsx,1571933325.0,2.0,"This all the way. 
+
+I think I first tried Rust after I found some bottlenecks in a very basic utility I was working on with bash and then Python (get me the current kernel version from kernel.org as well as gentoo). 
+
+I eventually determined that these were with OpenSSL and the async story in general. 
+
+At some point I tried my hand at C and C++ with xerces or whatever parsers I found, but the debugging HTTP requests (or was it simply async tasks?) was painful. 
+
+I want to say my first experience writing Rust was around that time. It might have even been on a whim? 
+
+Anyway, I didn’t need to fuss with the threading in Python (rayon = 🧡), I didn’t need to worry about performance differences between HTTP libraries (I’m happy with reqwest right now), and I’m just happy doing just about anything and everything I can in Rust now. 
+
+I honestly find it really fun, and the compiler and borrow checker are now my best friends."
+19,JuanAG,1571953298.0,1.0,"When you are starting yes, you learn for fun but when years pass and you want to make your own software you stop learning that often and instead work with what you know, you care more about your program"
+20,sergioaffs,1572017708.0,1.0,">   I assumed that people would just learn new languages for fun
+
+I wish I could agree with this. I wish that this was true, or that at least it was more true. Fun is certainly what draws many people into programming (and particularly into exploring new programming languages) in the first place, but it is not the only reason.
+
+It probably boils down to how beneficial it is to learn a certain language, but that's actually a huge question. How enjoyable that language is often plays a big role (Python's smoothness had me start several projects that I wouldn't have in Java, although I'm ""proficient"" with both languages), but things like adoption (is it being used? Is it likely to be more used in the future? Will it fade into oblivion among a thousand similar frameworks?) and knowing what it is good for (if I want to program a web site this days, I'd be hardly motivated to learn C or R) are as imporant.
+
+> Presumably where Rust is used the most is wherever there are programmers working on problems that benefit from using Rust
+
+And this may be, as it stands, true, but doesn't tell me much. If it was only based on coolness or net benefit, there would probably be much more Rust projects than C projects. My intention was to get a better idea about how the field looks like, identify the common burdens and in which areas they are first being broken."
+21,yerke1,1571948797.0,1.0,Is it going to be a public project?
+22,twenties_tv,1571957907.0,2.0,Have you seen cargo vendor?
+23,steveklabnik1,1571952967.0,1.0,"We put a lot of effort into this, it's a requirement by linux distros and organizations like mozilla. Everything should work offline just fine.
+
+That said, the documentation around doing this is not fantastic."
+24,h4xrk1m,1571948115.0,6.0,Amazon's Firecracker seems pretty sweet.
+25,,1571921695.0,11.0,"Rust is a new language, new languages rarely invade industry quickly.
+Rust is a hard language to learn. The benefits of Rust are getting safety without performance penalty.  But modern C#/Java/Go perform really well these days, and computers are very fast. So the domains where the performance of Rust are worth the learning curve are not so plentiful.
+
+It is possible that Rust's work to be a first class WASM language will open up a ton of new domains where Rust is used rather quickly, though. gfx-rs/wgpu-rs also may make rust very compelling for anyone doing multi platform graphics work.
+
+anyway, long story short, there are not a ton of Rust jobs yet, but there are not a ton of Rust programmers either. If you get really good at Rust you can probably manage to turn that into a well paid job if you want."
+26,WellMakeItSomehow,1571924266.0,7.0,"I'm not a professional Rust developer, but it appeals to me because I spent too much time debugging memory and thread safety issues ""implemented"" by others (up to the point of spending more time on this than writing code myself, in case you're wondering why I wasn't debugging my own code). Rust is appealing for projects that would otherwise use C or C++.
+
+On the other hand, I see a lot of interest from people with a background like JavaScript, Python or Ruby. Some of them realize their CRUD API shouldn't need 15 servers for load balancing, might be sick and tired of keeping track of V8 performance cliffs, or might want to use threads to make their code faster. Rust offers the a ""close to the metal"" alternative without the pitfalls of C++."
+27,handle0174,1571930923.0,3.0,"> It is the bane of my existence to ask questions for which I don't know what kind of answer to expect. ... I'm struggling to find an ecosystem to leverage [Rust] skill.
+
+In the spirit not directly answering your question, and for another perspective on who's using Rust and for what, here's the first official \/r/rust ""Who's Hiring"" thread. [Official /r/rust ""Who's Hiring"" thread for job-seekers and job-offerers [Rust 1.38]](https://www.reddit.com/r/rust/comments/d9l79d/official_rrust_whos_hiring_thread_for_jobseekers/). I think they're planning to post another when 1.39 is released."
+28,tomwhoiscontrary,1572002749.0,2.0,"I don't think there are any niches where Rust is dominant. Is that an answer to your question?
+
+For example, my team uses it for low-latency message processing (receive a stream of UDP packets, inspect each one, accumulating some state as we go, and if one matches some particular rules, fire off a UDP packet to another system - and do all this in single-digit microseconds). But every other team in my company which needs to do that is using C++, or carefully-written Java, or something else."
+29,A1oso,1571932372.0,1.0,"I think you didn't read the numbers of the stackoverflow surveys correctly. The survey asked programmers who use Rust, how many of them want to continue using Rust.
+
+The survey does NOT say that 80% of all programmers love Rust."
+30,lazyear,1571955141.0,1.0,"That hasn't been my experience,  I've been going for 15 years and still learning for fun!"
+31,miauwmjam,1571973281.0,1.0,"Maybe that part will be, we don’t know yet."
+32,,1571984499.0,1.0,"Yes. That's actually what I used to store external dependencies locally, creating own tarballs. We then use --manifest-path and the environment variables RUST\_ENV and CARGO\_ENV to make the toolchain find its stuff"
+33,,1571985591.0,1.0,"Everything works offline just fine, even without `--offline` usually. That's not the issue.
+
+The issue is downloading and installing everything. We've got huge toolchains already. There are at least dozens developers (some in far asia) participating in a larger software project. What we did was add an additional new submodule in Rust in a C dominated project. Worked great, but now everyone who wants to build the project needs the Rust toolchain on his computer. And the build servers usually set up new dockers when automatically testing, to have a reproducable building environment. So these servers fetch all dependencies again from internal servers. We have mirrors of Linux package servers and even one storing python packages.
+
+Everything has to run automatically. It's not acceptable that a developer who has never heard about Rust has to run some shell script downloading rustup, cargo, rustc and so on from some servers somewhere on the net.
+
+We could actually work with the debian packages, but they don't support cross compiling.
+
+And we already presented our Rust project, where two guys of the medium management where there. We work partly with very (very) security sensitive customers and could greatly advertise a product using Rust ""Look, no memory leaks! Super duper security IoT blockchain AI machine learning"", but the bosses had two questions: 
+
+""Does this cost us money?"" - ""no, MIT license"" 
+
+""If Mozilla goes down the drain, what then? Will we still be able to build in 10 years?"" - ""Ahm... that's complicated. Dozens of C compilers vs. one Rust compiler, almost everything for C available as packages vs. rustup fetching and [cratios.io](https://cratios.io) ..."""
+34,H3g3m0n,1572049099.0,1.0,"> It is possible that Rust's work to be a first class WASM language will open up a ton of new domains where Rust is used rather quickly, though. gfx-rs/wgpu-rs also may make rust very compelling for anyone doing multi platform graphics work.
+
+While Rust has great WASM support. I suspect most webdevs will want to go with a simple scripting language rather than deal with a borrow checker. Although Rust+Cargo have fantastic package management which might win people over from npm/bower/yarn. Could also end up used as the core by big heavy frameworks that want the performance. Right now WASM being MVP is too limited for much though."
+35,sergioaffs,1572019032.0,2.0,">I don't think there are any niches where Rust is dominant. Is that an answer to your question?
+
+Partly :) I think the objective of my question was to reach what this post has become: a discussion about Rust adoption, the forces that harness it and the obstacles that hinder it. Many of the answers here have nice nuggets of information that add up. For example:
+
+* Rust is popular in the sense that it is liked by those who know it, not that it is widely spread
+* Rust is not purpose specific, so it doesn't enjoy the kind of niche that languages like R or MATLAB do.
+* Rust is younger than its fame suggests. Some elements (e.g. platform support, offline development) are present but could use some maturity.
+* Legacy systems will legacy (i.e. adoption remains low, especially in enterprise systems)
+* At networking and systems level, Rust has the potential to thrive. Projects using Rust are slowly beginning to proliferate from Big Tech companies, startups and personal projects, but the potential is yet to be fully exploited.
+* Rust's synergy with Web Assembler can open it the door to the Web world (besides, well, being Mozilla's proud son and powering Quantum).
+
+Those are just some of the ideas I gather from other answers, but I hope I got the most important ones ;)"
+36,,1572050039.0,1.0,they will want to but GC will always pose a bit of a problem in that space.

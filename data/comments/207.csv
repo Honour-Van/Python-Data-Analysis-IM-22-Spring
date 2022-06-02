@@ -1,0 +1,108 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,luca123,1590635037.0,35.0,Interesting that no one uses rust but everyone who does loves it. I should give it a shot!
+1,chabv,1590640485.0,30.0,"only disappointing thing, is they never show the breakdown of frameworks | languages across geographic distributions"
+2,camouflage365,1590662157.0,9.0,"Average age: 33.1
+
+Average years of experience: 16.1
+
+Wut"
+3,,1590639122.0,23.0,[Account deleted due to Reddit censorship]
+4,gokulkrishh,1590633138.0,5.0,Has lot of insights in it!
+5,ZeroSevenTen,1590636574.0,20.0,TypeScript ftw
+6,eatsomeonion,1590651590.0,7.0,"[Years Coding Professionally, 50 years or more, 0.1%](https://insights.stackoverflow.com/survey/2020#developer-profile-years-coding-professionally)
+
+How?
+
+btw this page deserves to be on r/dataisbeautiful, it is more beautiful than 90% of their top posts"
+7,irrational_design,1590690358.0,2.0,I'm surprised the percentage of developers using Macos is half of the percentage of developers using Windows. I work for a Fortune 100 company where any developer can choose whether they want a Mac or PC. I'd say about 95% of the thousands and thousands of developers at my company choose Mac. Apparently that is atypical outside of large companies?
+8,irrational_design,1590690779.0,2.0,"It is surprising to me how much higher the salaries in the US are than the rest of the world. I hear that taxes are very high in Europe, so I would've expected that salaries would need to be higher as well to compensate."
+9,,1590659808.0,1.0,[deleted]
+10,aiiqi,1590635965.0,6.0,"Yeah I found it to be a bit of a learning curve, but the language and community around it are awesome!"
+11,ellenkult,1590650705.0,3.0,Checkout out `actix-web` if you are done with the basic tutorials.
+12,AxiusNorth,1590664463.0,4.0,Apparently 17 year olds are counting their years in college/university as experience..?
+13,scandii,1590664954.0,1.0,"very many people start programming in their teens, and summer internships and whatnot are not too rare at that age."
+14,pendulumpendulum,1590686986.0,1.0,"They specifically measured ""coding experience"", not ""professional coding experience"", and I don't know about you, but I've been coding since I was 12. so although I have 0 years of work experience, I have 15 years of coding experience.."
+15,merkur0,1590675154.0,-2.0,"Am 17, have a full-time job as a software engineer.
+
+It’s almost becoming a standard these days"
+16,dzkn,1590656989.0,4.0,Does Blazor still end up being a gigantic thing the user must download?
+17,cactussss,1590650379.0,4.0,"I read on it about a year ago. Looked like really awesome tech. Does it still have a limitation of requiring being online?  
+Also, haven't been in .Net world for a while. Is Razor view still a thing?"
+18,Mihikle,1590662336.0,5.0,Because once you’ve been working 50 years typically you’ve already retired or you’re a senior senior manager. If you graduated at 21 you’d be 71 after working 50 years remember!
+19,irrational_design,1590689859.0,1.0,"I'm 47 and I've really only been coding professionally for 20 years (I don't count the years I was an undergraduate and graduate student as professional). If I retire when I'm 67, that would be 40 years. I'd have to code professionally until I was 77 to hit 50 years. That aint happening. I hope to be retired and working on my own projects before then."
+20,spartanatreyu,1590713418.0,3.0,"I think there's three big reasons why we see plenty of developers using macs.
+
+1. Windows has traditionally had an inferior terminal
+2. Macbook build quality
+3. Design tools worked better on macs in the late 90s and early 00s
+
+These three reasons are also why I can see mac use slowing down over the next decade. 
+
+1. Windows now has WSL2 and they'll likely improve it further over time. The GNU tools that come with it tend to be better than the macOS equivalent (the number of questions on Stack Overflow asking why a bash command didn't work and the general resentment towards needing to install different tooling seems to support this).
+2. We've had some really nice Windows laptops over the last 5 years come out with more focus towards larger multi-touch touchpads, touchscreen and tablet modes, all of which help more in an in-person meeting when the group of you really need to work something out.
+3. Barring some simple workflows which will end up using purpose specific apple built accelerator chips, workflows that can be improved with access to a more powerful GPU are already pulling people away from Apple's device offerings"
+21,,1590693675.0,2.0,[deleted]
+22,Meloetta,1590662562.0,13.0,It's a survey -- they asked.
+23,luca123,1590638709.0,2.0,That's great to hear! Any recommended starting points / tutorials? Coming from a mainly JS background w/ a little C as well.
+24,scandii,1590664850.0,2.0,"I mean, you are programming in university. if that's not experience then what is?"
+25,camouflage365,1590665048.0,1.0,I still imagine that the far vast majority of developers don't start coding until they actually get into uni.
+26,camouflage365,1590687215.0,2.0,So you don't work as a coder?
+27,AlabamaCoder,1590661659.0,2.0,It’s not much different than any other SPA framework
+28,,1590712154.0,1.0,[Account deleted due to Reddit censorship]
+29,niclo98,1590663987.0,1.0,"Well, I don't have any specific news about that nonetheless I'm quite sure it's not comparable to something like a Vue or React spa app bundled yet, AFAIK Microsoft is still working hard on reducing the side of everything tho.
+
+Here [https://tryfsharp.fsbolero.io/](https://tryfsharp.fsbolero.io/) you can try a demo of Bolero, an F# framework using Blazor WebAssembly under the hood and as you can see it takes few seconds to download the whole runtime
+
+edit: tried with Firefox dev tools open, it downloads about 31 mb of files with 89 requests to load, I don't know if this demo uses any of the latest versions tho"
+30,niclo98,1590660687.0,4.0,"There are two versions of Blazor, one server side which requires a connection to work and one client side using WebAssembly, the one officially released few days ago.
+
+About Razor, yes there are both components and the template syntax you can combine."
+31,,1590712203.0,1.0,[Account deleted due to Reddit censorship]
+32,irrational_design,1590695636.0,1.0,I understand the reason why taxes might be higher. I don't understand why salaries are not higher to help offset the high taxes.
+33,Aswole,1590641254.0,7.0,"I'm beginner-intermediate, but I really enjoyed the [official book](https://doc.rust-lang.org/book/), which is free online. I even purchased the paperback version to read during my commute, but now is as good as ever to read it online:)
+
+After/while reading it, I would just suggest that you start a project and chug along the best you can. I created a cli tool that accepts a string representation of a chess board and returns a list of possible moves, sorted by strength. It's not very efficient, and I'm sure the code is full of big no-no's, but it works and it was fun to write. The book alone was enough to get me there.
+
+Haven't done much else with Rust recently except set up a dedicated web socket server, but for that I did very little in terms of coding; just found an example repo, cloned it, ran the rust equivalent of npm install, and then the rust equivalent of npm start. Most of the work was setting it up to stay alive on an Amazon EC2 instance, configure proxies, etc. 
+
+At the very least, it's nice to be able to navigate it's tooling, even if you don't plan on programming in it. Cargo (it's all-in-one tool to manage dependencies, start projects, compile code, etc) is really, really good and pretty simple to learn the basics."
+34,AxiusNorth,1590665222.0,-2.0,"Try putting ""3 years of Javascript"" experience on your CV when you ""did it at uni"" but don't have any dev jobs listed alongside it and see which employers believe you're on par with a dev that *actually* has 3 years experience.
+
+I get this is only a survey though so I guess it's a different context Tbf. Hadn't thought of that."
+35,pendulumpendulum,1590688428.0,1.0,I don't work.
+36,dzkn,1590665618.0,3.0,Yeah 31 mb is a deal breaker 😂
+37,Monsieur_Joyeux,1590706735.0,1.0,Companies are paying a lot of taxes aswell. And they are taxed when paying workers. That's on of the reason the net salaries are much lower
+38,drumstand,1590666203.0,13.0,"The Survey is asking how much experience coding you have, not how much work experience you have."
+39,latenightbananaparty,1590682201.0,2.0,I mean yeah you are indeed expected to put that on your resume.
+40,camouflage365,1590693606.0,1.0,Alrighty then
+41,wavefunctionp,1590670349.0,2.0,"*1.2 MB
+
+That's an entire runtime and compiler for online editing. Blazor is comparable to modern spa frameworks/libs. There will be efforts to reduce download sizes further in the future."
+42,AxiusNorth,1590667475.0,1.0,"Yeah, I was taking ""experience"" too literally."
+43,niclo98,1590752170.0,1.0,"I've been playing all morning with the template you get from VS, it downloads about 6.44 mb for the basic Hello world stuff. Definetely not 1.2 mb, and takes forever to load setting the 3G connection restriction."
+44,godlikeplayer2,1590672022.0,1.0,">1.2 MB  
+>  
+>That's an entire runtime and compiler for online editing. Blazor is comparable to modern spa frameworks/libs.
+
+vue is like 21kb. The whole vuetify component lib is like 270kb js.... how is that comparable?
+
+Also, the performance is lacking hard until wasm can offer a more efficient dom access"
+45,pendulumpendulum,1590687064.0,1.0,"No, you weren't. You were completely misinterpreting what was surveyed."
+46,wavefunctionp,1590754381.0,1.0,"1.2MB was the above example. It's also matters what type of build it is and which features you have scaffolded.
+
+Here's the basic demo app: https://blazor-demo.github.io/ at 2.3"
+47,wavefunctionp,1590677681.0,2.0,"Vue is pretty amazing but SPAs optimize for developer productivity along with many other factors, not just download size.
+
+If download size was paramount, everyone would be using server rendered html or vanilla js.
+
+Blazor is pretty nice if all you have are C# developers. Let's not forget, one of js's biggest issues that some developers never actually learn javascript in the first place, they just wing it."
+48,AxiusNorth,1590687467.0,2.0,"Alright, that then."
+49,godlikeplayer2,1590678278.0,2.0,">If download size was paramount, everyone would be using server rendered html or vanilla js. 
+
+download size is a big factor. SPAs done right actually decrease the amount of data that has to be sent to the client since he doesn't have to reload all the HTML templates when navigating through the site.
+
+It also necessary to offer some features you can't do with server-side rendered html.
+
+> Blazor is pretty nice if all you have are C# developers. Let's not forget, one of js's biggest issues that some developers never actually learn javascript in the first place, they just wing it. 
+
+well, the right tool for the right job and so on... but I can relate."

@@ -1,0 +1,1377 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,taftster,1640829919.0,206.0,"One thing I've found is that Java often represents ""boring"" work.
+
+Java is used for in real software that many brick & mortar companies rely on to operate their business. Java is not the new shiny thing, but is often the workhorse powering many back-office applications.
+
+Backend customer management or accounting software applications don't necessarily appeal to people in these types of surveys. It's so very easy to want to chase the next cool thing.
+
+Nothing wrong with Python, Rust and the other favorites these days. But Java is still very much ubiquitous and used heavily throughout industry, regardless of what a survey says."
+1,farnulfo,1640822941.0,436.0,"“There are only two kinds of languages: the ones people complain about and the ones nobody uses.”  
+Bjarne Stroustrup, The C++ Programming Language"
+2,thomascgalvin,1640822189.0,406.0,"People like to complain. Java is everywhere, which makes it a huge target. 
+
+There are some legitimate criticisms, but as the language evolves, a lot of those are being addressed. The old ""Java is slow"" bullshit hasn't really been true for a decade, for example, lambdas allow you to do a lot of things without the boilerplate Java is famous for, and streams and a godsend.
+
+But the biggest reason Java gets hate is that it forces certain conventions. People think this is stifling their programming creativity or some such nonsense. Coincidentally, the people that bitch the loudest about this are also the least likely to have successfully maintained an application developed over tens of years by hundreds of people.
+
+When I walk into a Java project, I know more or less what I'm getting into. It probably won't be the sexiest thing I've ever worked on, but it probably won't be a total clusterfuck, either. 
+
+When I'm asked to take over a Node project, though, I feel an existential dread deep in my soul. Javascript gives you enough rope to shoot yourself in the foot, and people just can't resist pulling the trigger."
+3,andrewharlan2,1640823088.0,92.0,I love Java
+4,Ketroc21,1640823683.0,19.0,"There are many negative opinions about java that were once true, but no longer so.  Still those opinions persist.
+
+Java's age and backwards compatibility does make it less visually pleasing.  Also, if you are very anti-OOP, then Java is likely your least favourite language.
+
+Some people hate it without ever using it... just judging it on its perpetuated negative critiques.  Like, I hate Microsoft Edge browser without ever having used it."
+5,looneysquash,1640832099.0,14.0,"Maybe this subreddit and some other language subreddit should get together and swap this question. 
+
+Everyone here actually likes Java, or else is afraid to comment for fear of being buried in downvotes."
+6,sereko,1640826274.0,12.0,I’m just glad Matlab is near the bottom where it belongs.
+7,javasyntax,1640830608.0,11.0,"I love Java
+
+(My username confirms this)"
+8,atpeters,1640824575.0,35.0,"The four main complaints I've heard from some people are: 
+
+1. Generics
+2. Null
+3. It's not functional
+4. Boilerplate
+
+
+These are people that want to work with closure, erlang, Haskell, etc instead. 
+
+Personally I don't mind Java much except for working with JSON due to generics and cast checking. Admittedly I'm stuck in JDK 8 and I don't know if that has been improved upon."
+9,CubicleHermit,1640822625.0,29.0,"Well written Java in a good framework is actually my favorite mainstream language.
+
+There's a lot of bad Java out there, and while most Java frameworks when new have been pretty good for their time, plenty of them have aged badly.  It's the COBOL of our day - my day to day work, for example, involves some code that is likely older than some of the interns we will get this summer (started in 2001.)
+
+Lastly, there are a few corners of the Java ecosystem that really need to be just plain retired."
+10,Qildain,1640823593.0,27.0,"I enjoy working with Java.  I wasn't even aware of the SO survey, so I would be hesitant to trust the sample striation.
+
+The way Java is going (Loom, Valhalla, etc.) gives me a lot of good feels about it."
+11,ratel26,1640866416.0,10.0,"It's not just Java, all existing programming languages are awful.  The very concept and how we perform ""software engineering"" is flawed.  That's why someone invents a new programming language every other week, with claims that it's going to solve all the problems, only for it to end up having the same problems as all of the other languages.
+
+I think if most people knew how computers worked and how software is developed, they'd want nothing to do with them.  It's a miracle we've gotten as far as we have.
+
+I don't know what the solution will be.  If Turing is our Newton, we're still waiting for our equivalent of Einstein to come along.  I'm hoping that in the future what we think of as computers and how we interact with them will be fundamentally different, although I probably won't be alive to see it."
+12,greglturnquist,1640879053.0,9.0,"Everything is a trade off. 
+
+* Java is solid and stable. It started with a lot more “batteries included” then C/C++ ever did and simplified by making ALL method virtual and avoided pointer nightmares.
+* C/C++ put you about we close to the bare metal as you could get while still retaining being a high level language. But this required managing memory yourself. And ultimately proved to only be needed for certain situations. 
+* Python is what TCL wanted to be: a nifty scripting language that really could bind with complex libraries. It’s simplicity is traded against performance issues and lack of multithread support. 
+* Go was the response to C++’s death spiral. And it provides a lot of cool stuff. But even it’s gutsy moves are showing a little age as people contemplate alternate features in stuff like Rust, Kotlin, or Swift. 
+* Rust is a godsend for those writing C code because it offers a life saver when you need bare metal code that doesn’t drag you into the 9th circle. 
+* Ruby on Rails was the power house of e-commerce entrepreneurs. What other tool at the time let you win angel investor and seed money with just ONE coder? Of course after you got your funding, THAT was the time to rewrite it into something more sustainable. 
+* JavaScript is where it’s at because who else has such ubiquity in the browser? While NodeJS makes many cringe, it offers a way to give people a step up in take home pay with a mere 12-week Boot Camp. Seriously, MANY people have had life altering career changes by learning JS and getting hired in less than a year. 
+
+I love the competition these all bring to the table."
+13,kennethmf,1640824149.0,61.0,Only bootcamp programmers hate
+14,ancientweasel,1640831832.0,8.0,"Java is a widely used language and as such has a lot of bad projects along with the good ones. Java also takes a long time to start up, especially in DI frameworks and Enterprise servers. This is an actual impediment in high scalability architecture.
+
+Also, a lot of people hate Java Bean Programming and not necessarily Java. I showed a coworker who hates Java some code I wrote in Java in a clean Go like code style. He admitted after that that it wasn't Java that he disliked but Java Bean Programming."
+15,vbezhenar,1640850735.0,6.0,"I love Java. I hate most popular java tools, libraries and frameworks. They're bloated, overengineered and slow. I also don't like JVM, because it eats memory like there's no tomorrow, even for simple applications, but that aspect is bearable and hopefully will be improved some day."
+16,chrisgseaton,1640820822.0,115.0,Anyone who tells you they have a hatred for a programming language isn't worth listening to.
+17,,1640823865.0,42.0,[deleted]
+18,magnoliophytina,1640822915.0,16.0,"Modern Java is pretty decent (that is, Java 17). Most libraries still assume non-modular Java and use lots of mutable state and excessive number of wrappers, GoF design patterns, and over-complicated object design overall. Many helper methods like List.of were also absent in earlier versions. Same problem with high productivity classes like the Executors.
+
+Many tools also suffer from slow start-up time due to the way the VM works (background daemons & nailgun style designs help here). I think if Java had had reifed generics and project Valhalla & Loom style improvements right from the start, there would be more motivation to strive for effective bloat-free code.
+
+Another source of pain is the huge amount of legacy code. It's quite common to find hundreds or thousands of legacy code conventions even in small Java projects. For instance, using public static final int CONSTANTS instead of enums. Modern IDEs could fix these, but the maintainers of such projects would not accept pull requests because they might want to maintain compatibility with Java 1.4, 5, or 7. Heck, they might not even use git (sourceforge still supports svn) so that's a great excuse for not accepting PRs."
+19,PositiveUse,1640820452.0,55.0,"I think it’s people who never used it professionally and just got burned by JAVA during their time in university where they love to use JAVA for dreaded courses like programming and algorithms/data structures.
+
+So many web applications use a JAVA/Spring Boot/EE backend, it’s just not reasonable to hate the language as it’s pretty awesome to work with professionally."
+20,Qildain,1640826923.0,5.0,More elegant?  There are alternatives like Quarkus and Micronaut.  And who says everything needs to be RESTful?
+21,slothordepressed,1640833301.0,4.0,"As someone who used to work with JS and moved to  Java I can say that it's verbose and have tons layers.
+
+As many said, the only language that is not hated are the ones that are not used"
+22,khooke,1640835092.0,4.0,"I love reading through the StackOverflow developer survey each year but the thing to remember, as with any survey, it's heavily skewed to the point of view of developers that are inclined to spend time to complete this type of survey. It's not representative of the entire industry, it's the point of view of a very narrow population of developers.
+
+Does everyone hate Java? No, of course not. For many developers it's their bread and butter. I've been developing with Java for 24 years of my 28 years as a professional developer. I owe a significant part of my career to the language, the platform and the community. It's helped pay my bills for 24 years. Why would I hate what has contributed significantly to a successful and highly enjoyable career?"
+23,Affectionate-Box-837,1640843067.0,5.0,"I think most programmers makes the decision of liking a language based on their experience working with the language. For example; working with legacy code sucks, Java is one of the old languages that stood the test of time. Therefore, someone is more likely to associate using java with legacy code and using a newer language with a new project. Therefore programmers hate java instead of hating the circumstances like working with legacy code.
+
+The main problem I have with java is nothing gets depricated, which means language carries  a lot legacy."
+24,post_depression,1640875237.0,4.0,"One funny thing I noticed in this context, personally every people I’ve met who hates Java really doesn’t know much about the language other than “SyTeM.oUt.PrInTlN();” is such a drag to print to console or something similar.
+
+Java is like the Apple of programming world. Most people who hate it does it for the “trend” and not with any legit reason.
+
+I believe Java and C# (and C++ to some extent) are the only programming languages that have managed to adapt over the years as the programming landscape has changed when other languages got obsolete."
+25,,1640825690.0,4.0,Except me
+26,ibutbul,1640852759.0,5.0,"Something I learned along the way, people are hardwired into football fan mentality, they like to feel ""superior"" by belonging to a team (at least the vocal ones make it seem that way).
+
+At the end most languages that serve the same purpose tend to add features that make their differences less apparent over time, hating on a language is stupid in my opinion, they're tools, like hating on a chainsaw or a screwdriver...
+
+Usually these people don't know how to explain their hatred and it boils down to ""Haha System.out.println is so long to type, lol"" or some other joke.
+
+&#x200B;
+
+Bonus triggering code to Python haters:
+
+1) a = a\[0\]\[0\] = a\[a\[0\]==a\] = \[\[0\]\]
+
+2) a = a\[0\] = \[0\]
+
+&#x200B;
+
+In python:
+
+1 -> fails due to maximum recursion depth 
+
+2 -> works! but might give nightmares
+
+&#x200B;
+
+In Java:
+
+The compiler won't even let you run these.
+
+&#x200B;
+
+P.S I wanted to add a C/C++ trigger but they're too chad to pick a fight with, if you see any asm x86 dev, run away."
+27,deaddanik,1640859828.0,5.0,"> everyone
+
+untrue, i love java"
+28,exact-approximate,1640859836.0,3.0,"In my experience, the only people who enjoy hating Java are those who are bad at Java.
+
+And actually, most of the hate is misdirected - most times people would want to complain about the framework they are working in - Java Beans, Spring, Spring Boot, Tomcat, Big Data Framework etc. - not the actual language.
+
+I now firmly sit in the python world (not by choice, just adapting to change). But I don't spend any time ripping on Java. Sometimes, I miss it."
+29,quadrat137,1640872478.0,4.0,"I'm a Java developer with 10+ years of experience, and I wanted to give a bit of my criticisms on the Java  
+
+Please forgive me for spelling, as English is not my native language    
+
+My perspective might be different from most of comments here though as a lot of people are comparing it with C - I think any language that has GC can't be directly compared to the one that don't because *not having GC pauses is a huge deal* and can't be traded off in some scenarios(e.g OS, drivers, games)  
+  
+So, the points compared to other GC languages, typed and untyped:   
+- verbosity of the language itself(much have been said here, it's getting better though - records and multiline strings for example. Still string interpolation when)  
+- verbosity of most of the current approaches - compare how do you do HTTP request with python or go with how you do it in Java(I'm talking about new HttpClient, URLConnection is thankfully not used by anyone)    
+- a mess that standard library have become with years(Date? Or Calendar? Or Instant? Why Instant vs LocalDateTime? What is the difference between sql.Date and util.Date and etc)    
+- a mess that is the IO system(In 10 years I still haven't learned how to read a File in java and have to google it every time)    
+- Non-reified generics, aka type erasure (it doesn't affect me personally, but with them libraries wouldn't have to rely so much on reflection and offer nicer APIs) (project Valhalla when?!)     
+- Null-safety and ugly ways to deal with it in general       
+- Over-reliance on exceptions(very often the code just rethrows an exception instead of error handling, which quite often makes code hard to understand, test, and also has a big performance impact)     
+- There are two ways to write parallel code - Threads(which are heavyweight) and callback hell(which has it's name for a reason) (project Loom when?!)       
+- Default GC has somewhat long pauses that are not good - but thanks everyone for ZGC and Shenandoah. Still, that thing not being default quite often makes Java servers to be perceived as slow, as max latency is more important than throughput in most business scenarios    
+  
+A lot of those criticisms are addressed in other JVM languages, with Kotlin being my current favourite  
+  
+  
+Also a bit on the go-to approach, which is Spring framework    
+- It's quite slow - both in terms of throughput and latency - which brings it's performance to be on par with dynamically-typed language platforms like Python or Node    
+- It's very ""convention over configuration"" with a ton of reflection inside which makes it really hard to understand what is not working and why    
+- It's configuration is easy to mess up, which will lead to hard-to-track production bugs or easy-to-notice complete outages    
+- It's, IMO, very immature for such important technology - I encountered couple of critical bugs in the framework itself       
+  
+That being said, Java is not a bad language - but so are competitors.  
+  
+In general - if you are stuck with JVM, you can go for Scala or Kotlin, both having better approach to the concurrency and less opinionated frameworks  
+If you need to build something fast, you can use Python or Node, both being great for scripting and creating MVPs  
+If you need something to work fast, you can go for Go, with pause-optimised GC and green threads  
+    
+So there is not much point in using Java for a new project currently except if you already have a team that would prefer Java, and I believe it's the reason of its decline(according to TIOBE at least).  
+  
+But don't be discouraged you fellow dinosaurs - COBOL is still alive and kicking, so we will always make good money maintaining that 20-yo Java monolith serving trillions of dollars in volume every day"
+30,fix_dis,1640825194.0,10.0,"Java is just a language. One can hate aspects of it, but that typically comes down to preference… and that’s easy to brush off. 
+
+Where legitimate hate comes in, is in how people have written “enterprise Java” over the years. This massive bloated 5 files full of providers and factories when a simple if-statement would have sufficed… That is very hateable. But I can’t blame the language for that."
+31,,1640826843.0,22.0,[deleted]
+32,thisisjustascreename,1640822321.0,21.0,"Most objections to Java aside from the base language syntax are out of date. It is admittedly fairly verbose relative to some other languages, and Spring (not Spring Boot) has a reputation for being obtuse and heavily reliant on XML which is the worst possible configuration format for human readability.
+
+The JVM is a modern wonder of the world, you can tell because people keep writing new languages that compile to Java bytecode."
+33,FilsdeJESUS,1640832200.0,3.0,"I like Java because it is strict I the conventions and strongly typed . Those who do not like it , I really does not understand"
+34,yomanidkman,1640834327.0,3.0,"I just dislike annotation heavy java, otherwise it's a great language with shockingly few rough edges."
+35,RedditIsNotPrivate,1640847087.0,3.0,"Because is huge, like C, C++ and PHP. The most hated programming languages happen also to be the most powerful, if you think about it."
+36,klonkadonk,1640849305.0,3.0,I'll like it more once Loom is available.
+37,qK0FT3,1640849610.0,3.0,"In university no one was touching java because it was boring for them for some reason I still don't understand. I have read some articles about java and it's ecosystem and I thought I can use it for my final project. And it was so easy with spring boot. That I learned DDD(just the tip of it) in 3 months and I built a whole team task management application like trello. I even learned how to use it in docker, vuejs for frontend etc and boy it was just easy with couple of files. I don't know why people hate it but I made 4 student job in 3 months. Because I was able to produce maintainable code and easily readable. That was so easy to change and add new things.
+
+I think most people are bored/scared of it because of old frameworks and old java api or java bein booed all over the university, conferences etc. . New frameworks and new java api helps a lot. I mean I feel cleanliness. 
+
+Since university I have been making a living from java. On a startup company.  And boy when we get a new intern etc they can get into the code in day 2-3 easily. I don't know if that is the case for other programming languages. I worked/working with php, js, ts for some time and even new coming non-intern(senior/mid/junior) developers takes at least 1 week to go in and make reasonable changes. And we/I tried to make a really clean code. They just feel and is scripting languages sadly. But they have use cases which is better than java. For example php is very good for generating tools for front page and js/ts is good for basically frontend of our api.
+
+Every language has something that excel in. Every language has their downs and ups. No need to dramatize."
+38,tim125,1640850847.0,3.0,"I suspect these are my gripes.  I love java.
+
+1. Eclipse & Netbean are painful. If its harder for a new software developer to compile and debug in 2022 than it was in 2000 with Turbo Pascal and VB6.
+2. JPA lazy collections exceptions with no session.
+3. XML parsing mechanism changed too many times.
+4. Webservices were inconsistent.  Soap binding generation was painful with library hell.
+5. Original documentation was not as good as PHP/Microsoft equivalent.  PHP had an amazing documentation system where every function could have Q&A built right into the documentation system so you did not have to trawl stack overflow/equivalent for the most common questions.
+
+The only  point on this list that is specifically java is #1. The rest are community/environmental issues."
+39,vytah,1640855296.0,3.0,"I'm surprised no one mentioned applets and the pain in the ass they were from both the user perspective and the security perspective.
+
+The applets are gone, but the damage to the reputation they've  done is not going away any time soon."
+40,WafflesAreDangerous,1640865437.0,3.0,"Why some people don't like it, or have a negative impression: Some simple things are slightly convoluted, there was that xml and SOAP maddness, and its popular with the enterprise which tends to lag behind in adopting all the nice upgrades and has a lot of legacy code.
+
+Also, java in the browser sounded promising (and had success stories like RuneScape) but was a failure long term and kept ""java"" security issues in the news constantly.
+
+The language itself if pretty decent and a lot of work is going into fixing the issues it does have. Modern java can be a lot less verbose than the equivalent code from 5 or 10 years ago."
+41,Yesterdave_,1640876117.0,3.0,"Simple answer: EVERY programming is actually sh\*t. If you think your favorite language is not, you are just a junior that hasn't worked enough with said language to discovered the ugly or you are just implementing some trivial CRUD apps."
+42,meamZ,1640880943.0,3.0,">Java got fantastics frameworks and libraries to work with it
+
+Well maybe unpopular opinion here (and i like Java) but while there is a library for just about everything the feature overload and bloat is just huge with a lot of them. Log4J beeing a prime example... Log4J 2 doesn't really do just one thing. It has a gazillion features that basically noone ever uses which leads to a bigger ressource use and increases the probablility for severe vulnerabilities.
+
+And i think a lot of people hate it because it's quite verbose (a bit too verbose imo) for smallish Projects and its strengths really only come to play in big codebases with complex domains.
+
+And another thing is probably that a lot of people hate the kind of code that a lot of people using it are writing with it (or at least used to) which probably has more to do with the fact it's used in enterprise contexts a lot. It's this design pattern overloaded YAGNI style that makes everything overly complex (instead of KISS) for the sake of loose coupling over everything else."
+43,PatriotuNo1,1640825879.0,10.0,"Every major project which is enterprise level and is web services based would most likely use Java. Half projects on freelancing platforms demand Java. Spring Boot and JPA are the best things that happened so far for this technology. Spring Boot is scalable and its testing is easier. 
+
+Some complain because you can't manually use pointers like in C and they are bold enough to not let this handled automatically. Or because is object oriented and not functional. So most of these people write low level code and don't know this language's full potential otherwise they wouldn't complain."
+44,ir210,1640843914.0,7.0,"As someone who used to hate Java, I can tell you the reasons why I hated it.
+1. The language was boring
+2. (not really the language) Java programmers tend to over complicate things under the disguise of “enterprise” solution. Hence boilerplates everywhere. Most likely due to the “simplicity” of the language. 
+
+But with a lot that’s going on nowadays, I am beginning to like Java. Heck now I am committed to it.
+
+In my opinion the mentality has shifted as well. Now Java programmers value simple and straightforward solution than complicated, “enterprise” one.
+
+Man, I used to hate the word “enterprise” too."
+45,Hamenaglar,1640821361.0,13.0,"Java is OO language, but most frameworks and project architectures are designed around stateless services and behaviourless models. 
+
+Such style was actually considered anti-pattern. Anemic domain model.
+
+I guess the reason is, the java world just moved in that direction, simpler models, where most of the logic is simply storing data to DB. Rich domain models simply provide little or no benefit. 
+
+Other languages, frameworks and platforms just do REST easier and more elegant.
+
+From my reading of this sub, a lot of people don't like OO (not everything is an object). Perhaps, rightly so. And Java is like this mix of OO, backwards compatibility and trying to catch up with new trend too slowly.
+
+And finally Java is widely used, one of most widespread languages and often developers are forced to work on it by their companies. More popular languages, I assume, are used by minority developers that WANT to use them. 
+
+Just my 2 cents. Oh and I'm a professional Java developer for 10 years."
+46,Admirable-Avocado888,1640821291.0,9.0,"It seems to me that Java gets a bad rep mostly because it chooses to be binary backwards compatible.
+This leads to some features that don't age well as the language evolves.
+Also, java gets much criticism for the need of boilerplate.
+
+My experience is that features that age badly are only problematic if I don't follow new idioms.
+The boilerplate is also mostly a non-problem so long as I use new language features."
+47,PJ_Maximus,1640830194.0,4.0,"Java not only pays my bills, it keeps making me earn lots of money 🚀"
+48,Persism,1640863277.0,4.0,Jealousy.
+49,couchhero1,1640836189.0,2.0,these surveys should be taken with a truck load of salt.
+50,Programmer_099,1640838114.0,2.0,"Nothing more just, ""JAVA is not everyone's cup of tea"" ."
+51,oze4,1640840011.0,2.0,I always thought hating on Java was just a silly meme.
+52,yousafsyed,1640846889.0,2.0,"Coming from Javascript/NodeJs, Go and PHP. I can say every group thinks they are being hated and partly true but most of the time it’s envy.
+
+Java is a great platform its not just a language, specially how well it adapted to modern needs and competed with nodejs and go in terms of small footprint and ease of use."
+53,sweetno,1640851212.0,2.0,"That is a bad survey. There should've been an option ""I don't know about this one"" or ""neutral"".
+
+I don't know what wording they used for this question, but not loving something does not equate with hating it."
+54,lukaseder,1640859110.0,2.0,"""There are only two kinds of languages: the ones people complain about and the ones nobody uses"" -- Bjarne Stroustrup"
+55,Less-Tour-1082,1640859450.0,2.0,"I love Java. But complexities with Spring Framework and Hibernate (Optimisation, Threading  and Dirty Checking) really gave me grey hairs. Once everything is working it’s plain sailing. Java over JS/TS any day of the week for me."
+56,Talked10101,1640861476.0,2.0,"I don't enjoy working with Java, but I have done professionally and can see it can be used to build robust high scale systems. I also struggle to see why you would pick Java over Kotlin for instance in a completely greenfield project. 
+
+I just have never personally gelled with the language and have never used it outside of a professional environment."
+57,quizteamaquilera,1640867557.0,2.0,"I love developing on the JVM, but I hate Java as a language. It has gotten better, but still have fundamentally problems, like it’s mutable-by-default collections library, and culture of annotation-based app development. 
+
+I just prefer functional programming, as I’m not smart enough to reason about all the magical wiring and mutable state found in a lot of the Java code bases I’ve seen.
+
+For the curious, I’d really recommend “what’s functional programming all about”:
+
+https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html"
+58,henk53,1640874013.0,2.0,"Often people think they need to hate, and the hate is based on the hype surrounding them and what they just happen to use.
+
+For instance, XBOX owners often feel the need to hate Playstation. But is a Playstation really so much worse than an XBOX? Or is it quite similar, and perhaps even better?
+
+Android users too often feel peer pressure to hate on iPhone, but again, is the iPhone really something to hate? If their peers happen to have an iPhone, and so they would have an iPhone too, would they hate using it, or would they feel the need to hate on Android instead?
+
+With programming languages it's often not that much different. Sure, there are certain languages that have (or had) a certain community with certain values. One could argue that the early PHP community was a different kind of that from say the Scala one.
+
+But otherwise, there's little to explicitly hate, and most hate is imagined, peer pressured and psychological."
+59,Mayhemic-Destruction,1640882904.0,2.0,It’s not shiny nor is hyped because it just works
+60,sohang-3112,1640885070.0,2.0,"Java the Platform, i.e., the JVM (Java Virtual Machine), is good - it's fast because it has had lots of optimizations applied to it. That's also why many languages are built on top of the JVM. And of course, as you mentioned, there are a huge number of libraries available in the Java ecosystem.
+
+However, Java the Language sucks - it just has a huge culture of verbosity. What can be done in one line in Python can take at least 4-5 lines of code in Java. Also, Java forces its version of OOP down your throat all the time - you have to create classes upon classes when all you wanted was a simple function! Yes, OOP is useful for some things (eg. GUI Programming) - but definitely not everything."
+61,SlightUniversity1719,1640886179.0,2.0,For a second I read Java as Jews.
+62,SpeedDart1,1640898832.0,2.0,"Because it’s boring and reliable, people prefer innovative and novel. But those less interesting qualities about Java are precisely what make it a good business language.
+
+Also I think people hate it merely because it is trendy to hate, just like they do with JS."
+63,SpeedDart1,1640899053.0,2.0,"Personally I don’t like working with it as much as say nodejs but it in terms of actually getting the job done it’s a great language and I wouldn’t pick anything else.
+
+Reliable, fast, and easy to maintain. What else could I want?"
+64,franzwong,1640921773.0,2.0,"I think most of the hate are coming from J2EE era. The OO hierarchy was quite crazy. Application server also added some complexity. After Spring took over, POJO and embedded app server are more preferred and things become simpler."
+65,roufsyed,1640838145.0,3.0,Java is awesome.
+66,Keeps_Trying,1640876482.0,4.0,"2 things turn me off with java
+
+1. ""Experienced Corporate Devs"" that have made an unholy mess of anemic abstractions over libraries in code that runs the business
+2. ""Newer Devs"" bootstrapping new systems in a bespoke way 
+
+There is a general lack of a consensus around 'best practices' and its a mess of libraries and patterns.
+
+Its the 'Android' phone ecosystem where the 'loved' langs have passionate communities and accepted best practices.
+
+That being said, java and the JVM are well tested and understood systems when you care about observability, operations and scale more then just banging a feature out."
+67,puppeythanthien,1640838353.0,4.0,"I know many people here don‘t want to hear that but I would say this. 
+Almost people here compared Java with Python, JS: strongly typed, not to make toys… as if Java is the only one strongly typed programming language.
+I will compare it with other modern strongly typed languages like TS, Swift… and Java is:
+ - Old
+- Ugly: in syntax
+- Slow: need 2-3x more line of codes for same task
+- Not really safe compared to other strong type languages (new languages handle null exception and optional much better )"
+68,RomMTY,1640837597.0,2.0,"I blame some 00' ""enterprise"" architects/developers that build way over engineered software that made it into production and over the course of the next 20 years younger developers had to maintain.
+
+It's like how PHP used to be very quirky and nobody used it to build ""serious"" enterprise software, but it evolved and outgrew it's quirkiness because nobody was forced to maintain ""enterprise"" software writed in it.
+
+I love java, it was my first language and love everything about it."
+69,srbufi,1640839368.0,2.0,"If I can't use C, I use Java."
+70,msx,1640846945.0,2.0,"I think it's for the following reasons:
+
+Java used to be pretty verbose. Anonymous classes, getter and setter, generics, etc. Now it's much better but the idea still lingers.
+
+Java exceptions are pretty difficoult to grasp for newbies. They are a huge source of frustration and hate. And not only for newbies!
+
+Java is the language you often learn in school or university. As any forced knowledge, you hate it."
+71,Ok_Object7636,1640849066.0,2.0,"Because Java sucked. It was slow, had bad tools and UIs created in Java were ugly. But that was 20 years ago. It IMHO became usable with Java 5, and since has gotten better with every release (OK, let’s not talk about Java 9 here).
+A big problem is being stuck on older Java releases. In the meantime, Java has gained so many attractive features that it really hurts if you cannot use them. But to be fair: an organization that can’t afford to update their Java version every two years would not let you update your substitute language either given that Java has maybe the best backwards compatibility among all contenders.
+
+Another point is legacy code. Old code naturally does not benefit from newer language features unless you put some refactoring effort in. A current example for me is a large code base where the visitor pattern is used all over the place, even if what you do in three distinct classes could be done in a single line of code using a stream and a lambda."
+72,christoforosl08,1640856966.0,2.0,"Its just too verbose. And sometimes more complex than it needs to be. Read: application servers
+
+Even though I work with Java 90% of my time , I can't help but marvel at C# everytime I switch for a project"
+73,Jezoreczek,1640864698.0,2.0,"I personally love Java, but there are so many objectively better alternatives (e.g. Kotlin) that it's hard to justify using vanilla Java. It's tedious to write in comparison."
+74,UtilFunction,1640864808.0,2.0,"It's usually two kinds of people who complain and bitch about Java. They are either people who have never really worked with Java and just parrot what they heard online, or they are students who worked with some ancient version of Java at university.
+
+""Oh my god, Java is so verbose"" is probably my favorite because these people usually don't know that modern Java has type inference, records etc.."
+75,Revision2000,1640822820.0,3.0,"I think it’s the same hate that Java devs have for JavaScript. It’s something that seems weird, they’re unfamiliar with it, oh it has this and these downsides, it must suck. I know I used to think like that. 
+
+Now - after a decade of Java - I still like the language, but also JavaScript. Simply because it can do things different and do some better. 
+
+Another classic thing Java devs hate is C#. After all its similar to Java, but from Microsoft, so that must be horrible. Nowadays I’ve become indifferent to it. I think it’s more important to pick the right tool for the job, which also depends on the experience of your team."
+76,strogiyotec,1640824269.0,2.0,"I thought it's about the language syntax , but Java's syntax is one of the easiest in the market(Golang can be easier as some people say , but I don't agree)
+
+Then I was thinking about the code base and I stuck with this option. It's relatively easy to find a Java developer, a developer who doesn't understand SOLID and just copy paste from stackoverflow, as a result the code becomes unmaintainable and people get frustrated  working with it . I personally was because most of my time I am working as a freelances or consultant and get an opportunity to see hundreds of Spring/Hibernate/Tomcat projects  that have performance/maintenance  problems just because people didn't bother to read docs to understand how connection pooling works, what is lazy loading, what is open session in view or what Spring context actually is. Rather than that I saw a brilliant java codebases , just to give you few here is a small [example](https://github.com/self-xdsd/self-core)
+
+So to answer your question , people are frustrated to support poorly written codebases which happen to be dominant in Java market because the low entry point. Languages like Rust are new and usually used by devs with plenty of experience(unlike Java which is the first language to all juniors) as a result code bases of those languages are smaller and more enjoyable to work with ."
+77,Better-Internet,1640827835.0,1.0,"It gets the job done and it's super mature. However it's old, frumpy, dowdy and some of the syntax is clunky. It's very well established for backends.
+
+One annoying aspect is you can't easily take java code and ""run it"" w/o tools such as an IDE, script, or Launch4J.
+
+Java-based UIs have a clunky legacy. When I see the steaming cup icon I still have this mental image... Slow ass ugly app that'll take a long time to launch and sometimes periodically freezes due to GC."
+78,kcombinator,1640832171.0,1.0,"I dislike Java the language but don't mind the JVM as a platform. It would be nice if Jython was more active and updated, for sure."
+79,tokman2,1640822834.0,1.0,https://imgur.com/jb8tWcE
+80,kubelke,1640843415.0,1.0,"Because it’s perfect at every level /s
+
+Look at other results, newer = more love"
+81,reqdk,1640849973.0,1.0,"Java is still taught in schools. How big do you think is the proportion of students who don't really like what they're studying? Lol.
+
+Professionally, well, developers are a really tribal bunch. Go over to the ruby and rails subs if you're looking for fun in that area.
+
+Besides, you can find something to bitch about in any language if you spend more time with it. I have yet to find an exception to this, no matter the tool or language that I've used. So if Java is indeed one of the most dreaded languages, it's probably in a good place. I say probably because you'd also have to look at what people are bitching about, which fortunately for Java, is usually silly stuff."
+82,devcexx,1640879716.0,1.0,"It always depend on your point of view.
+
+As a computer science enthusiast, coding in Java is extremely boring. It is true that the language has improved these last years since Java 8, but it is still incredibly verbose and lack of features than are present in more modern languages (e. g Rust, Go, Swift). Also, people usually tend to code with it using more old and error-prone approaches, because the language doesn't offer better ways around: loops full of mutability, unsafe nullability (the memes around NullPointerException are not casual) manual encapsulation, intense usage of runtime reflection (which is basically like pooping on top of the concept ""type system""), etc. From the point of view of coding as a hobby, my position is clear: if you like to code stuff in Java in your free time, it is probably because you haven't tried other languages enough.
+
+In a professional environment, however, Java was early adopted by companies and now it is in the ""core"" of most of the applications and tools inside a huge amount of companies. Java nowadays have good tools for testing, code coverage, etc, which is important to ensure the quality of code, so it makes quite a lot of sense to be there and to have people maintaining that code. Also, it doesn't make any sense for most companies to entirely migrating applications out of Java solely under the argument that ""java is bad"".
+
+Said that, that doesn't mean you can push a little bit harder and start proposing to develop new libraries, features, etc in other JVM languages such as Kotlin, which is almost 100% compatible with Java, even inside the same project, and has Google as a backer and maintainer. I'm not mentioning Scala because stuff like having its own classes and types for handling collections, will make it more complex the interoperability Java. But that's not the case for Kotlin, and it gives you a lot of features that then you'll miss if you switch back to Java. For me at least, based on my experience, I found almost no arguments to the question ""Should we do this in Java instead of in Kotlin?"" because they're languages that their use cases almost overlap. For example, if you're working for a company that wants to create a new Android app from scratch that will consume an API and all that, the classic kind of app basically, in (almost) 2022, if you decide to go with Java instead of Kotlin, it is probably because you're into some sort of sadomasochism or something."
+83,lqstuart,1640832755.0,0.0,Asking people what programming languages they love and which ones they dread is every bit as stupid and pointless as asking them what human languages they love and dread
+84,ivancea,1640855231.0,0.0,"My major problem with Java is the lack of features, like operator overload, functional programming (Streams is just a bad designed wannabe when compared with LINQ), generics without type erasure (not a big deal anyway, but pretty interesting sometimes), async...
+
+In the overall, it's ok. It just evolves very slowly"
+85,grauenwolf,1640823495.0,-9.0,"Java has horrible frameworks and libraries to work with it. The language, while flawed, isn't really that bad. Not as good as C#, but better than the languages that came before it.
+
+But the frameworks and libraries are a hot mess of needless complexity. Spring is based around far too much reflection, obscure code generation, and magical thinking in general. Obviously people manage to get it to work, but very few actually understand what it's doing.
+
+And still, Spring is worlds better than the monstrosity that is J2EE with its mountains of configuration files. (Remember all the Log4J/JNDI issues? That's from the J2EE era.)
+
+The only time I liked programming in Java was when I used Axis2 and straight JDBC. But that's a pretty rare combo."
+86,nunchyabeeswax,1640829093.0,-7.0,">Why everyone hates Java?
+
+This statement is demonstrably false. I don't hate it. Ergo, it is not true that everyone hates it.
+
+It boggles the mind that people jump into a career in software and yet can't quantify/qualify their inquiries or know the problem with passing falsifiable statements as axioms.
+
+Logic 101."
+87,Tantricphoton,1640842929.0,-1.0,I had eclipse crash on me like 1k times. It tainted Java for me forever haha.
+88,Rorasaurus_Prime,1640837503.0,1.0,"Also, Oracle."
+89,Dr-Vader,1640842913.0,1.0,seems odd to me that groovy is more dreaded than java - I feel like in terms of ease of use groovy makes java a bit less nit picky. makes me wonder how much peopple actually konw about the languages they're voting on
+90,ventuspilot,1640849864.0,1.0,"IMO the survey shouldn't be called ""loved vs dreaded languages"" but rather ""languages with the most vocal supporters vs most vocal haters"".
+
+Rust obviously leads due to it's almost cult like followers, Java is way down because non-haters just use Java without talking that much about the language itself.
+
+ORANGE CRAB BAD!!!"
+91,Elaphoil,1640852940.0,1.0,"Some people really enjoy functional programming, which is sad, because Java incorporated a bunch of functional utility 6 years ago."
+92,Qildain,1640855108.0,1.0,"What is ""fight attack?"""
+93,rpgFANATIC,1640865224.0,1.0,"Turn that idea on its head
+
+What features do other languages have that Java could benefit from?"
+94,pantelemon2u,1640869592.0,1.0,"Java is good, I hate CSS"
+95,holyknight00,1640876415.0,1.0,"People don't understand that languages are good only for certain things, they all suck for many things.  
+A toolbox with a single tool is useless."
+96,boris_dp,1640882473.0,1.0,Log4j
+97,elrado1,1640893549.0,1.0,It is old good and boring. For me it feels like home. I was doing quite a bit python and csharp work but returning to java always felt good.
+98,varunu28,1640898898.0,1.0,"Have you ever noticed that whenever a new shiny language comes in and people start giving the intro tutorial, they start with a hello world program. For this program they compare it to a similar program in Java and put a chip on their shoulder by saying that you don't need to write bloated `public static void main` just to print a string. But somehow its always a comparison with Java. It is because Java is the industry standard. No matter how many people hate it and write blog posts about it while comparing a new shiny toy, it is what gets the job done.
+
+We are using a hammer or a screwdriver for god knows when. Its a basic tool and it does few particular tasks very well. Same goes for Java. It's boring. It's not as fancy as a Swiss army knife. You can't write a one line script that reads a file, sorts it and sing a Christmas carol for you. But it gets a job done and that is what matters. It is in programming job where I have seen people are more proud of the tools they use than what they accomplish with it. I am yet to meet a surgeon who comes out of a failed surgery boasting about a fancy new scalpel they used. We are paid to solve problems. If the problem is already solved in an efficient manner in one programming language then there is no use of rewriting it in another one just so that you can program in that language.
+
+&#x200B;
+
+So people who hate Java either haven't worked on a large scale project to see its power beyond the hello world program or fail to realize the maintenance cost that comes along with introducing a new tool to solve a problem that is already solved efficiently in Java.
+
+&#x200B;
+
+P.S. I am not a Java evangelist and will happily switch to another language if the problem that I am trying to solve has a better solution in that language. I am just not in favor of programming in a language just in order to broadcast it out to others."
+99,Venthorn,1640907831.0,1.0,People still remember AbstractSingletonProxyFactoryBean.
+100,minato3421,1640916358.0,1.0,Most of the criticism comes from people who've just started their journey with Java and are shocked to learn that it isn't as easy and convenient as python or javascript. It forces you to do things in a certain way and involves a lot more boilerplate code than usual.
+101,almson,1640936601.0,1.0,"Java's problem is that it's not known as a serious systems language. It gets compared to scripting languages like Python, Ruby, etc, and called verbose and even obtuse, when it should be compared to C++ and called a godsend.
+
+Contrast this with Go, which is a very trendy language despite being verbose, obtuse, and GC'd. It's because Go gets compared to C and Rust, not Python. Perhaps Google's marketing has to do with it. Sun advertised (and evolved) Java primarily as a web programming language, pitting it directly against scripting languages and making it difficult to use for systems utilities. The startup time is awful (not because of bytecode, but because Sun/Oracle doesn't care). None of the GCs have a ""just try to minimize RAM"" heuristic (they all want to be given MaxHeap). And native interop has been a pain.
+
+Java could have been more respected if it positioned itself correctly. Of course, I like it. It really is a lot better than C++!"
+102,Aphix,1640990873.0,1.0,It's overly verbose and has a bloated standard library which results in poor cold start times and large resource footprints when compared to basically any alternative.
+103,Kango_V,1641041504.0,1.0,I'm loving Java 17 combined with GraalVM.
+104,bishamsingh,1641257604.0,1.0,Java is pretty cool but it’s better to be language agnostic. It’s just another tool.
+105,_javabean,1642305713.0,1.0,"Firstly, I’ll preface my comment by saying I am obviously biased. I learned on Java and transitioned to Kotlin. I honestly have a hard time looking back at all Javas redundancies. Although, Kotlin builds on Java, the ease of use, safer, and less redundant code makes it so attractive as an alternative to Plain ole Java… Just my biased two cents 🤣"
+106,Ailiyak,1642587646.0,1.0,"Because it is old and many people cant catch up with salaries, it is better for them to have something newer where the most experienced person has only 3-4-5 years of experience so they can catch up :)"
+107,debt-sorcerer,1643147854.0,1.0,"I've been working with java since java 1.5 and I still like it. Have you tried using mason templates, ruby on rails, assembly, perl? You'll get real nightmares and white hairs from that.
+
+But Java is just a tool. Pick the appropriate tool for the job. You won't be writing java applets just because you like Java and you probably won't pick soap XML for greenfield projects. Java won't be appropriate for every case but it's a solid pick for a lot of enterprise cases because it's a very mature language.
+
+It can also be fun for challenges. For example, try to get 90% of your web application serverless requests to be under 100ms execution time with a function that has networking and IO. And only valid if you run a load test or at least 100 requests (I know not too many but better than 5). You are probably going to say, why not use c++, go or nodejs? Well because then it wouldn't be a challenge :)"
+108,SerialBrain3,1643418929.0,1.0,JVM is great. Libraries are great. Java is tedious to write tho. Other JVM-based languages like Clojure are getting a lot of love in that survey.
+109,tokman2,1646924316.0,1.0,Because people are using it.
+110,SugarRushLux,1651041387.0,1.0,No pointers
+111,vitalyx,1652275470.0,1.0,"\- verbose syntax, no standalone functions, at least records were introduced (like 50 years after other languages got them)
+
+\- heavy, slow starting IDE required or used in practice most of the time
+
+\- complicated project structure (stuff got even more complicated when modules were introduced)
+
+\- tons of configuration options everywhere, can't just run your app; classpath, JVM version, build tool plugins, have to get everything just right just to run
+
+In practice, with most Java repos it's not as simple as this:`make && ./run // Ccargo run // Rustyarn && yarn start // JS`
+
+\- equally verbose and overcomplicated frameworks
+
+\- often used in slow moving environments with a lot of bureaucracy
+
+\- second class GUI
+
+\- apps perform well once warmed up, but startup is slow and memory consumption is heavy, especially for smaller apps
+
+\- harder deployment
+
+\- limited utility (compared to JS or C# for example, where both can be used for GUI/games too) - this one is more in the ""don't care about Java"" category rather than hate
+
+BTW, I don't say these are absolute truths. But it's a perception of someone who spent a few months tinkering with Kotlin/JavaFX for many personal projects. I did like Kotlin/JavaFX a lot and JVM/JDK that enabled them. I also think IntelliJ is a great IDE. And I don't see anything I said above as a contradiction."
+112,cremmie,1640844810.0,-5.0,Fking log4j there’s like a new vulnerability every week. Fk off
+113,odallay,1640830502.0,-3.0,"Java isn't necessarily bad but if you start comparing it with other languages like C or Python, then it starts to look bad and just like ""too many extra words to typeeee"""
+114,jordangaspar,1640830860.0,-1.0,"Oracle was the problem. Nothing wrong with the language itself, but today there are a better memory management in C++ with things like shared_ptr. So, I don't know if java is still relevant. It's useful only if you need some kind of send box security."
+115,StocksALaCarte,1640838915.0,-1.0,"It wasn't invented yesterday, so it comes with baggage. People like reciting myths like ""java is slow"", ""java is XML"", etc., without having the knowledge. It's the same reason fake stories that make littles sense are popular on Facebook, just on a different scale."
+116,andercode,1640885161.0,-1.0,"It’s slower to develop on top of, not as innovative and slow as hell.   Python all the way 😂😂"
+117,HyzerFlipr,1640834762.0,0.0,We use mainly Groovy in our project at work but have some legacy Java classes hanging around in the codebase. Groovy is so much nicer to work with. It's much more pleasant and less verbose than native Java IMO.
+118,No_Freedom_2732,1640839221.0,0.0,"If you need to create a horse, you need to create a whole fucking horse factory first. Thats why 😉"
+119,rossdrew,1640854033.0,0.0,"I love Java but there’s no good UI builder, typing is dodgy, especially around the disaster that is generics, the garbage collection is completely out of your control and in the past it’s moved too slowly and worried too much about backward compatibility.  As well as that it’s very bloated, way too much boiler plate code required."
+120,ReasonableClick5403,1640866398.0,0.0,I think Java is an ok language with a fantastic ecosystem of libraries and tools.
+121,sinnerou,1641057618.0,0.0,"Few here are being objective. 
+
+ Every language has issues, including java.  Java null handling is a nightmare, checked exceptions, Gradle/maven don't feel as good as build tools in other languages.  Build time is slow compared to something like go, or an interpreted language (0) which means iterating is slower.  The JVM feels less relevant in the world of docker. You pretty much have to use an ide to be productive and any question you may Google usually has an ide specific answer, which glosses over details of what is actually happening, a shocking number of java teams have no idea what is happening under the hood of their projects.  Tutorials tend to be outdated and up to date I formation is hard to find.  The community is slow to update to new versions of anything.  Non-code docs for java projects are worse than other languages imo.  
+
+I could go on.
+
+All that said I like Java, but no point being blind."
+122,pikaynu,1640868233.0,42.0,"If someone thinks ""boring"" is bad, then I must say, boring in software engineering is a good thing. You don't want the excitement to be up with new bugs everyday.. :)
+
+Although, I think there is another reason for Java powering almost everything relevant in the background, 
+* Java was the only reliable language which was web-ready during the dotcom boom (I don't even want to consider ruby and perl, oh! the nightmares). That was pretty much the only choice and definitely **not** a bad one. Boring software is good!
+* Now, with all of this legacy software that just works, there is no reason to move it to a different stack.
+* Which is why newer companies which have the luxury to start over are moving these shiny languages. 
+
+Due to this maturity, there is still no match to Java's tooling.
+
+If Java feels old, there are old banks that still run COBOL."
+123,frej,1640891855.0,5.0,"I think the hate was even more justified in the beginning. It was glorificstion and hype of OO as the one and only solution. And tbh the language was pretty painful when in university snd you also used Python, Erlang, ML. At least the OO course in Java felt incredible idiotic 🤷‍♂️.
+
+Maybe an advantage if you came from c/c++ was you got rid of memory management. Single compiler/many targets was also hyped. Consider open source was not really accepted in any way. 
+
+Corporate backing (money) was a reason Java became Big."
+124,goodm1x,1640886796.0,4.0,Why does Java have so much staying power?
+125,r448191,1640865064.0,-8.0,"It's also very verbose and the ecosystem is massive with a lot of baggage.
+
+This is the main reason I'm doing Go and not Java rn."
+126,Qildain,1640823820.0,62.0,"I've read this quote before, and my experience really does agree."
+127,agentoutlier,1640825671.0,15.0,"I’ll have to google for the exact quote but there is a similar one that says unpopular languages have really good benchmarks or something like that.
+
+The idea being the only thing you can do with the language is write benchmarking code."
+128,nfrankel,1640855452.0,2.0,"Excellent karma de commentaires, Francky!"
+129,grauenwolf,1640823252.0,-21.0,"What's the context for that, because I strongly suspect it's along the lines of ""Who cares if C++ sucks, I still won""."
+130,Striking-Werewolf-32,1640928833.0,1.0,There are about thousand YT videos showing why Java is worse than ‘blah’. The main reason is these dumb fucks can write hello world in one line in ‘blah’ and Java takes 3! Actual project be damned. Hello world is everything!
+131,nmarshall23,1640846942.0,80.0,"
+>Javascript gives you enough rope to shoot yourself in the foot, and people just can't resist pulling the trigger.
+
+That's some odd rope you found there.
+
+I'd say that some JavaScript frameworks encourage you to use enough rope to hang an entire team with.
+
+They're just too damn clever that in 6 months no one understands the code."
+132,idealatry,1640875392.0,10.0,"> But the biggest reason Java gets hate is that it forces certain conventions. People think this is stifling their programming creativity or some such nonsense. Coincidentally, the people that bitch the loudest about this are also the least likely to have successfully maintained an application developed over tens of years by hundreds of people.
+
+Have you ever used oldschool EJB’s? Boy, they really loved forcing their big boy, grown up conventions on everyone. And that convention was later acknowledged to result in an absolute clusterfuck of meaningless abstraction.
+
+In fact people with actual souls started to realize that containment was a lot easier to deal with than inheritance in most cases, which kind of meant that Java’s desired OOP convention encouraged a lot of bad designs with an unmaintainable level of abstracted hierarchies.
+
+In other words, having a convention doesn’t mean it’s a good convention.
+
+But you know what? That’s ok. Things evolve and generally get better. And that’s true of java as well, as we’ve seen things like generics introduced (although because java envisioned such a wonderful, inescapable convention, generics are total dogshit that had to be crudely bolted onto a language where everything was an object except when it wasn’t —compared to C# or … dare I say it … Haskell). And we’ve seen some mutated, weak-ass attempt to add “function programming” (again scoffs in Haskell). All of which is better than not adding any of these things to the language, in my opinion.
+
+What’s not ok is when we are so enamored with convention that it becomes a problem. And I find the java community, on principle, is much more conservative when it comes to introducing newer features. I’m not saying this community is a problem, but it sure as shit is annoying sometimes when you know for a fact that your language could be better but you have to wait a decade to get something C# got yesterday.
+
+EDIT: of course the worse culprit is the need to maintain backwards compatibility, which a language like C# can ignore and add all the modern features it wants, and do it properly."
+133,dpash,1640866736.0,7.0,">hasn't really been true for a decade
+
+I'd say two decades. Once the hotspot JIT was introduced they performance of Java stopped being a problem. 
+
+Java does exchange memory usage for CPU performance though. Valhalla should help reduce that."
+134,,1640847435.0,29.0,[deleted]
+135,pikaynu,1640848245.0,14.0,"The only gripe i had with java (older versions, 7 and below, haven't got my hands dirty with the newer releases) was the sheer amount of abstractions in their frameworks. It was hard to find a simple framework or navigate them without many years of experience. I guess that's what Go fixed. Go has very simple syntax, there aren't huge frameworks to make a project complex, imo encourages to write your own instead of importing a lib for one line of code.
+Rust has its own difficulties, it has way too complex syntax. It's safe but at a different cost. 
+
+And node, oh boy! It made me cry when I had to work on it. I got so frustrated that i brainwashed my team to use Go for the next one. The tooling and ecosystem were bad. We would constantly discuss on the way to implement something. We spent one full quarter of developer time to convert it to TS but that wasn't possible because only half the things were available. 
+
+Java feels a little IBMy because and that could be because big companies still have a huge chunk written in Java7 or Java8 which can't really be migrated to the newer versions."
+136,anagrammatron,1640855944.0,8.0,">Coincidentally, the people that bitch the loudest about this are also the least likely to have successfully maintained an application developed over tens of years by hundreds of people.
+
+Not all applications have to be maintained by hundreds of people for a decade. For many, many things Java is not the optimal solution and it's perfectly ok not to like Java. Sometimes reading Java code is like opening up a War and Peace by Tolstoy and writing it is like writing a sequel to that book. It's not everyone's cup of tea and that's ok too."
+137,thgkatz,1640877300.0,2.0,Thank you!
+138,agilob,1640855695.0,2.0,"> But the biggest reason Java gets hate is that it forces certain conventions. People think this is stifling their programming creativity or some such nonsense. Coincidentally, the people that bitch the loudest about this are also the least likely to have successfully maintained an application developed over tens of years by hundreds of people.
+
+On the other hand I feel Java is adding such much syntactic sugar I'm a bit worried it will end up like TypeScript. At least Java has JLS and process is slower and _more_ consistent, but not very consistent. TypeScript gets new syntax features based on upvotes on github, IMO very worrying when you can do the same thing on 6 different ways, because someone from Kotlin or Erlang wanted to use X syntax in TS. I feel Java is following the same way and eventually there will be _too much choice_. 
+
+From syntax side, the best thing about consistent ecosystem, syntax and great tools, is you can change job in Java and you know everything, there is the same syntax, the same Hibernate or Spring, maybe different as some will use .xml, ,properties or Java beans, the concept stays the same. When I worked in C++ changing job meant re-learning the language as each company abused the language, syntax, sometimes undefined behaviour... and omg templates to the point it wasn't the same C++ I used last month.
+
+I don't think this is bad, but I think syntactic sugar or syntax features need to implemented very, very carfully."
+139,Panzer1119,1640887355.0,2.0,"Also I don’t understand the Boilerplate part.
+Like e.g. for many JavaScript Frameworks you have entire CLIs to generate templates…"
+140,ArmoredPancake,1640857188.0,3.0,">But the biggest reason Java gets hate is that it forces certain conventions. People think this is stifling their programming creativity or some such nonsense.
+
+As Rob Pike said
+
+> They’re not capable of understanding a brilliant language but we want to use them to build good software.
+
+Which also applies to Java. 
+
+Just because you're incapable of understanding something doesn't make it nonsense."
+141,Jambalamkins,1640833955.0,-9.0,Fuk I switched from Java to node for work now but tbh I like it. It’s not to bad when your use to seeing it and if it’s done nicely it’s also a plus. My job got well written node code
+142,grauenwolf,1640823888.0,-71.0,"Nobody hated Java because it was ""slow"". They hated it because of the syntax, or frameworks, or tooling, or design patterns, or any number of reasons that affected their day to day work life. But runtime performance, no."
+143,devcexx,1640882034.0,1.0,">lambdas allow you to do a lot of things without the boilerplate
+
+Except if you need for whatever reason to pass to a function a function that takes 3 parameters with return and may throw an exception, in which case you'll have to define an ad-hoc interface like ""TriCallable"" that will be end up being defined, either defined in the class where that function is, or even worse, in the feared ""util"" package that already holds half of your project. After that, you can use that lambda for preventing boilerplate, for sure."
+144,ArmoredPancake,1640839629.0,-15.0,Node does not necessary mean JavaScript.
+145,InfoSec812,1640833874.0,33.0,"I love programming in several languages, but Java definitely pays the bills and for vacations and for nice cars and . . . ."
+146,roberp81,1640829836.0,12.0,me too 🥰
+147,rifain,1640870935.0,4.0,"I love Java to. People like us need to rise up. It's the perfect language in a professional environment because it has the best tools around deployment, quality check, continuous integration etc. It's fast, it's clean, it has plenty of frameworks and libraries. Multithreading, network, AI, Big Data etc, you have it all."
+148,SnooStories2361,1640836421.0,1.0,Me too!! Python ain't shabby either.. love both
+149,bilingual-german,1640867634.0,15.0,"I don't like java, but I don't want to get downvoted.
+
+In my experience, people who like Java never had much exposure to other languages and seem to also not have that much operations experience.
+
+There are a lot of good things in Java, but too many bad ones.
+People writing over complicated unreadable and unreliable code are one of them.
+
+Error handling with Exceptions has so many issues...
+
+When I discovered other languages, Java didn't have Closures. You needed to write a single-method interface and implement it. Did you ever take a look in the original Gang Of Four Design Patterns book? Did you count how many of these patterns implement only one method? This was something I liked in other languages and it's good it came to Java.
+
+A lot of Java is just ""we did this this way for the last 20 years, we'll continue it!"". Yes, I'm looking at you getters and setters. Oh, fuck Lombok. This doesn't solve it, it just introduces more problems.
+
+Fuck maven.
+
+ok, bring the downvotes."
+150,ArmoredPancake,1640839400.0,7.0,The thread is just a circlejerk. If you wanted to know real opinion about Java you'd have to travel to subs of other programming languages.
+151,Iuse_arch_btw,1640849565.0,-1.0,"Monero and Bitcoin in the same profile picture, disgusting"
+152,,1640846989.0,31.0,[deleted]
+153,minato3421,1640916529.0,3.0,Working with Json in Java is a pain in the ass. I recently had to write a Go service in my current organization and was surprised to see how easy it was to handle Json data in Golang.
+154,ConstructedNewt,1640835380.0,4.0,"Records take away so much boilerplate. Sadly classes are still expected to be 1 class per file, so you har some one-line files (or nest them)
+
+Null is a real problem,  but,  like generics (and pain points on them), it's mostly the designers fault.  All though language can promote bad/ good habits
+
+3 is just stupid to complain about. Like,  sure... use something else idc
+
+Jackson JSON ObjectMapper to a record type is pretty simple,  but hasn't changed much (since java 8) although I'm unsure about Snake case names
+
+Edit:  `@JsonNaming(PropertyNamingStrategy.SnakeCaseStrategy.class)`"
+155,deinlandel,1640845129.0,3.0,"You can just use Kotlin and fix all of these while maintaining full compatibility with an existing codebase and all JVM libraries and frameworks.
+
+That's actually what is great about Java Ecosystem: you are not limited by one language."
+156,Muoniurn,1640862121.0,-1.0,"Just to add to the post:
+
+1.	Generics are cool in java. They completely fulfill their functionality, namely that any compiling code will not throw classcastexceptions. (Unless you use the non-generic version, which you really should not)
+2.	Somewhat fair, but there are good static analyzers for that
+3.	Depending on your definition, Java *is* a functional language - it has lambda functions so you can make basically everything functional with it. It may not always be nice, but it is definitely possible. As for not having a strong enough type system for Monads and other higher kinded types, that’s another question. FP doesn’t have one strict definition (and java’s type system is quite strong even then, so while you won’t be writing Haskell level type signatures, quite a bit is possible with generics)"
+157,iamiamwhoami,1640857184.0,1.0,Java isn't a bad functional language if you stick to the streams API.
+158,fletku_mato,1640858786.0,1.0,">Personally I don't mind Java much except for working with JSON due to generics and cast checking.
+
+This should not be an issue if you pick the right tool for the job. ObjectMapper let's you do all kinds of wonderful things (and also horrifying if you wish) when deserializing.  
+
+
+Just, don't ever think it's a good idea to start manually parsing the json instead of writing a proper class for it."
+159,Ineffective-Cellist8,1640907210.0,1.0,What's wrong with (java's) generics? I don't use java but C# generics are nice and I hate C++ templates
+160,kuzux,1640935017.0,1.0," > Generics
+
+Is the complaint about Java that it **has** generics? Type erasure (or some other detail about the generics implementation)? The fact that pre-generics Java code exists?"
+161,jumurtka,1646191122.0,1.0,"> Well written Java in a good framework is actually my favorite mainstream language.
+
+What do you consider as a good framework?"
+162,wildjokers,1640881701.0,2.0,"> TCL wanted to be
+
+tcl [wanted {{to be]]} [$a] {total {{[[piece {$of} ] $unreadable ]}} shit] {{$just} shoot ] {me} now]} [{{it's the} [{only explanation}]"
+163,Waymond206,1640839206.0,18.0,"Bootcamper here, I don’t hate it. Got em"
+164,Bloodymir,1640855687.0,1.0,Can you elaborate this for the uninitiated?
+165,anagrammatron,1640857271.0,4.0,"If you don't like JVM and tools and frameworks then what do you love about Java? And why wait until JVM is ""fixed"" in some distant future of 8-10 years, why not use some other language right now?"
+166,,1640829718.0,32.0,[deleted]
+167,CubicleHermit,1640822391.0,16.0,"> Anyone who tells you they have a hatred for a programming language isn't worth listening to.
+
+Hating the language vs. hating to have to work with it are two different things, but for a relatively mainstream language, either one is probably overstating it.
+
+OTOH, I work with someone who used to work with M (aka MUMPS) and I fully believe them that it was awful.
+
+There are bad codebases in every language. I've really enjoyed both C# and much longer ago, VB6, both for personal projects.  The experiences working with each for ""real work"" was horrible, but that was pretty much all a matter of the codebase and the tooling around it NOT the language itself."
+168,grauenwolf,1640823812.0,25.0,People are allowed to have opinions. I strongly suspect those who don't dislike anything don't really understand anything either.
+169,Fair_Sir_7126,1640821840.0,57.0,"I upvoted, but please put JavaScript on the exception list"
+170,KFCConspiracy,1640831495.0,3.0,"I dunno have you ever tried objective c? :P there's a reason apple came up with swift.
+
+I dunno that I hate it but one project was enough to convince me never to use it again."
+171,buzzsawddog,1640825566.0,6.0,"I hate JavaScript, ruby, Perl, pascal :). Languages  I deal with on a regular basis :). But mostly I guess I hate maintaining the code people left with me with to maintain…"
+172,roboduck,1640822445.0,-5.0,Anyone who tells you that someone isn't worth listening to isn't worth listening to.
+173,csharp-sucks,1640828511.0,1.0,unless it's me
+174,bluenautilus2,1640834034.0,1.0,Ok but Perl.  Actually I love Perl what am I saying
+175,ArmoredPancake,1640838618.0,16.0,">C# for example is even more boring
+
+Ecosystem wide.
+
+Language wise it is by an order of magnitude nicer language."
+176,pthierry,1640852400.0,3.0,"That's a strawman argument. Yes, there are ignorant criticisms out there, but there are also tons of people having used Java extensively that dislike it out of experience.
+
+We know for decades that we need to go functional and Java is late on that front, despite everything that's been grafted on it."
+177,thephotoman,1640831645.0,10.0,"The problem is really a problem of Java not being all that friendly to use for standard and file I/O.  Java can do it, but it's expecting you to need to be safe--not merely slapping something together to demonstrate a concept.  
+
+That's why I hated Java in college.  It wasn't until I got into the industry why I realized it was popular.  In college, I was using the wrong tool for the job.  Now, I'm in an environment where the tool fits the job nicely, and my gripes were relatively minor now that I fully understood the use case (but type erasure still sucks--I'd love better generic programming, and yes, I know about Valhalla, which isn't really about getting away from type erasure entirely but rather represents a significant step towards that, and I'm excited about it but not as much as I am about Loom)."
+178,sambiak,1642669848.0,2.0,"I use it professionally with a java 8/websphere backend and I hate it. Java 17 seems nice, but I will never use it professionally (at least in my company)."
+179,DasBrain,1640905185.0,2.0,"> In 10 years I still haven't learned how to read a File in java and have to google it every time
+
+[`java.nio.file.Files`](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/nio/file/Files.html#readAllBytes%28java.nio.file.Path%29)."
+180,anagrammatron,1640858513.0,5.0,">This massive bloated 5 files full of providers and factories when a simple if-statement would have sufficed… That is very hateable
+
+I was one day just looking at Spring Boot Pet Clinic example which is often recommended as a reference point to starting a simple project.
+
+Pet extends NamedEntity which extends BaseEntity which extends Serializable  
+Owner extends Person which extends BaseEntity which extends Serializable
+
+where BaseEntity is basically just getting and setting Id and they just keep extending it in layers. I get the intention, but If I was a newcomer from another language looking to get into Java/Spring then I'd just roll my eyes."
+181,,1640832849.0,7.0,[deleted]
+182,,1640823984.0,12.0,[deleted]
+183,Qildain,1640824136.0,25.0,">XML which is the worst possible configuration format for human readability.
+
+I haven't configured Spring with XML in over a decade."
+184,nunchyabeeswax,1640829346.0,6.0,">Spring (not Spring Boot) has a reputation for being obtuse and heavily reliant on XML which is the worst possible configuration format for human readability.
+
+That argument is also obsolete. 
+
+I haven't seen a Spring/Spring boot app heavily relying on XML configuration. Heck, we can literally avoid XML completely in most cases by simply using annotations and default settings (which are typically fine.)
+
+Complaining about Spring (and Spring Boot for that matter) because ""XML"" is like complaining about Jakarta EE because of EJB 2.x (which pretty much became legacy/dead   
+ since 2004.)"
+185,mj_flowerpower,1640850381.0,2.0,"I know some people who are overwhelmed with frameworks like spring. They think that java = huge junk of 20 years old legacy frameworks. And that may be true if you get a job where you maintain an old codebase.
+
+Often these are still on java 8!
+
+What people coming from languages like c# or typescript are missing is mostly the async/await stuff. Which makes it so much easier to write scalable code that looks almost like traditional sequential code.
+
+It's not without issues, but it's way better that something like rxjava.
+
+&#x200B;
+
+What I personally love about java, is that when using java with maven everything is already laid out for you: folder structure, file naming, dependency management, build lifecycle, code formatting (if you are using an IDE, which you should do! :-))
+
+&#x200B;
+
+In javascript/typescript this is all so messy and tucked together. It's rocket science to get that all configured. And it's soo fragile. Dependencies are coming and going by the week it feels, often without any upgrade/migration path.
+
+Java and its ecosystem is so stable, it's just pleasant to use.
+
+&#x200B;
+
+I only wished they'd finally implement the null-safe-operator ?, async/await (kindof coming with loom) and template string (somewhat coming too, but in a very weird way)."
+186,wildjokers,1640881328.0,4.0,"> Log4J 2 doesn't really do just one thing. It has a gazillion features that basically noone ever uses which leads to a bigger ressource use and increases the probablility for severe vulnerabilities.
+
+I was really surprised Log4j 2 is used as much as it is. I just thought everyone migrated from Log4j 1 to Logback."
+187,jem-xyz,1640824006.0,6.0,"> Rich domain models simply provide little or no benefit. 
+
+I worked on a big enterprise code base for 6 years and it took me a while to realize that I didn't actually ""know"" OO, precisely because the code base had been architected around data mapping, rules engines, etc. Writing ""functions"" as named components managed by something like Spring is a little clunky, but really isn't that bad.
+
+It's really true that IDEs are what makes the entire Java ecosystem make sense. I'm still way more productive editing Java in Intellij even than something like Clojure because the semantic refactoring provided by the Java/IDE integration is just so so good."
+188,Qildain,1640823924.0,3.0,"See:  Valhalla.  
+
+Java has evolved nicely (sometimes less-so) over the years, and if you don't keep up with it, it will suck to work with."
+189,magnoliophytina,1640821937.0,8.0,"> Other languages, frameworks and platforms just do REST easier and more elegant.
+
+If by elegance you mean the lack of type specifications. Many popular languages don't strictly require any specification of types or effects. This means there are less guarantees of the correct operation, less documentation, and more undefined/unexpected behavior. But I guess that's ok for rapid prototyping."
+190,atpeters,1640824821.0,2.0,Can someone please comment on why this is being down voted?
+191,wildjokers,1640882235.0,1.0,"> like it’s mutable-by-default collections library,
+
+I am unsure why collection mutability is always brought up. Why have a collection if you don't want to change its contents? Why should I have jump through hoops to add something to a collection? 
+
+I have had to fix many bugs caused by someone using the newer immutable collections and then someone else trying to add to it. It is annoying as shit. If I want a collection I want to be able to add and remove items by default. Please stop the immutable collection nonsense."
+192,spectrumero,1640856247.0,1.0,"My (historical) dislike of C# was that it was ""multiplatform"" in the sense that Windows XP and Windows Server were considered as different platforms by Microsoft. C# treated all other operating systems as second class citizens (and to an extent still does - IIRC, Microsoft still hasn't made available any of the GUI stuff on platforms other than Windows)."
+193,ArmoredPancake,1640839462.0,2.0,"Mmm, no? It represents willingness of people to work with a language and how they're satisfied with a language."
+194,grauenwolf,1640823707.0,7.0,"And to be clear, C# is going the same way. While Microsoft pushes to reduce complexity with python-like web frameworks, the community is loading it down with unnecessarily complex frameworks such as MediatR.
+
+And just like Java grossly overuses interfaces where abstract base classes, or no inheritance at all, would be more appropriate, you see the same thing in C#."
+195,wildjokers,1640844297.0,0.0,"> than the monstrosity that is J2EE with its mountains of configuration files. 
+
+Your knowledge of JakartEE is as outdated as your acronym for it. You haven’t needed config files for JavaEE and now JakartaEE since prior to version 6."
+196,ArmoredPancake,1640839065.0,3.0,What is hyperbole. 🤦‍♀️
+197,ann321go,1640859113.0,2.0,Then use intellij idea
+198,Jorengarenar,1641314456.0,1.0,"> But somehow its always a comparison with Java.
+
+Is it though? I don't wanna diminish your other points as they are pretty valid, but somehow when I listen to discussions about new shiny languages, the comparisons are always with C and C++, I almost never hear about Java.  
+So I would be cautious with using ""always"" here, because it may vary greatly from person to person depending what is their domain and what they do care about."
+199,ArmoredPancake,1640839297.0,2.0,">Nothing wrong with the language itself, but today there are a better memory management in C++ with things like shared_ptr.
+
+In the words of the great Raplh Cifaretto:
+
+""Tomorrow I can be on time, but you'll be stupid forever"".
+
+Which summarizes Java and C++ relationship.
+
+C++ is beyond broken, it's impossible to fix it without breaking major compatibility."
+200,washtubs,1640882094.0,3.0,"""Boring"" is overloaded. Uneventful maintenence is of course desirable but you can have that and also be solving genuinely interesting problems which the typical CRUD java webapp is very much not.
+
+I think it's largely an association thing. Lots of people use it at work, and work is often boring. Doesn't change the fact that java is a fantastic general purpose language. But that's one of the reasons I picked up go. I wanted a language to be associated with recreation lol. It's silly but it works for me.
+
+I've used java for personal projects but it's difficult to divorce myself from all the enterprisey practices that I'm used to that are only useful in a large team."
+201,agentgreen420,1640879999.0,16.0,">You don't want the excitement to be up with new bugs everyday.. :)
+
+*Log4J2 has entered the chat*"
+202,mirak1234,1641642989.0,1.0,">If Java feels old, there are old banks that still run COBOL.
+
+Where I work at the end of the chain the accounting for the whole bank is in a COBOL application.
+
+They don't dare to touch it, because almost nobody knows what it does.
+
+They even believed some extract were failing when there was too many lines, but in fact there was just a hardcoded limit, set years ago because they though it was unecessary to extract that much lines.
+
+It would probably take a month just to change this limit, because you have to go through an external company."
+203,taftster,1640895820.0,1.0,"I like and agree your points. All of it fair.
+
+The problem with universities, though, I think has more to do with the professors than the language. Granted, the language idioms back in the early days were less evolved, but the universities really locked onto several bad design patterns which they taught and showcased them all in Java.
+
+These bad idioms continue today too. I have taught various Java courses for a couple of small colleges (as an adjunct). I have seen first hand some of the ""bad"" Java being taught at the universities by the ""experienced"" professors (who don't actually have any industry experience). It's frustrating and definitely leaves a sour taste for the language."
+204,taftster,1640889576.0,14.0,"There are some good virtues that Java brings to the table. I think other's have enumerated some of reasons for this staying power. These are all arguable points and subject to opinion, but in general:
+
+- Momentum. A lot of developers can read/use Java, it's a ""well known"" language (even if it's not well loved). It's had a first-mover advantage over other languages.
+
+- Readability. Java's syntax lends itself to being readable, even if verbose. When you write code, you should be thinking about the next guy that comes along that has to maintain your code. Java helps in this aspect.
+
+- Lack of Cleverness. Related to readability, Java resists the ability to do things cleverly. Yes, you have to use more lines of code to perform some function instead of a one-liner. But that allows accessibility into the algorithm by others.
+
+- Low Common Denominator. In a group of developers, Java can be a common low-hanging-fruit kind of language. Some developer might specialize in Python, another in Rust, another in C++. But these experts will likely be able to come together and reasonably code in Java collaboratively. (It's not necessarily the case the other way around).
+
+- Library Ecosystem. There are frameworks and libraries available in Java that are first-in-class. Java's strong library ecosystem (primarily driven by Maven) is one of the top reasons for Java's continued success. The JDK library itself has also included a lot of needed functionality out of the box.
+
+- JVM Ecosystem. Related to library support, there are also a large number of languages that run on top of the JVM. The JVM itself brings a lot of value and interest to Java. [1]
+
+- Big Data. Java was one of the first players in the ""big data"" arena. Hadoop brought a lot of big data processing functions, all of which written in Java. Big Finance also uses Java as well.
+
+- Performance. Java performs really well for long-lived enterprise applications. Yes, a hello-world program in Java will never perform as fast as a C, Rust or Go equivalent, but most applications written in Java tend to be larger and long-lived and do well with Java.
+
+- Garbage Collection. Lack of pointer referencing has prevented a whole host of bugs and problems over years.
+
+[1] https://en.wikipedia.org/wiki/List_of_JVM_languages"
+205,pikaynu,1640868319.0,2.0,"Don't know why the downvotes, Go is lean and fast in iteration with a great community and cross platform support."
+206,farnulfo,1640887204.0,2.0,Merci ! :-)
+207,,1640823933.0,23.0,[deleted]
+208,Qildain,1640823845.0,-9.0,[www.letmegooglethatforyou.com](https://www.letmegooglethatforyou.com)
+209,iamiamwhoami,1640856959.0,190.0,The rope was weakly typed and got dynamically cast to a gun.
+210,reqdk,1640849569.0,30.0,"Because in 6 months, the trend has moved from hanging the team with a rope to stabbing everyone in the stomach with rusty knives. And I say this as someone who uses and loves (well, lovehate) JS."
+211,dpash,1640866893.0,7.0,I wouldn't touch a pure JavaScript project. Typescript turns that rope into candy laces.
+212,Striking-Werewolf-32,1640928639.0,1.0,It promotes job security. My professor said it.
+213,zbynekstava,1640862796.0,6.0,"Imho the root cause of this issue is that everyone thinks about how much time would it take to design, develop and test some feature, but almost nobody thinks about how much time it would take to maintain it in the long run."
+214,ReasonableClick5403,1640866135.0,4.0,"In my experience, java turds _can_ be polished. A steaming hot pile of 6 year old node projects without any technical leadership? Not so much."
+215,rubyrt,1640871966.0,1.0,"> management doesn't understand the costs associated with polishing a turd will eventually be higher than re-writing an app from scratch with good principles and good people.
+
+We are all struggling with that, I guess.  I think one of the reasons for that is that you can estimate it takes 6 person months to refactor component X but nobody can gauge how much person months you are going to save in the next 5 years afterwards."
+216,danskal,1640872295.0,8.0,"The best thing about Java is that you probably don’t have to read the code cover-to-cover. You often have a stack trace to work from, and all the objects you have are type-safe and fairly easy to reason about. 
+
+Of course you can still have stringly-typed code with lots of globals and surprise nulls. But if someone who knows what they’re doing has written it, you can pretty much rely on the IDE to tell you what’s going on."
+217,awesomeusername2w,1640871459.0,9.0,"Oh common. Java is not inherently bad but in terms of language features it lacks quite a bit when copmared with new languages that were created specifically to address old problems.
+
+Just to name a few:
+No null eafety, when many new languages can provide null safety guaranties by their type system.
+
+Type system is not expressive enough again compared to new languages and some old ones. No sum types and such. There are sealed classes in java 17 but good luck funding a project that uses java 17. You can't do things like defining a method that accepts any object that can be serealized to json for example. You can just accept something, but whether or not it has sane serialization defined is not controlled by types. Or accept two object of the same type with sane equals. And it could help quite a lot, for example to forbid usage of classes without explicitly defined equals and hashCode as keys for a map.
+
+Even a small service with spring boot and usual stuff concumes quite a bit of ram.
+
+Checked exceptions is pain to use in lambdas and generally don't compose well. On the other hand you can't tell by method signature if a method will throw an unchecked exception.
+
+Type erasure.
+
+No languages support for async.
+
+Large amount of boilerplate. Class with just 5 fields would need to have 10 methods of getters setters and overriden equals, hashCode, toString. And constructor in there to. While simple lombok's @Data annotation conveys just as much information in one line instead of fifty.
+
+Simple things like 'import as' or type aliases."
+218,couscous_,1640877389.0,1.0,"> Which also applies to Java.
+
+I disagree. Java, especially in its current state, has several ""brilliant language"" features that golang lacks (such as generics), and that has no plans whatsoever to address (enums, sum types, pattern matching, records).
+
+golang is stuck in the 70s and working on large golang projects is a huge mess."
+219,general_dispondency,1640839234.0,16.0,"I'm curious. I had to make that switch and my life is so much harder. There are no accepted standards or conventions, I'm constantly fighting tooling, and the majority of the ecosystem is so poorly implemented and designed it's pathetic."
+220,cogman10,1640824608.0,41.0,"For people complaining about java being slow, it's usually really startup time that they are talking about. 
+
+Java was also known as slow in the 90s/00s before hotspot was integrated and when the GCs sort of sucked.  Java has come a LONG way from that point.  However, it can be hard to shake those sorts of impressions."
+221,morpheousmarty,1640826970.0,21.0,"Java being slow was for the longest time a constant criticism. Understandably so, between memory management, bytecode and the JVM, almost any existing programmer could produce faster and lighter code. But ultimately it was the right bet, however at the time it was a simple and direct criticism of Java and it's fundamental features."
+222,gigibuffoon,1640843733.0,3.0,What other flavors of node exist?
+223,,1640835667.0,6.0,[deleted]
+224,Prateeeek,1640878504.0,3.0,"I'm sorry I'm a junior, I'd genuinely like to know the reasons of dislike for maven and Lombok."
+225,khmarbaise,1641203096.0,1.0,"> There are a lot of good things in Java, but too many bad ones. 
+
+Which are those bad ones?
+
+> People writing over complicated unreadable and unreliable code are one of them.
+
+That's true for any language...
+
+> Fuck maven.
+
+Very interesting comment without any information what exactly is the problem.."
+226,sambiak,1642669598.0,1.0,"> fuck Lombok
+
+
+
+Don't records fix many of your issues ? My main complaint with java is the null pointer which makes me write super defensively, but this can be partly fixed with annotations if everybody is onboard, which is not the case at my company.
+
+
+
+
+Anyways I hate java because I'm using java 8 (thanks websphere), the latest versions seem nice."
+227,fufucum,1640847659.0,16.0,"Agreed, plus who cares about boilerplate code? always use auto-generation, don't write getter setter by your hand,"
+228,ivancea,1640853638.0,3.0,"Comparing Java with JS or Python is like comparing oranges with lemons.
+
+If you compare it with something similar, like C#, you see you have a lot of flexibility, and those problems doesn't exist. And it's also a top used language"
+229,Tudor14pop,1640849290.0,1.0,Kotlin adds so much boilerplate compared to java 😱
+230,Muoniurn,1640862176.0,4.0,">	Sadly classes are still expected to be 1 class per file,
+
+That’s only public classes. You can put non-public records outside your public class."
+231,atpeters,1640902097.0,1.0,"The problem though isn't with the JVM, just the Java language. For example, they like Clojure and Scala. Personally I don't like lisp syntax. I find it harder to read."
+232,idealatry,1640876259.0,2.0,"> 1.	⁠Generics are cool in java. They completely fulfill their functionality, namely that any compiling code will not throw classcastexceptions. (Unless you use the non-generic version, which you really should not)
+
+Dude, generics are absolutely not cool is java. They are better than nothing, but the way the designers had to go about it meant that generics are a type system crudely bolted onto another system where everything is (absurdly) either an Object or a primitive. Type erasure sucks. The whole feature sucks and nobody should be happy with the outcome, although they can be happy they exist.
+
+
+> 2.	⁠Somewhat fair, but there are good static analyzers for that
+
+Static analyzers might mitigate the evil perpetrated by null, but it will not solve the problem because the whole concept leads to shitty designs. When you have to have tools to mitigate that problems caused by “features” of your language, there’s an easy way to say it: it’s terrible feature and a poor design decision.
+
+> 3.	⁠Depending on your definition, Java is a functional language - it has lambda functions so you can make basically everything functional with it. It may not always be nice, but it is definitely possible. As for not having a strong enough type system for Monads and other higher kinded types, that’s another question. FP doesn’t have one strict definition (and java’s type system is quite strong even then, so while you won’t be writing Haskell level type signatures, quite a bit is possible with generics)
+
+No. Just … no.
+
+I’m aware that function programming has some loose definitions floating out there, but we can’t just say java is a “functional programming language” because we’re being *that* loose with our definitions. This isn’t an alternative fact. You don’t get to be an “FP” language because you (once again) crudely bolted on lambda functions that are applicable in some narrow set of situations."
+233,atpeters,1640901765.0,1.0,"The complaint around the generics primarily is around how the inference support is for them. 
+
+For null the complaint is largely around if you go with a strongly typed language to try to eliminate runtime surprise, NPE kind of falls short on the goal."
+234,atpeters,1640901424.0,1.0,"Jackson databind has an absolute horrible history in regards to security flaws though. Not to say I don't use it, but I sure don't like upgrading it almost every month because of a high/critical vulnerability."
+235,CubicleHermit,1646367696.0,2.0,"Depends on for what; for modern BE services, my go-to is Micronaut these days.  I haven't used Quarkus or Helidon.
+
+Spring/Spring Boot is _potentially_ a good framework but easy to abuse - it has a higher barrier to ""well written.""
+
+Grails was good for its time for older style apps that still had MVC in the Java layer and weren't purely serving an API.
+
+Any framework requiring a J2EE container and not just a light servlet container like Tomcat is almost certainly not a good framework.  I've only had to work with those through code from acquisitions, and... ugh.  Not quite the same, but... OSGi.  
+
+There's a lot of other old stuff that wasn't that bad for its time but it shudder worthy if you hit legacy code - Struts, or Axis, for two I had to work with a lot back in the day."
+236,DasBrain,1640904979.0,2.0,"Please balance your braces.
+
+`{}`: Literal  
+`[]`: Command substitution  
+`$`: Variable interpolation  
+
+Perl is much worse with special characters."
+237,blakeman8192,1640839942.0,22.0,Fuck. Pack it up boys
+238,ancientweasel,1640875363.0,1.0,Which part?
+239,vbezhenar,1641893955.0,2.0,"I love Java language itself. I love many parts of Java standard library. I love that JVM is fast (after somewhat slow startup). I love Intellij Idea for Java (IMO it's best IDE experience in the world).
+
+Of course I'd use other languages if I need low memory consumption and fast startup, like Golang. But I'd prefer to use Java because I don't see any technical limitations preventing Java to be as good as Golang in those aspects."
+240,Iuse_arch_btw,1640849663.0,5.0,"> James Gosling hated C++ so much that he made Java.
+
+But why did he keep null?"
+241,WipperyDreams,1640910073.0,1.0,"Regarding C++, JS and PHP:
+
+I believe C++11 is basically considered a huge improvement over what existed before that, as is PHP 7 (which I've heard is actually good nowadays), and JS is genuinely a nice language (if you don't try to do too complicated stuff with it, lol)
+
+So, as with Java, people are stuck in the old memes about the language being horrible, slow, whatnot, while being unaware of all the development from the last 10 or so years that makes it a lot better already."
+242,chrisgseaton,1640824133.0,5.0,"It's that hatred is a ridiculous overly-emotional reaction to a tool that may or may not be right for the job at hand, with strengths and weaknesses like any other tool."
+243,Daniel_Kummel,1640825507.0,16.0,Thats why you typescript
+244,Neuromante,1640822722.0,31.0,"We can just say Javascript is not a programming language but a hellish dialect escaped from the depths of hell as part of a punishment to humanity, if you like."
+245,roberp81,1640829863.0,3.0,i was thinking the same
+246,Muoniurn,1640849014.0,1.0,And php
+247,SpeedDart1,1640899167.0,1.0,JavaScript is really not that bad.
+248,,1640847642.0,2.0,[deleted]
+249,itoshkov,1640822677.0,4.0,Meta...
+250,dpash,1640867474.0,2.0,"I loved Perl, but Christ that was a write-only language."
+251,sohang-3112,1640885914.0,1.0,"Definitely agree with this. C# can also be unnecessarily verbose at times - but much less than Java. It's not the most expressive language, but definitely miles ahead of Java in terms of expressivity."
+252,dpash,1640867622.0,10.0,"`java.io` is bad, but `java.nio.files` is very easy to use. Sadly no one bothers to learn the new API, even though we've had it for 15 years."
+253,fix_dis,1640888728.0,2.0,"I wrote Pascal, C, Visual Basic and some Lisp before I ever touched Java. I picked up a book to help me learn for a project I was going to be helping with at work (this was 2002). The Java in that book looked completely fine. The stuff I saw on my screen was a twisted mesh of “I’m really smart”.  And I’ve seen that everywhere I’ve worked since. I’m all for abstraction once the interface has truly revealed itself. But STARTING with that? No thank you."
+254,SSG_SSG_BloodMoon,1640836848.0,8.0,"... well yeah, those are even worse at making toys..."
+255,thephotoman,1640839416.0,2.0,"That's got a lot more beef to it than what I mean by ""toy"".
+
+I mean that it's one of those assignments you do in Computer Science 101 when they're just talking about standard I/O and file I/O.  Or to implement a data structure or algorithm yourself in actual running code.  It's a small task, you only care about it for a couple of days, and you turn it in to the TA and never think about it again."
+256,thisisjustascreename,1640824669.0,4.0,Exactly.
+257,thisisjustascreename,1640824683.0,10.0,Exactly.
+258,thephotoman,1640839182.0,5.0,"I wish I were young enough to have missed that era entirely.  Nope.  I got one year of it before annotations came and made all our dreams come true.
+
+Yeah, you talk about annotation hell.  I understand.  We need a better solution.  But it is still a substantial improvement on *that*.  I'd like the next solution to be that much better.  Even if that's some extension to the language itself to allow for more and better metaprogramming so that inversion of control wasn't a framework thing but rather something you could merely *enable* by using a specialized class declaration.  I'm trying to think through what that means, but I'm too drunk for that right now, and it's late."
+259,__pulse0ne,1640828357.0,4.0,I would put money on at least 90% of search results regarding spring configuration including some sort of xml
+260,wildjokers,1640834882.0,1.0,XML is far more readable than JSON.
+261,thisisjustascreename,1640835300.0,3.0,"Yes, it's obsolete, but that doesn't stop the reputation, and it doesn't stop legacy apps still using it, sadly."
+262,qK0FT3,1640855902.0,1.0,"Isn't Elvis operator is? `?:` or We can use `Optional` ?
+
+But while saying this I agree with you in general. While java SE api is mostly good there is still problems you mentioned. I think they are changing language in a very good way lately. Changes with java 17 was amazing. And I saw changes in java 18 they are better.  When I see people writing code like that I am amazed that they are so intelligent. just amazing engineering when I look at it.
+
+&#x200B;
+
+just found [this](https://blog.joda.org/2009/01/java-7-null-default-and-null-safe_7527.html) article about nullsafe operators. look at the comments :)"
+263,meamZ,1640882429.0,2.0,I will certainly try to avoid Log4J 2 even more than i. already did after this.
+264,Qildain,1640824009.0,4.0,"Honestly, it all depends on the framework.  ""just do REST easier and more elegant\[ly\]"" says ""I only use Spring Boot"" to me."
+265,GodIsNull_,1640874575.0,1.0,Same reason why Java is hated by many...
+266,quizteamaquilera,1640890884.0,1.0,"I think that frustration often comes from not having a team on-board with a particular style. If I’m working w/ a Java team, “principal of least surprise” and all that would lead to what you’ve just described.
+
+
+For me, I’m just pleased to work with immutability but default - it means I don’t have to go looking into every method to see if somebody mutated/messed-with the list (or map, or whatever) that I passed in."
+267,grauenwolf,1640848172.0,3.0,When I say J2EE I mean J2EE. The fact that they made a successor to it doesn't give me back the countless months I spent fighting with that crap.
+268,john16384,1640913587.0,1.0,A tool used by those without proper arguments.
+269,nunchyabeeswax,1640993091.0,0.0,"A tool for people who can bother themselves to qualify their statements. In the software world, this is how people screw up at work."
+270,varunu28,1641315350.0,1.0,"When I say comparison with Java I also provide context along with it. The comparison with Java happens whenever the language author has to describe how easy is to write and compile a starter program in the new language as compared to Java.
+
+Comparison with C and C++ can be in other aspects such as memory allocation or concurrency primitives but when it comes to representing the ease of getting started with the language, I have mostly seen it done with Java. Mostly due to the fact that while running the hello world program, the person learning Java for first time doesn't have any context on what each of the `public static void main` keyword means. It gives the language author a chance to present an initial win for the language they are teaching over Java."
+271,Killing_Spark,1640890051.0,20.0,"Well, that wasn't really a bug. It was a very very dangerous feature."
+272,r448191,1640870153.0,2.0,"Because this is a Java subreddit and most people prefer a circlejerk.
+
+I expected no less."
+273,grauenwolf,1640824004.0,-15.0,"That's what he's literally saying, but doesn't illuminate us as to the situation that caused him to say it. Quotes out of context can be used for anything, even the exact opposite of the speaker's intention.
+
+I'm reminded of the famous one about optimization being evil."
+274,grauenwolf,1640824098.0,4.0,Well? Are you going to look it up for me or not?
+275,dentex_YTD,1640859482.0,10.0,Top comment
+276,Persism,1640863578.0,3.0,"> multiple absolute giant turds of Java projects.
+
+Me too. The difference is these are still easy enough to refactor. In JS land it's basically just throw out and redo."
+277,rubyrt,1640872026.0,2.0,And even if you think about it that estimation is really hard.
+278,,1641053461.0,1.0,[deleted]
+279,couscous_,1640877531.0,5.0,">  You can't do things like defining a method that accepts any object that can be serealized to json for example.
+
+Why don't
+
+    public <T: JsonSerializable> void foo(T t) { }
+
+or even
+
+    public void foo(JsonSerializable t) { }
+
+do the job?
+
+> No languages support for async.
+
+Addressed by Loom.
+
+> Class with just 5 fields would need to have 10 methods of getters setters and overriden equals, hashCode, toString.
+
+Addressed by records."
+280,ArmoredPancake,1640871949.0,1.0,"That's all nonsense, dude. Real programmers only need for loop and classes."
+281,ArmoredPancake,1640878770.0,1.0,I was mostly talking about people that use Java.
+282,Urtehnoes,1640844176.0,6.0,"Yep. Because I'm the caretaker of old legacy microprojects or whatever for our company, I was asked to maintain some React app from an intern (yes admittedly not technically Node, I guess but whatever), and goddamn. 
+
+I tried to go about converting what I could to TypeScript but saw early on that it would be a huge overhaul to change it all, so it's not worth the bother. But it's really annoying the lack of rules.
+
+I really like Python with how chill it is about most things, but that's about as chill as a language should get, to use academic terms, lol.  
+
+Back on topic - I used to hate Java, but now that I've tried out the newer releases, I really don't mind it as much anymore. It still gets a bit boilerplate intensive, but it's a small price to pay imo."
+283,magnoliophytina,1640827242.0,3.0,"You can also measure interactive performance in other ways, e.g. https://pavelfatin.com/typing-with-pleasure/ & https://danluu.com/input-lag/
+
+Ain't it crazy that sometimes 40 yo machines only have half of the latency of modern IDEs."
+284,,1640828103.0,-12.0,[removed]
+285,grauenwolf,1640831128.0,2.0,"A criticism sure, but that's not the same as hating something. 
+
+Even a 50% performance difference between Java and C++ wouldn't be very noticeable unless you're a video game that's running into frame rate issues.
+
+No one screams, ""I can't stand Java because this function takes 0.10 ms when it should only take 0.05 ms"". 
+
+They scream, ""I can't stand Java because it takes 3 minutes to compile and restart my J2EE server after each change."""
+286,ArmoredPancake,1640844644.0,-7.0,TypeScript? Any language that compiles to JS?
+287,detroitsongbird,1640856061.0,3.0,Me four
+288,Old_District_1484,1640847876.0,4.0,"Me for(;true;){System.out.println(""ILoveJava"");}"
+289,looneysquash,1640883629.0,3.0,"IMO Lombok is great. But also, they need to integrate it as part of the language. That they haven't done that yet, and that you need ide plug-ins, isn't great.
+
+Not sure what that guy didn't like about maven. It's an ok-ish dep manager. Way better than the ""no package manager"" approach we used before it."
+290,monbis,1640867310.0,8.0,"I kind of agree, but there are two issues I see with boilerplate:
+
+1. Changes need to be done in several places, some of which your IDE may do for you, but sometimes you need to do
+
+2. More visual and cognitive clutter when reading the code"
+291,MaName678,1640863595.0,3.0,Or use Lombok <3
+292,78yoni78,1640976488.0,1.0,"yes always use auto generated code, hell, let’s even make a language that does this so we can code easier in java! we’ll call it Kotlin!"
+293,,1640862984.0,15.0,[deleted]
+294,,1640862310.0,5.0,[deleted]
+295,morhp,1640852160.0,9.0,"Kotlin in my experience makes things shorter that shouldn't be short and makes things longer that shouldn't be long.
+
+Like for example `null` should be scary and rarely/carefully used. I don't want careless programmers to plop `?.` and `?:` everywhere. If some value is null, you usually should handle that probably and create an error or whatever, Kotlin makes it way too easy to ignore it or use some default value instead.
+
+On the other hand, writing down static hex constants like 0xFFFF_0000_0000_0000L is a huge pain in Kotlin, as are what would be static fields in Java.
+
+(There are of course many things I like about Kotlin, but I question some design decisions)"
+296,ConstructedNewt,1640867517.0,1.0,"I use scoping alot, instead of `GroupFeatureObj`, `Group.FeatureObj` (and have a couple of records nested in `Group`)"
+297,dpash,1640867770.0,1.0,And as many public inner classes as you like.
+298,Muoniurn,1640877861.0,2.0,"Type erasure *is* the norm. Basically every major language does type erasure. It just happens to be slightly discomfortable when you use it with runtime reflection — but anything concrete against Java generics? It’s always just “they are bad”..
+
+Regarding 2, that’s not too generous on your part to attribute nulls to Java only — the majority of all languages are riddled with it. Java at least has proper tools dealing with them.
+
+Then what the fking hell is a FP language? Java is a mixed paradigm language, that has support for proper lambdas. You can store any sort of function as data, pass it around, do whatever you would like to. Hell, Java even has fking algebraic data types now! Do you even know any FP language?
+
+Also, then at least fking know what you are talking about — lambdas are *not* bolted on. SAMs do get turned into lambdas but lambda literals are actually proper static methods behind the scenes since like forever."
+299,wildjokers,1640917269.0,1.0,"> Please balance your braces.
+
+You caught me ;-) I was being lazy..."
+300,greglturnquist,1640985418.0,1.0,"PERL was cool…
+
+…until I revisited an all six months later. 
+
+Then I found Python and never looked back."
+301,Waymond206,1640846230.0,1.0,Lol It has been almost 8 years since. I forgot I went to a bootcamp until I saw your comment.
+302,Bloodymir,1640876233.0,1.0,I guess with an example what would be Java Bean Programming vs Clean Go style.
+303,LoveGracePeace,1640877553.0,1.0,Because Java is C++ without the horrors of roll your own memory management.
+304,thephotoman,1640911703.0,1.0,"I know about C++11 being an improvement.  However, a lot of the problems I'd say drive me crazy now are issues of how complicated the language has become.  There's just so much C++ now that you've got to restrict yourself to subsets of the language lest you drive yourself insane.
+
+As for PHP, I'm not sure what the purpose is now.  Its original purpose isn't something people do a lot of anymore--we tend to prefer REST services for data and React for the front end.  I mean, you can use any language for anything, but PHP was really built for HTML template stuff.
+
+You can say that Javascript is genuinely nice.  I can say that Houston, Texas is genuinely nice.  I suspect the rationale for both statements is less the thing being actually nice and more the brain damage caused by prolonged exposure and an attachment to familiarity.  No, Javascript is not a genuinely nice language.  Houston is not a genuinely nice place.  We're just suffering brain damage from extreme emotional trauma caused by these things."
+305,cogman10,1640824741.0,11.0,"Hate is a strong word, but some languages deserve to be moved to the dustbin of history.  COBOL, for example, only lives on because replacing it is very costly."
+306,SpeedDart1,1640899130.0,1.0,Agreed. Hating tools only shows your ignorance about that tool...
+307,dpash,1640867132.0,4.0,"It doesn't polish the turd, but it at least makes it a little smoother."
+308,manzanita2,1640825918.0,15.0,"The original javascript was created in 10 days.  Given that it turned out pretty ok.  But yes, there are a ton of crappy things that one would have fixed after some road time.  But backwards compatible is king."
+309,Ilookouttrainwindow,1640832282.0,6.0,"There are things in js that are really neat. But to me it suffers from that ""just a script"" feel. Typescript helps, but still has same feel to it. I've been working on java since 1.2; got a good feel for it. Language is evolving, approaches are changing. Some things I like some things I hate. Been working with js just as long, although always in the browser. Latest trend with js is syntax simplification to the max. The language is honestly becoming hard to read. With Java, if you have basic idea (even of another language) you can read the code and probably even make sensible changes. With js, I begin to need to look up the syntax to understand what is written (same in c#). Last time I had to do that was with perl. Personally"
+310,Fair_Sir_7126,1640872538.0,3.0,Lol exactly
+311,wsppan,1640824400.0,8.0,It was a throw away language that was never thrown away.
+312,dpash,1640867291.0,2.0,"Disagree. Modern PHP is significantly improved from the 5.x days. It's not perfect, and still has a bunch of rough edges, but it's definitely off the shit list these days. Especially with modern frameworks like Laravel.
+
+Of course, there's still a lot of inexperienced developers writing bad PHP code and lots of bad tutorials."
+313,spectrumero,1640854966.0,2.0,"It was widely used professionally in the 80s and 90s. Delphi still exists, I think. Windows 3.x used the Pascal calling convention (so any C program you saw for Windows 3.x was littered with FAR PASCAL macros)."
+314,buzzsawddog,1640881022.0,2.0,Yep...  That's what I said...
+315,agentoutlier,1640868932.0,1.0,"Ironically Of the 4 mentioned Pascal is the best of them.
+
+I would take Pascal any day over Perl assuming access to equal libraries."
+316,buzzsawddog,1640825675.0,3.0,Yeah I deleted that 8 years ago…
+317,nunchyabeeswax,1640829725.0,2.0,"Well, if you are googling for examples, you are going to get... wait for it... basic examples that will inevitably show some XML configuration for completeness.
+
+Not only that, you will inevitably run into *undated* examples that have been written for Spring 2.0 (which didn't have annotations over a decade ago) or 3.0 (which introduced annotations in 2009.)
+
+Now, instead of putting some money into something anachronistic, just do a google search for ""how to configure Spring without XML"".   
+
+
+See, web searches are GIGO : garbage in, garbage out. If you search for garbage, well...  
+
+
+Like the two OPs before you, I've barely used any XML for configuring a Spring/Spring Boot system in real life, in a commercial (read, non-homework) setting.  
+
+
+Verbose XML configuration hasn't been a legitimate complaint against Spring for over a decade (or against JEE for almost two decades.)"
+318,kjozsa,1640860469.0,1.0,and JSON is far more readable than YAML.
+319,Qildain,1640835131.0,0.0,"Do you mean properties, or context (etc.) configuration?"
+320,nunchyabeeswax,1641011443.0,1.0,">Yes, it's obsolete, but that doesn't stop the reputation.
+
+A reputation that happens to be given by people who simply don't know what they are criticizing, harking back on something that hasn't been used to develop new apps for more than a decade.
+
+Just because a reputation exists, it doesn't mean it is legitimate. And to spread an uninformed or illegitimate reputation is, quite bluntly, spreading misinformation.
+
+When it comes to Spring, this is something that can be cleared up by buying a recently published book or a well-formed google/bing/stackoverflow search.
+
+So, its perpetuation by some people who choose this field of work (and thus should know better) feels mendacious.
+
+&#x200B;
+
+>and it doesn't stop legacy apps still using it, sadly.
+
+Absolutely not sadly. Just because a system is legacy, it doesn't mean it is bad. If it runs, it means it is delivering value to the company/entity using it (or at worst, it is operating under a constrain that prevents its upgrade/rewrite/replacement.)
+
+Obviously, backward compatibility has its limits, and at some point, things will stop working. But breaking backward compatibility is not something that well-designed frameworks or platforms take lightly.
+
+PS. The goal of any system is to become a legacy system. That is, its goal should be to run (and thus provide value) as long as possible. There's absolutely no value in dismantling and rewriting a system every 5 years simply because of a release or paradigm change.
+
+That'd be akin to demolishing one's house every time we need to remodel a bathroom or kitchen. That's destruction of wealth and investment (and that applies also to software systems, in particular critical systems.)"
+321,mj_flowerpower,1640856174.0,0.0,person?.address?.city results in null if any part inbetween is null. Safes you alot of ifs or chained optional calls.
+322,PM_UR_LOVee,1640826751.0,2.0,Mind enlightening me on what frameworks are more elegant?
+323,Jorengarenar,1641316083.0,1.0,">The comparison with Java happens whenever the language author has to describe (...) as compared to Java.
+
+Well, when the comparison has to be with Java, then no wonder that new shiny language which needs to compare with Java compares with Java.
+
+But if we lift the requirement of comparing with Java and allow comparisons with other languages, then I still somehow hear  how easy is to write and compile a starter program in the new language as compared to C/C++."
+324,cogman10,1640824900.0,13.0,"Stroustrup's quote, when I heard it, was given at a C++ conference.  IIRC, the context was literally ""People like to complain about the weird and broad syntax C++ has.. yet C++ is everywhere so haters gonna hate""."
+325,rubyrt,1641060207.0,1.0,"> You can do some rough calculations to get an estimate of how much time you'll save.
+
+I am not convinced: the matter is actually quite complex, you need to factor in new bugs that inevitably come with rewrites and the rewrite would have to improve on the architecture to make adding features faster in the future etc.
+
+> The real problem is most people can't think on longer terms than 5 minutes ahead, and all the costs will be upfront and the gains down the road.
+
+Certainly for public listed companies.
+
+> Of course, this assumes you have the team to properly write the new app.
+
+Rewrites often come with their share of bugs as well."
+326,awesomeusername2w,1640883789.0,2.0,">>Why don't
+public <T: JsonSerializable> void foo(T t) { } 
+
+It would be possible but usually you don't implement any interfaces for the class you do serializers/deserializers. It would be a Jackson annotation or a custom serializer referencing target class. Plus, you clutter a class with all those implementations. Eq, Json,Serealizabke, Hashable etc. With traits it ends up being much more ergonomic and you don't have to make any changes to the target class. 
+
+Loom us around the corner for quite some time already, but I'm happy to use java 11, let alone 17. Not so easy to convince everybody that we should upgrade. On the other hand, perhaps loom would be that kind of a feature that others consider worth the upgrading. In my case records wasn't that kind of a feature."
+327,awesomeusername2w,1640872128.0,4.0,Why would you need a for loop when a simple goto does the job though?
+328,awesomeusername2w,1640874080.0,2.0,"Oh, seems like only now I understood the meaning of you initial comment. I got it all backwards first. Oops."
+329,Jambalamkins,1640867066.0,1.0,We use typescript for node projects when we  where I work so it does make it nicer to work with. I’m still a Java fan but I like node to cause u can make ur spa and backend together
+330,Muoniurn,1640847672.0,6.0,"Well, GC is much faster than the equivalent malloc-ing of memory, when you do a new/malloc/Box in c++/c/rust, you basically use a global allocator with different pools per allocation size. That has to be defragmented, and deallocations can thus stop *the working* thread for some time here and there vs it having the work done in parallel with minimum pause times. 
+
+So what does it mean? To beat object allocation of a good GC implementation, you not only have to write in a lower level language decreasing productivity, you even have to write heavily specialized code, not just idiomatic C++, etc. Of course with enough work you can eventually beat a general GC with a specialized one, but that is not something the general programmer can reasonably pull of.
+
+Of course object allocation is not the primary performance benefit of lower level languages, since they can get away with the above problem by doing stack allocations and passing by value, which will also have better cache locality. But that issue will (hopefully) be solved by Valhalla sooner or later."
+331,Trant2433,1640838905.0,6.0,"Java is never gonna beat tight, well-written C++ or Rust or even GO code.
+
+But most projects, even start-ups, aren’t writing low level server / socket code in C++ or Rust anyway. They’re just writing CRUD apps in Node or Python or Ruby, dumping data to Postgres or Mongo, serving up Rest APIs, maybe connecting to Kafka or a message queue for some async data. 
+
+Java is almost certainly faster compared to all these languages, and the various libraries are far more supported and stable than the equivalent NPM or PIP or Gem that you’ll use to integrate to other dbs and services."
+332,erinaceus_,1640844789.0,4.0,">They scream, ""I can't stand Java because it takes 3 minutes to compile and restart my J2EE server after each change.""
+
+3 minutes to compile ... that's one _big_ project 😄.
+
+When collaborating with C++ teams, I got the opposite impression: our full build (complete mvn clean install) of a rather sizeable project took about 2-3 minutes, including a fair amount of code generation, while the C++ builds were done with a special system that shared developer pc resources to make sure that the build took (a couple of) tens of minutes instead of hours."
+333,,1640846580.0,2.0,[deleted]
+334,morpheousmarty,1640879715.0,1.0,"No one screaming now can really say anything about performance, the JVM is very performant and the hardware needed to run ""heavy"" java apps is trivial. It's a historical argument.
+
+But you need no further proof that gaming development stuck with C++ even on platforms built on java like android to see that the performance problem is real."
+335,gigibuffoon,1640864332.0,1.0,So essentially Javascript
+336,ABLPHA,1640853884.0,3.0,that’s a rather weird while(true)
+337,Side-Secret,1640858858.0,1.0,Where is the main class ?
+338,,1640887599.0,3.0,[deleted]
+339,bilingual-german,1640894326.0,3.0,"Package managers are good. Maven is shit. Especially the error messages. You need to enable debug mode with `-X` to understand what the problem is. Starting a full JVM for a short living process makes maven slow when you compare it to other package managers. I'm also very sceptical about the security of their plugin approach.
+
+I like that it hasn't the one-repository-to-rule-them-all approach of npm, but if Maven-Central is down, you probably still can't build your jar.
+
+My issue with Lombok is, that this is magic. It's code you can't see. As long as it works, it's ok, but as soon as Lombok has a bug, you're screwed. You'll never find the issue."
+340,Prateeeek,1640883695.0,1.0,I agree as well
+341,renatoathaydes,1641133040.0,1.0,"IIRC before Maven it was either Makefiles or Ant :D but yeah, for dependency management, downloading jars ""by hand"" (and almost never updating them) was fairly usual."
+342,devcexx,1640882423.0,6.0,"Yes, the solution for a language is to let a third-party library to do what the compiler can't by hacking into each different commercial Java compiler and forcibly modify the AST of each file in your project because of the lack of an external interface for doing so, yes seems reasonable."
+343,ivancea,1640870564.0,5.0,"And Java and JS are languages. But little people eat lemons
+
+Edit: little people => few people. I don't know what little people eats 😬"
+344,Tudor14pop,1640867181.0,-2.0,"I've heard this so many times that I would get rich already if I got 1 dollar each time.  Then when someone shows me ""the proper way"" they write the same stuff
+
+The fact that you don't see it, means you've never used it in production beyond the basics and never had to override hashCode/toString, never had a problem with `lateinit`  aka boilerplate for a problem java does not have, type+val/var and many more"
+345,Tudor14pop,1640856630.0,6.0,"well yeah... this is the good part of kotlin... having the `?` operator and `?.` is much better than using Optional but that also makes me very angry when I know the field will be initialised later and now I have to declare everything with `lateinit` which turns the clean Java code  `private Car myCar;` into this mess `private lateinit val myCarr:Car;`  I know that the field will be initialised a bit later and cannot be null so I don't make it Optional by default but going with kotlin I have to add all that lateinit val/var everywhere and I every dev that reads this, now has to open up the kotlin docs to spend 30-60 minutes reading about lateinit, when to use it and how it works in relation with constructors, accessors, lazy function ...
+
+When I want for everybody to know that a field could be null, I annotate it with  `@Nullable` and that's it! the IDE/linter will tell you you're stupid when you access that field without a check
+
+Also my guideline is: if is not annotated with `@Nullable or Optional` it cannot be null which means someone didn't initialised it in the first place where it should have been so the fix time is about 1-5 minutes at top"
+346,,1640862444.0,5.0,[deleted]
+347,devcexx,1640883394.0,2.0,">I don't want careless programmers to plop   
+>  
+>?. and ?: everywhere
+
+With great power comes great responsibility. If you feel the need of using ?. and ?: constantly in a Kotlin project just for silently the compiler warnings, that means that you're coding in Kotlin like you were doing Java, which is not good. The good thing about the safe nullability of Kotlin is that it allows you to code under the assumption that everything won't be null, or it is marked as such. If you code is full of \`?.\` or \`?:\` (which is something I also hate because it usually hides other issues) is because you're missing validation layers that your application needs to work correctly. If you function requires a Potato and requires that all the fields inside the Potato to be not null, make sure all the fields of the Potato are marked as not null and you're validating them correctly before calling the function, instead of filling the function with \`?.\` or \`?:\`. That's the whole point of that feature."
+348,corbymatt,1640867381.0,3.0,"Kotlin null checks are 'in place' and bound to the instance throughout the scope of the value. You can't use a `?`'d kotlin val, for example, without ""doing something about it"" when you access it (as you rightly said).. however ""what you do about it"" is not the language's fault, any more than it was in Java of course. Its just far easier to spot the issue in kotlin.
+
+As for the hex issue, it seems that intellij's kotlin code converter would prefer you to express `0xFFFF_0000_0000_0000` as `0x1000000000000L` which probably makes more sense..
+
+Likewise, if you declare a `private const val` outside of the class in the same file, you can effectively declare a constant without using a companion object.
+
+What I do think is a bit awkward still in kotlin:
+
+1. Scripting. Yikes, imports and shebangs and classpaths oh my 
+2. Many ways to do x, like constants (companion object? Object? Private const?)
+3. Java developers doing the same complex nonsense they do in Java because they don't know how to keep things simple."
+349,Purple_Quality3478,1640853903.0,1.0,There is too much idiomatic confusion with Kotlin. By far java is nice and clean for any one to understand
+350,idealatry,1640920565.0,1.0,"> Type erasure is the norm. Basically every major language does type erasure.
+
+Yeah, uh ... no. You don't actually know what type erasure is, do you? I suggest you stop right here and do a little research. Type erasure was introduced in Java *because* the language was not built to support generics and they had to bolt it on. By contrast, a language like C# (and many others) keep type information at runtime, which is far more versatile (although this comes with some slight disadvantages in performance).
+
+> It just happens to be slightly discomfortable when you use it with runtime reflection — but anything concrete against Java generics? It’s always just “they are bad”..
+
+I suggest you also research ""type inference"" with generics. I'd also point you to a Wiki page called [Problems with type erasure](https://en.wikipedia.org/wiki/Generics_in_Java#Problems_with_type_erasure). It's a good starting point for noobs in polymorphic types to get a grasp on why Java's implementation of generics is less than stellar.
+
+> Regarding 2, that’s not too generous on your part to attribute nulls to Java only
+
+I certainly wouldn't attribute nulls to Java only.
+
+> Then what the fking hell is a FP language? Java is a mixed paradigm language, that has support for proper lambdas. You can store any sort of function as data, pass it around, do whatever you would like to. Hell, Java even has fking algebraic data types now! Do you even know any FP language?
+
+Oh, you sweet summer child. 
+
+Once again, I suggest you do a lot more research about functional programming languages. Calling a language an FP language simply because it has lambdas is just silly.
+
+For starters, one of the primary aspects of functional programming languages is the notion of immutability -- as in ""once a variable, **any** variable, is assigned a state, it does not change throughout program execution. This is counterintuitive at first, but it's a really fascinating concept that, when implemented in a pure way, strives to totally eliminate side-effects in one's program.
+
+> Also, then at least fking know what you are talking about — lambdas are not bolted on. SAMs do get turned into lambdas but lambda literals are actually proper static methods behind the scenes since like forever.
+
+Yeah, I'm really not sure where all the hostility comes from here, but it's pretty ironic. Especially since it's pretty obvious that the claims you have made here are extremely naive. 
+
+The Java programming language did not originally incorporate lambdas ... therefore they were ""bolted on"" later. And given the way they are implemented, it makes the concept counterintuitive in java. Not only that, but some of the coolest features one could do in an *actual* functional programming language, such as currying, memoization, or tail recursion elimination in a pure FP language like Haskell simply can't be done in Java. 
+
+It's a bolted on concept. It's better than nothing, but it's basically what you accurately described as ""static functions."" Nothing more, nothing less."
+351,ancientweasel,1640876746.0,1.0,Java without all the Getters and Setters that are just noise and no catch all  throws signatures. Mostly.
+352,Iuse_arch_btw,1640884010.0,1.0,In C++ references can't be null
+353,chrisgseaton,1640899298.0,2.0,When power saws were invented nobody made started 'hating' hand saws. Our professional is completely unhinged on their opinions on tools.
+354,Muoniurn,1640871949.0,2.0,"That’s fair. PHP indeed went over quite an improvement, though I still have a distaste for it due to some historical baggage that can’t really be fixed. JS also became an ok language imo."
+355,wildjokers,1640842390.0,2.0,"Yes, in all cases once you go below one-level of nesting XML is both easier to write and easier to read than JSON."
+356,qK0FT3,1640856792.0,0.0,"Yes I completely agree. 
+
+Some of my functions would be 5-6 lines instead of 10-15 lines if there was null safety. Because `Optional` is not a good looking thing imo."
+357,kjozsa,1640862527.0,2.0,"I find eg. javalin.io an incredibly elegant, modern Java API."
+358,magnoliophytina,1640826770.0,-1.0,That's basically https://en.wikipedia.org/wiki/Argumentum_ad_populum
+359,grauenwolf,1640832070.0,-6.0,"So pretty much, ""Who cares if C++ sucks, I still won"".
+
+How long did C++ languish with no meaningful enhancements because of that attitude? Fifteen years. More than a decade without any meaningful improvements because Stroustrup and crew lacked any self-reflection.
+
+Maybe that accusation is too strong. But this is the same person who had to address rumors that he ""confessed that C++ was deliberately created as an awful language for writing unmaintainable code to increase programmers' salaries?"".
+
+Had he instead answered, ""C++ has some problems and we're looking at ways to make the language safer to use"" the industry would have been in a much better place.
+
+https://www.stroustrup.com/bs_faq.html#IEEE"
+360,couscous_,1640884714.0,1.0,"> With traits it ends up being much more ergonomic and you don't have to make any changes to the target class.
+
+Are you referring to type classes when you talk about traits? How would, for example, Rust/C#/Scala get around the issue you're mentioning?
+
+> but I'm happy to use java 11, let alone 17. Not so easy to convince everybody that we should upgrade
+
+I think this is where more effort should be spent. There are many other non-language features that have made it into the JVM between 11 and 17 which IMO more than justify the need to upgrade, including performance enhancements and GC improvements. The community should change its outlook.
+
+Look at golang for example, it's quite trivial to upgrade the compiler to the latest and continue using it.
+
+I realize there was a hump to make the jump to Java 9, but since then it should be smooth sailing, and companies should always be on the latest version."
+361,grauenwolf,1640848233.0,1.0,"> Be it compile time, be it executing a query and getting back the results, be it rendering a web page.
+
+Time spent executing the query is the same no matter which language you used to call the database. If your web server is CPU bound you're either doing something really wrong or your company is doing something really right."
+362,morpheousmarty,1640879461.0,1.0,">If that's what they scream, they're fucking idiots, because they should be bitching to their management about having to use Weblogic and/or not even being given something like JRebel.
+
+So much this. However I think it's fair to say that java had a certain inclination to be paired with tools like weblogic. It had a whole ecosystem of ""just good enough"" solutions which C++ avoided better because, well, there's no nice to way to put this, but they were on average more senior and more serious about getting things right. Java made C++ even serious about performance and getting things right because if they couldn't deliver demonstrably better solutions java was easier for building new, junior, teams, the one thing C++ had to get right is the performance and reliability. Proof this is real is game development which simply could not tolerate the performance gap. 
+
+They were different tools with different strengths."
+363,Muoniurn,1640848990.0,0.0,"50% may or may not be much difference. Hell, most managed languages run at 2-10x at C speed yet they are perfectly adequate for the job they are doing. On the other hand, even C can be beaten by better algorithm or hand-crafted assembly by orders of magnitude (10-100x!). But if you do the 0.01 s thing in 0.03 s, noone will care, when you then have to wait for IO for 3s both in C and Java."
+364,ArmoredPancake,1640865195.0,1.0,As a bytecode.
+365,Old_District_1484,1640859322.0,2.0," ... Me three....me four.... that's why, for"
+366,Old_District_1484,1640859356.0,2.0,Somewhere else
+367,kuppper,1641411407.0,1.0,"The record type replaces the Value annotation, it's not usable for mutable classes which is overused in Java codebases."
+368,khmarbaise,1641202802.0,3.0,"> Package managers are good. Maven is shit. Especially the error messages. You need to enable debug mode with -X to understand what the problem is. Starting a full JVM for a short living process makes maven slow when you compare it to other package managers. 
+
+In which way do you think that? Startup time is the real problem? That can be improved by using option for the JVM..
+
+> I'm also very sceptical about the security of their plugin approach.
+
+In which way? Have you ever thought about npm or ruby gems or Docker images ? 
+
+> I like that it hasn't the one-repository-to-rule-them-all approach of npm, but if Maven-Central is down, you probably still can't build your jar.
+
+That's why you should use a repository manager in particular if you are in a corporate environment. Apart from existing a lot of mirrors..."
+369,Prateeeek,1640977203.0,1.0,Good points
+370,Prateeeek,1640977567.0,1.0,Good points
+371,renatoathaydes,1641201304.0,1.0,"> I like that it hasn't the one-repository-to-rule-them-all approach of npm, but if Maven-Central is down, you probably still can't build your jar.
+
+You can configure which repositories to use in your settings file. There are several [Maven Central mirrors](https://repo.maven.apache.org/maven2/.meta/repository-metadata.xml) you probably should have there, even if you don't have your own corporate repo like most big companies have. When Maven Central goes down almost no one notices."
+372,MaName678,1640884122.0,3.0,"Chill, Java isnt perfect and neither is Lombok as a solution, but sometimes you must work with whats given XD.
+
+Edit: BTW, I love the way C# handles this getter and setter matter"
+373,m02ph3u5,1640905995.0,3.0,We eat little food
+374,,1641052817.0,0.0,[deleted]
+375,morhp,1640863013.0,0.0,">Then you shouldn't make everything nullable.
+
+If you're not supposed to make things nullable, why add these convenient operators? As I said, some design decisions don't make sense."
+376,LoveGracePeace,1640887151.0,1.0,"Yes, they can. It's not wise, not recommended, but [you can definitely do it](https://stackoverflow.com/questions/9055778/initializing-a-reference-to-member-to-null-in-c). Scroll down to Dietmar Kühl's answer. That's only one example. There are more."
+377,Qildain,1640844391.0,-2.0,Are you even a developer?
+378,mj_flowerpower,1640863373.0,2.0,"It partly is what people hate about java: the verbosity.
+
+`person?.address?.city`
+
+vs
+
+```
+Optional.ofNullable(person)
+.map(p -> Optional.ofNullable(p.getAddress())
+.map(a -> Optional.ofNullable(a.getCity())
+.orElse(null);
+```
+
+That's just insane. Who would ever want that?
+
+
+And honest I don't understand why they haven't implemented this yet. Code would be backwards-´compatible, because the compiler would just generate a bunch of additional ifs. Old  code would not break either.
+
+And it would dramatically increase the productivity.
+
+On the other hand, their argument against proper template strings is that people would use it for SQL and it would re-open the entrypoint for a lot of sql injection vulnerabilities.
+
+But c'mon devs, who would ever want to do this? And if they want, they are probably already doing it with `String.format` anyway.
+
+Eventually it will come though! Sadly most likely with this weird syntax: `String s = FMT.""Hello %s\{name}, I am %10d\{age} years old.`
+
+The good thing about java is that new features are not just smashed into the language early on, but instead the devs wait till they see what other languages do and pick the features the like.
+The bad thing though is, that they take these features and implement them in a very weird way."
+379,WikiSummarizerBot,1640826788.0,4.0,"**[Argumentum ad populum](https://en.wikipedia.org/wiki/Argumentum_ad_populum)** 
+ 
+ >In argumentation theory, an argumentum ad populum (Latin for ""appeal to the people"") is a fallacious argument which is based on affirming that something is real because the majority thinks so. Other names for the fallacy include common belief fallacy or appeal to (common) belief, appeal to the majority, appeal to the masses, appeal to popularity, argument from consensus, authority of the many, bandwagon fallacy, consensus gentium (Latin for ""agreement of the people""), democratic fallacy, mob appeal, and truth by association.
+ 
+^([ )[^(F.A.Q)](https://www.reddit.com/r/WikiSummarizer/wiki/index#wiki_f.a.q)^( | )[^(Opt Out)](https://reddit.com/message/compose?to=WikiSummarizerBot&message=OptOut&subject=OptOut)^( | )[^(Opt Out Of Subreddit)](https://np.reddit.com/r/java/about/banned)^( | )[^(GitHub)](https://github.com/Sujal-7/WikiSummarizerBot)^( ] Downvote to remove | v1.5)"
+380,erinaceus_,1640845001.0,2.0,"Well yes, but the same argument could be used for pineapple on pizzas. The fact remains that lots of people use and continue to use  pineapple/C++, despite lots of other people complaining about it.
+
+A fallacy is when you try to decide on whether something is _true_ based on its popularity. Here, we're deciding whether something is _popular_ based on its popularity."
+381,awesomeusername2w,1640885607.0,1.0,">Are you referring to type classes when you talk about traits? How would, for example, Rust/C#/Scala get around the issue you're mentioning?
+
+Traits and type classes have their similarities. Scala and rust use traits. I mostly reference those two. Don't know about C# but I didn't hear praises to its type system either. 
+
+Traits generally are like interfaces, but for example if you have class A. You can introduce your trait and write an impl of this trait for A, or for bounded generic even. No changes to class A. Or you have a trait and your class and you can impl some trait for it.
+So, a class and traits implemented for it are not tight together. 
+
+ In rust and I think in scala too you can even do stuff that in java would look like 
+<T: Equals + JsonSerializable> void something(T arg)"
+382,morpheousmarty,1640878978.0,2.0,"I think talking milliseconds misses the point, if it's 50% slower you need 50% more hardware to have the same performance. More hardware is more money. In real life applications it was rarely so straightforward, but having sat in discussions about adding 1gb of ram when that amount was worth having a meeting over, I can tell you java performance cost us money. Probably less money than doing it in c or php, but we were working with very junior people, I'm sure a team of senior developers would have been cheaper no mater what the language."
+383,ABLPHA,1640875012.0,3.0,"ah, well, gonna wait for someone to r/woooosh me"
+384,azuredrg,1641412990.0,1.0,"You're correct, I did some research after the comment and forgot to update my comment to reflect that."
+385,devcexx,1640884361.0,5.0,"Yeah ik, sorry I was not attempting to be aggressive, just adding some irony <3."
+386,Tudor14pop,1641053895.0,0.0,"Why so butthurt? 😂 You know it's true
+
+If you were not that busy following the dogma, you would give some examples of how much better kt is"
+387,,1640864072.0,3.0,[deleted]
+388,Iuse_arch_btw,1640892387.0,1.0,It can't be done in a way that doesn't involve undefined behavior.
+389,qK0FT3,1640848080.0,1.0,Both better than yaml. No need to fight attack me :)
+390,wildjokers,1640881236.0,1.0,"Yes, I am. Why do you ask? Do I lose my developer card if I think XML is easier to read/write than JSON?"
+391,magnoliophytina,1640868020.0,2.0,"Perhaps. I got the impression the argument was 'the syntax isn't so bad after all because it's so popular'.
+
+There are so many constructs to choose from, I won't even try to list all the problems. Recently I've taught programming and the most annoying syntax for newbies is the ternary ? :. They'd like to have a if-then-else that returns an expression but don't quite get the syntax. There's also https://users.monash.edu/~damian/papers/HTML/ModestProposal.html"
+392,Muoniurn,1640879579.0,2.0,"But that’s not how it works. Most applications, especially web/CRUD applications spend a significant amount of all their run time with IO. That is programming language independent. Then second of all, for most applications request latency and throughput are the meaningful metrics, where IO is even higher percentage. So all in all, serving a request with C or with Python (which can be really slow with up to 10x of native code) won’t really show a significant difference in itself.
+
+Java is especially adapt at this problem domain since concurrent C programs are exponentially more painful to write than ordinary ones — and doing more work at the same time will easily beat out better single threaded performance. It is not an accident that “industrial scale” web applications are often written in java (google, apple, alibaba are all huge java shops when it comes to web backends)"
+393,,1641054153.0,0.0,[deleted]
+394,morhp,1640865138.0,2.0,"I of course understand that there is a middle ground between not using it at all and always using it.
+
+But in my experience your example at the bottom is exactly why people shoot themselves into the foot using Kotlin.
+
+First you say yourself, if b and c and d can all be null, that's using null a lot, and possibly too much. Maybe there's a problem at the API where you get the data from.
+
+Secondly
+
+>return a?.b?.c?.d ?: """"
+  
+is pretty terrible in my experience. Often b being null might have a different reason than c being null or d being null. Maybe you want to log a different warning/error in each case (or not). If you always return an empty String, you might later have problems finding out why it's empty when you expect some value.
+
+I know that Java is verbose, but I like that it forces you to think about different things being possibly null and their possible causes and about error handling. Writing just `return a?.b?.c?.d ?: """"` and thinking you're finished is an easy pitfall in my opinion. Stuff like that happened enough to myself and my co-workers.
+
+Even worse, Kotlin has no good alternatives to null for storing failures or absent values. It has no buildin Either class, and checked exceptions are also not available."
+395,LoveGracePeace,1640893426.0,1.0,Correct. Compare to null in Java which is designed into the language correctly.
+396,morpheousmarty,1641220011.0,1.0,"Don't know what to tell you, no project I have worked on was so devoid of business logic that the only bottlenecks were IO. There was always some feature that had a memory/cpu bottleneck."
+397,Tudor14pop,1641054454.0,0.0,">PS: I was putting stuff in production while you were still in your diapers.
+
+I bet all the girls are impressed by your great achievements, grandpa.
+
+Only a noob reacts like this when they find out their favorite toy is not that great"
+398,Iuse_arch_btw,1640902601.0,1.0,"I wouldn't call a backdoor in the type system correct, it is just a hack that was implemented most likely because the people who designed the language had a tight deadline. If I cared about correctness I would have implemented algebraic types like in ML languages."
+399,Muoniurn,1641225561.0,1.0,How did you measure that?
+400,,1641054973.0,0.0,[deleted]
+401,Tudor14pop,1641055984.0,0.0,">Again, you need to grow up.
+
+I like being young since I can learn to not get attached to a programming language... the older you get, the more you forget"
+402,,1641065038.0,1.0,[deleted]
+403,Tudor14pop,1641069369.0,1.0,Insightful? No... Truth about you? Yes
+404,Tudor14pop,1641069726.0,1.0,You're account is also very New so you either are 5 years old or 100... I bet for 5 because of all the reactions...you just want to seem experienced when you're not

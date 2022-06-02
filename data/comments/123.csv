@@ -1,0 +1,135 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,mostancient,1645430876.0,68.0,"That's the worldwide average if I'm not mistaken. A huge portion of Flutter developers (probably 90% or more) live outside the US, and a major chunk of that is in developing countries."
+1,eibaan,1645437598.0,18.0,"IMHO this doesn't mean anything.
+
+First of all, I'd never base salary on a language but on a job. 
+
+Being a developer is what matters. I'd expect that you use whatever language and framework is required. Knowing multiple languages and/or frameworks is a plus. But problem solving skills and team skills are IMHO more important.
+
+You might think that those guys working with Clojure are better programmers and hence are better paid, but that's not the language but the people. Good programmers tend to get attracted by more sophisticated languages. But they probably would be good at any language. So just by learning Clojure, you don't automatically get a higher paid job."
+2,ouaochi,1645448129.0,16.0,"Had a look at the [raw data](https://info.stackoverflowsolutions.com/rs/719-EMH-566/images/stack-overflow-developer-survey-2021.zip) collected. Here are the top 10 countries by nr of dart developers, and their median\* salary. You can clearly see how India outnumbers USA 2 to 1, with 10x smaller salaries. In other words, the ""lowest paying"" stat tells us more about where Flutter is most successful **now**, rather than what you will make if you follow this career path.
+
+&#x200B;
+
+|Country|Dart dev count|Median Salary|
+|:-|:-|:-|
+|India|961|10.056|
+|USA|419|113.500|
+|Germany|297|64.859|
+|Brazil|205|19.515|
+|UK|156|71.093|
+|France|133|43.239|
+|Italy|123|29.511|
+|Turkey|118|19.728|
+|Canada|117|71.850|
+|Netherlands|88|52.536|
+
+\* Median is what SO also used in their formulas, not average. This is the correct formula to use imo, but wanted to mention it for clarity."
+3,RenSanders,1645430887.0,25.0,"Isn't it quite obvious why? Pay is proportional to how rich the company you are working for is. It has nothing to do with sophistication or technology.
+
+Most companies that adopt flutter are newer companies. They don't have much money to spare.
+
+Things will change in the future."
+4,reddit04029,1645430941.0,3.0,"The demand for it is not just there yet. Well at least not as much compared to other ecosystems like Javascript and native mobile development. 
+
+Will it boom soon? Idk. But I do hope so."
+5,Darkglow666,1645570095.0,3.0,"I am happy to be the exception. I've been working with Dart professionally for many years (long before Flutter), and have never made less than $100K/year USD. My latest offers for Flutter positions have all been $160K+."
+6,NMS-Town,1645430852.0,6.0,Good thing it's just a hobby I play with.
+7,KOala888,1645438521.0,2.0,"My experience is different, and as Flutter is still pretty fresh if you start now you will become an expert in a few years and once it catches up, even more, you will be in a great position."
+8,PanicV2,1645478091.0,2.0,"Likely because Dart isn't very well known, outside of Flutter.
+
+Now, if you have the skillset to build quality Flutter-compatible versions of existing libraries from other languages?  That says a lot, and you'll get paid. 
+
+(Hell, if you have that skill set, especially if you know C++ too, let me know if you are in the USA)"
+9,esDotDev,1645478379.0,2.0,"My guess is 2 main reasons for this. As everyone mentioned, Flutter userbase skews to asia so that will bring the avg salary way down.
+
+Also I don't think there exists the huge 6-figure salaries for dart, that you see in the tech world for native or JS developers, which would pull the avg way up. ie FAANG are not hiring a ton of dart developers."
+10,agilob,1645447402.0,2.0,"1. It's a niche
+2. Dart and Flutter have very low entry level, so attract developers with no prior experience or degree
+3. It's more popular in lower paying regions than US/EU
+
+I've seen Dart job offers in UK for similar salary as mid-level Java devs get"
+11,srona22,1645433637.0,3.0,"Market saturation and market demand.
+
+Aside from that, some people have to bear working 60$ per month low ball offers in some countries.
+
+And bootlickers, be minded that this is nothing to do with company ""Rich"". This is a rip off, and companies can get away with it, thanks to negligence of government or any ruling entity."
+12,HexenciaL,1645443143.0,1.0,I guess it depends. I work with Flutter and i gain more than the average junior dev income in my country.
+13,Murky_Ad_1901,1645527167.0,1.0,I’m in Vietnam and it’s quite true. Mind if I ask where you are?
+14,Murky_Ad_1901,1645527483.0,1.0,"I migrate from Android which is a quite heavy architecture framework to Flutter. My projects are  at least in 3-tier, still couldn’t get a job on upwork due to such high competent"
+15,react_cucumber,1645431440.0,15.0,"Exactly, the average js dev in my country makes about 24-25K per year, and it’s considered upper middle class . Comparing react-native dev’s salaries to Flutter devs’ it’s nearly the same."
+16,boon4376,1645461419.0,8.0,"The numbers don't really make sense to me. You can get paid really well in the USA as a Flutter / Dart developer.
+
+However, Flutter is also one of those things that is very easy for a newbie to take a 20 hour course on, and claim on upwork that they are a flutter deverloper - and while they can make apps work and look decent - they are probably horribly architected and have bad performance - and will really struggle to grow in complexity because of that. Like, just because you can make a firebase todo list does not mean you can build a businesses enterprise application.
+
+So I can see people on upwork working for $20 USD an hour in many countries cranking out shitty apps (kind of like WordPress developers are usually not great at coding, but also don't charge that much).
+
+But if you're a serious programmer with high competency in architecture and building large complex functionality, then you can also get paid extremely well. Especially considering what you can offer a company for app value vs. them hiring separate iOS / Android / Web developers.
+
+I have worked with a few small businesses in my area who started their projects out with iOS / Android dedicated apps, paying $200k for each. When I could have built iOS / Web / Android with Flutter for $150k very comfortably making a really great hourly rate."
+17,tegnatiek,1645435892.0,3.0,"Also a lot of companies haven’t really banked on it yet. My company, a growing consultancy, has just done its first Flutter project now. We are all native first developers"
+18,andyveee,1645455229.0,1.0,"Language doesn't matter technically. But if you're starting out and choose a language that isn't as popular, you'll have less competition, but also have less companies to choose from. It's a numbers game. Not many companies, outside of the highest paying companies (faang) hire solely on problem solving skills. They're exceptions, not the rule. Usually companies hire based on need. I agree with the statement, but the realities of the job market don't match up with the thinking."
+19,ouaochi,1645455047.0,12.0,"Swift, also a frontend language, looks like this. Salaries per country are comparable (although indeed larger by about 20%) but Swift seems to pay almost double globally mainly because USA outnumbers Inda 3 to 1.
+
+&#x200B;
+
+|Country|Swift devs|Median Salary|
+|:-|:-|:-|
+|USA|919|138.000|
+|India|391|12.566|
+|Germany|290|75.669|
+|UK|210|86.604|
+|Canada|151|75.631|
+|France|139|54.049|
+|Australia|106|80.172|
+|Italy|98|38.915|
+|Russia|91|33.972|
+|Brazil|83|28.038|
+
+&#x200B;
+
+Clojure, which is the ""best paying"" champion in their survey looks like this. Clearly pays better than dart, but geography also plays a positive role here, with **8 of the top 10** countries being top paying (I considered Brazil and India low paying here).
+
+&#x200B;
+
+|Country|Clojure devs|Median Salary|
+|:-|:-|:-|
+|USA|477|160.000|
+|UK|124|104.700|
+|Germany|114|84.165|
+|Brazil|70|41.232|
+|Canada|53|90.758|
+|India|50|36.998|
+|Finland|43|70.601|
+|Netherlands|41|70.802|
+|France|39|68.532|
+|Sweden|32|74.868|
+
+&#x200B;
+
+Dart is not a high-paying programming language, though, however I slice the data. If I account for experience, location or even company size, it still ends up low on the list of salaries. I have my own theories for why this is, boiling down to supply and demand. Feel free to disagree with the following opinions:
+
+As a pure thought experiment, let's assume that you have a tool that produces iOS and Android apps at the press of a button, in 10 minutes. If you can keep this a secret, you can make a fortune selling people fully functional apps at half their normal price. If this is not a secret, others will do the same and in the end the tech will be cheap to contract. The benefits get transferred to the final clients - they pay less. Books used to cost a fortune before they were easy to manufacture.
+
+Flutter is an incremental, not exponential, improvement in making apps. The thought experiment does not apply well, but my point is that better tools make businesses more money, not devs. Devs get paid according to **demand** and at this moment, Flutter is something far more popular among devs, not companies. Most companies are not considering it as a solution yet; this will change if more and more startups show how far and fast they go with the framework."
+20,saladthievez,1645471337.0,2.0,"Agreed. I’ve been getting an increasing number of Flutter project offers over the past few years and more and more companies are picking it up. However the vast majority still go for native iOS / Android devs and if you can have that on top of Flutter, you’re in a very good position."
+21,Murky_Ad_1901,1645527801.0,1.0,"Quite true. My company’s just moved their base to Singapore and they hires me, a Vietnamese developer"
+22,littlejohnuk,1645463734.0,5.0,">However, Flutter is also one of those things that is very easy for a newbie to take a 20 hour course on, and claim on upwork that they are a flutter deverloper
+
+This.  So many flutter contribs and blogs are mediocre to say the least"
+23,milogaosiudai,1645452480.0,3.0,how was the adoption of the technology and the transition? was there any hesitance at all?
+24,bsutto,1645484323.0,1.0,"Language really does matter.
+
+For an experienced developer it typically takes two years to master a language and it's core libraries.
+
+So here's is the secret to a successful project.
+
+Hire senior developers.
+This is someone with 7+ years of experience.
+
+Also the devs should have 2+ years of language experience and you need at least one that has 5+ year experience in the language.
+
+Contrary to popular opinion, junior Devs are expensive."
+25,PanicV2,1645478376.0,2.0,"Seriously great response.   
+
+I would \*love\* to hire Flutter/Dart people right now but after a prototype (I work for a giant tech company but in the innovations area), they would also need to know other languages, to make our existing core work with Dart.  Not just using the existing tool."

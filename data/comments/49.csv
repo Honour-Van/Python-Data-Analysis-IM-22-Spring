@@ -1,0 +1,29 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,sheng_jiang,1458968611.0,1.0,"Problem is how you define ""dev interest"".
+
+The questions I asked on stackoverflow are in areas that I am not familiar with. Am I interested in getting answers on my question? Of course yes. Does the question I asked reflect my main interest? Of course not. 
+
+The most voted answer I wrote is for a simple DOS scripting question. Does this mean people voted have long time interest in DOS scripting? probably not. I think most of them voted because they can copy & paste to get job done, then back to do what they are good at. "
+1,,1458943690.0,-1.0,[deleted]
+2,faggot2016,1458960169.0,0.0,"LOL! -65.2%?!
+
+**GAME OVER MAN GAME OVER!!!**"
+3,flyingwafflesftw,1458947887.0,0.0,It means exactly what's been happening to the platform for years.
+4,Daniel_Rubino,1458945367.0,19.0,"Problem is, fewer and fewer people are using desktop PCs and instead are using mixed devices like two-in-ones, laptops, tablets, phablets, etc. Apps make more sense on those devices. On 15'inch laptops and full desktops? Less so. 
+
+Microsoft is anticipating the day where PCs become a thing of the past for mass consumers, a time that is rapidly approaching. Yes, there will _always_ be a need for ""classic"" apps but even there with Project Centennial there is an attempt to bring those 'classic' Win32 apps and games to the Store.
+
+One-click buy. One-click install. One-click uninstall and no leftover files, orphaned DLLs, or registry changes. (Plus, companies get to showcase their product in one place instead of you having to search the web for it). 
+
+So, what does Microsoft do to reinvigorate PC software development? No one is making money off of desktop apps anymore besides the giant corps like Adobe. Do all developers just become web or mobile devs? What then happens to the PC? It just becomes a glorified web browser that can run apps with 20-year-old code? That's it? The PC doesn't evolve?
+
+Name me one Win32 app besides a web browser that has become a hit product in the last 10 years? It's literally _all_ legacy. Besides Adobe Photoshop/CC and some 'pro' apps most consumers never go beyond the browser or apps. 
+
+_That_ is also something that many people in this sub will never understand. "
+5,WindowSurface,1458992660.0,1.0,"I don't think it makes sense to differentiate between ""full applications"" and UWP apps. Over time, the UWP API will probably be more fully featured than the legacy win32 api. People seem to believe that ""apps"" must have less functionality than legacy applications. But this is simply up to the developer."
+6,akshay2000,1458968352.0,1.0,Did you just quote Tiny Troopers?
+7,Strand0410,1458967594.0,1.0,"I get what you're saying, but that doesn't make the situation any better. So interest in WP is tanking, but isn't W10 the white whale that would hopefully buoy UWP? Now people are saying that desktop is becoming increasingly irrelevant, so what do Windows devs have to look forward to, now? 2-in-1s? Xbox? HoloLens? None of these account for even a fraction of the billions of users that are on Android and iOS."
+8,,1458999204.0,1.0,">Over time, the UWP API will probably be more fully featured than the legacy win32 api.
+
+And for how many years has the Win32 API evolved? Sum that to Win16, and you'll see the looooong road that there's left."
+9,Scruffynerffherder,1458991015.0,2.0,"Que a combination of Xamarin and UWP for a C# to all.. development platform. There is no future for Microsoft without mobile. Modern Apps are the future like it or not and Microsoft is taking the right steps to insure a future in it (IMO). I already see Apple struggling to awkwardly compensate for thier two vastly different environments, iPad Pro? Not even Apple fan boys understand the logic behind that. "

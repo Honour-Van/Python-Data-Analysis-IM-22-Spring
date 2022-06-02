@@ -1,0 +1,31 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,rad_pepper,1652288932.0,6.0,"Distribute wide (company lists, etc.) so we can get Ada on the chart this year."
+1,joebeazelman,1652323720.0,7.0,"Ada is a victim of its own success. Go to any Ada online resource, including this one, and note how few questions there are about coding in Ada. The majority of the questions are around the tooling, libraries, etc. The language is surprisingly easy to figure out on your own and the relatively few available resources are adequate. Unfortunately, this doesn't generate a lot of traffic and user generated content sloppy algorithms use to determine popularity. Contrast this with Git where there's an entire cottage industry devoted to helping programmers grasp how to use it."
+2,Rust-CAS,1652289669.0,1.0,Now's our chance to beat Rust.
+3,doc_cubit,1652376637.0,3.0,I feel like you're on to something here :)
+4,rad_pepper,1652389005.0,2.0,"I've considered this quite a bit as well.  I've met many a person that tried to and failed to learn various languages (C++, Rust, etc.).  However, I've seen many people say they started learning Ada and didn't like it, but no one who said it was too hard and they gave up learning it.
+
+I'm not saying this isn't possible, just an interesting anecdote.  My suspicion is that my sample size is very small, I'm curious how students forced into using the language perform."
+5,rad_pepper,1652289894.0,7.0,"LOL, yeah that's not gonna happen.  The point isn't to ""Beat Rust"" or ""Beat C++"", it's just to make cool stuff that works! :)
+
+The goal is just to get enough distribution and responses that Ada is actually on the list of languages in 2023."
+6,doc_cubit,1652376676.0,1.0,I thought it was funny.
+7,Rust-CAS,1652291298.0,0.0,"I like to use Ada for reference implementations, but unfortunately for modern projects Rust is just easier and provides lower-level access."
+8,rad_pepper,1652293090.0,10.0,"I didn't want to get into an argument about this.
+
+> provides lower-level access.
+
+This is why we have the `System` package.  Not sure what ""lower level access"" you're talking about since I do memory aligning, byte-specific packing of records, custom memory allocators, threads, pinning threads to CPUs, and binding to C functions.
+
+> Rust is just easier
+
+Terseness is not easiness.
+
+Lifetime annotations and excessive generics can seriously convolute code which shouldn't be that complicated.  Then if you want to deal with interior mutability, we go down the `Cell`, `RefCell` rabbit holes and then be sure to wrap all your things like `Arc<Mutex<T>>` when dealing with threads, whereas I'd just throw my stuff into a `protected` object in Ada.
+
+Rust also has `str`, `String`, `OsString`, `OsStr` for strings, but if you want to convert these to paths, don't forget about `Path`, `PathBuf`, and dealing with `AsRef<Path>`.
+
+Ada things are usually longer, but the code usually reads pretty easily."
+9,joebeazelman,1652305773.0,8.0,"In Rust you're trading off readability for compactness. You're not necessarily doing more with with less code. Like C++, Rust uses symbols, keywords, structure, position and precedence to instruct the compiler how to generate the code. This requires programmers to dehumanize themselves and think like the compiler, which is the ultimate form of submission to a non-sentient being. 
+
+Ada, on the other hand, you're abstractly specifying data and its operations with their constraints, behaviors and interfaces. The compiler uses it to make intelligent and optimal decisions on how to best generate the code. In the few cases where the default decision is less than optimal, Ada also offers the programmer the  opportunity to provide it with implementation specific directives. This requires the programmer to understand the problem domain, not the whims of a compiler."

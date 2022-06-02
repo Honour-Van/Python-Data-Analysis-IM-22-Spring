@@ -1,0 +1,22 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,sproingie,1625581963.0,10.0,"I don't think ""Express"" ever actually referred to its serving speed, just the speed at whipping up a quick site."
+1,habanerocorncakes,1625608188.0,9.0,"Fastify was built _explicitly_ to be the fastest web framework around, by people who are either on the Node TSC or maintainers of Node.js. They know what they’re doing. When there are two answers to a problem in fastify, 9/10 times the solution that benchmarks fastest is chosen. I think there’s no single thing (likely _something_ contributes largely, but idk personally) that makes it faster. 
+
+When Express was first created, it was just a framework that TJ made for himself to solve his own problems. It was meant to be extensible and easy to get started with. He’s a decent dev, but when Express was created literally no one could have guessed the scale it would eventually be deployed at."
+2,fixrich,1625637547.0,3.0,"I can't speak for Koa but the Fastify team basically made a bunch of small decisions with performance as a priority. The router is efficient, logging is designed to be low overhead, you can provide schemas to make serialization to json more efficient (not sure how this works in detail) and many more. Overall it just adds up through each small decision."
+3,PhilippeBuchanon,1625597530.0,2.0,"From my understanding, Koa is basically Express but where each module has to be manually imported, whereas express has it all bundled by default (and probably a couple other optimisations too).
+
+Could it just be this ? Or am I missing the question ?"
+4,rdsedmundo,1625593290.0,1.0,"Sure I get this, but one thing is being somewhat slower like 10%, 20%, or even 30% maybe, but 60% slower is really a big difference.
+
+I was just wondering if this is due to the fact that the other frameworks are ""over""-optimized or it's really Express that is somehow bad optimized (as opposed to neutral, if that makes sense).
+
+Fastify in particular sells itself as caring a lot about performance, but Koa doesn't do it so much and still matches Fastify's performance, whereas Express clearly lags behind."
+5,halkeye,1625612774.0,2.0,"https://github.com/the-benchmarker/web-frameworks/blob/master/javascript/express/app.js
+
+No middleware is enabled. Doesn't really matter much if it's loaded if it's never enabled.
+
+It would have to be the default router or header parser. There isn't a lot enabled per request otherwise?"
+6,rdsedmundo,1625598155.0,1.0,"No, that's definitely a valid answer. 
+
+I thought about it as well, specifically around the 'views engine' that Express has for instance, but still if you aren't using all the other things it shouldn't matter that much, in theory? 🤔"

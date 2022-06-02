@@ -1,0 +1,33 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,uzimonkey,1533080750.0,44.0,"> I tried to make games in C++, but I gave up because it was too hard for me. 
+
+Then you don't want Rust.  Not only is it just as difficult, but there are fewer libraries and reading materials to help you.  I wouldn't recommend that route unless you're self-sufficient and can answer your own questions.
+
+If all you want to do is make games, maybe you should check out an engine like Unity.  It's not ""cheating"" to use an engine, making a game and an engine are very different tasks and having an engine ready for you lets you concentrate on the game itself.  Plus, C# is a well designed and very forgiving language compared to languages like C++ or Rust.  If you're a beginner, this is probably where you should be looking, not at C++ or Rust.
+
+You didn't say what your previous experience was, but another problem is that a lot of people try to jump in head first with no game development experience and try to start from scratch in C, C++ or these days in Rust.  But the problem is that they don't know how to make games, they don't know how most game engines work, they don't know the difficulties of loading and managing resources, etc.  They don't know what they don't know.  If even if you were proficient in C++ or Rust, I would still recommend you go use an engine like Unity for quite some time before getting started.  Not that Unity is the ultimate game engine or anything, but it's the most popular engine around that strikes a good balance between ease of use and not hiding too many details from you.  Engines like Gamemaker are fine, but they're scripted at a higher level and everything might as well be magic, you can make games in it but it won't teach you nearly as much about game engines and game development.
+
+I realize this is r/rust_gamedev and everyone is trying to be helpful getting you on board with Rust gamedev, but I think you're trying to run before you can crawl here and it would be more worthwhile to you to just slow down a bit."
+1,termhn,1533069163.0,13.0,"I would definitely recommend ggez over piston especially for someone new to gamedev/rust. It's a much more complete, all-in-one package, rather than piston's very web-like and spread out architecture which is confusing for someone just starting out. In addition, ggez provides better performance with its built in 2d rendering, especially when taking advantage of the tools built in to improve performance... but that's for later ;)"
+2,NeoMarxismIsEvil,1533072076.0,25.0,"Rust isn't going to make it much easier to program than C++, it's just going to make it less likely to have bugs meaning less debugging of crashes.
+
+If the game is 2D and not likely to be very performance critical, I'd recommend using an easier (but lower performance) language like Python or JavaScript, or use something like GameMaker (which uses a language that looks like JavaScript but has lots of GUI tools to make things easier).
+
+The disadvantages of using Python etc are basically just: slower since they use a bytecode interpreter, and the overhead of periodic garbage collection (which can stall software that's running near resource limits)."
+3,Lokathor,1533066557.0,8.0,"ggez is a solid base, and they're activity developing the library to fix bugs and limits you run into as much as possible."
+4,dobkeratops,1533143083.0,3.0,"you might find after using Rust for a while, 'modern c++' code will make more sense if you go back to it.. but I'd second the comments that it's not easier. 
+
+Rust's advantages would kick in with the ease of taking contributions from an online community.
+
+For solo projects, Rust might actually be harder than C++.. basically you have to do a bit more work up-front, but the result is it's easier to share code or collaborate with others.
+
+it sounds like you might be ok using a garbage collected language instead, but if you persevere.. it's worth learning rust for the perspective it will give you for programming generally."
+5,icefoxen,1533346770.0,3.0,"Rust doesn't always make things easier, but it always makes things *better*."
+6,_nyghtly_,1533936299.0,3.0,"If you're really set on Rust for your first game, then I would recommend first investing some time into reading through the entire Rust Book, 2018 edition. You can find it online for free.
+
+As you work through the book, make sure that you code along with every example, including the suggested projects that show up at the end of some sections. And be sure to not skip anything that you don't understand.
+
+If you can successfully complete the entire book, then I think you may find it much easier to make your first game. You could probably skip the final project in the rust book and have the game be your project instead. 
+
+When you get to your first game project, make sure that you *start small*, and make a very simple game like tic-tac-toe. If you do this, then you will not be overwhelmed by complexity. After you build something simple and easy, you can slowly increase the complexity as your skills grow."
+7,snsvrno,1533092913.0,3.0,"+1 for ggez. It takes care of a lot if the low level graphics stuff so you can focus getting comfortable with game logic, rust, etc... Then when you're ready and willing you can use a gl, vulkan, or Dx crate and do it all yourself. "

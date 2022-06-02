@@ -1,0 +1,468 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,suddenarborealstop,1595920754.0,111.0,"Huge credit to the core rust teams, this is an amazing achievement."
+1,,1595915981.0,120.0,[deleted]
+2,anlumo,1595947969.0,27.0,"New tagline for the Rust homepage?
+
+“Rust: it's reasonably popular”"
+3,Maan2003,1595908331.0,84.0,🦀🦀🦀
+4,,1595919698.0,20.0,[deleted]
+5,steven4012,1595940045.0,3.0,"I know this is unrelated, but why is there a whole bunch of configuration language in the red monk ranking?"
+6,LeSeulArtichaut,1595924924.0,5.0,🎉
+7,zija1504,1595956160.0,2.0,"As someone who recently started learn Rust for hobby projects I see few better language for backend services with no memory management side when developing products.
+F#, Nim, Crystal, I think multicore ocaml too. Typescript with Deno when performance doesn't really matter. Crystal doesn't have ADT, is now really functional, it's minus for me. 
+
+
+But all this languages lack momentum. F# have all c# environment, excellent Asp.net core, Fable for front-end, Fable remoting for easy share types,  but community is small, very small. No books, materials, no GitHub community."
+8,steadylearner_p,1595956861.0,3.0,"In a two year, it will be inside 10.
+
+In a five year, it will be inside 5.
+
+That is just my hope. But, I see interest and the numeber of jobs are growing.
+
+I used Python, JavaScript, Golang, Rust but Rust is the only language I miss when I use other languages execept its compile time.
+
+Documentations, tooling, development experience, lint, warning and other messages from compiler are all great without many efforts.
+
+You can virtually use it anywhere from backend to frontend web development and it makes the binary file which is faster and many benefits as a strongly typed language."
+9,,1595941106.0,1.0,[deleted]
+10,Tilakchad,1595962304.0,1.0,C is still going strong. Let's see how C2X will affect it.
+11,BosonCollider,1595973496.0,1.0,Also: [https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20/](https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20/)
+12,Machinehum,1595973533.0,1.0,Wooooo
+13,tembocs101,1595936690.0,-7.0,Anyone with some thought on how [V programing language](https://github.com/vlang/v) compares to Rust?
+14,pure_x01,1595917548.0,51.0,"Agree unless something else comes along and builds from the rust learnings and becomes even better. I cant figure out how though. Scala had a really bright future but its currently run over by Kotlin and the whole jvm is run over by .NET, Nodejs and Go . 
+
+I really hope rust will dominate the serverspace so we get reallt fast and memory efficient server and cloud software."
+15,lazyear,1595940774.0,7.0,"Definitely easier to learn than C++ IMO, which is largely a product of the excellent tooling (cargo, error messages) that the Rust ecosystem has."
+16,restlesshermit,1595949912.0,2.0,"I think it is as easy to learn as any language that introduces new paradigms (or in the case of Rust, some OLD paradigms as well). Remember when Java first came out, and there were umpteen different certifications you needed? Or think Scala, which is difficult all by itself - and even harder if you don't already know Java pretty well. Or Javascript - if you learn it correctly, and don't try to program it based on the Java model. :)"
+17,lead999x,1595950886.0,3.0,">Unfortunantly difficult to learn
+
+But how many other languages give beginners a high quality book for free? Having *The Rust Programming Language* available makes all the difference."
+18,iannoyyou101,1595927939.0,1.0,"And don't forget compile times, we need more options"
+19,iopq,1595920766.0,10.0,Jeszcze Rustska nie umarła
+20,A1oso,1595952076.0,2.0,"Because there are GitHub projects where a configuration language is the primary language, and there are stackoverflow questions regarding those languages."
+21,McWobbleston,1595979893.0,1.0,"There's a good Elmish+Fable book now!
+
+[https://zaid-ajaj.github.io/the-elmish-book/#/](https://zaid-ajaj.github.io/the-elmish-book/#/)"
+22,Mautriz,1595958471.0,1.0,Who in the world would use deno over node and why o_____O
+23,kibwen,1595980513.0,3.0,"Let's not get ahead of ourselves, Rust isn't likely to rise up any higher than C++'s current rank. Systems languages are crucial components to every stack, but their share of the stack is diminishing over time (which is good, we should use higher-level languages where we can!). And yes, Rust can be used for things besides systems programming, but those realms are much more well-served by other popular languages and competition is even fiercer.
+
+I see Rust topping out at about 18 or so, which is still pretty amazing."
+24,proverbialbunny,1595952463.0,2.0,"C++ has both Rust and C concepts, just with a different syntax, so if you learn Rust, and you learn C, you'll know C++ with a mild syntax change.
+
+Modern C++ encourages using its modern language features, which are the same as Rust, so even if you know the C parts, if you're working in a C++ code base you'll be near exclusively using the Rust concepts."
+25,vn-ki,1595937206.0,13.0,"This is a joke, right?"
+26,proverbialbunny,1595957560.0,2.0,"V is a small hobby project which is no where near ready, compared to Rust which is a stable project that has most of the big tech companies jumping on their bandwagon.
+
+If we wait 10 years they they might be comparable.  I'm curious to see where V goes."
+27,alantrick,1595940563.0,1.0,"Well, there's almost no technical info in v's readme, and little in its tutorial. As far as I can tell though, it lacks a borrow checker which is really Rust's most defining feature."
+28,sissobr,1595921028.0,36.0,"As someone use mainly Scala, in 2010 it was the most innovative Jvm, but since start, there was an abuse of over-engineering, using implicit and DSL, making learning curve of any library a huge investment, and the code almost unreadable for those don't know that DSL. Was natural to Scala get overcomed by anything better that java but easy too use.
+
+Obviously, this one my reasons I love rust, you have same learning curve in the language, but after that, libraries usage is easy to use, like using o python library."
+29,Dreeg_Ocedam,1595920859.0,47.0,"I don't think it's gonna dominate the server space. For most server applications the performance gains of rust(not that muh for IO bound apps) are worth peanuts against the additional cost when hiring and training devs compared to Go and NodeJS. 
+
+What I hope is that it will replace C/C++ for things like databases/OS/browsers where performance and correctness is critical.
+
+And this will take some time since most projects in those domains are already written in C/C++ and the complexity of adding a new language to the codebase might not be worth it. So most likely rust will shine in new projects."
+30,LPTK,1595931496.0,7.0,"> the whole jvm is run over by .NET, Nodejs and Go
+
+Interested to know what makes you think the JVM is being run over by .NET. Do you base that information on something specific?"
+31,tanishaj,1595947035.0,3.0,"Most Cloud software ( and software in general ) will continue to be written in languages where devs do not need to deal with or even understand things like memory management.
+
+Rust may shine on the layer below that. The JVM itself ( or CLR ) could be written in Rust. The next Kubernetes or Docker could be written in Rust. Dare I say, even the next Linux ( or the next evolution of the current one ) could be in Rust.
+
+Regardless, you and I have the same hope for the future."
+32,PrancingPeach,1595988090.0,2.0,"IMHO: Scala itself was never very popular and was mainly propelled and sustained by a few key tools like Spark, plus it sat on top of the massive JVM ecosystem so not much work had to be done to make it a viable language to use. As much as the Scala folks won't like this, it was never really perceived as anything other than a mildly improved Java and certainly never as a breakthrough. 
+
+Languages like Go and Rust feel like breakthroughs. Go sidestepped the entire JVM and .NET ecosystems and produced a fast, easy language that is ridiculously productive. I have my personal laundry list of complaints about Go, but I'd much rather use Go than Java or Scala, and once it gets generics that will be true five-fold. Rust broke down the nearly infinite stranglehold that C++ had on systems programming and made the area far more productive and safe to work in, opening it up to whole swathes of programmers who otherwise would have just avoided it entirely.
+
+I realize this isn't the best metric, but /r/rust is already over 3x bigger than /r/scala and as of this writing has 10x as many subscribers online."
+33,pjmlp,1596032213.0,1.0,">  whole jvm is run over by .NET, Nodejs and Go . 
+
+Yeah, only for those with a very tunnel vision of IT infrastructures.
+
+The first point is to get .NET, Nodejs and Go  to run on all hardware that happens to have one or more JVM implementations available.
+
+Also Looking forward for JetBrains to release JVM free variants of their offerings. /s"
+34,Uncaffeinated,1596294910.0,1.0,"It's not enough to be better than Rust. You have to be so much better than Rust that the ecosystem migrates over so you benefit from network effects.
+
+There's a reason why so many people have tried and failed to replace C++ in the past, despite it being a terrible language from a modern perspective."
+35,neutronicus,1595943771.0,1.0,"> Agree unless something else comes along and builds from the rust learnings and becomes even better. I cant figure out how though.
+
+Things get worse as adoption increases and large projects with specific needs pull the ecosystem in incompatible directions. Large legacy code-bases kill the honeymoon.
+
+Source: am C++ developer."
+36,proverbialbunny,1595952059.0,4.0,"Rust is harder to learn than modern C++, but only because C++ lets you cut corners that will blow your feet off, sacrificing learning curve for bad programming practices.  This is why people who want to learn modern C++ I tell them to learn Rust.  It has the same concepts with a different syntax and Rust forces the dev to follow strict rules that a good C++ dev would be doing to begin with."
+37,proverbialbunny,1595952170.0,10.0,"Most modern programming languages do the same thing.  We're spoiled today.
+
+Back when I was a preteen with no access to books or internet I had to disassemble the compiler to learn how to program."
+38,Dr-Metallius,1595928055.0,6.0,С чего бы ему? Отличный язык.
+39,steven4012,1595952612.0,1.0,"Yeah, it happens a lot especially with dot files. But this is a programming language ranking (as clearly shown in the title of the graph), and those are definitely not programming languages."
+40,nnethercote,1595983640.0,1.0,"> 18
+
+C++ is equal 5th, C is 10th, and you don't see Rust exceeding 18th? Huh."
+41,oconnor663,1595939623.0,2.0,I must be out of the loop. Was there some bad news about V at some point?
+42,benjumanji,1595928409.0,17.0,"That and the tooling has always been really really bad. I've never used another language whose compiler would wet the bed more often. Because the language itself is so complicated IDEs don't keep up and no one has ever stepped up to fix that. SBT is a nightmare for beginners and experts alike in scala and requires a huge investment to be able to extend reliably. Macros... let's not even go there. It has a history of extension by student that disappears post graduation but no plan was ever put in place to support the new code. Broken windows everywhere. And now scala 3? Eesh.
+
+I'm absolutely betting on rust as my next career move. It's a real shame. Scala had so much going for it."
+43,pure_x01,1595921911.0,16.0,"> Obviously, this one my reasons I love rust, you have same learning curve in the language, but after that, libraries usage is easy to use, like using o python library.
+
+Thats what im hoping for :-)"
+44,zzzzYUPYUPphlumph,1595946342.0,3.0,"Yes, but with Rust ""proc macros"", and to a lesser extent even with normal rule-based macros, you can have DSL's in Rust. In fact, ""use a macro"" often it said when something is proposed to the language. It's almost inevitable that this will result eventually in a proliferation of DSL's within Rust code-bases over time. Depending on how you see things, this may be a good or bad thing. You would seem to come down on the bad side, but others may look more positively on it. I'm not yet sure where I stand on the matter."
+45,pure_x01,1595921881.0,22.0,"I was to vague.. im hoping that it will dominate server software in terms of Kubernetes, Apache http, various proxies etc...  not the actual business applications on top of it because that is probably not reasonable. Some larger corps might save a lot of money though by running rust because of the low resource requirements and performance."
+46,GolDDranks,1595928789.0,19.0,"I've spent last months building API servers with Go. I've got to say it has been a painful experience, and I think that developing the same servers with Rust would have helped with many pain points. But the project was started a few years back, and Rust wasn't a viable alternative back then. Even now, it's barely so – the ecosystem has still enough churn that I'd be wary to push strongly for Rust for this use case. (I'm invested enough, however, that I'd start a server project in Rust in a heartbeat, if it was a one-man project and I wouldn't have to think about the bus factor/employability/velocity/onboarding.) I think that the stars are aligned right that Rust could be a viable language for greenfield server projects in 2021, even with non-enthusiasts in team.
+
+Here's some of the pain points I've encountered with Go. I _think_ that most of these would be fixed by Rust:
+- Verbose error handling
+- Utterly broken dependency management (until recently)
+- Swathes of copy-paste-code, very non-DRY codebases
+  - As a semi-broken fix for the latter, hard-to-understand and semi-magical reflection code that tries to make up for polymorphism
+- A lot of non-clean APIs with weird special cases, such as ""in-band error signaling""
+- Zero values, that make forgetting to initialize something a silent bug
+  - nulls instead of options
+  - illegal ""zero dates"" instead of options
+  - ""zero integers"" instead of options, making it easy to conflate an actual number zero and some other ""meaning"" of zero
+    - this easily leads to contorted APIs mentioned earlier, unless the designer is very careful with the design
+  - non-initialized struct fields that default to zero value
+- Verbose loop-based logic instead of concise functional idioms such as map, reduce, filter etc.
+
+(Gotta be careful with zealotry though! I'm NOT claiming that Go is bad in general or something like that. I'm just telling that I've been encountering these paint points repeatedly in this use case.)"
+47,moltonel,1595928223.0,10.0,"Depending on the kind of server software, you might not need the extra speed but still want Rust for its code correctness aspects (foolproof APIs, unambiguous/exhaustive error handling, fearless refactoring, clean business modelling, etc), compared to Go, NodeJS, C, and to some extent C++."
+48,oconnor663,1595939510.0,7.0,"I think dominating the server space is probably too much to ask for any single language, for exactly the reasons you mentioned. That said, I'd want to add that there are a few different dimensions of performance that a service might care about:
+
+- Just being really fast, of course.
+- Being *consistently* fast. A lot of network services care about reducing their 99%ile latency, for example.
+- Being consistently fast under heavy load. A lot of GC languages will see new performance issues crop up only when memory usage is high, for example."
+49,,1595944492.0,7.0,"> the performance gains of rust(not that muh for IO bound apps) are worth peanuts
+
+I won't dispute that, but performance gains *really* are not the only thing that makes Rust attractive for servers.
+
+I mean, yeah, I want faster servers and all, but honestly the big things for me are the type/trait system, `Result` instead of exceptions, `Option` instead of nullable types, ""controlled mutability"", and ability to just compile a binary for my target platform.
+
+Go, NodeJS, Python, etc. etc. just can't offer that combination. The extra performance (in general better than Go even for IO-bound, if using right web framework) is just a(n attractive) bonus.
+
+In that case, it's not balancing the cost of extra training versus reduced CPU time, it's balancing cost of extra training and slower development velocity versus **significantly** more maintainable and less bug-prone applications."
+50,Kevanov88,1595928915.0,7.0,"I think for performance critical microservices that you really want to make sure you get it right, Rust is an excellent choice.
+
+People often forget that performances, scalability and maintenances have a cost. Just look at the Discord whitepaper for example. Even smaller developer compiling to wasm, might choose to go for Rust in the server space because they can reuse most of their code. Rust is also becoming a popular choice for AWS Lambda and serverless app in general because there is virtually no warmup needed compared to other language with a runtime."
+51,McWobbleston,1595956479.0,4.0,"As someone mostly doing work on .NET servers + HTTP services right now, I'm actually interested in Rust for the thread safety and type system.
+
+* diesel seems comparable to the performance+flexibility of .NET's Dapper, while being type safe at compile time
+* .NET's GC doesn't protect us when we're writing multithreaded servers. No warnings that the collection you're returning could be modified on another thread while you iterate, or the value you're looking at could be modified by some distant code because by default everything is mutable and passed by reference.
+* After using F# for some HTTP services and an internal web app, it's so hard to give up ADTs/Sum types. Even better Rust addressed the null issue, and doesn't have exceptions all over the place that you have to be aware of to handle"
+52,BrotherCorvus,1596045043.0,1.0,"> For most server applications the performance gains of rust(not that muh for IO bound apps) are worth peanuts
+
+Depends on the application. In some IO bound apps, consistent latency can be important enough to put any language with garbage collection at a serious disadvantage. And if the popularity trend continues, those additional costs you mentioned could go down some."
+53,tanishaj,1595947801.0,2.0,"I was also curious about that as I have not seen much evidence or reporting about that at the industry level.
+
+That said, I have a fair bit of experience within companies I deal with that supports this. For teams that had exposure to both .NET and Java I have seen this shift. A few years ago, teams that had both .NET and Java projects seemed to have a Java preference and looked for opportunities to retire the .NET stuff. Since .NET Core, some of those same teams seem to have switched directions with the Java stuff now on the chopping block.
+
+I am curious to see how .NET 5 impacts all this.
+
+I have also seen a bit of the same shift between AWS and Azure. Perhaps these are two sides of the same coin.
+
+No “evidence” in the above. It is just my impression."
+54,Dreeg_Ocedam,1595956701.0,1.0,Exactly my thoughts
+55,proverbialbunny,1595951648.0,2.0,"C++ might be a bad example for this.  Modern C++ and C++03 are practically different languages, with only some overlap, most of it the legacy C bits and having classes and templates.  Even templates are different today.  Because of this, legacy C++ code bases are quite a bit worse, as you've experienced.  It was that bad back then.  This is why Java gained so much popularity right from the get go, because C++ was horrid in the 90s.
+
+Source: I've worked in a 20+ year old C++ ecosystem that has been fully ported to modern C++.  It's not bad."
+56,lazyear,1595953109.0,3.0,"Idk. I guess the borrow checker can be tricky at first, but as you mentioned, ownership still exists in C++, you just now have to keep track of it. The main thing that is hard about C++ for me (after using Rust for 3+ years) is the horrendous error messages. As a C++ noobie I always get discouraged by the 11 pages of cryptic template error messages and decide to go back to the friendly rust compiler"
+57,nicoburns,1595974773.0,3.0,C++ is all fun and games until you try and use a library. Then it's difficult to even get it to build.
+58,PrancingPeach,1595987536.0,2.0,"Pretty opinionated take. I do see where you're coming from, but there are a lot of angles to this.
+
+Rust is essentially isomorphic to a strict subset of hyper-modern C++20. But if you actually use C++ in the real world, the odds are pretty high you don't get to live in such a bubble. You'll probably be interacting with a lot of C++ code that doesn't come close to that ideal, including some really old stuff that doesn't even use smart pointers or stuff like std::string. Thus, being truly competent and professional with C++ means knowing all the old cruft too in practice. So it's like learning Rust along with several increasingly crappy legacy versions of Rust, all the way back to C, all in the same language. Maybe you're lucky to work on a pure C++17 codebase with absolutely none of this old stuff in it, but the odds aren't in your favor at all.
+
+Many of the concepts in Rust are harder in C++ because Rust enforces correctness whereas C++ doesn't. For instance, even if you use move semantics in C++, you can still totally use the old value, even though that's almost always a bug.
+
+Another big issue with C++ for newcomers is just getting stuff to build. If you don't depend on *anything* outside of the standard library, it's not that bad. But as soon as you have a complex project with dependencies, you're quickly in CMake hell. And as soon as you think it builds, it turns out it doesn't build for anyone else, only you. It's far more complex than anything in Rust, and there's still no standardized package manager (Conan and vcpkg are doing better than before, but still largely unadopted and in competition with one another)."
+59,lead999x,1595960924.0,1.0,That's sounds downright rough. Did those compilers not come with any documentation?
+60,DannoHung,1595970198.0,1.0,They don't have a particular answer for why they exclude or include things. CSS is in the list even though it was never intended to be turing complete.
+61,kibwen,1595984793.0,2.0,"C and C++ benefit from institutional inertia. When considering what languages those users/codebases might pivot to (or what languages their replacements might be written in), we shouldn't presume that Rust, or indeed any systems language, is the first choice. In the early 90s, plenty of C use cases were subsumed not by C++, but by Perl. A few years later, nearly all of Java's marketshare was carved out from C++. C++'s traditional fortresses, GUIs and video games, have been increasingly taken over by Javascript and C#. These days, plenty of C or C++ codebases might be best replaced by Python, Java, Go, or others. Of course, plenty of other codebases (with actual hard performance requirements) wouldn't be, and for that subset I obviously think Rust is the top contender.
+
+But this also presumes that people would switch languages in the first place. I don't think C or C++ are going anywhere; though their shares might shrink, they're going to have to share the pie with Rust, and vice-versa.
+
+Obviously I'd love for Rust to become as popular as it can be, but I think it's unlikely a language with Rust's semantic strictness and nonexistent marketing budget is going to make it to top 5 in the world. :)"
+62,shadow31,1595942640.0,6.0,"I'm not going to link to it because it's so far off topic for this sub, but a quick google for reviews of the language will probably give you all the info you need to make your own opinion."
+63,lazyear,1595940819.0,10.0,V is a complete joke and sham. It's Vaporware
+64,vn-ki,1595957342.0,1.0,"I have commented my thoughts a bit down the tree. I don't hate the language. (I'm partially excited to see where it would end up)
+
+But the comparison is flawed. Rust and Vlang are not at all comparable. Comparing vlang with other hobby projects like nim, odin, zig is probably better. 
+
+You should check those languages out if you haven't. They offer really interesting stuff and is more mature than Vlang at the time of writing.
+
+Also to answer your question, yes. Vlang was involved in a big controversy and lots of name calling happened."
+65,LPTK,1595931357.0,7.0,"> Because the language itself is so complicated IDEs don't keep up and no one has ever stepped up to fix that
+
+The vscode language server (metals) is really, really good as language servers go. And IntelliJ has been good enough for many years.
+
+Scala 3 is fixing macros by introducing a principled design instead of the old experimental support. Along with many long needed improvements, which make the future of Sala look really bright IMHO."
+66,TheOsuConspiracy,1595956920.0,2.0,"Scala the language was pretty great, the tooling around it wasn't. SBT is probably one of the most egregious offenders."
+67,,1595960411.0,2.0,"Me too. See you guys in two years or so.... :)
+
+It's not too bad though. I did some json parsing into structs today and didn't have to deal with the borrow checker or lifetimes, which was nice."
+68,ergzay,1595952989.0,2.0,"I think the proliferation of DSLs will be curtailed by the need for you to actually understand what code is actually being generated in order to optimize it it properly. Unlike Scala, Rust is intended for high performance applications."
+69,Dreeg_Ocedam,1595922393.0,11.0,"Yep stuff like Nginx, apache are probably places where rust could shine."
+70,,1595944837.0,9.0,">  not the actual business applications on top of it because that is probably not reasonable
+
+Why not? Business applications could easily benefit from Rust's compiler guarantees more than performance gains."
+71,732,1595930175.0,7.0,"Go generics are in the works which would help DRY a lot. 
+
+I think the thing with Go that makes it useful is that it can quickly spin up a complex and concurrent system, at the cost of codebase elegance."
+72,,1595944959.0,5.0,"> I think that developing the same servers with Rust would have helped with many pain points.
+
+Really glad to see this - I feel the same, but I don't write Go by day and I only write Rust at night, so it's nice to see I'm not crazy. ""Rust for servers"" is more than just performance."
+73,Dreeg_Ocedam,1595933920.0,3.0,"I started leaning go 2 weeks ago and I've got to say it's amazing at what it's made for. In 2 week I'm as productive in go as I am with other languages I've known for years.
+
+My biggest problem with go is the overuse of the error Interface instead of using a concrete error type. It would be like if every Rust library used dyn Error as its error type."
+74,gptankit,1595938247.0,1.0,"Agree to your points on the verbosity in certain areas of Go - error handling, non functional programming aspects etc. But it also reduces a lot of programmer's effort when it comes to writing fast, concurrent and error free servers owing to language design and plethora of innovative tools. I think major complaints have been around dependency management (which is now fixed by go modules) and generics (which are work in progress). For a cleaner error handling, may I suggest this talk - [https://www.youtube.com/watch?v=1B71SL6Y0kA](https://www.youtube.com/watch?v=1B71SL6Y0kA)"
+75,,1595942539.0,-7.0,[removed]
+76,anlumo,1595947677.0,2.0,I decided on using Rust for our server codebase so we use the same language everywhere. It also helps that we can just hire Rust developers and not care that they might have to learn another language on the job if they unexpectedly have to write some part of the server side.
+77,Leshow,1595953935.0,5.0,"You didn't even mention all of the concurrency features. Having mutex's done the way they are with RAII & the type system helping you, the quality of channel implementations in crossbeam or async versions in tokio/asyncstd, along with Send & Sync types and other Rust features that eliminate data races is a real selling point, IMO.
+
+The type system is a big win when the code starts to get complex enough that those extra compiler checks really start paying off."
+78,TheNamelessKing,1595973936.0,2.0,"God what I’d give for my .Net using teammates to be cool with even some of our microservices to be written in Rust.
+
+I find .Net incredibly convoluted and confusing.
+
+Other big advantage of Rust is the hardware efficiency: you need less machines/cheaper machines to serve the same load when the code is more hardware efficient."
+79,LPTK,1595948273.0,0.0,Thanks for your input!
+80,proverbialbunny,1595953966.0,-2.0,"I see.  So about that:
+
+1) Don't do meta-template programming.  This is an old C++98 feature that has been superseded by constexpr.  When you replace template programming for constexpr your compile times will go down, the difficulty of writing and reading C++ will significantly reduce, and you'll not get all the scary error codes.
+
+2) If you are not already, consider using clang as your compiler.  If you're planning on releasing software publicly it needs to support both clang and gcc, so you can focus on gcc then.  Clang gives easy to read error messages unlike gcc and is more popular for development for this reason."
+81,proverbialbunny,1595976079.0,2.0,"lol yah
+
+cmake.. ....  >_>
+
+I interviewed for a video game company once that was open source.  They asked me if I could build their code.  I told them there was some bugs with their make file and that I fixed them.  They stopped interviewing me and offered me the job right then and there.  lol  XD"
+82,proverbialbunny,1595993252.0,1.0,The comment is about beginners learning the language for the first time.  Where do you start learning?
+83,proverbialbunny,1595962035.0,2.0,"Not that I had.  Disassembly was quite a bit easier to read once upon a time ago.  x86_64 is a pain in the ass.
+
+It taught me assembly more than the language I was studying, I admit.  Knowing how to assign variables, gotos, jumps, arithmetic.  There wasn't a lot to learn, but it was enough for me to start creating video games in basic and on a ti-83.  I had written playable video games before I ever knew what a function was.  I forget if I knew what loops were at that point in time."
+84,sogrady,1596072572.0,1.0,"We try hard not to editorialize the selections, instead deferring them to GitHub's linguist classifier wherever possible. While there are exceptions, if linguist says it's a language we generally treat it that way.   
+
+
+That said, we have made adjustments, so if people find a listing particularly egregious, let us know and we'll look at it."
+85,ekuber,1595998608.0,2.0,"I think that the semantic strictness can be mitigated through other methods than changing the language itself. If we succeed at that I can see Rust making inroads in domains that C isn't considered for, like web development, and remain valid for domains that other languages cannot enter into, like embedded, simply because it is easier to get easier to use than to become more strict and performant.
+
+Regarding marketing budget, I could see third parties becoming invested in growing the ecosystem themselves."
+86,proverbialbunny,1595952917.0,1.0,"I've never heard of V so I [googled it](https://hackaday.com/2019/07/23/the-v-programming-language-vain-or-virtuous/).  I'm not seeing anything bad yet, just a young hobby project possibly inspired by Rust.
+
+Is there some sort of controversy?"
+87,A1oso,1595952395.0,1.0,"I wouldn't say it's Vaporware, and it's come a long way since it was first publicly announced, but some of the most important features (e.g. memory safety) are still missing or incomplete."
+88,benjumanji,1595932829.0,5.0,"Intellij has never managed for me to not barf on any large or interesting codebase. It's not unusual at $dayjob to see pull requests roll in to make changes to compiling code just to make intellij happy. Perhaps that throws it into the bucket of good enough for you. I've found that it frequently fails to resolve interesting queries for implicits and the like. I've found  it to be inferior to running sbt in interactive with a decent editor in every regard, because I don't have to baby my editor and any errors in compilation are real, and my grep-fu has a better hit rate.
+
+On the metals front: the last time I checked it was a mega pain in the ass to use, with no stable releases. I concede it might have gotten better.
+
+On the scala 3 front I have absolutely no faith this will go well at all. And that isn't a comment on the the _basis_ of the language at all. The whole thing hangs together much more coherently. Only time will tell. The stewards will be the same, and it is boring day to day engineering stewardship that leads to polished tools, not principled language design."
+89,pure_x01,1595945045.0,7.0,Definitely but most developers actually don't want to learn new languages and especially not harder ones. Typical 9-5 devs in a java shop are pretty reluctant to learn something new. I have been to a lot of places and tried.
+90,chridou,1595947868.0,3.0,This is one of the main reasons to use Rust for business applications. But even this doesn't convince a business since it still seams to be more economical to risk outages/malfunctions than loosing the available human resources of java land. Performance is just a nice add on. Cost/resources reduction is not that much of an issue for now so that companies would take the chance to invest into Rust. Maybe once there is a CO2 tax to be paid for each click on a shop page.
+91,GolDDranks,1595930486.0,7.0,"Yes, that seems to be correct. And in short term, selling elegance for simplicity seems cheap. But in my experience, it affects maintainability, extendability and refactoring in negative ways. So, in long term, the costs compound a bit.
+
+I realise that there's also another ""mode"" of compounding costs: premature abstractions, optimisations and too ""clever"" code. Go very much tries and manages to avoid that, but in my opinion, the  pendulum sways a bit too much in the opposite direction."
+92,,1595945044.0,1.0,Still wondering when generics will happen... https://blog.golang.org/generics-next-step
+93,_the_sound,1595950988.0,4.0,"I use Go for rapid prototyping with some simple tests to ensure everything works. Then once the system is in place I'll opt to upgrading with a rust implementation later on which will be typically more robust.
+
+It's great for being productive but it's a pain to keep consice. The only disadvantage rust has is that external services are not as mature, especially things like firebase messaging etc"
+94,GolDDranks,1595943426.0,12.0,"Did you read my disclaimer in the footer of the post? I didn't say that I hate Go, I said that I have experienced these pain points, and I'm hopeful that Rust manages to fix them. Also stop it with the aggressive attitude, please.
+
+Here's replies to the specific points:
+- I agree that productivity is great. In my experience, especially when churning out new code. Refactoring and maintaining not so much - there's a lot of duplication, and it's easy to miss cases when changing a bit of code here and there. The compiler isn't quite as helpful there as Rust's.
+- The ""until recently"" bit in my post referred to Go before modules. I've been happy with modules, although there were some hitches with the migration.
+- Could you elaborate what you mean by ""shortcut"" with error handling?
+- I didn't say that the codebase is crap. I meant that there's some features that push towards hard-to-maintain (verbose, a lot of duplication) code, and some features that make it easy to write bugs. Specifically, just today we encountered a bug because you can initialize a struct without assigning a value to all fields of the struct.
+- Could you enlighten me about the reasoning? To me, it seems like a forced design that weakens the type system."
+95,,1595945075.0,7.0,"In no way did they sound like ""a Go hater"", they simply mentioned pain points."
+96,,1595957000.0,1.0,"> You didn't even mention all of the concurrency features. 
+
+Nope.. I didn't think to because I don't ever deal with it directly in my little hobby projects and I really don't know anything about it :/
+
+> The type system is a big win when the code starts to get complex enough that those extra compiler checks really start paying off.
+
+Yep. And ""complex enough"" could easily be just a couple of modules and a main function; I was only a few commits into my biggest Rust project (a small, hobby blog server) when I already felt the compiler was paying off."
+97,ssnover95x,1595954639.0,5.0,"TMP has not been superseded by constexpr. The ability to mark code as constexpr has greatly improved C++ and things which would have been implemented with a template before can now use it, and the resulting code is much easier to understand. But there are use cases where you cannot achieve the same thing (yet). Especially if you aren't on C++20 yet since there have been many incremental changes to constexpr since its introduction in C++11."
+98,lazyear,1595954134.0,1.0,"I'm not even doing template metaprogramming. You can hit those errors just using normal generics.
+
+I will try out clang though. Even without decent error messages, C++ is still at least an order of magnitude more complicated than Rust. There are a crazy amount of edge cases and things you need to know to write solid C++. Compared to Rust, where most things generally work as you would expect."
+99,PrancingPeach,1595995004.0,1.0,For Rust? I’d just point a beginner to the official website and “The Book.” All free online and as good as anything I’ve seen for any other language.
+100,lead999x,1595962847.0,1.0,"Ngl That's really impressive, knowing assembly before any high level language. 
+
+And here I am a student who knows plenty of programming language but very little about what to do with them. I guess you're right, we really are spoiled these days."
+101,shadow31,1595956133.0,2.0,"Googling ""vlang review"" has a number of articles on the first page that talk about the ""negatives"" for the language. Again, I don't want to reiterate all of the criticism I've seen here but I will say that the list of features on the front page of the language's site is very much of a list of *aspirations*, not a list of *current features* as is strongly implied. If you're ok with playing with a 0.2 release that has few of those features, then by all means have fun! If you want those features today though, then vlang is not what you're looking for."
+102,LPTK,1595947418.0,2.0,"> the last time I checked it was a mega pain in the ass to use, with no stable releases
+
+When did you try it? It's been stable and usable for almost two years — I have to say that in that time it has improved tremendously, making it a first-class IDE really. It's fast and precise, has refactoring features, and even understands macros to a fault. You install it in one click from the extensions store."
+103,chridou,1595947397.0,6.0,It is not only the 9-5 devs but also the enterprise companies that do not want to risk the option to draw from an infinite pool of 9-5 devs.
+104,,1595945781.0,2.0,"Yep, no argument there, and it's not just Java. People get comfortable with what they know and either accept the trade-offs or ignore them, pretend they don't exist, or never realize that they do. (Nothing wrong with any of that, either.)
+
+Our company has maybe ~40 back-end devs and probably 70% are Node, 25% are Ruby, and 5% are Python. Most have no desire to see anything different and I'm only one of 3 people even interested in Rust, and that's fine, too.
+
+Rust isn't perfect but it offers what I want when nothing else seems to; what I want just differs from what other devs want."
+105,Leshow,1595953653.0,2.0,"This isn't the experience I'm currently having, I was brought in to a company in part to write rust and help onboard java developers to the language, if anything there is too much interest. Lots of people want to learn it."
+106,732,1595930977.0,6.0,"Absolutely agree with that.  They went full steam on KISS, which has its own merits.
+
+You can learn the language and its quirks in a day."
+107,732,1595945436.0,3.0,"IMO, Go 2.0+ will be the earliest."
+108,TheNamelessKing,1595973584.0,2.0,"I low-key suspect that Rust will start eating Go for a chunk of stuff Go os currently used for-especially the more complex applications, as tooling and packages mature."
+109,sigmonsays,1595945477.0,1.0,"i've been using go since 1.0 and am always looking for something better. However, the net benefit hasn't been there to get me to start writing servers in rust. 
+
+I personally like using zero value struct behavior. The design mentality is to make use of them. Introducing bugs because of a missed struct member being initialized just sounds like bad testing.
+
+I'm excited to see what rust brings to the future but it doesn't seem to be on the same plane as go when it comes to developing backend servers. It feels much more low level (In a good way!). I understand the concepts of lifetimes, ownership and borrowing but don't want to deal with them for every piece of code I write. 
+
+The language is far more complicated and all the choices get in the way of getting things done. Even picking a concurrency pattern is something I dont want to deal with. Hopefully some nice patterns emerge that lets these things plug together nicely.
+
+There is definitely a lot of potential given the technology."
+110,proverbialbunny,1595955358.0,1.0,"What can meta-template programming do that constexpr can't?
+
+From the standards committee:
+
+>In 2017 SG7, formerly known as the compile-time reflection study group, decided to effectively move C++ awayfrom template metaprogramming and towardconstexprmetaprogramming. It was a bold move, but it was sorelyneeded. Use of the template metaprogramming model, which dominated C++ until recent years, was relegatedto the use of a few C++ experts that endured learning a “by accident” functional language with libraries like[Boost.MPL]. The hope was that expanding the scope and usage ofconstexprwould allow developers to writemetaprogramming code the same way they write runtime code. [P0425R0] summarized the consensus at thetime when it stated, “If this can be made to work, this would be the best and most consistent approach to dometaprogramming in C++.”
+
+So the goal of constexpr is to replace meta-template programming.  However, maybe that goal has not been achieved?  I thought it was made a reality with C++17.
+
+(However, there has been a light push to remove constexpr and have the compiler auto figure out what can be done at compile time.  There has been a successful prototype of this, but no official voting moving this proposal forward, that I'm aware of.)"
+111,proverbialbunny,1595954269.0,-2.0,"C++ doesn't have generics.  They call generics templates.  So yes, you're using templates.  The comment above I wrote about meta-template programming applies.
+
+>C++ is still at least an order of magnitude more complicated than Rust. There are a crazy amount of edge cases and things you need to know to write solid C++. Compared to Rust, where most things generally work as you would expect.
+
+Yes.  That is the benefit of having a steeper learning curve.  Once you learn it enough to use it, it works the way you would expect.  In C++ land you can jump into using a thing without fully understanding it, making it more difficult as a language, but at the expense of a shorter learning curve."
+112,proverbialbunny,1595963569.0,2.0,"It is a double edged sword.  The more you google for answers, the more you tend to rely on it.  This is like keeping your programming skills in ram, instead of in cache.  (Or on the hdd, instead of in ram.)
+
+The less you have to google for things, the more writing code just flows.  The less wtfs an hour and the more comfortable and enjoyable the experience is.  Older programming languages where you only needed to learn a few concepts to know the whole language like LISP, C, Perl, older kinds of assembly, and so on are quite a bit more enjoyable than modern languages like Python because of it.  When I see devs today the number one emotion I see is frustration.  Before it was an art brush of pure creativity."
+113,proverbialbunny,1595956664.0,1.0,"> Googling ""vlang review""
+
+I don't find anything.  I see a bunch of old comments of people complaining about features not yet added, which today have been added.  The language is brand new.  I'm surprised so many people jumped down the devs throat when the language was a few months old.  From a 10,000 ft view it looks like entitlement."
+114,benjumanji,1595955388.0,1.0,"It definitely was in the last two years. I just hopped on their site and it still requires specific editor support in order to use it or faffing with various sbt commands. Compare that with rust which doesn't care what editor I use and just works out of the box.
+
+I'll try upgrading it to the latest version and see if it works better with $dayjob codebase these days."
+115,pure_x01,1595955101.0,3.0,People are probably more interested to learn if its paid for by the employer. That is not the norm though.
+116,Uncaffeinated,1596295139.0,1.0,"It takes more than a day to learn *all* the quirks of Go. There's a lot of things that make sense in theory but are completely unintuitive to a newcomer and a common source of bugs, like the nil interface thing."
+117,,1595945929.0,1.0,Any idea what the tracking is on that? I have a hard time finding info on 2.0 that isn't from 2018-2019
+118,GolDDranks,1595945963.0,1.0,"> Hopefully some nice patterns emerge that lets these things plug together nicely.
+
+I'm pretty hopeful that request-scoped things tend to play nice with lifetimes, generally!"
+119,Krnpnk,1595974706.0,1.0,I doubt variant and optional (that were added in C++17 as well) would be specified as templates if this were true.
+120,lazyear,1595954541.0,5.0,"Yes I understand the difference between templates and generics in C++ land, and SFINAE, etc. I wouldn't consider using `std::optional<T>` ""template metaprogramming"". A suggestion to not use templates *at all* is prima facie absurd"
+121,lead999x,1595968607.0,1.0,"I get what you mean. Would you say that the software development profession would be better served by going back to basics? Like having new high level languages that are simpler and making ISAs themselves less sophisticated as well? 
+
+I've read that ARM64 chips could be poised to go head to head with x86-64 chips in the near future. It makes me wonder if there would be any upside in terms of cognitive load if a RISC architecture like that became standard for desktop computers and servers."
+122,vn-ki,1595957124.0,1.0,"I personally think it's a nifty little language. I like the hot reloading that it promises and the duper fast compile times.
+
+But the language is nowhere near ready. It compiled to C. Machine code generation is not done yet. The compiler, yes, the **compiler**, leaks memory.
+
+Asking how a small hobby project which is no where near ready, compares with a project which has most of the big tech companies jumping on their bandwagon, is like asking how does this does this toy car model I made of a racing car compares with the race car itself. It's just not comparable."
+123,shadow31,1595959365.0,1.0,"I think a lot of people were ~~naturally cynical~~ caught off guard when the author promised the moon before the 0.1 source release and then 0.1 had most of the features completely unimplemented. Even today, if you actually look at their issue tracker, most of the features are still either unimplemented or don't work as advertised."
+124,LPTK,1595960014.0,1.0,"> it still requires specific editor support in order to use it or faffing with various sbt commands
+
+I don't know what you mean by that. It works out of the box from a build file containing _only_ the language version (no various SBT commands, no JSON config etc.) and has a _single-click installation_ (no faffing around for) with VSCode, Atom, Vim, and Sublime Text 3. Only Emacs and Eclipse require more than one step (and I doubt it's different for other language servers).
+
+Finally, the features only available in some of the editors are for advanced uses that fall outside the LSP, like debugging and worksheets."
+125,732,1595946845.0,3.0,"No idea. Their blog states generics (1.17)  in Q2/Q3 2021.. but I feel like we all know what happens for target dates for projects that big, that far out. All speculation though, and I haven't heard much about Go 2.0 beyond old blog posts either."
+126,proverbialbunny,1595976436.0,1.0,"Template != meta-template.
+
+Meta-template programming is used to initialize the program at compile time."
+127,proverbialbunny,1595954986.0,-1.0,"Clang will not give you template garbled error messages from std::optional above the kinds of error messages Rust gives, so I'm not sure what you're going on about.  Eg, here is a rust error message that might feel familiar:
+
+    14 | const VARIABLE: Dec64 = ""5"";
+       |                         ^^^ expected struct `fixed::FixedI64`, found `&str`
+       |
+       = note: expected struct `fixed::FixedI64<typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UTerm, typenum::bit::B1>, typenum::bit::B0>, typenum::bit::B0>, typenum::bit::B0>, typenum::bit::B0>, typenum::bit::B0>>`
+           found reference `&'static str`"
+128,proverbialbunny,1595975794.0,2.0,">Would you say that the software development profession would be better served by going back to basics?
+
+No.  The advantage of using a more complex programming language is you can be more explicit with what you mean.  This allows for easier reading, so it can be easier for coworkers to read what you've written.  It can be easier for future you to go back years later and read what you've written.  This is Python won out over Perl.  Perl is basically C with super simple and easy string processing and regex processing.  If you know C you can learn Perl in a day.  It's a very simple language.  But the constant criticism is Perl is awful to read.  Alternatively there is Python where you can write code that is readable but it might take a week to a month to learn due to all of the added bits, and then you're constantly googling around for library documentation all the time.  Perl had packages and a package management system as well, but despite this you usually wouldn't have to look up syntax for that library more than once, if even that.
+
+Everything has a trade off.  I'm not saying one is better than the other, just that programming wasn't as reliant on Google once upon a time ago.
+
+>It makes me wonder if there would be any upside in terms of cognitive load if a RISC architecture like that became standard for desktop computers and servers.
+
+For writing assembly, sure, but if you're using a high level language, unfortunately your cogitative load might be ever so slightly higher.  ARM isn't as friendly with atomics and fencing and other basic threading elements as x86_64.  So, it's one more thing to keep in mind.  There is more potential for race conditions and unsafe code.  However, I imagine Rust will take care of all of this for you, which is rather nice."
+129,proverbialbunny,1595957417.0,1.0,">Asking how a small hobby project which is no where near ready, compares with a project which has most of the big tech companies jumping on their bandwagon, is like asking how does this does this toy car model I made of a racing car compares with the race car itself. It's just not comparable.
+
+I agree.  I think this is the correct answer the original questioner should have received."
+130,benjumanji,1595961734.0,1.0,"> I don't know what you mean by that.
+
+Well...
+
+> Only Emacs and Eclipse require more than one step
+
+If you have made an LSP implementation and you need a compatibility table, you are doing it wrong. I don't need to run any commands to use rust's lsp implementation with my editor aside from teaching my LSP client what binary I want to use. That's the same for everyone else for that matter (that I have tried). Only scala needs a ""manual install step"" and build system fettling. Yes it's only one more step, but it is a step and it's another thing to get wrong and it just typifies the sbt build system experience. Why does bloop exist? Why is another thing to worry about? I honestly don't care enough to investigate. I'm really happy that you are having a great time with metals (seriously!), and I'm not really interested in talking about it much more."
+131,Krnpnk,1596000180.0,1.0,"Wait what?
+I guess you refer to templates that only take non-type template parameters, but this is just a subset of TMP. I have no doubt that the committee wants to replace templates wherever possible, but it surely isn't finished yet."
+132,vn-ki,1595957597.0,-1.0,I think most people here have not seen the latest developments on Vlang. They only know the name calling and drama that occurred months ago.
+133,LPTK,1595968089.0,1.0,"It doesn't seem like you're making your arguments in good faith, so I'll gladly stop the discussion here. But to answer just some of your points:
+
+> Only scala needs a ""manual install step"" 
+
+Are you talking about Emacs? (Its support admittedly looks a bit lacking, but let's not pretend that this sort of tools is always perfect in everything it supports.) All other widely-used editors are installed and usable in a **_single-click_**.
+
+> and build system fettling
+
+There's no such thing. I realize you may be confused by the ""manual installation"" sections of the documentation, so let me get this straight: **you don't need to modify your build to use metals**.
+
+> Why does bloop exist?
+
+It's a build server protocol implementation, designed precisely to make more advanced usages work smoothly across editors and build tools: https://github.com/build-server-protocol/build-server-protocol
+
+> I honestly don't care enough to investigate
+
+That's fine, but then why do you even bring it up? It seems you want to imply that it's unnecessary — the fact you'd think it is, based on nothing else but your own ignorance, reflects poorly on your argumentation.
+
+> it just typifies the sbt build system experience
+
+That doesn't make sense. Any Scala project already has a build file, and metals works with most build tools used in Scala (even Maven), not just SBT.
+
+> I'm not really interested in talking about it much more
+
+Me neither, really. But it's quite disheartening to see people like you bad-mouthing things they don't actually know."
+134,proverbialbunny,1596006059.0,1.0,"Not replace templates, just supersede meta-template programming."
+135,proverbialbunny,1595957685.0,1.0,"I was inspired by your comment so I wrote this: https://old.reddit.com/r/rust/comments/hz7dfp/rust_is_now_a_top_20_language_in_all_of_the_5/fzj6mmd/
+
+Hopefully it will help reduce the toxicity."
+136,benjumanji,1595978718.0,1.0,"Ok. Sorry, I'm not having this ""arguing in bad faith"" go unanswered. I'm not talking about Emacs or vim or any editor listed on that page. By build system fettling I mean touching sbt at all, so running extra special sbt commands to generate special bloop files falls into that category. I am telling you that using metals is more complicated for me than anything else I have tried and I have explained to you why. That's not bad faith. Nothing about that is bad faith. Is any of this not true:
+
+1. Metals requires specific editor support to work seamlessly
+2. RLS and rust analyser do not.
+3. Using the rust analyser and rls do not require you to run cargo commands for unsupported editors
+4. Using rls for LSP support doesnt require some separate other build service in order to use LSP features.
+
+???"
+137,LPTK,1596021287.0,1.0,"> running extra special sbt commands to generate special bloop files
+
+Where do you get this from? Here is what my experience has been using Metals: I have an existing Scala project; I open the folder in VSCode, one-click-install Metals, click ""import"" when it automatically asks me if it should import the build, _and that's it_. Unless I'm missing something, there is no ""build system fettling"" — I certainly haven't had to do any for the projects I tried in Metals (which includes big multi-subproject multi-laguage-version code bases like my [Squid](https://github.com/epfldata/squid) framework or projects cross-compiling to JS like my [simple-sub](https://github.com/LPTK/simple-sub) demo — again, no config needed at all!).
+
+> Metals requires specific editor support to work seamlessly
+
+What does it matter how it works behind the scenes? The point is that thanks to Metals, _Scala has a multitude of world-class IDEs available by a simple click_. Your focus on specific technicalities is a complete red herring. This discussion started about Scala having good IDEs, not about whether these IDEs work purely via the LSP or not. The LSP is limiting, which is why Metals chose to _do more_, ensuring a great experience across editors. It's not a bug, it's a feature."
+138,benjumanji,1596033706.0,1.0,"> Where do you get this from?
+
+The scala metals manual install process that I ended needing to follow to generate my bloop files. https://scalametals.org/metals/docs/build-tools/sbt.html#manual-installation.
+
+> What does it matter how it works behind the scenes?
+
+Because by so doing it completely missed the point of LSP which is to have editor agnostic tooling. Only scala insists on this. No one else does. Just like no one else has [a 4 dimensional hypercube for organising their build logic](http://eed3si9n.com/4th-dimension-with-sbt-013)."
+139,LPTK,1596046656.0,1.0,"Why did you have to do the manual install? I don't think it's the normal workflow, and you could open an issue about the problem you encountered.
+
+> by so doing it completely missed the point of LSP which is to have editor agnostic tooling
+
+That's just your opinion, and frankly I'll take the opinion of the fantastic Scala Center engineers who made Metals over yours — especially after seeing you dismiss some things outright without taking the time to look into why they even exist."
+140,benjumanji,1596052866.0,1.0,"> That's just your opinion, and frankly I'll take the opinion of the fantastic Scala Center engineers who made Metals over yours — especially after seeing you dismiss some things outright without taking the time to look into why they even exist.
+
+Sure buddy, just my opinion. I dunno, lets just go have a look around. How about wikipedia?
+
+> The Language Server Protocol (LSP) is an open, JSON-RPC-based protocol for use between source code editors or integrated development environments (IDEs) and servers that provide programming language-specific features. The goal of the protocol is to allow programming language support to be implemented and distributed independently of any given editor or IDE.
+
+https://en.wikipedia.org/wiki/Language_Server_Protocol
+
+Or I dunno, lets go see what the LSP project has to say about itself?
+
+>The idea behind the Language Server Protocol (LSP) is to standardize the protocol for how such servers and development tools communicate.
+
+https://microsoft.github.io/language-server-protocol/
+
+Editor agnostic, distributed independent of the editor, standardize how tools communicate, do you see a theme? Do you see a compatibility matrix anywhere in that? I'm not pulling this out of my ass. LSP would be significantly less useful and interesting if everyone created LSP implementations like unto metals, because its mission of standardisation would be wasted. You can be upset all you want that metals has flaws in it's execution, and that I have the temerity to point them out. It doesn't make my criticisms invalid.
+
+This whole conversation started because we are in the rust subreddit, talking about how rust is gaining popularity. The scala community could learn a lot from their relentless pursuit of developer ergonomics instead of getting upset at the first whiff of criticism."
+141,LPTK,1596138512.0,1.0,"I appreciate the effort you put into that response, but I also feel bad for you because it's completely wasted on me. You're obsessing over an implementation choice that's irrelevant to the question at hand."
+142,benjumanji,1596142324.0,1.0,"I don't need your pity thanks. You can just admit you were wrong, it's cool. It happens to all of us."

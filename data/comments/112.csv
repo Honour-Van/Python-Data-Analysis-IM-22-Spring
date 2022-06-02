@@ -1,0 +1,38 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,FourKindsOfRice,1633705696.0,8.0,"Lol you asked this in 3 subreddits.
+
+To be honest most DevOps engineers come from backend roles or systems ones. I came from systems/network engineering which had a lot of overlap. Most of my coworkers came from backend/systems too, with different concentrations.
+
+I think it's paid more because it required a wider depth of knowledge across traditionally different disciplines - systems, automation, development, security, networking, and more. That is to say, while Jr. DevOps positions exist, it's really a pretty ""mature"" role and most folks put in their time on the dev or the ops side for a number of years before making the switch.
+
+If you like web dev start out with that. Transitioning is always possible, altho again it's more common for backend engineers to come over, being more likely to be familiar with infra/security/etc."
+1,butchqueennerd,1633706088.0,4.0,"In my experience, which is admittedly limited (roughly 3 in web dev, 2 in SRE), most hiring managers for SRE/devops roles tend to want experience either in development or operations. So, generally speaking, you’d likely have to have some real-world  some web dev or sysadmin experience anyway just to get your foot in the door. At least, that’s what I ran into when I wanted to leave the web dev world and pursue SRE roles. (ETA: My web dev experience was helpful, but since I lacked infrastructure/ops experience when I first started applying, it was a challenge to get that first position, which ended up being a six month contract. I then had to take an apprenticeship position, which I’ve been in for a year and a half.) More experienced folks, please correct me if I’m wrong.
+
+Now, to answer the question you were actually asking: money vs passion/interest. You’re likely going to be working for several decades. That’s a long time to do something that you’d really rather not be doing, at least compared to something else that interests you more.
+
+What I have found is that a focus on solving interesting problems and providing value tends to take care of the money side of things over the long run, even if it means taking lower paying positions in the short run.  If you’re good at what you do and you can demonstrate that, even if what you’re good at is in an area that tends to pay less, people will pay you what you’re worth."
+2,serverhorror,1633724215.0,4.0,"I had a few friends that went into DevOps for the money. Every single one of these people left with burn out or worse mental health problems. 
+
+I’m not saying that happens to everyone or that “DevOps have to be hardcore”. I just find that it is one of the careers that you need to love or it will break you like a toothpick. 
+
+For the record: I don’t think that this is good. It shouldn’t be that way. But, as of now, it is."
+3,Io_Source,1633737188.0,2.0,"Even for people that love it, it's a hard role as you never get a chance to be an expert in a technology. 
+
+Your aiming for a perfect system that you never really completely reach (perfection is the enemy of good), constantly learning new tech/new languages. Your essentially trying to make yourself redundant with automation and processes. 
+
+Your doing the work noone else wants to do/can do with the added bonus of being on call for a system you don't completely understand. 
+
+However the rewards are the highest in the business, as the more you automate the easier your job becomes (but as you complete more automation the harder it gets to get that 1% reduction).
+
+DevOps and Sre work are essentially a paradox, never been in a position I love or hate more. But I know of no position that has given me the rush that this does. Solving a production problem in the middle of the night knowing every second counts and solving the problem is one of the best feelings you get (essentially it's like fixing a bug in code while sitting on a time bomb and beating the timer).
+
+But don't expect to get into this job straight away and if you do you'll be useless and burn out. To get where I am, I really had to do QA,Dev and ops before I had the right kind of soft skills to be useful.
+
+Essentially we have become the gatekeepers, we guard all the doors, we hold all the keys. We answer to everyone and noone. But with that comes the responsibility 😁. Oh and were an angry bunch with little time and patience.
+
+TLDR
+If you value your sanity walk the other path 😁."
+4,donjulioanejo,1633771197.0,2.0,"> I just find that it is one of the careers that you need to love or it will break you like a toothpick.
+
+Strongly agree with this sentiment."
+5,serverhorror,1633773514.0,1.0,And would you like to elaborate with examples or reasoning?

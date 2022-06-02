@@ -1,0 +1,54 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,Yaxaan,1651738053.0,58.0,"You can experience this today: use a proprietary Language or framework and your stackoverflow question won’t help you. 
+Honestly SO is kind of worthless for any more involved problem. 
+So debug, read docu, trial&error, debug more"
+1,jddddddddddd,1651738699.0,10.0,"Before the web, there was still [Usenet](https://en.wikipedia.org/wiki/Usenet) where you could post questions and get answers. `comp.lang.c` for example, still seems to be in use (you see it on [Google Groups](https://groups.google.com/g/comp.lang.c), but it might be a little bit **NSFW** since it now appears to be 90% porn spam vs. 10% C-language questions.)
+
+If you didn't have dial-up access to the internet, then yes, it was just a case of reading through books or language documentation. I also found it tremendously useful to have lots of open source code on my machine. If I was unsure how a particular library function should be used, you could always search through the source code of other projects and try to find an example."
+2,Jesucresta,1651760446.0,6.0,If you want to find out do some serious PLC programming on a not-very-popular PLC. Your german will get better tho.
+3,ena_dyo_tria,1651754961.0,5.0,"Books, experiments, knowledgeable colleagues
+
+I still use all 3"
+4,MrGilly,1651740017.0,4.0,"Great sense of accomplishment. 
+
+
+If you copy paste from stack overflow your more like: ' a good now i can move on '.. no dopamine effect"
+5,,1651740936.0,13.0,[deleted]
+6,general_00,1651775101.0,2.0,"Reading this question, I've just realised that I have not used Stack Overflow in a very long time. I've got enough experience working with my tech stack that I rarely run into trivial problems. And for the more complex problems often:
+
+* There's no answer on SO
+* The answer is wrong or poor quality
+* The answer is outdated (this is a growing problem on SO)
+* The answer does not explain the reasoning of how and why it works
+* The issue is specific to my domain / context / setup that no one on SO has a way of knowing this without me disclosing a ton of potentially sensitive information
+
+So solving issues is often:
+
+* Working with my colleagues
+* Trying to produce a minimal example that shows the issue in question and is easier to reason about / debug than the actual application
+* Reading official docs / specs
+* Reaching to the support (like paid support for a framework, cloud provider, etc.)"
+7,london_taswegian,1651772838.0,1.0,MSDN
+8,carkin,1651785212.0,1.0,"Very annoying. The number one problem as a developer is to understand how things work. Without docs, guides, (open) source code, examples you get stuck real fast"
+9,mad-king88,1651790148.0,1.0,"I've always wondered this myelf. I imagine that it was as rewarding as it was frustrating. 
+
+Probaby the chances of learning something from a bug/error were much higher when you had to dig deep and go down a rabbit hole in order to solve it."
+10,GeorgeRNorfolk,1651821717.0,1.0,"I'd wager something like trial and error via logical educated guesses. I had an issue recently with AWS where something that should work didn't exist in docs or anywhere so I tried a few times to get what I needed with logical syntax and the functionality did exist, it just wasn't documented."
+11,Grote_Spelers,1651753028.0,8.0,This is why I love working with obscure Chinese Arduino/ESP8266 clones. You are on your own when they don't work.
+12,Northanui,1651815048.0,1.0,"a similar question to the OP would be what was it like to solve issues before debuggers?
+
+What I mean is for example, I enjoy the help that Visual studio gives when you can stop code on command and observe all variables and their values and basically figure out what goes wrong, and even this way it's a challenge sometimes.
+
+WTF was it like before anything like this was available? Terrifying tbh."
+13,WikiSummarizerBot,1651738718.0,2.0,"**[Usenet](https://en.wikipedia.org/wiki/Usenet)** 
+ 
+ >Usenet () is a worldwide distributed discussion system available on computers. It was developed from the general-purpose Unix-to-Unix Copy (UUCP) dial-up network architecture. Tom Truscott and Jim Ellis conceived the idea in 1979, and it was established in 1980. Users read and post messages (called articles or posts, and collectively termed news) to one or more categories, known as newsgroups.
+ 
+^([ )[^(F.A.Q)](https://www.reddit.com/r/WikiSummarizer/wiki/index#wiki_f.a.q)^( | )[^(Opt Out)](https://reddit.com/message/compose?to=WikiSummarizerBot&message=OptOut&subject=OptOut)^( | )[^(Opt Out Of Subreddit)](https://np.reddit.com/r/cscareerquestionsEU/about/banned)^( | )[^(GitHub)](https://github.com/Sujal-7/WikiSummarizerBot)^( ] Downvote to remove | v1.5)"
+14,sosdoc,1651750419.0,9.0,"You got me curious: what kind of ungoogleable questions do you use? I usually stick to more open-ended design ones (like how to design an API or server that does X, then put extra constraints to see how deep someone can go)."
+15,maty388,1651787652.0,1.0,working closely with colleagues and reading documentation is underrated
+16,TopoGigioSiciliano33,1651772774.0,11.0,Yeah super funny
+17,Yaxaan,1651838454.0,3.0,Printf debugging ;)
+18,dasdull,1651768098.0,11.0,"They can't write them here, or they would become googlable."
+19,LeRoyVoss,1651777124.0,5.0,What else could you want in life I wonder
+20,Vendraaa,1651857459.0,1.0,I still do it. Am I bad? lol

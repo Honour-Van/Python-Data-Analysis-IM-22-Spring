@@ -1,0 +1,506 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,Merad,1525576085.0,34.0,I don’t think it’s the language so much as who tends to use it and how they use it. There’s a pretty strong association between VB and poorly architected legacy enterprisey apps written by people who weren’t programmers and weren’t very concerned with the quality of their code. 
+1,ChrisAtMakeGoodTech,1525574764.0,29.0,"I use VB.NET every day at work, and I choose to use C# on my personal projects. Wikipedia has a page [comparing language features](https://en.wikipedia.org/wiki/Comparison_of_C_Sharp_and_Visual_Basic_.NET#Language_features). Supplementally, here's a list of things off the top of my head that I personally like or dislike about VB.
+
+# Likes
+
+**End If, End While**, etc. are better than just closing everything with a brace. If you've ever looked at 5\+ lines in a row of closing braces in a C\-like language, you'll probably agree.
+
+**I prefer many of the VB keywords \(such as MustInherit and NotInheritable\) over the C# equivalents \(abstract, sealed\).** They actually explain what the keyword does instead of giving you a codeword to learn.
+
+**== is not an operator.** You use = for comparison, meaning an If statement is written like this:
+
+    If x = 3 Then
+    ' Do Something
+    End If
+
+# Dislikes
+
+**== is not an operator.** Yes, I know I also listed this as a like, and it probably prevents more problems than it causes. It means you can't do something like this, though:
+
+    while(var Result = SomeFunction()){
+    // do some stuff with Result
+    }
+
+**VB uses parentheses for everything.**  Examples follow:
+
+Creating a new Dictionary with a capacity of 4.
+
+    Dim SomeDictionary as New Dictionary(Of Integer, String)(4) ' VB
+    var SomeDictionary = new Dictionary<int, string>(4); // C#
+
+Storing the value stored in index 3 in an array.
+
+    Dim IndexValue = TheArray(3) ' VB
+    var IndexValue = TheArray[3]; // C#
+
+Getting the result of a function. \(These are the same in both languages. I just wanted to show that VB uses exactly the same syntax as it would if the element were an array instead of a function.
+
+    Dim TheValue = TheFunction(3) ' VB
+    var TheValue = TheFunction(3); // C#
+
+**VB doesn't require parentheses to declare or call functions that don't require an argument**
+
+The following is perfectly valid VB.NET code:
+
+    Public Sub Main()
+    	Console.WriteLine(Test) ' prints 3 to the console
+    End Sub
+    	
+    Public Function Test as Integer
+    	Return 3
+    End Function
+
+**You declare the maximum index of an array instead of the array's capacity.**
+
+    Dim foo(3) as Integer
+    Console.WriteLine(foo.Length) ' prints 4
+    
+    int[] x = new int[3];
+    Console.WriteLine(x.Length); // prints 3
+
+**No static classes, and modules suck.**
+
+Modules are basically the same as C#'s static classes, except that adding a function to a module means you can call it anywhere within its namespace without first referencing the module by name. This pollutes IntelliSense and makes it hard to tell whether the functions being used are part of the existing class or a parent class or any of a number of modules that might exist in the namespace.
+
+**Static is not static.**
+
+The Shared keyword is more less the same as C#'s static, but VB has its own Static keyword too. You can read about what it does, but based on the problems we've had at work \(possibly because developers just assumed it did the same thing as other languages' static keyword\), I'm of the opinion that VB's Static should just never be used."
+2,Th0ughtCrim3,1525573599.0,9.0,"In my experience VB.NET seems extremely verbose. I seem to encounter more poorly written legacy web forms applications in VB.NET compared to C#. I don't blame the language for that though and more so the developers who wrote it to begin with. 
+
+"
+3,tweq,1525566700.0,16.0,"I think it's mostly down to bad experiences not with the capabilities of the language itself, but with how and for what the language has typically been used. There was never really any good reason to use VB.NET over C# (except for Office interop?), most developers coming to .NET were drawn to C# perhaps even just because of the superficially familiar name and syntax. So the only ones using it were companies trying to port their ancient VB6 applications and amateurs/hobbyists coming from VB6 or VBA. That, together with the VB.NET exclusive `Option Strict` and `Explicit` and its legacy library (`Val`, `FileOpen` etc.), leads to the language being associated with some truly horrid code and generally ""unfun"" projects.
+
+VB.NET is a perfectly functional CLR language, but since switching to C# is trivial and VB.NET isn't getting much new language and tooling support anymore, I still don't see any good reason to use it for new projects unless you absolutely abhor the C-style syntax."
+4,TimeRemove,1525579286.0,7.0,"Frankly the fact that VB.Net still supports this bullshit is why a lot of people dislike it: [On Error Statement](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/on-error-statement). And while Microsoft recommends against it, and VB.net fully supports regular try/catch/finally (""structured exception handling""), it [continues to be used](https://visualstudiomagazine.com/articles/2016/11/01/life-without-on-error-resume-next.aspx) because VB6 programmers kept writing VB6-style code but in VB.net, or just have a huge converted VB6 application brought into VB.net 1:1.        
+
+
+
+
+
+"
+5,pjmlp,1525592920.0,6.0,"Because it is the evolution of Visual Basic, which enabled many people in the enterprise with very little programming knowledge to create applications to their departments, that eventually were given to the IT department for maintenance.
+
+Many of each learned to program by doing a couple of Office macros every now and then.
+
+As you can imagine, applications written in that way are hardly a good example of anything regarding code quality.
+
+VB.NET is still used a lot by such kind of groups."
+6,jmkni,1525592203.0,5.0,"It’s been a while, but IIRC *option strict* and *option explicit* are off by default in VB.Net, while the equivalent isn’t possible in C#.
+
+It means that, if you are entering into a VB.Net project, unless the previous developers have had the discipline to turn them on, there’s usually going to be bugs caused by people taking shortcuts etc, and a generally messier codebase.
+
+Not always, but it’s usually the way."
+7,bodiewankenobe,1525565057.0,14.0,There is nothing wrong with VB.NET. I wrote all kinds of enterprise level software in both c# and vb.net. I never found anything in c# that i couldn't do in vb. Use it if you like it. 
+8,The_One_X,1525568144.0,8.0,"I think it mostly comes down to syntax. Most people are used to C-like syntax, and when facing different syntax, even if only slightly different, they tend to not enjoy it."
+9,reallyserious,1525613436.0,4.0,"Take the stackoverflow survey and show your managers and ask where they are going to find people who want to work with the most dreaded language. They'll probably get mediocre or bad developers. But the good ones that can be picky about jobs will go to better gigs. 
+
+All focus from MS goes into .NET Core. Can you even use VB.NET on .NET Core? Pretty much ALL examples for .NET Core uses C#. So your developers will have to know that anyway and then mentally transalte it to VB.NET.
+
+VB6 --> VB.NET is a huge step. Going the additional step to C# isn't that big. "
+10,vladjjj,1525596838.0,3.0,"A lot of VB6 devs found the jump from VB6 to VB.NET so steep, that they might as well switch to C#."
+11,Skarsnik101,1525613892.0,3.0,"IMHO... Back in the day there were a lot of really bad programmers who used vb, and the language itself supported crappy hacks. Good developers who moved from java, c and c++ naturally went to c#.
+
+At least in Australia if the company uses vb still its almost garanteed they their applications are a total clusterfuck. Any vb left in any place i work for i convert to c# for one simple reason. After im gone the company will hire better developers.
+
+This will come across as highly opinionated and frankly rude. If you are one of the few good vb developers, im sorry for being so brash. Come join us in the c# land, your life will be easier."
+12,orthoxerox,1525614005.0,3.0,"It's not VB.NET that is dreaded, it's the programs written in it. If you had to write a .Net program, why would you pick VB.NET over C#? Most likely because you were a VB6 or VBA programmer. And lots of VB6/VBA programmers are citizen programmers that write code that works and stop at that.
+
+This means if you're given a VB.NET program to maintain it will likely be:
+
+- something boring and enterprisey
+- written by someone who wasn't a professional programmer: badly structured, with terrible variable names, full of globals, duplicated code, swallowed exceptions
+- full of outdated VB6 idioms: `option strict off`, modules instead of classes, no model (everything stored in controls' properties)"
+13,spilk,1525576844.0,11.0,"simply put, the syntax is awkward and unpleasant to use compared to C#."
+14,neliason,1525575620.0,4.0,"I first learned to code in VB6, so I’m one of the reasons people hate VB. I think a lot of dislike is because more amateur coders use VB and so you get more amateur code.
+
+I switched to C# when I could because I think C# is mostly easier to code in. But there is nothing wrong with VB.Net. "
+15,carny666,1525570975.0,2.0,It's a capable language but as a professional I don't want to to tell clients I am using basic anything. I know it's a lame excuse. I switched from VB to c# when it became a thing.
+16,xcjs,1525583593.0,2.0,"This may not be a primary reason, but there are some code-generation tools that only output in C#."
+17,isamura,1525583724.0,2.0,"I think it’s more of an issue where dev teams want everyone writing in the same language, and c# won the popularity contest. "
+18,darth_meh,1525609237.0,2.0,"Microsoft straight up broke [VB.NET](https://vb.net/) compilation and IntelliSense across several minor releases with changes they made to parallel project initialization in VS 2017.  Most of those issues seem to be fixed in the latest minor release, but that was painful and forced my organization to switch back to VS 2015.  It's pretty clear they weren't performing exhaustive testing on [VB.NET](https://vb.net/) solutions.
+
+[https://developercommunity.visualstudio.com/content/problem/160241/errors\-reported\-when\-none\-exist.html](https://developercommunity.visualstudio.com/content/problem/160241/errors-reported-when-none-exist.html)"
+19,bluHaloLabs,1525614501.0,2.0,">The only thing I really don't like is that the community isn't nearly as big as C# since, well, developers favor C# over it, so not as many new applications are being developed in VB.NET and the community is diminishing.
+
+This is definitely true. And that being the case, you will most likely have trouble finding quality [VB.NET](https://VB.NET) developers to hire for this project in the future. If you are porting to a new language anyway, why not port to C# and pick up the more popular/respected/supported language?  Also, I think the transition from [VB.NET](https://VB.NET) to C# is much easier than the transition from VB6 to [VB.NET](https://VB.NET) since it's mostly just syntax. They both use the .NET Framework after all."
+20,StuckInMyOwnHead,1525619344.0,2.0,"My company chose the VB6 -> VB.Net route. We knew that development on the VB6 version would not stop while the .Net version was converted. So changes made to the VB6 code would also need to also be made to the .Net version. Using VB instead of C# meant keeping the .Net versions in sync with VB6 was less complicated. The plan has worked out pretty well for us. Now we are testing c# the conversion. This jump should be less time consuming than the jump to .Net.
+
+What's getting us most is cleaning up lingering VB6isms. LEFT$, RIGHT$, MID$ can't blindly be converted to Substring. LEFT, RIGHT, MID don't care if you specify a length greater than what remains in the string. Substring really really cares."
+21,CamdenReslink,1525622351.0,2.0,People are scarred by the legacy applications they have had to support written in VB.
+22,LloydAtkinson,1525650164.0,2.0,"I agree with the sentiment of this thread, it's pretty much the people who use it. They are a stereotype that I didn't realise was true till I had the misfortune of working with ""former"" VB/VB.NET devs who were writing C# and applying some of their bullshit to that. For example, interfaces and namespaces were not allowed. That's a story for another day though.
+
+Safe to say it's the type of ""developers"" that use it that causes everyone to hate it.
+
+Add to the fact that it doesn't really give you anything over C#, so that explains is lack of popularity."
+23,grauenwolf,1525579630.0,2.0,"1. It has the word ""BASIC"" in its name. That's enough to hate it.
+2. It isn't based on C. When C# was released, the major languages people were talking about were C, C++, Java, JavaScript, PHP, and Delphi. 
+3. .NET was implemented in C#, so all of the docs were C# and VB or just C#."
+24,recycled_ideas,1525605797.0,2.0,"The problem with VB.NET is that's it's neither one thing, nor another.
+
+It's **NOT** the next version of VB6, and it's not something like C# either.
+
+You have the shitty syntax of VB hiding all the same complexity of C#."
+25,darth_meh,1525610388.0,2.0,"I've been coding in a mix of VB.NET and C# for about 8 years now.  As a language, VB.NET really isn't that bad \- under the hood it still compiles to MSIL, just like C#.
+
+The syntax is definitely more verbose, so there's more code to scan/write.
+
+In some places the syntax it's just plain annoying.  I especially dislike:
+
+**Lamba Syntax**
+
+VB.NET
+
+    Dim filteredItems As IEnumerable(Of String) = items?.Where(Function(i) i.Id = 10).Select(Function(i) i.Name)
+
+C#
+
+    IEnumerable<string> filteredItems = items?.Where(i => i.Id == 10).Select(i => i.Name);
+
+**Null Conditional Operator:**
+
+VB.NET
+
+    Dim status As String = If(product.Status = ProductStatus.Active, ""Active"", ""Inactive"")
+
+C#:
+
+    string status = product.Status == ProductStatus.Active ? ""Active"" : ""Inactive"";
+
+**Null Coalescing Operator:**
+
+VB.NET
+
+    product = If(product, New Product())
+
+C#
+
+    product = product ?? new Product();
+
+To be fair, VB.NET also has some nice features C# does not.  One thing I really like about VB.NET is multi\-line string literals:
+
+    Const sql As String = ""
+       SELECT Name, Description
+         FROM Product
+        WHERE Id = @Id""
+
+[https://github.com/dotnet/roslyn/wiki/New\-Language\-Features\-in\-VB\-14#multiline\-string\-literals](https://github.com/dotnet/roslyn/wiki/New-Language-Features-in-VB-14#multiline-string-literals)"
+26,the_other_sam,1525626574.0,2.0,"The issue here is not the answer - it's the question.
+
+Asking ""What is your most beloved language?"" or ""What is your most hated language?"" is like asking ""Which of these hammers is the most beautiful?"".  It's a pointless waste of time.  Furthermore, the people answering these questions are often fanboys whos deepest internal motivation is a desperate need for approval from the group.  
+
+All languages that have risen to the level of popularity of VB and C# have some intrinsic value else they would not be as widely used as they are.  It's true that some languages are older than others, some less refined, some less functional, etc.  But remember that Michelangelo created great beauty using only hammer and chisel.  The lesson being that the language is only a tool. The developer is what makes the language useful.
+
+"
+27,Edward_Morbius,1525612754.0,3.0,"VB.net and C# both compile down to the same CLR calls and there's no technical advantage or disadvantage to either.
+
+People who used VB as their first language were more comfortable with VB.net and people who used C/C++ liked C#.
+
+It's just a preference. "
+28,Handknife_Hammerfist,1525582928.0,1.0,Great post and great feedback from the community. I am new to programming and have compete coursework in VB.NET and this thread has been helpful for developing insight into the current status of VB.NET in the community. Where would you advise me to go from here? What options would be best for career opportunities? Thanks.
+29,,1525621221.0,1.0,I think it's mostly because C# is a lot like c++. It has the syntax as C++. Coming from a C++ world its easier to do things in C# than it is in VB. Microsoft has also recognized that C# is more popular that VB and therefore they tend to give C# more love than VB. 
+30,throwaway_lunchtime,1525726333.0,1.0,"VB 6 was for Mort, C# is for all 3.
+
+https://blog.codinghorror.com/mort-elvis-einstein-and-you/"
+31,SpaceWarping,1533140158.0,1.0,"When you hear someone say they dislike C# or [VB.NET](https://VB.NET) most of the time it's because they don't use that language they 'dislike' or maybe they have used both and simply prefer the other.  I can tell you this with certainty, each language can do what the other does and neither is better then the other.  It truly does come down to personal preference "
+32,,1525573866.0,1.0,"I love VB.NET, still use it. C# has been pretty enjoyable though."
+33,deepteal,1525583318.0,1.0,Well I hate VB.NET because it got an `Aggregate` LINQ clause and I am a jealous dude
+34,z500,1525613213.0,6.0,"`With` statements can be pretty handy. `With` statements that take up an entire page or more, not so much."
+35,lucuma,1525580505.0,5.0,"I learned VB (. net) before c# because of a team member at the time (over ten years ago ) had a lot of excel macro experience and it was just easier for them to pick up. After maybe a year the team changed and we moved to c#.  From my experience I think the many times the people that get into VB don't have classical computer science degrees where you might have learned c, c++, Java or JavaScript (now not back when  i went to school).     VB is easier to learn especially from a VBA background. "
+36,,1525603226.0,4.0,Sounds about right. We started over with a C# app but with the same guy who wrote the VBA application. As you can guess he just repeated his mess.
+37,Skarsnik101,1525614020.0,1.0,Bingo.
+38,centurijon,1525613132.0,4.0,"Like:
+
+`<>` is far clearer and more readable than `!=`
+
+`Not` is far clearer and more readable than `!`"
+39,ChrisAtMakeGoodTech,1525575694.0,6.0,"Just thought of another gripe. I guess I'm in a ranting mood.
+
+**I hate the For loop syntax.**
+
+    ' I want to print every other element in an array, so
+    For i as Integer = 0 to SomeArray.Length - 1 Step 2
+        Console.WriteLine(SomeArray(i))
+    End For
+    
+    for(int i = 0; i < SomeArray.Length; i += 2){
+        Console.WriteLine(SomeArray[i]);
+    }
+
+And a bunch of other minor language gripes, such as the syntax for casting variables and lambda expressions."
+40,TimeRemove,1525577459.0,5.0,"I agree with your post. Just want to talk about this:     
+
+> End If, End While, etc. are better than just closing everything with a brace. If you've ever looked at 5+ lines in a row of closing braces in a C-like language, you'll probably agree.      
+
+IDEs and extensions can assist a lot with bracket grouping (e.g. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)). You don't have to live with confusing bracket matching.      
+
+If you have several closing braces (or even VB's End If/End While's) in a row the code often could be refactored. A lot of times excessive indentation can be avoided by inverting or merging if branches and splitting loops's inner scope into its own method. Doing so is easier to read and easier to maintain/reuse, often the compiler is smart enough in production mode to optimize out the ""extra"" method.     
+
+     if(person != null) 
+     {        
+           foreach(var kink in person.kinks) 
+           {      
+                   switch (kink)
+                   {          
+                          case Kink.Feet:      
+                                 person.experiences.Add(ShowFeet(footModel));    
+                                 break;     
+                          case Kink.Voyeurism:      
+                                 person.experiences.Add(SexyTime(someoneElse)); 
+                                 break;       
+                          case Kink.Pain:     
+                          default:      
+                                  foreach(var bodypart in person.bodyparts) 
+                                  {
+                                          person.experiences.Add(pain(person, bodypart)); 
+                                  }   
+                   }             
+            }    
+            return person;               
+     }          
+
+Vs.     
+
+     if(person == null) 
+     {        
+          return null; // What should happen here?    
+     }  
+     foreach(var kink in person.kinks) 
+     {      
+        switch (kink)
+        {          
+            case Kink.Feet:      
+                person.experiences.Add(ShowFeet(footModel));    
+               break;     
+           case Kink.Voyeurism:      
+               person.experiences.Add(SexyTime(someoneElse)); 
+               break;       
+           case Kink.Pain:     
+           default:            
+               ProcessPain(person);    
+        }             
+     }    
+     return person;               
+ "
+41,grauenwolf,1525579109.0,4.0,"> == is not an operator
+
+From a language design standpoint, C#'s `==` is a big problem. It represents both value equality and reference equality, which can lead to problems.
+
+> VB uses parentheses for everything.
+
+Yes and no. VB doesn't need parens for `if`, `while`, `using` like C# does. It still annoys me how many extraneous parens C# requires.
+"
+42,Ronald_Me,1526137063.0,1.0,What about lambda expressions?
+43,grauenwolf,1525579405.0,3.0,"When I first started using C#, I thought it was the verbose one. All this extra syntax to avoid using a simple keyword.
+
+Consider 
+
+`public string Name { get ; set ; } = """"; ` 12 tokens
+
+`public property Name as String = """"` 7 tokens
+
+Of course ""verbose"" is mostly opinion."
+44,grauenwolf,1525579036.0,12.0,"> There was never really any good reason to use VB.NET over C# 
+
+* COM interopt (including Office)
+* Working with XML 
+* WinForms (withevents beats manually wiring and unwiring up events)
+* Anything needing to deal with late binding (i.e. dynamic typing)
+
+Today none of those reasons are valid (except maybe XML), but at various times VB was definitely the way to go for some projects."
+45,Apk07,1525591895.0,3.0,"I agree the legacy stuff in VB weighs it down a lot, and might be a leading part in it's death... which is a shame because of how inviting of a language it can be. A lot of people got their programming legs from old VB and moved on from there."
+46,,1525603869.0,2.0,"VBA encourages and often enforces bad coding practices, that is not the fault of the people learning macros.
+
+Doesn't help that VBA has no proper error handling. Any error handling examples are just accepted hacks that have become standard because there's really no other way.
+
+I recently went back to VBA to automate some subsupplier data wrangling and tried to apply OOP principles. It was doable, I got separation of concerns in order, but holy hell if I wasn't fighting the language every step of the way, not to mention certain features it simply doesn't support. Like error handling that's just something you have to hack around."
+47,,1525602834.0,1.0,">when facing different syntax, even if only slightly different, they tend to not enjoy it.
+
+Very much depends. I enjoy PowerShell a lot, even though the syntax make scripts look very messy with just a few lines of code. Discipline is important to keep them clean.
+
+I'm looking forward to learn F# and R for my work, piping comes very natural to me so it looks interesting. As you can probably guess I adore LINQ fluent syntax in C#.
+
+So I love normal C# and I enjoy syntax that doesn't even look like C#
+
+Yet there's just something about VB syntax that makes me frustrated and angry."
+48,DiscoDaveDiscoSlave,1525619833.0,2.0,"If I run ""$ dotnet new --help"" on my computer right now, I have a VB option for Console Application, Class Library, Unit Test Project, XUnit Test Project, and four GTK Project templates. So yes you can actually use VB.NET in .NET Core."
+49,_pupil_,1525607706.0,3.0,"There's not a lot of point being a dedicated .Net dev in VB.NET.  All the tools hit C# first, the language skills port better, and you'll get a clearer pic of how the framework is working.
+
+VB6 -> C# can be a big hop, but if you're writing relatively OOP VB6 then it's a smooth transition to VB.NET.  Once basic competencies emerge, though, C# is a highly logical next step once the bad habits are removed."
+50,Apk07,1525591789.0,0.0,"I think that is a strongly biased opinion. None of C is pleasant to look at, and the syntax is pretty hacked together from other languages.
+
+Visual Basic at least maintains the concept of being easily readable while still doing almost everything C# does. The syntax is inherently easier to ""use"" by design so I'm not sure how one would call it ""unpleasant"" from any unbiased standpoint. The only thing you could really argue is unpleasant about it is, again, its inherent difference from every other popular language."
+51,grauenwolf,1525579512.0,-12.0,"Are you kidding? Have you seen C#? It's like a bastard of legacy C syntax shoved together with random OOP concepts.
+
+Let's be honest here. If we were to design a language from scratch with no legacy baggage, neither C# nor VB is what we'd come up with."
+52,Skarsnik101,1525614395.0,3.0,"I learnt on vb4 - vb6 then switched to c, c++, java... then went to c#... i didnt want to associate with the kind of programmers who wrote vb. Which is the fundamental problem with vb.net now. Anyone who still writes it is too god damn stupid to evolve."
+53,Xytak,1525696390.0,1.0,"> I think it’s more of an issue where dev teams want everyone writing in the same language
+
+Oh god I hate that!  Just because everyone has been using VB for years is no excuse to use it for greenfield!  At some point you have to rip the bandaid off.
+
+> And C# won the popularity contest
+
+Er...  I mean good!  Everyone should be using the same language, as long as that language is not VB.
+
+
+"
+54,AlienVsRedditors,1525596668.0,3.0,"4 . Microsoft keeps wanting to drop VB.NET. 
+
+I love VB.NET and have used it on enterprise software, but if you're looking to the future (.NET Core) you have much much more certainty using C#. 
+
+Microsoft never seem forth coming with VB.NET and overtly have wanted to drop it for years."
+55,Ronald_Me,1526157276.0,1.0,"The ""With"" reserved word is useful."
+56,,1529408515.0,1.0,True…
+57,,1529408546.0,1.0,"Yeah, same thought."
+58,Apk07,1525592064.0,6.0,"As a VB.NET programmer, C#. Microsoft has all but given up on VB.NET, and they've straight up said a lot of newer stuff like .NET Core, ASP.NET Core, Blazor, etc. will never get full VB support.
+
+Also, C# is more popular by a long shot. No matter how well supported a language is, or how good it is at producing usable programs, its not going to be nice to use if its not popular. Look up any basic coding snippet or solution to a problem on StackOverflow... all the responses will be in C# and not VB.
+
+Learn VB.NET all you want but don't rely on it for your future."
+59,Ronald_Me,1526156138.0,1.0,I don't like linq in VB.net.
+60,grauenwolf,1525621738.0,3.0,I miss those the most.
+61,jgauffin,1526502647.0,1.0,Isn't \``With` just like property initializers? 
+62,neoKushan,1525622287.0,3.0,"> <> is far clearer and more readable than !=
+
+I'm going to have to disagree with that one, HOWEVER, I strongly recommend this code font instead anyway: https://github.com/tonsky/FiraCode
+
+It changes != to ≠ (without actually changing the code itself), as well as a bunch of other characters and makes everything much more readable."
+63,Apk07,1525591393.0,3.0,"Minor correction, but its ""Next"" not ""End For""
+
+Also in the sense of which is more human-readable, VB kinda wins that one easily in my eyes. It conveys whats happening much better when you're scanning over the code, especially if you have loops nested."
+64,robhol,1525595794.0,6.0,"Unrelated, but... best example code ever. :D
+
+Did you make this up to take the piss or is it actually from somewhere?"
+65,Evairfairy,1525607490.0,4.0,"You can also do this:
+
+	if (person == null)
+		return null;
+		
+	void HandleKink(Kink kink) {
+		switch (kink) {
+			case Kink.Feet:      
+				person.experiences.Add(ShowFeet(footModel));    
+				break;     
+	 		case Kink.Voyeurism:      
+				person.experiences.Add(SexyTime(someoneElse)); 
+				break;       
+	 		case Kink.Pain:  
+	 		default:            
+				ProcessPain(person);  
+		}
+	}
+	
+	foreach (var kink in person.Kinks)
+		HandleKink(kink);
+		
+	return person;"
+66,ChrisAtMakeGoodTech,1526150471.0,1.0,"I mentioned them in [my own response to my original comment](https://www.reddit.com/r/dotnet/comments/8hbf8d/why_do_people_not_like_vbnet/dyiqc6b). I don't like lambda expressions or anonymous functions in general, but I think C#'s syntax is slightly better.
+
+Consider this code to find the largest value in an array that's less than 6 \(using Linq\).
+
+    int[] SomeArray = {1,2,3,4,5,6,7,8,9,10};
+    var Answer = SomeArray.Where(m => m < 6).Max();
+    Console.WriteLine(Answer); // 5
+    
+    Dim SomeArray as Integer() = {1,2,3,4,5,6,7,8,9,10}
+    Dim Answer = SomeArray.Where(Function(m) m < 6).Max()
+    Console.WriteLine(Answer) ' 5
+
+Of course in either case, I'd rather just write a short function so that I could just write it like this:
+
+    var Answer = GetMaxValueUnderLimit(SomeArray,6);
+    
+    Dim Answer = GetMaxValueUnderLimit(SomeArray,6)"
+67,Caelorum,1525583625.0,1.0,If you make it a getter only property the c# code will be a lot smaller than the vb. Net one... 
+68,GoogleBot42,1525619846.0,2.0,"COM worked with c# for as long as it did for visual basic if I am not mistaken.
+
+And it worked with c++ since its inception."
+69,Skarsnik101,1525613931.0,3.0,Vb was never a valid option.
+70,Xytak,1525695196.0,1.0,">Working with XML
+
+Yeah I’m reminded of a company that decided to to EVERYTHING in XML.  Need to declare a variable inside of a function?  Fire up some XML.
+
+Sometimes VBs support for XML is not a good thing if it encourages code like this."
+71,NoNoNotTheLeg,1525613212.0,3.0,VBA is not VB.NET. Just sayin'
+72,Xytak,1525695362.0,1.0,Nobody enjoys powershell a lot.
+73,grauenwolf,1525622015.0,2.0,">  All the tools hit C# first
+
+No, not really. VB's tooling started better than C# and stayed on par or better until long after it was clear VB was dying in the professional environment.
+
+
+Today that's changed and VB devs have to beg for stuff C# gets like .NET core. I'm talking historically."
+74,grauenwolf,1525622035.0,1.0,">  All the tools hit C# first
+
+No, not really. VB's tooling started better than C# and stayed on par or better until long after it was clear VB was dying in the professional environment.
+
+
+Today that's changed and VB devs have to beg for stuff C# gets like .NET core. I'm talking historically."
+75,,1525604301.0,5.0,"VB has mandatory visual clutter. C# can certainly be visually cluttered sometimes, but more often than not has ways to minimize it. VB wallows in it and you have to spend mental resources ignoring a lot of fluff text."
+76,Xytak,1525695590.0,1.0,"C# code is far more readable than VB.net if you’re used to C / Java / JS / Typescript like most developers are.
+
+Picture using React on the front end and VB on the back end...  just why???  Why would you do that to your team?"
+77,Apk07,1525720891.0,3.0,"People who know and love C# already are going to downvote this because they can't get past the part where you said ""with no legacy baggage."" To follow your point, people can't use the excuse ""I like C# because the syntax is familiar."" or ""C# is better because it looks like everything else."""
+78,grauenwolf,1525621920.0,3.0,"> Also, C# is more popular by a long shot. 
+
+Roughly ten to one last I heard from Microsoft. VB is still more popular as a first language, but they don't stick with it."
+79,Handknife_Hammerfist,1525620153.0,2.0,Thanks for the feedback. It makes me wonder why my school wants to use it in the curriculum instead of a more popular language. Probably has to due with outdated course material and financial interest surrounding the mandatory purchase of course material. 
+80,z500,1526503383.0,1.0,What do you mean?
+81,TimeRemove,1525611837.0,4.0,Just made it up. Got to keep myself amused :)    
+82,grauenwolf,1525585473.0,2.0,"
+
+`public string Name { get ; } = """"; ` 10 tokens
+
+`public readonly property Name as String = """"` 8 tokens
+
+Longer in characters, shorter in tokens."
+83,grauenwolf,1525621661.0,2.0,"COM in C# ranged from annoying to neigh impossible. 
+
+For well behaved libraries, you could add `Missing.Value` all over the place for the ridiculous number of optional parameters. 
+
+For poorly behaved libraries, you could only access some methods via late binding (or really complicated reflection code). This actually surprised me, because there would be a static API, just with one method missing from the interface definition."
+84,,1525614282.0,2.0,He mentioned Office macros. I wanted to make it clear that people who come from that environment couldn't have learned how to do things properly themselves as the very environment they're in encourages bad practice.
+85,_pupil_,1525626048.0,3.0,"I wasn't talking about tooling, I was talking about tools :)
+
+I do F# almost exclusively, so it's not like my everyday isn't the same, but day-0 MS on dotnet is C#.  Examples, code-gen, compiler support, project features, etc.   
+
+VB.Net has been a second class citizen since the start of .Net, and while C# has made continuous concessions to several design points of VB6 that have proven themselves superior, the language itself has been a step behind.  There was a window where VB had some unique features, and a competitive position in terms of VS capabilities, but they were falling behind almost from the get-go.  My impression is that they needed a few cycles to recreate a lot of the maturity that VB6 had, giving the C# team(s) a huge head start on upping the language. "
+86,_pupil_,1525607561.0,2.0,"Same deal with F# to C#: static everywhere, little clumps of clarity spread all over the place."
+87,Apk07,1525709146.0,1.0,Not saying you're wrong about familiarity lending a hand to readability... but claiming one is better than the other just because you're used to working with it isn't fair to the point I was trying to make.
+88,jgauffin,1526540626.0,1.0,"`var myObject = new SomeType { Id = 5, Name = ""Jonas"" };`
+
+I know that `With` can be used at any time and not just when creating objects. But when following OOP principals \(encapsulation\) you typically mutate state by using methods. Right?"
+89,Caelorum,1525587952.0,1.0,"I was thinking of readonly with a backing field, but fair enough \^_^"
+90,pjmlp,1525634449.0,1.0,Which is why I mentioned the lack of code quality.
+91,grauenwolf,1525630474.0,1.0,"Compiler support? VB.NET had the first hostable compiler for .NET. That's why macros in Visual Studio we're written exclusively in VB. To my knowledge they never added C# support for macros.
+
+Refactoring tools for VB we're free for the first decade courtesy of DevExpress. Meanwhile C# devs were paying through the nose for resharper.
+
+Code generation was pretty much on par since that's just a trivial template change. 
+
+> My impression is that they needed a few cycles to recreate a lot of the maturity that VB6 had, giving the C# team(s) a huge head start on upping the language.
+
+That may be true, but I'm more inclined to believe that it was the ""VB programmers are noobs"" mindset Microsoft had with shit like the ""mort"" programmer."
+92,Xytak,1525713040.0,0.0,"*Most* programmers in this space are familiar with working with C-style languages.  Java, JavaScript (ES2016), Typescript, C#...  they all look roughly the same.  
+
+I think if you want to introduce something that really different into this environment and force people to use it, you have to justify that.  
+
+Ruby, Python, Lisp -- OK, fine choices but then you're not really a .NET shop anymore.
+
+F#, OK you can probably justify it in terms of immutability and functional programming being the future.  If your team can learn it.
+
+VB.NET... just why?  Did your team stop progressing in 2009?  Well then they shouldn't be drawing a programmer's salary.  Get current or be irrelevant.  You should not be using VB for greenfield...  .NET shops already have enough VB legacy code they can't get rid of without creating more.  My 2c.
+
+
+"
+93,z500,1526553961.0,1.0,"`With` still lets you use encapsulation. It's basically just shorthand. If you reference a symbol that doesn't exist in scope, it tries to find it in the object you're `With`ing, but it won't let you access anything you couldn't normally."
+94,grauenwolf,1525621533.0,3.0,"That's one of the reason VB is disliked, people don't actually know about its shortcuts and try to write in a C# style. Which means you get all of the negatives and none of the positives."
+95,Apk07,1525720639.0,1.0,"Again, I agreed with your assessment of why VB should be avoided. Its by all means a dead language. I'm not campaigning for anyone to use VB, I was just trying to convey the message that from a complete layman's standpoint, Visual Basic is inherently easier to read than C#. 
+
+Saying C# is easier to read just because you already know it is not fair to my original statement. Its ""BASIC"", its ""VISUAL,"" its supposed to be ""easy"" to read, and it is... Therefore I stated that it is more pleasant to look at, not that its a better language. I am absolutely okay with C# persisting "
+96,Caelorum,1525624086.0,1.0,"Sure, I'm in different to any OO language. I've done 3 years of professional vb.net work and I really don't care. I personally find the c# syntax faster to read, but the vb syntax easier.
+As to my comment it was to point out you can give an example in any programming language that is more concise than another. "
+97,Xytak,1525722073.0,0.0,"Well thank god that went better then expected...  
+
+I was anticipating a big huge argument after I said people who recommend VB for greenfield projects should not be pulling down programmer salaries.
+
+I mean how do you counter someone who says ""But it's all in the eye of the beholder!  There are fine people on many sides!"" and it's like... dude... it's not about many sides; there's the side that's right and the side that shouldn't be working here."

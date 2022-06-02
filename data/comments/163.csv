@@ -1,0 +1,85 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,po8,1577046367.0,4.0,"This is the second time you've posted this Markdown as quoted text and failed to line-wrap the text. This also still has some other bugs that were pointed out last time.
+
+I've done some basic editing and cleaned up the Rust code quite a bit. Always use Rustfmt and Clippy on code you intend to publish.
+
+    ## Rust
+    
+    > “The fact that Rust continues to mature is incredibly exciting.”  
+    >  
+    > --- Ivan Ristic (security expert and author)
+    
+    ---
+    
+    ### Language introduction
+    
+    Rust was born as a personal project by Graydon Hoare
+    in 2006. It's a language that -- at the time of writing --
+    is used to build the Firefox web browser, a few Operating
+    Systems, high-performance servers and embedded systems
+    code. Rust is considered a safer alternative to the language
+    C because of the way it manages system memory.
+    
+    It's benefits are:
+    
+    1. Safety -- Unlikely to have memory-related bugs; prevents
+       some types of threading bugs.
+    1. Speed -- Rust programs have comparable performance to
+       similar C and C++ programs.
+    1. Concurrency -- Rust programs use native threads effectively.
+    1. Cross platform -- Works on Linux, Windows, MacOS and many embedded devices.
+    
+    ### Code example
+    
+    #### ![Script icon](./images/script.png){ width=75px height=75px } name.rs
+    
+    ```rs
+    struct Person<'a> {
+        first_name: &'a str,
+        middle_names: &'a [&'a str],
+        last_name: &'a str,
+    }
+    
+    fn main() {
+        let p = Person {
+            first_name: ""Shaun"",
+            middle_names: &[""Michael"", ""Kenneth""],
+            last_name: ""Stone"",
+        };
+        println!(
+            ""What?! You have two middle names, {} {} {}?"",
+            p.first_name,
+            p.middle_names.join("" ""),
+            p.last_name
+        );
+    }
+    ```
+    
+    Here is the output:
+    
+    ```txt
+    OUTPUT:
+    What?! You have two middle names, Shaun Michael Kenneth Stone?
+    ```
+    
+    Yes… yes I do.
+    
+    ### Did you know?
+    
+    * The popular StackOverflow survey has voted Rust the
+      most-loved language by developers from 2016 to date
+      (2019).
+    
+    * Dropbox uses Rust for its core file storage system to
+      serve over 500 million users.
+    
+    * Deliveroo uses Rust to make assignment decisions in its
+      food delivery network.
+
+The introductory quote is, I think, fairly stale. There's a lot more interesting things about Rust these days than its continued development.
+
+The writing in general is awkward. There's a lot to be said about Rust that isn't here: in particular, there's no mention of downsides such as the tough learning curve and slowish compile times that folks complain about every day. The repeated reference to washing machines was weird and confusing — I removed it."
+1,wezm,1577055145.0,3.0,"Regarding the cross platform point I would suggest altering the language to make it sound less like it only supports Windows, macOS and Linux. Rust in fact also supports FreeBSD, NetBSD, OpenBSD, Web Assembly, Solaris and derivatives, iOS, Android, Redox, Haiku, and [more](https://forge.rust-lang.org/release/platform-support.html). 
+
+Perhaps: Rust is cross-platform, it supports many platforms including Windows, macOS, Linux, and BSD."
+2,SMKS,1577053400.0,2.0,"I really appreciate the effort you have gone to - to do this, thank you!"

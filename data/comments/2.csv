@@ -1,0 +1,595 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,wdroz,1650906969.0,366.0,"* Cargo
+* Pattern matching
+* .iter()
+* rayon
+* Traits
+* performance
+
+For me, even without the ""main"" feature (memory safety), I would still love Rust."
+1,kohugaly,1650909090.0,143.0,"Rust scratches a lot of itches for me, that I had in other languages. Most notable (roughly in order of importance for me):
+
+* very easy to setup on Windows
+* high performance
+* cargo package manager
+* compiler error messages are actually useful (usually)
+* declarative programing with iterators, with performance of imperative loops
+* argument passing (by value vs immutable reference vs mutable reference) can actually express intent in very intuitive way
+* enums and pattern matching
+* traits and no classes/inheritance
+* memory safety by default"
+2,superpudding98,1650904383.0,137.0,"Memory management powers similar to C++, but instead of actively setting you up for failure, the compiler helps and guides you towards a safe solution."
+3,h4xrk1m,1650922843.0,22.0,"It's a systems language, but it feels more like python than C++, it's correct like Haskell, and it's fast like C. What's there not to love?"
+4,IDontHaveNicknameToo,1650920632.0,185.0,"A lot of people already answered with facts and real Rust features that make the language great, so I am gonna take another route and I write an analogy that I really like. Please take that with a grain(or a bag) of salt though!I really like to compare programming languages to types of parents.
+
+Python - Rich parents that like to think that they care about you by throwing money at everything, you have all the possibilities but zero guidance and help when you have a problem. Overall it's okay but you get irritated by the lack of order. It's fun though if you want to go for all the rollercoaster rides around you.
+
+C/C++ - Parents that do not care at all, you can do everything, they don't really care if you are alive or not. You might think that you are responsible and you will never do something bad but everyone fails once in a while(and then you are f\*cked). When there's a problem your dad/mom drunkenly mumbles something you barely understand.
+
+JavaScript - Your parents have good intentions but don't know what to do with a child at all, they come up with random rules that ""WE FOLLOW"" and make up reasons as they go, overall some of it makes sense but you are confused 90% of the time.
+
+Rust -  You feel that the parents are smarter than you almost all the time. They set up a bit limiting rules that sometimes annoy you (sometimes you even hate them) but then pretty much always when you actually think why they set up those limitations it is because they care about you and what you do. If you are brave enough you can tell them to close their eyes and only then you can do whatever you want, but you know that this should be used wisely."
+5,ssokolow,1650910261.0,82.0,"1. Memory-safe (I refuse to work in a memory-unsafe language anywhere but my retro-hobby programming)
+2. A [strong](https://cliffle.com/blog/rust-typestate/), expressive type system without having to put up with pure functional programming or the syntactic quirks that come from its relationship with currying. (In [some cases](https://www.fpcomplete.com/blog/pattern-matching/), with stronger compile-time checks than Haskell's defaults)
+3. No exceptions or pervasive null to make me wary of hidden states or return paths for my function calls.
+4. Sum types (Rust `enum`s) to help better model problems (""Make invalid states unrepresentable"")
+5. A [rich](https://www.hobofan.com/rust-interop/) [ecosystem](https://areweextendingyet.github.io/) of memory-safe wrappers for writing compiled modules for other languages in Rust (eg. PyO3, so I can gradually use Rust more and more in my historically Python-centric coding)
+6. Produces self-contained binaries that start fast. Great for CLI utilities.
+7. Built around a ""if your life falls apart and you can't maintain your code, it should still compile in 5 or 10 years when you come back to revive it"" [philosophy](https://blog.rust-lang.org/2014/10/30/Stability.html). (Compare Haskell, where they're more focused on experimenting with the state of the art in programming language design, even if that breaks builds every now and then.)
+8. Great tooling and great error messages
+9. Fearless concurrency
+10. [Serde](https://serde.rs/) (and crates which integrate with it like [csv](https://lib.rs/crates/csv) and [quick-xml](https://lib.rs/crates/quick-xml))
+11. [Rayon](https://lib.rs/crates/rayon)
+12. No attempts to ""just let me focus on the business logic"" that make it easy to accidentally fall off a performance cliff.
+13. ...probably other things I'm forgetting right now"
+6,IshKebab,1650914037.0,41.0,"* High probability of code working first time, with minimal need for extensive testing. This is thanks to the extremely strong type system, focus on explicitness, ownership model, and well-designed APIs. Basically the opposite of Python or Javascript.
+* Memory safety and bare metal performance without garbage collection.
+* Value semantics! People using reference based languages (which is like 95% of them) don't know what they're missing. How do you copy an object in Javascript again?
+* No deal-breaker design mistakes. E.g. I'd like to like Julia but why did they copy the biggest mistake in Matlab (1-based arrays)??
+
+It's not perfect of course. It *is* a very complicated language. It *is* difficult to learn (not as much as functional languages though I would say). Compile time isn't great (but it's good enough these days). Async has tons of gotchas and extra complexity. The build system doesn't really care about purity or sandboxing at all, so caching/distributed builds are unreliable.
+
+But it's still way better than anything else I've used."
+7,janig9,1650910376.0,14.0,"In my honest opinion, just because it's interesting. This language breaks the rules that we all know from Java or any other object-oriented programming. The community is pretty young, the patterns are pretty fresh and everyone can invent something interesting. Also I love the fact that people are rewriting well known linux programs (like \`\` ls and so on..) to the rust and it works blaze fast! This language gives me a lot of fun and new (or forgotten :D) knowledge."
+8,StressedJoystick,1650910512.0,13.0,"Resource efficiency with memory safety. I came to Rust from the JVM platform and I always hated how much memory JVM hogs and how slow things are, compared to C programs."
+9,,1650924907.0,55.0,[deleted]
+10,pornel,1650930589.0,12.0,"Others list specific features, but I think the context also plays a huge role here.
+
+For ~40 years there was no real competition to C and C++. There were some attempts, but the other C-killers were either ""C but with a different syntax"" that weren't better enough to justify switching costs, or they were improving productivity/safety by adding a garbage collector or even a VM, and that ironically made them unsuitable to be real head-to-head C/C++ competitors (GC is fine for majority of programs in general, but not fine for any programs that had to be written in C or C++).
+
+So for many decades C and C++ had the no-GC niche entirely for themselves, without any viable alternatives. Rust is a major ""*finally!!!*"" in this niche. It gets huge love just by showing up where no other language wanted to be."
+11,theqwert,1650928776.0,11.0,"Having to use C++ at work made me realize the magic of Rust is that you *opt into* things that can cause mistakes instead of *opting out of* them.
+
+`noexcept` vs `Result<T, E>` - Explicit errors
+ 
+`const` vs `mut` - Explicit mutability
+
+`new ` with no `delete` vs `box.leak()` - Explicit memory leaks
+
+`int i;` vs `let foo: MaybeUninit<i32>;` - Explicit uninit
+
+`char` vs `u8, i8, char`, `int` vs `i16, i32, i64` - Explicit int types
+
+`char*, std::string` vs `vec<u8>, &str, String, OsString, Path` - Explicit string types
+
+And so on."
+12,mikekchar,1650930069.0,10.0,"Honestly, the very best thing for me is just that the tooling is excellent.  Rust analyser is at the point now where I basically don't ever think about it missing anything.  Clippy gives me insanely good advice all the time.  People complain about compile times, but if you are light on dependencies then it's totally fine.
+
+The next thing for me is the conservative approach for language design.  It's a *big* language, but everything in there has been thought through (more than once).  There isn't much cruft at all.  Most languages have features where over time you realise that it's actually an anti-feature.  It seemed like a good idea at the time, but in practice it didn't work out.  Somehow Rust has both avoided this *and* seems to have avoided the ""design by committee"" problems where people debate for years and then pick a compromise that works for nobody.  I suspect this is due to a fairly insular design team early on and the fact that it didn't get a lot of industry traction during its formative years.  It allowed the design team to move slowly and be opinionated.
+
+Having said that, there are still issues with the language IMHO.  I'm kind of waiting for the next generation of Rust-like languages to emerge.  I think in 10-15 years time we'll see a bunch of really interesting languages that were inspired by Rust.  We're already seeing a few of these poke their heads up out of the sand.  It will be very fun seeing them develop."
+13,Saefroch,1650931404.0,10.0,"I feel like I'm the only one who brings this up.
+
+The SO question is not ""do you love X"". It's ""Did you start using then continue using X"".
+
+So the good question here is about why Rust tends to stick. I personally think that it's a mixture of a missing niche and an expectation. For decades you've had to choose between safety and a GC. That's an awful choice to make in some contexts.
+
+But very importantly, I think Rust is intimidating. This is not necessarily a good thing. But I think it has contributed to the survey result a lot: People tend to not try Rust on a whim, and when they do try it they're ready for a tough journey. I think you'd see other languages with similar ""loved"" scores if they were approached similarly."
+14,Kitchen_Criticism774,1650922451.0,9.0,"
+Because while you code in Rust. The compiler teaches you how to code correctly. So help is just right there.  (Basicallt my life with Rust)"
+15,manithree,1650906996.0,25.0,"I programmed in C and C++ until about 2001, when I mostly switched to Java. C++ didn't have memory management back then, and subtle memory mgmt bugs in programs with over .5 million lines of code and dozens of programmers were REALLY hard to find. Even now, C++ doesn't eliminate those classes of bugs, just makes it easier not to create them.
+
+Java fixed a lot of that, but at the cost of high overhead.
+
+Rust is the best of both worlds. Guaranteed safety for certain classes of bugs, but C/C++ like performance. Modern tooling is the icing on the cake. I don't code rust professionally much yet, but I'm trying to get my employer to see the advantages where it makes sense."
+16,Feeling-Departure-4,1650930109.0,8.0,Ferris the crab. I kinda love that little guy. 🦀😁
+17,Damien0,1650942056.0,7.0,"For me, it is because essentially everything Rust does matches how I think about programming, in a very well thought-out and concise way.
+
+Some things off the top:
+- cargo is an excellent build tool
+- good documentation is idiomatic 
+- the type system is at once expressive and powerful; much like Haskell or an ML, I can often completely explain my problem domain using the type system. 
+- it’s fast, memory safe, concurrent, and secure.
+- the community is welcoming and interested
+- lots of cool tools are built in Rust and help people solve real problems.
+
+Learning Rust has made me a better programmer in other languages (Go, Python, C++), so I do tell people to give it a try and see what all the hype is actually about."
+18,globulemix,1650926796.0,6.0,"* Easy dependency management with cargo. Want a new dependency? Add one line in a toml file. Now you want to use that dependency? Everything (almost always) just works.
+
+* Easy setup of the language/compiler in general without cryptic errors.
+
+* Easy testing with cargo. *cargo test*, and again, everything usually just works. No need for testing frameworks that are difficult to set up due to cryptic errors (hi Java).
+
+* Forced, transparent, ""null"" handling. I've found null pointer exceptions to be pretty frustrating to debug.
+
+* Extremely fast performance, with the safety issues of c/c++ rarely needing to be directly dealt with.
+
+* Static typing.
+
+* Interoperability with almost every other language if you need it.
+
+* Great linting in *clippy* and standard formatting across crates that's easy to apply with *cargo fmt*.
+
+* Easy to write code once you get past some of the initial hurdles.
+
+I don't have many people to discuss Rust with, but if I did, I definitely would suggest it if I felt it could be beneficial."
+19,Sw429,1650939126.0,7.0,"As an experienced dev, it's not so much that I love Rust as much as I despise a lot of things about other languages that Rust deliberately attempts to fix. 
+
+Also, the whole enum thing isn't bad either."
+20,RomanRiesen,1650943643.0,5.0,"Whilst I love rust, here's what my inner cynic thinks; Because it isn't widely used in large production systems with tons of legacy yet and because the language itself is new enough to not have a ton of baggage."
+21,metalogica,1650946782.0,6.0,"The fact that it has no null value is one of my favs 👌
+
+https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/
+
+Also it combines the best of traditional low level languages with modern web friendly language together with totally new abstractions like lifetimes for memory management, and fearless concurrency.
+
+I wish I had more time to build things on it! My full time job uses fullstack JS. I want some WASM in the mix."
+22,a_aniq,1650920851.0,5.0,"Write to your hearts content and let the compiler lead you to victory, and in doing so you come to know the memory layout of the computer with the additional benefit of avoiding memory bugs without the runtime overhead of a garbage collector."
+23,maddymakesgames,1650933521.0,5.0,"What brought me to rust was the perspective performance and safety. What kept me with rust is cargo and [docs.rs](https://docs.rs).  
+
+
+Having a build tool provided by the language is great, and with cargo its just so good.  
+
+
+And then [docs.rs](https://docs.rs), having an automated system to host documentation for every published library is such a godsend. I think that having easy access to docs has allowed people to both learn to read docs and learn to write better docs. I've found myself be compelled to document my code more than in other languages because I know if I happen to publish it someone else will get use out of it."
+24,robthablob,1650920750.0,5.0,"Along with most of the other points raised, for me the Trait system is a pleasure too. Being able to define methods on generic types that only apply when the type parameter matches certain traits allows a fine-grained approach to types that I've not seen anywhere but Haskell, and it fits Rust so well."
+25,downrightcriminal,1650950817.0,3.0,"(I love FP) && (I hate OOP) && (I want to learn systems programming) => learn Rust, simple.
+
+Rust adds most of the excellent features from FP world, while offering an interesting solution to memory safety. 
+
+And it has superb community and excellent resources to learn the language. 
+
+Plus it's a powerful language, and learning it will allow me to future proof myself and do anything I want.
+
+I'd love to have a Rust job one day."
+26,MrSabuhudo,1650964452.0,4.0,"One thing that doesn't get mentioned very often: The borrow checker may be difficult to get your head around at first. And many consider it somewhat of a necessary evil to get both performance and safety.
+
+But actually, having the ownership of data well defined and enforced throughout the code is a feature for the deveoper as well, in my opinion. It allows you to express your intent much more clearly. Do you wanna give a function some data, and don't need it anymore? Or do you need it again, and it must not be modified? There ideas are not expressible in other languages, increasing the cognitive load on the programmer, because they have to remember that stuff themselves.
+
+In essence, the Rust compiler frees my mind of things a machine can take care of, letting me focus on my problem fully."
+27,nderflow,1650973846.0,4.0,"Personally, I came for the borrow checker (more specifically: high performance without manual memory management) but the pain of getting to grips with the borrow checker cold have driven me away.  
+
+The reason I didn't give up was the intense focus on ergonomics, the usefulness of [docs.io](https://docs.io), and the standard library's consistency of use of Option, Result, etc."
+28,eliben,1650979704.0,4.0,"Rust is a good language and I like it. That said, I think the survey uncovers a very natural selection bias - Rust is the most loved because pretty much no one is *forced* to write Rust at this point. People pick Rust out of enthusiasm and curiosity, or join Rust-writing companies _because_ they use Rust.
+
+Give it 10 years and if Rust succeeds, you'll see a pattern emerging where the satisfaction % will go down simply because more and more people start writing Rust not because they like it but because their workplace uses it. And you'll see new emerging languages at high satisfaction rates."
+29,gcavalcante8808,1650938166.0,3.0,"Rust is awesome, as I can be really expressive! Coming from a python backend, I could do things since day one, this os neat 
+
+Cargo and the community are amazing as well.
+
+In terms of negative points, just the babel tower that is the async programming (Tokyo leading but there are other good implementations but there are no interface proposed)."
+30,brieucd,1650949062.0,3.0,"Also a newbie here. For me it was the tools. Try to set up a proper build for a new project in C/C++ in Cmake (and I dont mention autotools: autoscan, autogen, autoconf, M4 macros…) it’s insane the things you have to suffer for that! In rust, with cargo, it just works, with testings, documentation, dependency management. It’s fantastic!!!
+
+On top of that you got to program in a sane language whose compiler saves your butt every time you build thanks to the borrow checker and great error messages!"
+31,eugene2k,1650959511.0,3.0,"Personally, I hoped to see a language with static memory management since the early 2000s ever since I read about ""the C++ killer"" - the D programming language in Dr. Dobbs. D failed, and GC, IMHO, is the main reason. Rust, however, has almost all the features of C/C++, along with automatic memory management, without the disadvantages that the usual ""C++ killers"" have."
+32,words_number,1650960243.0,3.0,"- Cargo, rustup, clippy, rust-analyzer, ...
+- Really well thought out set of abstractions (traits, enums, pattern matching, iterators, etc., etc.)
+- Amazing type system and ownership rules almost automatically lead to super robust and reusable software and thus give me peace of mind while coding, even when using concurrency!
+- Performance/Speed
+- Versatility. Rust can literally be used for anything (from embedded, drivers or OS to any high level stuff)"
+33,PorblemOccifer,1650962525.0,3.0,"Just yesterday I was reminded of just how Rust can be super strict by default and how it can help prevent bugs.
+
+At work I had a situation in C where a type was defined with an enum {1, 2, 3, 4}, for example.
+
+Then, a variable of that type was assigned the value 100.
+
+C didn't care. It let someone in our company compile that and left me to hunt that bug for an hour.  
+
+
+Rust? nono. So that's great."
+34,derVeep,1650974776.0,3.0,"For me, it’s a well designed language that allows me to do complex things quickly, with amazing code execution speed. I find it hits a certain balance between scripting languages and compiled languages -not as easy as Python, not as hard as C- that is very comfortable for me and allows me to get a lot done. 
+
+Memory safety is an implementation detail that I don’t care about too much. By that, I mean that because it’s done so well, I can focus on my app and very often forget that it’s a thing. 
+
+Maybe I don’t write the best Rust in the world, but as a serial startup developer, I’ve built several products with it, and I think it’s made that possible. The strong compile time guarantees make the heavy refactoring that’s common to greenfield development a breeze, and I can do it with high confidence. 
+
+Clippy and the compiler often call me out in generally clear terms when my code is syntactically correct, but logically wrong or not ideal. “Hey - you forgot to await that future! Is that what you want?” “You’re not handling that Result, btw. Maybe you should??” 
+
+I just find the whole ecosystem to be amazing and supportive, and rapidly getting better. It’s truly becoming a general purpose programming language for me, and I kind of bristle when people say “systems programming language” to imply that it’s only good for low level stuff. (That’s not even what it means, but people seem to take it that way.) I write tons of web services, Kafka services, and aws lambdas containing business logic, same as I’d do in any language. 
+
+My day job is in a Go shop, and I actually used to be a huge Go proponent. It’s alright, but now I keep finding myself going “this is so much easier in Rust”. In particular, I hate having to check for nil everywhere, and forgetting to do so often results in a crash. Results and Options are so much more graceful, and the fact that nil/null barely exists in Rust is such a blessing. 
+
+Ok, enough for me. I’ve found my new favorite language. It’s not without its frustrations, but as a 20+ year pro, I’ve never met a language that didn’t have some."
+35,zac_attack_,1651030831.0,3.0,Just gonna echo matklad’s reasons: https://matklad.github.io//2020/02/14/why-rust-is-loved.html
+36,pzartem,1650923709.0,8.0,Because only 5% uses it in production 😀
+37,CodeDead-gh,1650906775.0,11.0,Because it's almost as easy to write as JavaScript whilst offering incredible performance and practically no overhead.
+38,kofapox,1650934481.0,4.0,"I am from the embedded world, where I realy heavily on C, hate C++ Boost and STD library because a lot of stuff is bloated and no so high performant. And Rust is simply retardedly powerful. We can have binaries with a multitude of protocols, using async, with less than 1MB and extremely performant, we can abuse and use LTO to compile fucking everything and works stably. Running on MIPS with great success, impressive stuff."
+39,natded,1650947767.0,2.0,For me it is the fact that I can focus almost entirely on the business / application logic.
+40,tukanoid,1650952405.0,2.0,"Modern, frequent updates, helping community, tooling.
+
+Safety, trait system, pattern matching, cargo, syntax, macros. There's much more, but these are things that popped in my head"
+41,sirmaxford,1650956580.0,2.0,"- Memory safety
+- Cargo 
+- Very useful error messages 
+- Challenging 
+- Fast 
+- Syntax ~ familiar to C/C++/Python 
+- I would like a language like this to succeed 
+- Romantic notion 
+- I haven’t tried to convince others as yet"
+42,ByteArrayInputStream,1650976959.0,2.0,Simply put: I am a dumbass and rust keeps me away from the footguns
+43,Alexxander36,1650984775.0,2.0,"because its the best programming language, right now its not perfect because its new, but in 10 years, rust will dominate the market, industry and every project.
+
+why its the best ? i know, it is a big vague claim.
+
+here's the explanation:
+
+\- fast (performance is insanely fast)
+
+\- memory safe (no double free, no dangling pointer, no memory leak, no seg fault)
+
+\- thread safe (no data race)
+
+\- has a high level API, similar to python such as split(), find()
+
+\- its functional -> iter().map().filter().filter\_map().collect() and many more, you can do literally everything in one line and its more readable than python oneliner
+
+\- macros (the most overpowered concepts ever) -> you literally can create another programming language inside rust just with macros, look at yew framework with html! macros, its just like JSX, you can write html inside rust files with that macro
+
+\- its very explicit; you will always know what rust code will do
+
+\- cargo - a very good package manager, it handles dependency resolution very well, compared to pdm, pipenv or poetry for python
+
+\- the entire ecosystem, its strong, good, explicit, well thought, has good architecture
+
+\- is relatively easy to write, once you learned it
+
+\- very good type inference
+
+and many many more"
+44,KR_Shanto,1651014876.0,2.0,"A big reason to love Rust is the compiler error messages. 
+
+Most of the time you will figure out what is your mistake by seeing the error messages provided by the compiler and sometimes the compiler gives the exact code you need to fix the error"
+45,raedr7n,1650946474.0,3.0,"If I say ""because most devs have never used OCaml"", am I going to get downvoted into oblivion?"
+46,,1650906693.0,1.0,[deleted]
+47,Eorika,1650939346.0,1.0,It's just as pleasant to use as C# but Linux-friendly.
+48,rodarmor,1650943331.0,1.0,One word: cumsort.
+49,,1650926731.0,0.0,Because the respondents dream of how wonderful it would be if they actually used it?
+50,imonebear,1650907904.0,1.0,"I actually heard of Rust when I was doing some Projects in Python but didn't really feel like it was worth my time.  
+After I was getting annoyed with C++, I started searching for Rust and liked the way it works and tried to get more into for example Embedded Development. Never tried to convince someone to learn Rust, only if they want to get into a special field that they want to learn."
+51,flying_path,1650916905.0,1.0,"I love how it makes it harder to write buggy code. Great tooling, templates and tuple types are very nice, too."
+52,yottalogical,1650935273.0,1.0,"I feel like the general design ethos of Rust is that if the programmer makes any mistake, the language should notice as soon as possible (usually at compile time) and help you fix it.
+
+This also should be done with minimal (usually zero) cost at runtime."
+53,BenZed,1650939380.0,1.0,Cuz rust is dope as shit
+54,XxClubPenguinGamerxX,1650939988.0,1.0,The power of C++ without the nastiness of C++.
+55,kajaktumkajaktum,1650945828.0,1.0,pattern matching and proc macro is literally all the feature of Rust that I need. I have no idea why other (especially memory managed ones) don't have pattern matching (or does them poorly).
+56,DevRW,1650984652.0,1.0,"Rust has a lot of great features that make me love it, but the #1 reason for me personally is that I think it's easy to understand complex code (of the languages I know).
+
+I remember the first time I tried reading Django source (might have been DRF) to figure out how something was working under the hood; I was very lost. This was consistent with many Python libraries I dug into. Doubly so if the library had no type hints, or worse, weak comments.
+
+I find plain JavaScript literally impenetrable after a certain amount of size and complexity.
+
+Meanwhile, despite having MUCH less experience in Rust, I've dug into the code for Bevy (game engine), Rocket and Axum (web frameworks), and many more - and I generally understood how things worked. Moreover, I knew I could change things and it would work. Or I could make it work, thanks to compiler-guided refactoring.
+
+Now, this could be partially attributed to static vs dynamic typing... I prefer the explicitness of types. It could also be that I am a much better programmer now than I was 5 years ago.
+
+Those are both definitely true, and experience absolutely has an impact. But I genuinely feel ""empowered"" with Rust when it comes to reading and writing code in complex codebases - and that, to me, is a fantastic benefit.
+
+I don't really try to convince people to learn specific languages, but would certainly give a recommendation for Rust if they were prepared to take on the initial learning curve."
+57,Opposite_Green_1717,1650987594.0,1.0,"While i agree heavily with the top posts, i did want to stress that Rust is - imo - a very easy language to use.
+
+Coming from someone who previously used primarily dynamic languages, Python, Node, Go, etc - and not C/C++ at all, Rust feels the most productive language to me. It gives me the tooling and features of dynamic languages like Python and Go while also giving me the type system to refactor with confidence and catch bugs and me more efficient at writing code.
+
+I feel like Rust is often labeled as being a slower language to develop in by non-Rust devs. Yea, i might be able to bang out some more words in Python or Go than Rust, but i definitely spend more time debugging type-less errors in Python or working around a simplified type system in Go.
+
+Rust hits a sweet spot of features and experience for me. It makes development faster and easier long term for me. I experience less headaches in Rust."
+58,tedster,1650989251.0,1.0,"Because it's fairly new and a big percentage of users are enthusiasts atm.
+When adoption increase and rust will be pushed onto people who wouldn't adopt naturally the trend will shift. That being said, it's a really pleasant language because of the reasons pointed out in this thread :)"
+59,ask_self,1651000176.0,1.0,It feels good to write Rust
+60,Uncaffeinated,1651038013.0,1.0,"Writing Rust gives me a feeling of craftsmanship that I can't get in any other mature language, with the way that I can know that a lot of common mistakes are statically ruled out and there's good performance out of the box. It also has great tooling and a great community."
+61,Paper_Patience,1652364266.0,1.0,"I just stumbled across it. Used to know C, but I refuse to go back to that after using Rust lol.
+
+I recently learned Web dev with JavaScript + node.JS + React, and I would like to also know a systems programming language that would complement it well, and possibly create my own libraries/dependencies with WebAssembly."
+62,,1650905389.0,-18.0,I would say it's definitely not due to enums and match being easy for a developer to understand.
+63,RustaceanOne,1651408890.0,0.0,"It SHOULDN'T BE the ""most loved"". Very few programmers are using it - very few.
+
+It might be the one people are most interested in.
+
+It might be the ones most loved by those that continue forth with it.
+
+It's NOT the most loved by the general community because they don't use it.
+
+It's NOT easy for most to get over the hump when working or training on other things.
+
+Most people should likely learn in school as first programming language, which is why adoption will be slow - not many teaching it. Other option is to drop out of life to learn Rust as I chose to. I learn many other things of course, as we all have to - all the other technologies that are constantly changing too, like storage, 3D, languages you can't ignore like python (pretty much a requirement for devs now). It takes more time than most think, but students have all the time, so they should be the target to get people onboard."
+64,praveenperera,1650936006.0,122.0,"- enums
+- no nils
+- strongly typed"
+65,pbspbsingh,1650907859.0,113.0,"Totally, memory safety is just a cherry on top (for me), I totally love how most of the features in rust are very carefully put together. It's a pleasure to write code in rust."
+66,Torrent4Life_,1650925951.0,97.0,* Enums
+67,editor_of_the_beast,1650939986.0,19.0,"That’s because without the borrow checker, Rust is just a solid ML."
+68,yottalogical,1650935031.0,29.0,There are lots of languages that are memory safe. Rust just does it without compromising things like performance.
+69,matiu2,1650955362.0,4.0,rust-analyzer
+70,Floppie7th,1651068808.0,3.0,"Honestly you could even take performance off the list and I'd still love it.
+
+Performance was the reason I did my first project in Rust...but other than that, I'm almost never writing something that's particularly performance-critical, or even really performance-relevant.  It's nice having a small footprint, but I'm not paying cloud bills or anything.
+
+My current day job is a Rust project for which performance *is* considered critical, though; and the one I'm starting next month is a Python shop with interest in Rust for performance-critical pieces."
+71,KR_Shanto,1651015032.0,2.0,Also the crate documentation (docs.rs) is one of the best feature
+72,Crazyboreddeveloper,1650937877.0,39.0,"I still don’t have a lot of experience with rust, but those error messages made me love rust. Probably the most useful error messages I’ve encountered so far. In most other languages the error is a riddle, with rust it’s like “your widget won’t work like that. here, do this instead.”"
+73,Sw429,1650948076.0,5.0,">very easy to setup on Windows
+
+This is one I always forget until I have to set it up on a new windows machine. Probably one of the best parts."
+74,Engineer_LEGO,1650951305.0,12.0,"> very easy to set up on windows
+
+You can add to that:
+- Even easier to set up on Linux"
+75,tarunwadhwa13,1650904740.0,35.0,"+1
+Great Compiler, Super speed and safer memory management.
+I think there was always a gap for such languages. Languages like C,C++ certainly haunted newbies and you needed expert memory management. Luckily things have improved alot after rust"
+76,VanaTallinn,1650950619.0,9.0,I tried go and was disappointed by the compiler messages. The Rust compiler is much more helpful.
+77,phraker,1650923195.0,17.0,This was really fun to read lol
+78,gngeorgiev,1651053936.0,4.0,"Now all the parents in here are asking themselves ""Am I a JavaScript or Rust parent?"""
+79,eddysanoli,1650923155.0,8.0,Very underrated comment. Great stuff!
+80,4GIALrDGG8HakdcaUw7L,1650934649.0,2.0,This is delightful.
+81,dominikwilkowski,1650933608.0,-1.0,Now do ruby
+82,dominikwilkowski,1650933616.0,-1.0,Now do ruby
+83,rowenslee,1650935423.0,0.0,u/bake_in_da_south
+84,Sw429,1650948338.0,8.0,"Serde is absolutely amazing. The more I delve into it, the more I see how well it's constructed as a generic solution for serialization. Transcoding is super simple, and you don't have to do hardly anything extra to allow your type to work with different formats."
+85,diabolic_recursion,1650922598.0,12.0,But even if tests are necessary - with the integrated cargo test it is very easy to start testing.
+86,TinBryn,1650943399.0,5.0,"If you've seen Sean Parent's ""Better code: Inheritance"" or ""Inheritance is the base class of evil"" he has a point about reference semantic languages. Basically since everything is a reference and there is no way of knowing if anything else has a reference and can mutate it, programming in those languages is semantically the same as if you're using global mutable variables for everything."
+87,tavaren42,1650935851.0,14.0,"I love Rust, but this is closer to truth, imo."
+88,felipou,1650944813.0,1.0,Doesn’t this apply to all languages in the survey?
+89,phazer99,1650959111.0,6.0,"Rust has definitely set a very high bar for new programming languages in general and system languages in particular in terms of tooling, error messages, safety, language clarity etc. As far as system languages go I don't see a big reason for an alternative to Rust, I think it's covers this domain well and will continue to get more ergonomic and expressive in the future.
+
+I do however see some need for a new application level language with automatic GC (optimized ref counting seems like the best option) as the current alternatives (Scala, C#, Swift etc.) all have limitations. I'm thinking a pure, dependently typed FPL with zero cost abstractions and an effect system. Preferably it would interoperate seamlessly with Cargo and the Rust crate system. [Idris](https://www.idris-lang.org/), [Lean 4](https://github.com/leanprover/lean4) and [Koka](https://koka-lang.github.io/koka/doc/index.html) are all interesting projects, but they all need lots of work on tooling, user friendliness, portability and Rust interop (which really would be the killer feature that could enable wider adoption of such a language)."
+90,generalbaguette,1650955385.0,2.0,"What do you mean by choosing between safety and a GC?
+
+The safe languages tended also to have a GC, didn't they?"
+91,SaltyButtcrumbs,1650978243.0,2.0,Seriously. I have learned so much just from fixing compiler errors. It forces me to learn WHY what I am doing is wrong or unsafe.
+92,Gaolaowai,1651119460.0,2.0,I love enums in Rust. Basically magic as far as I’m concerned.
+93,generalbaguette,1650954659.0,3.0,"You could try Typescript at least? It's fully compatible with JS, and gives you some static typing."
+94,SaltyButtcrumbs,1650978510.0,3.0,The compiler really is the best teacher.
+95,generalbaguette,1650954598.0,1.0,">I'd love to have a Rust job one day.
+
+Are you doing anything to make that happen?"
+96,Fluffy8x,1651073919.0,1.0,"> For me it was the tools.
+
+This is the major reason I chose Rust for [f9i](https://gitlab.com/Kyarei/f9i)."
+97,Gaolaowai,1651119500.0,1.0,"My company is nearly complete in the process of rewriting our backend stuff in Rust. Once the team got the hang of it, it’s been great."
+98,Modi57,1650912028.0,8.0,"I would intercept, that it takes a bit to warm up with it, so it get's really easy to write, but then it's a real pleasure"
+99,IshKebab,1650913652.0,36.0,"> Because it's almost as easy to write as JavaScript
+
+I love Rust but that is a *huge* exaggeration. Lies like this put people off."
+100,Gaolaowai,1651119807.0,1.0,But that runtime cost. OCaml is a language that I want to love but which sits at an awkward place on the safety/no-GC spectrum.
+101,StressedJoystick,1650910331.0,9.0,Dark Souls is extremely user-unfriendly and targets non-casual masochists. Saying that about Rust isn’t right.
+102,puttak,1651026970.0,1.0,I use C# with .NET Core since 2.1 on Arch Linux and I very happy with it.
+103,generalbaguette,1650955173.0,1.0,"That's like D.
+
+(D is a great language as well. Not as ambitious as Rust in terms of type system.)"
+104,generalbaguette,1650954748.0,2.0,"I don't think there's any relation between having a GC and having pattern matching?
+
+ML family languages like Haskell have pattern matching. Erlang also has it. Many Lisps can support it. Python just got it. (Admittedly, those are all languages with GCs.)"
+105,diabolic_recursion,1650922802.0,6.0,"I'd answer while that may be true for some people, once they get into it, many really miss these features in other languages like Java, C# or C."
+106,jakubDoka,1650921649.0,46.0,"Actually, the way rust is developed makes features so right, they are not afraid to experiment in nightly, failure is acceptable at this stage."
+107,kerbidiah15,1650934690.0,35.0,Don’t forget about optionals and results!!!
+108,,1650941535.0,-31.0,[removed]
+109,ssokolow,1650948133.0,3.0,"Which makes sense, given its Ocaml ancestry. (`let`, `match`, `'a`, and `->` being Ocaml syntax, the original compiler being written in Ocaml, etc.)
+
+That said, don't underestimate the value of a more familiar syntax.
+
+I don't care if it's an expression of how currying plays into what a function call is. I just can't get used to such a sparseness of parens (it feels too unstructured) and, when I was using CoffeeScript, I took full advantage of how their omission was optional to always include them.
+
+(I think that's a Ruby-ism, but Ruby thought it was important enough to remain consistent on that point by choosing that, if the parens are optional and the language isn't fundamentally currying-based, then functions shouldn't be first-class objects to resolve the problem in the other direction... I much prefer having first-class functions and requiring parens in my non-functional language, but to each their own. I know I'd always be worried about refactoring breaking calls to no-argument functions/methods without parens.)"
+110,Rami3L_Li,1650972707.0,2.0,"Not only that, but it also has a whole ecosystem built with user friendliness in mind. The libs, the tooling, the docs, and all the little things that come by default really make me feel less productive even in a mature language like, say, Java…
+
+And to a point where I would still love Rust even without the ML-ness."
+111,CommunismDoesntWork,1650997280.0,2.0,ML?
+112,mixandgo,1650947132.0,12.0,You should try Elm. I think the error messages in Elm are even better.
+113,Gearwatcher,1650969762.0,12.0,The point is that most languages and compilers are super easy to setup on Linux or even Mac but they are often frustratingly complicated to setup on Windows.
+114,bake_in_da_south,1650935621.0,1.0,🥺🥺🥺
+115,sparky8251,1650980884.0,5.0,"Plus its performance is a bit offputting given its all autogenerated... It's not the best of the best at this stuff all the time given benches I've seen, but it is sometimes, and even when its not its usually up there with carefully made C/++ code thats had decades of tweaks done to it.
+
+If serde isn't an amazing showcase of what Rust has to offer people, I don't know what could be. Easy to use, extremely performant, type safe yet ""generic"" and all done at compile time. Truly the best of all worlds."
+116,Zde-G,1650928162.0,-3.0,"Units test are pretty hard to do in Rust… and that's Okay.
+
+I always hated unit tests and with Rust, I finally… just don't need them. Most of the time.
+
+If I really, **realy**, **REALLY** need these they are doable with some tricks, but 99% of time they are just not needed."
+117,kinoshitajona,1650939425.0,12.0,"Yeah, comparative lack of jobs also means a lack in people who ""use it because my company forces me to"", which is probably a huge ding to all other languages."
+118,TJSomething,1650947640.0,12.0,It doesn't apply to languages that people use because they have to for work.
+119,hackometer,1650957206.0,7.0,"You can successfully use Java or JavaScript or Python without committing too much to it, and walk away later. Superficial techniques like copy-paste and trial-and-error can get you a long way.
+
+You can't begin to write a single module in Rust without a very conscious decision to dig in and learn enough to get off the ground."
+120,robin-m,1650965557.0,3.0,"That's the point. Before Rust if you wanted to have safety, you had to pay the price of a GC"
+121,metalogica,1650976332.0,2.0,Funnily enough we are doing just that right now
+122,SaltyButtcrumbs,1650978596.0,2.0,Second TypeScript. I will never go back to native JS if I can avoid it.
+123,downrightcriminal,1650962046.0,2.0,I am learning Rust and making projects in it (so far they've been smaller projects). Once I have done some bigger projects I'll start searching and applying on Rust jobs.
+124,CodeDead-gh,1650912077.0,5.0,"Absolutely, once you start using Rust, you never go back (unless corporate says no because they have no idea what it is)!"
+125,nicoburns,1650916046.0,11.0,"As someone who came to Rust from JavaScript, I agree that it's a bit of an exaggeration. But not a huge one. My Rust code often looks incredibly like my JavaScript code (and even more like TypeScript). The only difference is that Rust is a bit more pernickety about what it accepts (but it usually very helpful in explaining why).
+
+Compare that to C which basically requires working in an entirely different paradigm, and I think it's fair to say that Rust is nowhere near as much of a leap."
+126,CodeDead-gh,1650915724.0,26.0,"Please don't mistake opinions for facts. How is it a lie if I am voicing my personal opinion that I find it almost as easy to write? Rust doesn't have the concept of truthy or falsy, 'undefined' versus null, 1 == '1', null + 0 = 0, etc..
+
+There's an entire website dedicated to how odd JavaScript is; things that literally make zero sense, so much so that I could argue that it's probably easier to write safe applications in Rust that actually make sense than write JS.
+
+[https://jsisweird.com](https://jsisweird.com)
+
+Why am I voicing this opinion? Because I've been writing JavaScript for 10 years, and the last year or two of my life I've been doing more and more Rust and it simply makes more sense and many JS devs will agree with this. That doesn't make my opinion true or false, and most certainly not a lie."
+127,yottalogical,1650935508.0,3.0,"It's harder to get a program working, but it's easier to get the program working *and correct*.
+
+Especially big ones."
+128,raedr7n,1651120481.0,1.0,"There's really very little runtime cost; almost everything is static in OCaml. The only thing is the GC, but OCaml still benchmarks very well for speed (mostly held back by code generation), sitting somewhere between Java and C on average, both of which are obviously considered very fast languages.
+
+I don't see how being safe and having a garbage collector is an awkward space."
+129,WormRabbit,1650924399.0,2.0,"How about ""the Sekiro of programming languages""?"
+130,XxClubPenguinGamerxX,1650981577.0,1.0,D is likr C not C++
+131,,1650923718.0,2.0,Thanks... gives me hope :D
+132,Halkcyon,1650936233.0,60.0,They already said enums.
+133,mattsowa,1650956723.0,5.0,Found the party pooper
+134,oleid,1651012194.0,2.0,"Depends on what your define as 'your career'.
+
+'good programmer' and 'has studied computer science'  are not equivalent. There may be an overlap, but neither is a precondition."
+135,FlukeHermit,1651023291.0,2.0,"Its actually algebraic data types, for those of you who haven't studied their own careers
+/s"
+136,editor_of_the_beast,1650969387.0,5.0,"I’m not following what you’re saying. Are you saying that Rust has an unfamiliar syntax? Which part?
+
+And you keep mentioning parens, but what’s the good usage of parens to you?"
+137,sonic0077,1650955796.0,-2.0,つお＼
+138,editor_of_the_beast,1651004646.0,6.0,"Oh my friend. Are you in for a treat: https://en.m.wikipedia.org/wiki/Standard_ML.
+
+Standard ML is the holy grail of all PL theory. Sum types. Pattern matching. Type inference, all the way to the types of function arguments. A fully formalized operational semantics.
+
+Everything goes back to ML."
+139,Crazyboreddeveloper,1650948123.0,5.0,Oh man... I work with some seriously nasty code right now. That elm sample code made me feel calm inside. Thank you.
+140,omgitsjo,1651002636.0,2.0,Python + OpenCV used to take a full day or more to set up.  MinGW nightmares and MSVC incompatibility were/are awful for some languages.
+141,alice_i_cecile,1650931925.0,15.0,"What are you running into? I've always found them very easy to write.  
+
+
+Doc tests on the other hand are a pain, because they're executed one at a time and RA doesn't work on them :("
+142,Sw429,1650948179.0,8.0,"Really? I find it incredibly easy to write unit tests, especially compared to some other languages. No need to use any third-party test library. Just write a function, annotate it with the test attribute, and that's it.
+
+Edit: a word"
+143,generalbaguette,1650965914.0,6.0,"Ok, that makes sense. I would have expressed that as having to choose between unsafety or a GC?"
+144,generalbaguette,1650988130.0,2.0,"Typescript ain't perfect, but I found it surprisingly bearable.
+
+Similar to how Facebook's Hack is surprisingly bearable, especially compared to bad old PHP."
+145,generalbaguette,1650964209.0,1.0,"Are you already working as a programmer? How much experience do you have in general?
+
+The crypto folks seem to be quite keen on Rust programmers."
+146,Modi57,1650912131.0,5.0,"Once you use rust, there is never any other lust"
+147,KingStannis2020,1650949251.0,3.0,"I find it's not that much harder - if you can break through the temptation to use all the fancy combinators in the standard library, and aren't afraid of `.unwrap()` and `.clone()`
+
+Unfortunately I have a difficult time with that, so I spend 10x as long as I ought to on a solution."
+148,Masterflitzer,1650917712.0,5.0,"yes the truthy and falsely and having undefined and null is just so incredibly stupid that I always hate myself for having to use JS when doing some frontend web dev
+
+edit: https://jsisweird.com is very cool"
+149,IshKebab,1650917927.0,-1.0,"Ok maybe the issue is that you say it's nearly as easy to *write* whereas I think people will interpret that as it's nearly as easy to *learn*.
+
+If you are very familiar with both then I would maybe accept that Rust is *approximately* as easy to write. Still a bit of a stretch.
+
+> Rust doesn't have the concept of truthy or falsy, 'undefined' versus null, 1 == '1', null + 0 = 0, etc..
+
+All of those things can be avoided using Typescript and ESLint. Javascript/Typescript doesn't have the concept of the borrow checker."
+150,Nysor,1650945730.0,1.0,"I agree that the basic ES5 JS has some *terrible* quirks, but most development done these days is with Typescript. And Typescript is far easier than Rust.
+
+Great site though."
+151,ask_self,1650999854.0,0.0,JS is easier to write because it's single threaded and has a garbage collector.
+152,IshKebab,1650956283.0,1.0,Yeah I definitely agree with that.
+153,gnosnivek,1650990006.0,1.0,"I would argue that 
+
+* learning C++ coming from garbage-collected languages without raw pointers
+* learning Haskell as your first functional programming language
+* learning how to get Coq/Agda/Idris to do anything nontrivial
+
+are all at least as hard as picking up Rust for programmers with a little prior experience. I mean, learning Rust can be a challenge for sure, but I don't think it's 10x harder than the next-hardest thing out there--and good thing too, otherwise I suspect we wouldn't really have the Rust community that we do today."
+154,reyqt,1650950027.0,20.0,"I think only having enum is not enough. If ecosystem doesn't use Option/Result widely, benefits may largely decreased.
+
+Think about when Java eventually get sum type(enum) and pattern matching you can now define Result type but almost all codebase from external source is based on try/catch so you may get exception even if you handle result with match."
+155,fbpw131,1650981123.0,3.0,"enums + ""no null"" is actually the awesome combo here"
+156,ssokolow,1650971802.0,3.0,"I'm saying that:
+
+1. It's no surprise that, without the borrow checker, Rust is ""just a solid ML"", because the compiler was originally written in Ocaml and Rust borrowed syntactic elements like `let`, `match`, `'a`, and `->` from Ocaml.
+2. I like Rust's syntax more than any of the languages I've looked at which it's borrowed features from.
+
+The rest is just a rambling elaboration on *why* I'm not a fan of syntax decisions in languages like Haskell."
+157,ssokolow,1650947721.0,4.0,"> Doc tests on the other hand are a pain, because they're executed one at a time and RA doesn't work on them :(
+
+...and they cause `cargo test` run times to blow up.
+
+Because of that, in my projects, I tend to use other forms of tests to ensure correct function and then use `no_run` on my example snips so I'm effectively `cargo check`-ing that the examples match the shape of the APIs I expose, but relying on old-fashioned manual effort to keep a non-doc test in sync which tests for what the type signatures can't enforce."
+158,Zde-G,1650967935.0,3.0,">What are you running into? I've always found them very easy to write.
+
+No implementation inheritance mean you couldn't mock concrete types and write tests of a form *ensure that* `foo` *is called once before* `bar` *and once after if I call* `baz`.
+
+Usually you just don't need tests like that (and I have no idea why Java people like them so much), but these are hard because you need to, basically, mangle a type in a specific way for each and every test and Rust fights you.
+
+They are not impossible, but Rust is not Java."
+159,KingStannis2020,1650949026.0,1.0,Doc tests ought to be mostly happy path example code.
+160,Sharlinator,1650964667.0,3.0,"And you don’t even have to context switch to a separate file in a separate part of the tree! Honestly, like many others, I was initially apprehensive about the Rust convention to put unit tests in the same file as the code that they test… but very quickly I became convinced that it’s not just a good idea, but the *obviously correct* thing to do!"
+161,Zde-G,1650978132.0,-1.0,"> Just write a function, annotate it with the rest attribute, and that's it.
+
+And how would you ensure that said function tests specifically **your** module, **in isolation**, without calling any other modules?
+
+Do you even remember what's the difference between **unit** testing and **integration** testing?
+
+Unit tests are hard in Rust… and I like that.
+
+Because, frankly, I have rarely seen bugs in modules in **any** language.
+
+Bugs always sit on the edge. When you interact with outside's code.
+
+But unit testing is an easy way to achieve near 100% coverage and since it doesn't really test anything important these tests rarely break thus they are good from management POV."
+162,downrightcriminal,1650978434.0,2.0,"2.5 years of experience. Already working with mainly JS/TS.
+
+And I'm not interested in ever working to promote the modern Ponzi schemes."
+163,CodeDead-gh,1650918206.0,6.0,"I never used the word 'learn', nor was I talking about TypeScript, which is a language of its own. I hope this clarifies things but when it comes to choice of words: some people will find it easier to learn Rust when compared to JavaScript and vice versa!
+
+ESLint is a linting tool and not a programming language which, when configured in a certain way can prevent certain 'issues' from arising, but that doesn't make the concepts of truthy, falsy, true, false, null, undefined, 0, etc. any more true or false in JavaScript. They're simply a part of the language. In addition, ESLint is opinionated and only as good as its configuration and not usable in all environments. Avoidable 'mistakes', yes, but as soon as you meet a programmer who uses nano, vi or default VIM without linting capabilities it's game over for these tools unless you force the usage of git hooks in a git-based versioning environment.
+
+You can add Prettier to the mix as well to make your formatting inherently follow a certain formatting style but that doesn't mean the language itself doesn't allow more than 100 characters on a single line, [unlike much older languages like IBM's RPG IV programming language in which there are set limitations to the number of characters you can write in a single line of code](https://www.ibm.com/docs/en/i/7.3?topic=appendixes-appendix-rpg-iv-restrictions).
+
+But thank you for replying, I do hope you understand I'm not writing anything malicious or false here. In regards to writing Rust versus JavaScript: Some people will agree, some won't. It's like arguing about whether you like pineapple on your pizza or not. Either way is absolutely fine, you should pick whichever tool (or condiment) you like the most."
+164,irrelevantPseudonym,1650952996.0,3.0,"While java still has null, you lose all the benefits of returning an enum."
+165,editor_of_the_beast,1650973756.0,3.0,"Gotcha. Re Haskell syntax - that’s why I’m such a big proponent of universal call syntax, I.e. desugaring method calls into plain function calls. I don’t think it’s a mistake at all that people prefer ‘receiver.operation’ syntax."
+166,nderflow,1650973651.0,2.0,">No implementation inheritance mean you couldn't mock concrete types and write tests of a form ensure that foo is called once before bar and once after if I call baz.
+
+Yes, I agree that people's propensity to do this is a real thing but a bit puzzling.  In sufficiently-vast code bases this is the #1 cause of maintenance pain for library developers.  You can no longer change the implementation because 20,000 callers assume that the implementation works a certain way.   That is, other people's unit test design breaks the interface abstraction.   
+ Though TBF the only times I've suffered from this personally is in Python code, not Java code."
+167,alice_i_cecile,1650951252.0,3.0,"It still sucks to have to play compiler yourself, and have to repeatedly run the example to fix compiler nits.  
+
+
+For anything non-trivial, I've taken to writing the test in a unit test, using RA to make it pass, then copying it in."
+168,generalbaguette,1650988063.0,1.0,"You could take their money and do a shitty job. ;-)
+
+I've used a bit of Rust in non-crypto finance. I've used a lot of Haskell and OCaml in traditional finance, too. But that was quite a few years ago."
+169,IshKebab,1650920071.0,0.0,"> some people will find it easier to learn Rust when compared to JavaScript and vice versa!
+
+Ok well this I strongly disagree with. Almost nobody will find it easier to learn Rust than JavaScript, despite JavaScript's old quirks and shitty API. We could do a poll but I'm sure even people in this sub would overwhelmingly agree that JS is easier to learn.
+
+> but that doesn't make the concepts of truthy, falsy, true, false, null, undefined, 0, etc. any more true or false in JavaScript. They're simply a part of the language.
+
+Not if you use ESLint to ban them!!
+
+> ESLint is opinionated and only as good as its configuration
+
+Yeah that I definitely agree with. You do need to put in some work to ban the insane stuff - especially truthiness which actually requires Typescript unfortunately.
+
+> Avoidable 'mistakes', yes, but as soon as you meet a programmer who uses nano, vi or default VIM without linting capabilities it's game over for these tools unless you force the usage of git hooks in a git-based versioning environment.
+
+You can easily run ESLint in CI."
+170,kerbidiah15,1651083286.0,1.0,I think you mean Optional
+171,downrightcriminal,1650989251.0,1.0,"Haha yeah, if things come to it, if only jobs out there are crypto, I may have to do that... Or maybe just quit the industry...
+
+What language you work with these days? How did you find working with Haskell?
+
+I never got into OCaml because of somewhat complicated syntax... But maybe after Rust I can now read OCaml..."
+172,CodeDead-gh,1650920229.0,5.0,">Ok well this I strongly disagree with.  
+>  
+>We could do a poll but I'm sure even people in this sub would overwhelmingly agree that JS is easier to learn.
+
+You're free to disagree with the planet being round too, but there is a 100% chance I'll find someone for which your disagreement matters very little if at all (you're talking to someone like that already; me). I'm sure C, Go, C++ and IL developers would disagree with your disagreement, for example because Rust would hit much closer to home.  You are allowed to already have a background or experience with other lower-level languages (not that Intermediate Language in .NET is a LLPL). People aren't clones and it's not because you disagree with something that that makes something true or false.
+
+**Even so, it does not matter in the slightest**, because there are so many tools and languages to get things done and so many different choices that there is inherently no right or wrong answer in the grand scheme of things. Write a GUI application in .NET? Sure, why not. Write a GUI application in JavaFX? Also possible. Write a front-end application in C++ or Rust? Sure, why not, WASM is a thing. Performs better than plain old JS in some cases.
+
+But when it comes to the micro-level choices that you make in regards to specific use-cases and scenario's it will become apparent which tools or languages will be preferred for certain tasks and sometimes it has nothing to do with the language itself but the ecosystem around it.
+
+For example; are you absolutely certain that you want to write C++ code and compile it to WASM for your front-end if there are no other C++ developers in the immediate area and remote work isn't an option? Are you sure you want to write your GUI desktop application in JavaScript/Electron if the client only has 100MB of disk space available (Embedded machines for example)? Tauri can help reduce the binary size of your JS UI application but does your system have a WebView component it can rely on?"
+173,OS6aDohpegavod4,1650920829.0,3.0,"I think the big distinction here is ""learn"" vs ""run"". Rust is harder to get to compile / run, but easier to learn. JS is easy to compile / run, but harder to learn. Learning a language is not about getting your code to run. Real world applications need it to run well and not be riddled with bugs. That is hard to do in JS and easy to do in Rust."
+174,jakubDoka,1650923683.0,2.0,"Negation of ""there are some people that think rust is easier to learn than js"" is ""there is no such person that thinks rust is easier to learn then js"", we know that statements can only be true or false. If first statement if false, its negation is true and vice versa. I can easily disprove your statement, because there is a person who thinks rust is easier to learn then js and you are eagerly arguing with him right now."
+175,generalbaguette,1651029860.0,2.0,"At its heart, OCaml is a much simpler language than Haskell.  Just in the sense that Haskell has a ton of extra features (a bit like C++, but they work much better together), while OCaml stayed fairly lean as a language.  Of course, that doesn't mean that OCaml programs are simpler than Haskell programs.
+
+Haskell was quite fun to use in production.  At a basic level, whatever someone else might use Python for, you can probably use Haskell for and be more productive.
+
+I say that, because Haskell is a fairly high level and flexible language.  But as a newbie, your code is probably going to be relatively slow.  (Not as slow as Python, by a long shot.)
+
+You can write very performant Haskell code, but it requires attention to detail and a good understanding of what GHC actually translates your code into.
+
+Since OCaml is a lot simpler, and also strict, it's more straightforward to write fast OCaml.
+
+These days I mostly write Python for work (in a different company than where I used Haskell and OCaml).  There's also a bit of Rust, Matlab, Java, Bash, Make, Cython, etc.
+
+Compared to Haskell, OCaml's syntax mostly feels a bit basic and cumbersome, but not overly complicated.
+
+When I was fresh to OCaml, I had a lot of fun solving algorithmic puzzles with it to get used to the language.  Mostly from Project Euler, but leetcode or so would also have done fine."

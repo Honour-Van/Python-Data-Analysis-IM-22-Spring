@@ -1,0 +1,8 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,PHP_guy,1498583423.0,2.0,It's weird how Oracle is #1 on https://db-engines.com/en/ranking but #6 on https://db-engines.com/en/ranking.  I wonder why the discrepancy. 
+1,So_average,1498495170.0,1.0,https://db-engines.com/en/ranking
+2,,1498523190.0,1.0,"I have to say, I like how this page has been changing lately:
+[https://db-engines.com/en/system/Oracle%3BPostgreSQL](https://db-engines.com/en/system/Oracle%3BPostgreSQL)
+
+Postgres has risen more than 60 points in the last year, while Oracle has fallen by more than 90.  Don't get me wrong, Oracle has a long way to fall, and it won't fall extremely far, but it's nice to see PG giving it a run for its money."
+3,So_average,1498544088.0,2.0,Damn right. Hopefully Postgres 10 will take a good chunk of users off of Oracle. 

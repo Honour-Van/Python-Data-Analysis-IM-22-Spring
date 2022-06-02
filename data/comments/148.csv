@@ -1,0 +1,71 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,mperham,1628089831.0,11.0,People dread Ruby more than JavaScript. Has the world gone mad?
+1,postmodern,1628106532.0,3.0,"We should work on the Love to Dread ratio. Based on conversations I've had with non-Rubyists, seems to be poorly designed legacy Rails apps account for most of the Dread."
+2,honeyryderchuck,1628373533.0,2.0,"There are two types of languages : the ones people hate, and the ones no one uses.
+
+The dread is explained probably by most working with rails only, probably a legacy soup, and with little buy in from management to use ruby anywhere else.
+
+Rust has seen a lot of hackernews buzz this year, but hasn't really gained a foothold in anything relevant. Most prominent projects are rewrites of popular tools with little added value beyond ""but it's memory safe"". But the buzz generates a lot of articles and FOMO in devs.
+
+Python love can only be explained by FOMO really. Ai and machine learning are the biggest ""solution looking for a problem"" domain that devs think should adapt to. Lost the count to how many talks I had with people doing web apps saying that the money is in machine learning. Hence python, with the most popular libraries and frameworks in the field, some maintained by bigtech corps. FOMO. No one doing python daily loves python. You argue about version compatibility. Package management. Deployment. Language quirks. It's incredible how all of that works.
+
+Javascript probably got some slack due to typescript. Or maybe backenders gave up on it finally and migrated to smth else, and gave up finally on the isomorphic dream.
+
+Great software was done with all of these technologies. I wouldn't worry about bad  feedback though. It'd be more concerning if there were no feedback."
+3,realkorvo,1628146984.0,2.0,"I dont think so. I wrote a lot of ruby and javascript. JS ecosystem is terrible, language has his own problems but you can build stuff from backend, frontend, mobile, AI. 
+
+we are in a bubble, ruby is getting smaller, is not pick by new devs, or new companies, has the false reputation os being super slow. 
+A lot of people think raills is ruby. I personal think, ruby is going to be unused in 10 years and just legacy projects will stay on."
+4,Sorc96,1628151822.0,4.0,I'm not surprised at all. The typical Rails app is an absolute nightmare to work on. It's truly ironic that such a wonderful language got popular thanks to a framework that makes OOP almost impossible and promotes al kinds of bad practices and antipatterns.
+5,,1628154239.0,5.0,"I'm not as pessimistic as you... I agree there are many cooler options with better reputation than Ruby for new companies. But Rails is still a viable option for web dev. It's difficult for me to compare numbers of adoption (I think no one knows how to measure this) but the Rails subreddit has 50K subscribers, Laravel has 62K, Django has 92K. So sure Rails is smaller but not by orders of magnitude. It's almost as big as the biggest framework in PHP. The Rails official Twitter has as much followers as Laravel (around 132K people). If we're gonna count big companies that use Rails/DJango/Laravel I don't think there will be a significant difference, actually Rails maybe has the edge.
+
+Ruby outside of Rails indeed doesn't make a lot of sense anymore sadly totally agree there, I mean you can build solid stuff with Ruby for sure but so much of the community revolves around Rails...no one cares much about Roda/Hanami etc etc they might be excellent but the community has spoken.
+
+This is just my 2 cents, I'm not gonna try to convince anyone and no one knows what the future holds. One last thought: Rewrites to a new tech aren't that easy. My company is a Rails/Ember company and they are kinda tied to this tech. Maybe they would have wanted to switch to something else but that's not gonna happen, they raised a bunch of money and need to show results to investors. Sure, some companies went the rewrite route but it's hard and not possible for everyone. And btw Rails is in amazing shape community wise compared to Ember, oh boy..."
+6,,1628154022.0,3.0,That's usually what happens in startups that deliver code in a crazy pace to survive and hire a bunch of inexperienced people. Since Ruby is mostly startup tech you get the impression the code quality is low. I don't think code written in PHP/Python/JS/Java written by inexperienced people with impossible deadlines looks much better
+7,realkorvo,1628153234.0,2.0,concerns /s :)
+8,realkorvo,1628154746.0,1.0,"well yes. so I'm somehow in a circle now. a circle of CRUD and api. 
+
+- websockets, crazy difficult few years ago, not even trying now
+
+- AI? some libraries used by 3 people
+
+- desktop. one library, nothing production ready
+
+- mobile. next one
+
+- audio/video calls. next :)
+
+then we have the development
+
+ - no clear roadmap
+ - a lot of action in Japanese
+ - not so much listen to community issues
+ - difficult to add value. even a tiny one
+ - multiple implementation of ruby, none of them production ready like mri
+ - ractor, is on beta, and it will stay there for years
+ - mjit brings performance to synthetic benchmarks
+ - rbs. ruby is a duck typing language, why add another file to maintain.
+
+and we can carry on forever :)
+
+I guess hope is from shopify"
+9,Sorc96,1628153487.0,2.0,"Ah yes, the pinnacle of design."
+10,,1628158058.0,2.0,"I hear you. It makes total sense to do Java/Python if you want to do mobile/AI.  It is what it is and not gonna change, Ruby is not a good option in those spaces.
+
+\> not so much listen to community
+
+Here I disagree. The Ruby team is putting so much effort into performance after all the criticism, it's all they ever talk about it actually. I feel like they're navigating the ship with good common sense. Will they succeed in boosting performance and how much I don't know. I do know a lot of serious companies are putting a lot of money into it (Shopify, Github etc)."
+11,realkorvo,1628165516.0,1.0,"I dont remember in the community any kind of question regarding rbs for example
+ractor yes, performance is nice
+async is currently done by one person
+
+want more people, why not emit javascript code, with official support from the core dev
+anyway, rant over.
+
+Ruby is a superb language, amazing community. Is make me sad, and upset that languages like python is js are choose"
+12,,1628167595.0,2.0,"\>  async is currently done by one person
+
+You're right; there's not a lot of effort to do async, I'm not sure why. Other areas like JIT/Garbage collection get a lot of effort from the big companies. I wonder why async is different.
+
+I would totally like to contribute there but it takes a long journey to understand C and ruby internals well enough."

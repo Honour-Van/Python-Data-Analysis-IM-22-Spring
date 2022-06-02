@@ -1,0 +1,29 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,trollman_falcon,1567923311.0,15.0,"Imagine migrating an entire codebase from an enterprise company with hundreds of developers. Do you think it’s harder to do that, or just deal with working with an old language?
+
+That’s why the older, bigger companies still use Objective-C"
+1,nutrecht,1567928773.0,8.0,"I don't really get why you're asking this. These companies have huge existing codebases in Objective C. They're not going to spend a huge amount of man-years converting that to Swift 'just because'.
+
+The iOS world is definitely moving to Swift, just like Android is moving to Kotlin. But it's a slow process."
+2,ategnatos,1567922969.0,9.0,You're going to have a short career if you can't learn another language.
+3,Yithar,1567950052.0,3.0,"> I didn't ignore anything. I'm willing to learn new things.
+
+Lol u/csthrowaway9208 u/Terra_Clover u/studiocrawler u/Overmatch4 stop lying you're not willing to learn new things. In fact you keep trying to argue about how it's pointless to learn new things unless your job requires it. That doesn't say to me you're willing to learn new things. That says to me you want to do the bare minimum."
+4,Yithar,1567950027.0,2.0,> You're going to have a short career if you can't learn another language.
+5,nacholicious,1567942609.0,3.0,"But can't you just migrate incrementally from ObjC > Swift, just like you can with Java > Kotlin?
+
+The apps I've worked on have been more or less ""all new projects and code should be in Kotlin, older code can be converted as needed"""
+6,dacian88,1567925372.0,1.0,"the main reasons are purely technical, swift has massive compilation times, generates more bloated code and you have to ship the runtime with your app."
+7,,1567923296.0,-5.0,"You're missing the point. Swift is often promoted to new Developers as THE language to learn to iOS Mobile Development.
+
+It's about perception of what iOS Mobile Development is that I'm poking at, not whether or not you have to learn a new programming language."
+8,iPlain,1567976996.0,2.0,"My company/team that was a Java shop had the same ""all new projects should be in Kotlin"", but decided against incrementally converting the existing Java codebases to avoid weird fragmentation, so possibly those big guys have a similar philosophy?"
+9,ategnatos,1567923609.0,9.0,"You're right, I am. Who cares about Swift? You really think you're going to be a software engineer and not have to deal with legacy code in a shitty language? I've had to learn awful, old languages just to fix a bug in some code we were going to migrate to a newer tech stack anyway. Why lock yourself into iOS Development and not just be a software engineer? You need to be able to adapt.
+
+It gets really old listening to devs whine about having to pick up a new language. Just do it."
+10,nacholicious,1567977756.0,2.0,"That seems a bit odd to me. At least on Android, more or less all framework code code is written in Java and even if you have a ""full"" Kotlin codebase you will have to know what happens behind the scenes in Java. So we don't have anything such thing as a non-fragmented Kotlin codebase :p
+
+But I guess it would really make sense if some engineers are aboard Kotlin and others that would be not so familiar with it."
+11,iPlain,1568043327.0,2.0,"True! Yeah these were more backend systems with Java/Kotlin + Spring Boot, so not the same deal as Android but still many libraries using Java under the hood.
+
+One of the reasons was to help reduce the Kotlin knowledge needed/ramp up time IIRC, as it helped ease people in to it if they learnt it alongside a new codebase rather than just seeing it pop up in existing systems, as well as letting other teams that might sometimes look into our code be more comfortable with Java than Kotlin."

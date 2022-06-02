@@ -1,0 +1,1873 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,metaledges,1490177799.0,533.0,"Most Popular Languages by Occupation
+
+ * For Sysadmin / DevOps no 1 is JavaScript
+
+ * For Data Scientist / Engineer no 1 is JavaScript
+"
+1,twiggy99999,1490175126.0,261.0,"> Most dreaded Visual Basic 6
+
+Amen brother "
+2,Skaarj,1490181961.0,396.0,"Most interesting for me:
+
+* Using vim is much more popular than I though. Great!
+* Desktop Linux is much more popular than I though. Yay!
+* ""Zip file back-ups"" is more popular than Mercurial
+* For ""Development Methodologies"" like Agile/Scrum there was no ""We do random stuff without real planning"" option"
+3,yes_we_can_t,1490187715.0,187.0,"> By far, reading official documentation and using Stack Overflow Q&A are the two most common ways developers level up their skills.
+
+Hmm.. wonder if that statistic could be slightly biased somehow."
+4,_lettuce_,1490185778.0,241.0,"
+> Linux Desktop
+>    32.9%
+
+It's happening.
+"
+5,XP0T,1490189903.0,24.0,"Now I'm pretty sure I was the only one that answered from my country. 
+ 
+And also, the only one that uses Delphi."
+6,slhn,1490199322.0,48.0,"> 0,1% unable to type
+
+Damn. And I thought my coding life was hard. "
+7,,1490179728.0,68.0,[deleted]
+8,ShadowLiberal,1490190878.0,100.0,"I'm rather shocked how many are using NotePad++ to develop.
+
+I admit, I do it myself in my spare time on a few really simple pet web projects that are just for my own personal use. But developing something professionally in NotePad++ to make money? No matter what language you're using there's got to be much better things to use that will give you much better error checking/etc."
+9,kristopolous,1490195025.0,19.0,"20+ years is the largest bracket? 
+
+I fall in this, but I find myself to be a really rare bird. This is effectively 1 in 6.
+Why is this not my real world experience?
+"
+10,tonga_money,1490208800.0,16.0,"did anybody else check in their code when they got to the ""how often do developers check in their code?""
+"
+11,comrade-jim,1490185798.0,124.0,"Aaannnd Linux is finally beating OS X in usage amongst developers. Surprised it took so long. 
+
+2017: https://stackoverflow.com/insights/survey/2017#technology-platforms
+
+2016: https://stackoverflow.com/insights/survey/2016#technology-desktop-operating-system
+
+In fact, Linux looks to be the only major OS to gain in popularity, OS X and Windows lost users. "
+12,xandoid,1490191718.0,13.0,"> Ideal Auditory Environment for Coding: Turn on some music, 59.6%
+
+Next time someone claims developer jobs will fall victim to AI as well I will not protest so loudly.
+"
+13,Ld00d,1490194054.0,38.0,"I'm a little confused by the [Platforms section](https://stackoverflow.com/insights/survey/2017#technology-platforms). Is that saying that 32.9% are working *on* Linux Desktop or *for* Linux Desktop? Because, if the answer is ""on"", 28.2% is working ""on"" Android. Like, some large part of that is literally coding on Android? "
+14,crozone,1490182918.0,75.0,"Wow, .NET Core came out of nowhere as a favorite technology, 33.4% is huge for such a young platform."
+15,grimatongueworm,1490188058.0,42.0,"Thumbs up for old farts like me, developing for 20+ years."
+16,lykwydchykyn,1490191032.0,60.0,"Brace yourselves... weeks of stories and commentary, spun from this  non-scientific poll of self-selecting respondants, are coming."
+17,Decker108,1490193694.0,8.0,Any summaries of what changed since last year's survey?
+18,Lanza21,1490206707.0,7.0,Anybody else hate sites that spazz out when you try to zoom in? Stop with the fancy JS layouts.
+19,Purveyor_of_Dicking,1490213618.0,7.0,"Smalltalk as the #2 ""most loved"" language seems a tad... odd?"
+20,lambdaq,1490189653.0,30.0,They should survey if anyone's question has ever been closed once on StackOVerflow.
+21,zenberserk,1490184103.0,32.0,"I see *Scala* but not other JVM languages like *Kotlin*. Is it because:
+
+* it was not available from the survey?
+* it is assimilated as *Java*?
+* it is far less popular than advertised?"
+22,,1490180010.0,13.0,[deleted]
+23,captvirk,1490204531.0,12.0,"So, we want to develop Android apps, writing Python code in Node.js framework while persisting data on a MongoDB."
+24,,1490196604.0,20.0,[deleted]
+25,sander1095,1490183831.0,22.0,Can someone shine some light on why people dread Xamarin?
+26,Nadrin,1490187300.0,30.0,"> Web and mobile developers have significantly less professional coding experience, on average, than developers in other technical disciplines such as systems administration and embedded programming. Across all developer kinds, the software industry acts as the primary incubator for new talent, but sees a relatively low proportion of more experienced developers.
+
+Well that explains a lot. ;-)"
+27,Dave3of5,1490177595.0,13.0,I don't see age on these survey results at all anyone else see that anywhere?
+28,,1490208968.0,5.0,"I was surprised that Smalltalk was listed as second for most enjoyable language (after Rust). I've always been curious about learning it (I even bought the Smalltalk-80 books, which I never ended up reading) but I had no idea so many people were *actually using Smalltalk*."
+29,SHIT_PROGRAMMER,1490196551.0,3.0,Interesting that the UK has a disproportionate number of users given that the population is so much smaller than the US/ India (the other largest contributors).
+30,asmx85,1490181610.0,27.0,"❤ @Rust. Maybe i am unable to find the data i need, but i remember last year we had an [overview of which platform is used by developers (for programming etc.).](http://stackoverflow.com/insights/survey/2016#technology-desktop-operating-system)
+
+This year i only found [technology-platforms](https://stackoverflow.com/insights/survey/2017#technology-platforms) but i don't feel like its representing the same data as i could not believe anybody is using android for development but rather as target. But then i wonder how on earth could (Desktop)Linux such a huge deployment target?! What is this section representing?"
+31,DYMAXIONman,1490192651.0,10.0,Surprised to see all that C# usage. 
+32,AsSimple,1490196136.0,3.0,I am really surprised javascript is so popular in all fields
+33,kabekew,1490208651.0,3.0,"I'm surprised by the salary disparity between the U.S. and Europe. Higher cost of living, higher taxes, and half the salary for the same work? "
+34,PatronBernard,1490211765.0,3.0,"So much hate for Matlab ;_; It's great for science.
+
+(granted, it pisses me off sometimes as well)"
+35,CiaranM87,1490228375.0,3.0,"1% of the programmers are blind. That's awesome! 
+
+I'd love to watch a short doco on their setup and how they do the same things I do."
+36,Aschentei,1490232624.0,2.0,"72.3% dreaded matlab
+A ducking men."
+37,ubekame,1490180610.0,29.0,"> Well, 42.9% of developers use tabs. And 37.8% think that group is wrong.
+
+No, 42.9% (of those surveyed) are correct and 37.8% are wrong. But at least the 19.3% that replied with ""both"" are more wrong (assuming we're talking about indentation)"
+38,Eirenarch,1490197521.0,12.0,How many people really judge the company by their diversity? While it is in the last place in the list it is still absurdly high.
+39,I_EMOJI,1490196114.0,9.0,Whats a non-binary gender ?
+40,UtahJazz777,1490204915.0,2.0,"Ok, guys, but do we have some alternative serious statistics for comparison with this survey?
+Because 74% JS for sysadmins seems a bit weird."
+41,geodel,1490208853.0,2.0,Reassuring to see /r/programming 's  most loved technologies like Go and MongoDB are also among most loved on Stack Overflow.
+42,Concision,1490233514.0,2.0,I can't tell I'm getting older because it seems these are getting more and more frequent.
+43,shaggorama,1490193687.0,2.0,"It's interesting how you can see the onset of the depression in the ""years coding professionally"" and ""years since learning to code"" charts. At least, That's how I'm interpreting the sudden drop-off after the 9-10 year category."
+44,W00MFY,1490209771.0,2.0,Who tf from North Korea responded to this survey??? 
+45,sime,1490206804.0,1.0,"https://stackoverflow.com/insights/survey/2017#technology-languages-over-time
+
+What is powering the increase in Python use? It can't all be data science numpy stuff can it?
+"
+46,sparr,1490211026.0,1.0,"Any time I see a map with circles on it showing relative populations/participants/etc, I always wonder if the person who made the map scaled the area or the radius of the circles.."
+47,,1490213697.0,1.0,"For the past couple of years, every time the Stack Overflow Dev Survey comes out, I look back at the year in frustration for not being able to allocate enough time to learn how to program. 
+It's damn hard with a 12 hour shift. Maybe it's time I go part time and focus on learning. "
+48,,1490220174.0,1.0,"Interesting how the stats for ""How long since they learned to code"" increase in 10, 15, and 20 years.  
+My guess is that when people are asked how long they've been coding for, they don't really know the exact answer, so they just answer with ""easy"" numbers (like 10, 15, 20), hence the unexplained significant increase in those 3 percentages."
+49,,1490220767.0,1.0,What's another way to pronounce GIF than the three listed?? confuzzled
+50,thepotatochronicles,1490224228.0,1.0,"The 'jobs' section was really interesting.
+
+Also, what's with people 'dreading' Ruby while liking Python so much?"
+51,thilehoffer,1490236203.0,1.0,"Do most developers still use stack overflow? I don't use it anymore. I learn from videos via Microsoft, pluralsight, and even YouTube. I am rarely stuck anymore. When I am stuck, I ask my coworkers or use google. Who has time, or is patient enough, to wait for a response on stack overflow?"
+52,,1490236441.0,1.0,I'm surprised to see common lisp as one of the most dreaded languages. 
+53,brews,1490242733.0,1.0,"Why the dislike for sqlite?
+
+It's always been ""fine"" for me but I wouldn't say that I've used it intensively or extensively."
+54,GamerLeFay,1490244186.0,1.0,"Looking at the Survey Respondents, Stack Overflow Visits, and Professional Programmer maps at the start of the survey, all I can think is [this](http://xkcd.com/1138)."
+55,c3534l,1490244327.0,1.0,"FFS, please properly label your x and y axes. [This](https://cdn.sstatic.net/Research/Img/2017/DeveloperRoleAndGender.svg?v=83b4f9f484c0) does not indicate whether the y axis shows an increasing percentage of women or a decreasing percentage. It looks like they meant to say either ""Ratio of Men to Women,"" ""Relative Participation by Women,"" or ""Number of Men divided by Number Women."" The phrase ""Relative Participation by Men/Women"" is what you intend to demonstrate, not what is being measured."
+56,Ahhmyface,1490288525.0,1.0,"I laughed my ass off last year when I found out my fellow devs are all self-taught javascripting in nodepad++ on windows. 
+
+Still funny this year."
+57,cholantesh,1490299008.0,1.0,People have discussed in the past that SO's user base is heavily biased towards web/mobile/database (including ETL) development. Are there any competitors to this survey that would be more holistic/diverse in its view of the industry? 
+58,Yelnik,1490388232.0,1.0,Only 65% of people pronounce gif correctly? That's a bit odd...
+59,,1490228185.0,1.0,Fuck Rust. Programming nightmare. How is it the most loved???
+60,passionlessDrone,1490202082.0,1.0,I think they should have an option for fullSnack instead of full stack.  That's more my speed. 
+61,thbt101,1490198350.0,1.0,"Maybe we're all used to our own bubbles, but it seems strange to me that a significant number of people use C# and Java for web development, when I never hear any mention of those languages in the community of startups that I'm familiar with.  Maybe those are used more by non-startup type companies?
+
+It seems like in the PHP world at least, Laravel is the hottest thing and everyone is using it or plans to.  And Vue is the new trendy JS framework that's rising in popularity.  But then those don't even show up on any of their results this year. "
+62,tarlin,1490193831.0,0.0,Go vim!
+63,,1490187591.0,-29.0,"But there's no diversity problem in software development cry the alt-righters:
+
+Male 88.6%  
+Female 7.6%
+
+White or of European descent 74.4%  
+South Asian 8.8%"
+64,Fancy_Mammoth,1490203235.0,-2.0,"I had a lot of problems with this piece just as I had a lot or problems with the piece SO did on ""The most popular weekend languages"" Honestly I think one of the things that I can't even begin to fathom, outside of JS being the primary language of every job in existence, was that Windows was ranked number 1 as most used platform. Somehow people chose MAC OS as a more loved platform than windows... I don't even see how. I would say at least 90% of Devs I have met program on windows. The only ones who program on MAC are the ones who are stereotypical Hipsters who are all about that ""React Node Angular JS GO framework"", Which obviously will be the next big thing."
+65,DM_ME_YOUR_POTATOES,1490221952.0,0.0,"> "" Among professional developers, **one-eighth (12.5%)** learned to code less than four years ago, and an additional **one-eighth (13.3%)** learned to code between four and six years ago.""
+
+
+??
+ "
+66,,1490196708.0,-2.0,[deleted]
+67,Ikinhaszkarmakplx2,1490203030.0,-3.0,"What kind of shitty ""survey"" is that?!"
+68,,1490195080.0,-1.0,[deleted]
+69,shanemitchell,1490181735.0,303.0,"> For Sysadmin / DevOps no 1 is JavaScript
+
+How is this even possible? was the survey only completed by Sysadmins who work in web dev..."
+70,,1490182185.0,146.0,[deleted]
+71,icantthinkofone,1490178046.0,291.0,Which exemplifies the problem with anonymous online surveys.
+72,,1490184989.0,62.0,[deleted]
+73,,1490186210.0,24.0,"Well, i made a nice graph with d3.js that one time."
+74,,1490186589.0,12.0,"At least they don't list ""system developer"" as an occupation (which is why I didn't fit into any of the occupations on their list). When I see JavaScript being the most popular language for system developers, I'll know it's time to retire."
+75,workpuppy,1490188804.0,59.0,"I lol'ed. Web Developer is by far the most popular specialty. Javascript is by far the most popular language...Okay, that makes sense.
+
+Then you see javascript bleeding in everywhere else? What? What the fuck is this? I don't think I've ever used javascript outside of a web context. Are they counting JSON as javascript?"
+76,i_spot_ads,1490179587.0,73.0,"Old schnocks at /r/programming are gonna lose their shit over this, I guarantee it."
+77,compteNumero9,1490188702.0,24.0,I'm more intrigued by the 36% of sysadmins/devops having Visual Studio as their dev env.
+78,astex_,1490186277.0,23.0,"As a data science student, the prior probability of being a data scientist is low and the prior probability of working in JavaScript is high, so these survey results seem obvious and don't tell us much.  Basically the data science results are just noise."
+79,lvlint67,1490189229.0,6.0,"These metrics must be most popular KNOWN language. Not the single language used most in a given respondent's professional life.
+
+Javascript is easy to claim to know. actually doing Desktop development as the numbers suggest would be more difficult. "
+80,DonLaFontainesGhost,1490190181.0,8.0,"> For Sysadmin / DevOps no 1 is JavaScript
+> For Data Scientist / Engineer no 1 is JavaScript
+
+Shouldn't that be BASH and R? "
+81,sisyphus,1490198431.0,2.0,So basically a lot of self-reported 'data scientists' are not in fact data scientists?  That's what I get from those results.
+82,urmyheartBeatStopR,1490210400.0,2.0,"The data scientist one makes sense because D3. Most engineer people going into data science go into D3 where harder math people non programmer go into R and such. There's a survey via O'Reilly talking about this interesting trend. Could be anything maybe web peeps are leveraging their existing skill set and going into data visualization.
+
+The sysadmin and DevOps one is really what the fuck here."
+83,rxbudian,1490215522.0,1.0,I was surprised that Powershell was not in any ranking.
+84,YvesSoete,1490220548.0,1.0,I stopped going further right there. 
+85,HVAvenger,1490224720.0,1.0,"What is dead may never die.
+
+May Yavascrip reign until the end of days."
+86,never_safe_for_life,1490229681.0,1.0,"Every year I see Javascript on top and wonder if I'm making a mistake not moving to Node.
+
+Now I'm thinking that Javascript has a complete lock on the front-end, whereas Python, Ruby, C#, all have to share a split of the backend. Technically I program in Javascript every day, even though my backend is in Python.
+
+So I'm not so sure how good a comparison that is."
+87,Secondsemblance,1490240922.0,1.0,"As a devops dude, what the fuck? The last time I touched js was writing a firefox plugin like two years ago. What do you even use js for in ops? I use pascal more than I use javascript."
+88,c3534l,1490244549.0,1.0,"> For Data Scientist / Engineer no 1 is JavaScript
+
+What? R or Python makes sense. MATLAB would be suspicious. JavaScript is madness."
+89,drawable,1490186348.0,170.0,"> Most dreaded Platform Sharepoint
+
+is the correct answer as well"
+90,workpuppy,1490188973.0,35.0,"COBOL never makes the list anymore...I had to take that shit off my resume, just because the code rage was so bad for my health."
+91,,1490196273.0,31.0,[deleted]
+92,tragicshark,1490194465.0,7.0,"Variants of VB are 1, 2 and 4 on that list."
+93,Tom2Die,1490204085.0,2.0,"I got my start in programming on VB 6.  It was all I had available at the time, and I was glad for it.  I look back on those days and shudder...but if not for that I might not be a software developer, so all's well that ends well, I suppose?"
+94,comrade-jim,1490187217.0,-3.0,You wouldn't know it from the amount of shill posts defending it though. 
+95,Polantaris,1490185140.0,375.0,"> For ""Development Methodologies"" like Agile/Scrum there was no ""We do random stuff without real planning"" option
+
+There also wasn't any, ""We say it's Agile but in reality we're completely winging it."""
+96,srguapo,1490186091.0,61.0,"For a lot of teams, ""we do random stuff without real planning"" = agile/scrum :)"
+97,,1490184298.0,44.0,[deleted]
+98,karlthemailman,1490183635.0,40.0,"The desktop Linux number really surprises me, tbh. And the fact that osx is so low."
+99,benisteinzimmer,1490191596.0,17.0,"Vim STRONK
+As a sysadmin, I approve of this survey. But it's pretty obvious why sysadmins use vim so much: ssh sessions. Vim is simply the best terminal text editor."
+100,guepier,1490188051.0,1.0,"Regarding your last point: Given how far down on that list “evidence-based” methods are, I'm assuming that “we do random stuff without real planning” actually describes most of the rest."
+101,gunnbr,1490214370.0,1.0,And I'm surprised at how unpopular emacs is. I assumed it was more of a 50/50 split.
+102,YvesSoete,1490220909.0,1.0,"> ""We do random stuff without real planning"" 
+
+That's Kanban in action."
+103,comrade-jim,1490193920.0,-2.0,"A few things that put Linux ahead of the rest for developers (IMO)
+
+ - **package management** - comes in handy when setting up a dev environment. Managing packages through the command line is almost objectively superior to anything else
+
+ - **Tools** - Linux has just about every programming tool you will ever need, except tools that are specific to non-Linux platforms (things like .NET).
+
+ - **Support** - Most open source projects support Linux first. A couple examples are Golangs new [plugin](https://golang.org/pkg/plugin/) feature and mozillas [servo](https://download.servo.org/) engine.
+
+ - **No adware or spyware, anti-hostageware** - pretty obvious
+
+ - **works on more hardware than Mac OS**, so you're not stuck with their bad decisions (and setting up a hackintosh is more involved than installing most modern linux distros)
+
+ - **Containerization** - You can run your whole dev environment inside a portable container that will work on basically any GNU/Linux OS. You can run multiple dev environments side by side with multiple containers. 
+
+ - **Font rendering**"
+104,lovethemonkey,1490198482.0,140.0,You're right. I don't believe that many people are reading official documentation. 
+105,soundslikeponies,1490274401.0,1.0,"Since it was select all that apply, it's really more of ""a majority of devs google and get pointed to SO"" and ""a majority of devs reference documentation""
+
+I know I would check those two, but I've easily learned a hell of a lot more from textbooks than SO or documentation."
+106,rap2h,1490186643.0,44.0,What Linux desktop do you recommend?
+107,Compizfox,1490213421.0,6.0,2017 Year of the Linux desktop
+108,,1490207620.0,0.0,[deleted]
+109,the_gnarts,1490217221.0,29.0,"> Now I'm pretty sure I was the only one that answered from my country.
+> 
+> And also, the only one that uses Delphi.
+
+That’s a pretty unique fingerprint you’ve been leaving.
+"
+110,,1490254147.0,3.0,"Heh, I learned programming with Delphi. Never used it since."
+111,Stamboolie,1490248393.0,2.0,you're not alone - Delphi by day. but Delphi is ded :-(
+112,YvesSoete,1490221375.0,11.0,"how many answered that as a 'joke', blind was a good one too
+
+sorry for the blind folks who can't type, you guys are awesome!"
+113,compteNumero9,1490190576.0,23.0,"A problem with those education related questions is that not everybody can easily relate with American education levels, especially among old people like me. I just skipped those questions and I'm probably not the only one."
+114,,1490209487.0,1.0,I quite liked that lots of people didn't have  degree. Especially considering I'm the only one in my family without a degree
+115,,1490185635.0,-6.0,[deleted]
+116,twiggy99999,1490188530.0,-8.0,"This was something I picked up on as well, over 50% had parents with a degree education of some level. This seems to reflect well in places I have worked, there are a lot of silver spoon developers in places I have worked whose only worries in their entire lives is when they have ran out of Civet coffee to go with their Wagyu beef for lunch"
+117,Matosawitko,1490197862.0,82.0,"Most of their questions were multi-select, so you could pick all that you use/have installed. I use N++ when I just want to quickly look at a file, but if I'm actually *developing* something (modifying the file) I'm probably in either VSCode or full VS. But N++ is definitely still a tool that I use."
+118,pdp10,1490222228.0,8.0,"> No matter what language you're using there's got to be much better things to use that will give you much better error checking/etc.
+
+On Unix, I'd say only about half of developers use an IDE. Of course a full battery of tools exist outside of IDEs, so an IDE isn't useful for everything unless you're hot-loading code. Even refactoring has discrete tools like spatch/cocinelle.
+"
+119,clearlight,1490222493.0,5.0,NotePad++ is popular on Windows as a GUI code editor.
+120,weirdoaish,1490204823.0,4.0,"Depending on what I'm doing, sometimes Npp's simplicity is just so much better than that bulky IDE or even VS Code."
+121,Secondsemblance,1490241437.0,2.0,"I use notepad++ when I absolutely must code on windows... which is almost never. Otherwise I use vim.
+
+You *don't* need an IDE."
+122,auxiliary-character,1490246392.0,2.0,"I use vim on Linux, but if I had to share an editor with a newbie, I'd prefer to use Notepad++, rather than having to explain to them how to use vim.
+
+It works very well as a basic easy to use programming text editor."
+123,,1490201810.0,2.0,"I have one client that still has one corner of his mission critical app written in **classic ASP**. When I have to touch that part of the app I do use Notepad++.
+
+If there's a better IDE, I'm all ears."
+124,shaggorama,1490194867.0,1.0,"When I'm developing in python, I generally write my code in notepad++ and then run it in ipython. I use RStudio for R so maybe I should use rodeo for my python work, but I'm just accustomed to pivoting between n++ and ipython these days. I tinkered with rodeo when it was first released and it felt very underdeveloped. I recently pointed a coworker to it who is primarily an R programmer and he loved it, so maybe I should give it another shot, or try some other IDE like sublime text or pycharm or whatever."
+125,fire_code,1490299983.0,1.0,"One of the PHP devs on my team uses NP++
+
+I can't stand it; I use Sublime and love it"
+126,l3tigre,1490206205.0,1.0,i definitely felt shock at that. Notepad++ is in NO WAY what I would consider to be above IntelliJ Idea or PhpStorm...
+127,never-enough-hops,1490197837.0,28.0,Maybe the old farts generally had the patience for the survey
+128,tambry,1490199030.0,6.0,"> Why is this not my real world experience?
+
+What do you work on/with? Maybe the other old people work with different and older technologies."
+129,RoninK,1490227239.0,2.0,I think it's just because the 20+ category includes the long tail.
+130,TonyTheJet,1490224591.0,2.0,"Haha, yes!"
+131,,1490186760.0,73.0,"> Aaannnd Linux is finally beating OS X in usage amongst developers.
+
+Under developers responding to this questionnaire, and even that is not certain."
+132,Sapiogram,1490186740.0,25.0,"Strange, Linux remained at almost constant market share between 2013 and 2016 and then suddenly gained 10 percentage points."
+133,Vadoff,1490203840.0,3.0,"Are Linux OS's better now? Which would you recommend?
+
+I've tried Ubuntu 3 years ago, and it was pretty god awful compared to OS X."
+134,Snowda,1490199931.0,1.0,"Probably because Apple dropped the ball with their ""Pro"" line up this cycle more than Linux doing anything in particular to win them over"
+135,weirdoaish,1490205491.0,6.0,"Most definitely, the AI will be picking good new songs for me to listen and enjoy while I work ;)"
+136,Ninja_Fox_,1490219187.0,3.0,What's wrong with music?
+137,Saveman71,1490197821.0,14.0,"I think you have to understand ""working *with*"", so as a target and/or as a development platform."
+138,archaon-jam,1490185226.0,37.0,"Was it because .NET wasn't actually mentioned, they only listed .NET Core? I can't remember what the original survey options were."
+139,redditthinks,1490188936.0,39.0,I've been working with it recently and it's pretty fantastic. C# is also a terrific language.
+140,,1490191841.0,97.0,[deleted]
+141,workpuppy,1490189223.0,5.0,"I'd have been interested to see that broken out. I'm at around 27, but I've worked with people who are still kicking who've been doing it for 40+...I'd be interested to see if they actually *use* the internet."
+142,v_krishna,1490200005.0,1.0,Those outliers seemed really interesting to me. I guess I'm at the 14 or 15 year mark now (good god when did that happen?) But I feel like the majority of actual ICs I work with are all under 20 years experience for the most part. I wonder if this reflects general demographics or if there's something specific about stackoveflow that makes for older users...
+143,urmyheartBeatStopR,1490210603.0,1.0,Damn you still have thumbs? I feel like after 20+ years of coding our fingers would fall off. 
+144,GeorgieCaseyUnbanned,1490199185.0,38.0,bound to get a good few Medium posts from it with heavy use of the word 'problematic'
+145,Existential_Owl,1490207243.0,13.0,"TL;DR Javascript is everywhere, and people really like Rust."
+146,morethanvulgar,1490225173.0,3.0,"Yeah, I'm really curious who the Smalltalk devs are and where it's still used. Can anyone provide some insight? The survey shows they make 15% above average (#2 best paid language) yet feel the most underpaid of all languages (75% felt at least somewhat underpaid)."
+147,lykwydchykyn,1490191547.0,2.0,zzzzzzzzzzzing!
+148,AsSimple,1490196053.0,1.0,Oh yeah... 
+149,DevinWatson,1490190569.0,18.0,I think Scala beat out the other JVM languages because of it's acceptance in the big data space.
+150,Pharisaeus,1490187721.0,27.0,"Kotlin is new and not many companies are developing actual products in it yet. It might be ""popular"" in the sense that Java developers like it and hope to use it at some point, but in terms of actual people getting paid for writing code in Kotlin, I don't think there is much going on."
+151,hntd,1490191351.0,13.0,Scala is also almost 15 years old
+152,lariend,1490196103.0,3.0,It wasn't available as a choice. I had to write it myself under 'Others'.
+153,urmyheartBeatStopR,1490233227.0,3.0,"Scala is longer and it have major projects. Such as spark, fink, and twitter uses it.
+
+I can't even think of a huge significant project that uses Kotlin. 
+
+I think one way to look at it is how many book does scala have compare to kotlin. I can assure you I have at least 4 books from manning in scala. 
+
+"
+154,,1490201429.0,4.0,"Clojure was there.  No one uses a Kotlin for backend services, even on their ""usage"" page they were including a couple companies that wrote sample code for API usage in Kotlin as ""being used by..."""
+155,,1490219445.0,1.0,"I've used Kotlin extensively at my last 2 jobs. Seems pretty popular, but I must be an anomaly."
+156,The_bamboo,1490186798.0,8.0,"I agree with the self learning. I'm a Junior in college majoring in computational math. The CS classes help to get a basic knowledge of java, C, and the other standards people learn.
+
+But, the actual utility comes all from practicing with a language,  and getting used to the tricks of a language. "
+157,b4ux1t3,1490185038.0,25.0,"As someone who went to school just to get a degree to ""make me official"", I have definitely seen the whole ""self-learning is better"" mentality. I learned on my own, and no one believed me, so I had to go in debt to get a piece of paper to prove I learned what I already knew. 
+
+It's frustrating. "
+158,amunak,1490188658.0,2.0,"As someone who learned first ""fucking around with computers"" since early childhood and started learning programming by myself at 12; someone who first went to a high quality college to learn stuff and then later switched to one ""just to finish the degree"", *and* as someone who has worked in the field (doing webdev, don't judge me) I have to say that while good universities definitely teach you a lot of important and (at least for me) interesting stuff they also teach (and more importantly test whether you know) not so important stuff. 
+
+Now it highly depends on your definition of ""important"" but if you want a *regular* dev job just fuck uni (especially if you have to pay huge sums for it). You will learn much cheaper and more relevant stuff on your own. Also don't forget that ""people skills"" are often also very important and that's not something they really teach you in a CS course (some touch some aspects of it, but it's probably not enough).
+
+If you are however also interested in how computers, algorithms and programming languages work on a lower level or you want to get into a very specific​ (and better paid) field, *or* you want to do a compsci-based research of some kind, a university is a must. And I mean a good one; the ""pay and get degree"" will just get you your old regular dev job with higher base salary.
+
+So yeah. There's a lot of nice stuff about good universities; I don't regret going to one - I loved like half of the courses there - but I couldn't get myself to learn for exams for the stuff I found less interesting so I quit. And I also don't regret that decision. And - funnily enough - while it did make me a better programmer in the end, I could do my current job just as easily. I'd just write crappier and marginally slower code."
+159,NAN001,1490205875.0,6.0,Looks promising.
+160,l_o_l_o_l,1490205186.0,2.0,no just Java or C# or React-Native + MysQL is fine
+161,Maplicant,1490253549.0,1.0,That's horrifying
+162,snake_case-kebab-cas,1490198574.0,33.0,"I wonder how many of them are ""power users"" and how many just know `:wq`, `i`, and the escape button.
+
+Honestly, I still use Vim a surprising amount and I only know the commands above."
+163,NAN001,1490205796.0,3.0,Shots fired.
+164,schmidthuber,1490186386.0,23.0,"For me, it's the abysmal tooling. C# and the Xamarin APIs by themselves relatively nice to work with.
+
+In my workplace, we actually started writing native apps after we realized that 90% of the development time was spent fighting the build system, debugger, IDE, you name it."
+165,aloha2436,1490189934.0,12.0,"Back when I used it, it was at the awkward midway point between ""niche"" and ""well supported"". Most errors had help available, but there were one or two times per project that I'd have to dig deeper and fix it without help from the internet. 
+
+A good experience mind you, but hardly a productive one. More importantly for this survey, frustrating when you *don't* find an answer."
+166,reckoner23,1490187854.0,23.0,"Mobile developer here.  I tried using it previously, but it gives all kinds of cryptic error messages when an error occurs (which occurs very frequently compared to pure native).  It made my job much harder then it needed to be.
+
+Xamarin leaks pretty hard in terms of being an abstraction.  I remember getting strange crashes when presenting UIViewControllers modally.  Which is a very basic and common bit of UI functionality in iOS.  This crash would only crash on the device and not in the simulator.  Enough to drive someone insane.  There would also be strange bugs related to how objective-c is more of a dynamic language vs mono C# which is more static.
+
+During that job, I convinced management to let me re-write the apps in pure Android/iOS (Java/Swift).  Which made me much more productive thanks to the much more mature development environments.  For example, Android Studio is pretty good at telling you which function calls are deprecated for the target Android version.  When I used Xamarin, Visual Studio was not as useful.  The challenge of mobile development is really learning the frameworks (Android and Cocoa Touch), which you have to do anyway with native development.
+
+In the situation I was in, the only real benefit of Xamarin was using C#, but Java and Swift are similar enough where I didn't have much issues just porting code.  Keep in mind, I stopped using Xamarin right before Microsoft bought them.  So, as usual, your mileage may vary."
+167,b4ux1t3,1490185137.0,4.0,"Seriously, Xamarin is a joy to work with, at least for my use case. "
+168,lasermancer,1490185567.0,-2.0,"I've never used it myself so I can't say, but as a Linux user, I tend to avoid C# projects since most of them seem to be infected with Windows-only tools and libraries. "
+169,oftheterra,1490193761.0,1.0,"I have a feeling Xamarin is a technology people end up being asked or required to use, when they ""didn't sign up for this"".
+
+As in, you'll be doing native mobile work using your preferred technologies, and then a customer or project comes along where you have to return to using Xamarin, or start learning it from scratch.
+
+In those cases I'd imagine people would ""dread"" having to run into it. Just speculation though, as the same can be said for a lot of other technologies."
+170,gnx76,1490231641.0,3.0,"You've got the ""Years coding professionally"" question that sort of fits the bill."
+171,b4ux1t3,1490185252.0,0.0,"I honestly don't think it would make a good statistic. It'd probably skew young, but that wouldn't mean much. What would you expect to be able to make by knowing how old the survey takers are? "
+172,Scroot,1490217264.0,3.0,It's being used for sure. Companies still use Cincom and Gemtalk. [Pharo](http://pharo.org) and [Squeak](https://squeak.org) are still under active development. My own take is that wasm presents really interesting opportunities for a new kind of Smalltalk environment
+173,i_feel_really_great,1490239958.0,1.0,"I currently work professionally on an largish ERP system written in VA Smalltalk. It is a very productive and pleasant system to work with, although my Javascript/Java/.Net-centric colleagues might disagree. I use Pharo & Dolphin Smalltalks for personal projects."
+174,craftytrickster,1490185045.0,18.0,"As a Rust fanboy myself, I was happy to see it was once again the most loved, and one of the highest paid."
+175,lambdaexpress,1490208885.0,1.0,"Are Rust jobs common? I mean, I have to pay the bills somehow..."
+176,The_yulaow,1490184035.0,0.0,I think the explosion of desktop linux is related to the explosion in use of nodejs as a platform with lot of packages that work far better (or even only) on linux instead of windows (even considering the recently linuxSubsystem on windows developments) 
+177,,1490201112.0,13.0,"Think its thanks to:
+a) .NET Core for giving the language a boost again.
+b) C# has become fairly universal language working on Linux, Mac, Windows in both background and graphical. And with the whole mobile platforms.
+c) The whole open source movement / less pure MS focused."
+178,,1490219643.0,2.0,"I live in the Midwest US and C# is HUGE here in pretty much every company. The local dev meetup is a .Net bubble.
+
+I've somehow been able to break out of the .Net world at my last 2 jobs though."
+179,thbt101,1490205858.0,-1.0,"Yeah.  Maybe we're all used to our own bubbles, but it seems strange to me that a significant number of people use C# and Java for web development, when I never hear any mention of those languages among the web developers and web app companies that I know.
+
+It seems like in the PHP world at least, Laravel is the hottest thing and everyone is using it or plans to. And Vue is the new trendy JS framework that's rising in popularity. But then those don't even show up on any of their results this year."
+180,,1490217883.0,4.0,[deleted]
+181,karlthemailman,1490181442.0,73.0,"I wonder how many of those people are using the tab key, but actually have their editor set up to insert spaces. I think that's a pretty common setup. "
+182,,1490191131.0,11.0,"I believe you mean 42.9% are wrong.
+
+Spaces are the better way to go.  A space is a space no matter the platform or application."
+183,driusan,1490184367.0,7.0,"In recent years I've got the impression that spaces were becoming more and more popular.
+
+I'm so glad to hear that the forces of good are still holding back the evil space mutants."
+184,anechoicmedia,1490184113.0,10.0,"Tabs for indentation, spaces for alignment. Then it functions correct for most people most of the time.
+
+    SELECT
+    T   things.id,
+    A   things.name,
+    B   sites.name,
+    S   corporations.common_name,
+    T   addresses.ip,
+    A   attr_phone.ext_id,
+    B   attr_phone.base_ext,
+    S   attr_phone.mac
+    FROM things
+        LEFT JOIN sites         S   ON   things.site=sites.id
+    T   LEFT JOIN corporations  P   ON  things.owner=corporations.id
+    A   LEFT JOIN attr_phone    A   ON     things.id=attr_phone.parent
+    B   LEFT JOIN interfaces    C   ON     things.id=interfaces.parent
+    S   LEFT JOIN addresses     E   ON interfaces.id=addresses.parent
+    WHERE things.type=1 AND interfaces.name=""LAN"";"
+185,auxiliary-character,1490247571.0,1.0,[Depends on your language.](https://ukupat.github.io/tabs-or-spaces/)
+186,1upplus,1490251484.0,1.0,Care to elaborate why tabs are superior to spaces? 
+187,Jigokuro_,1490214462.0,8.0,"I, a man, work at a company that is 80% female. 
+
+It's fine.
+
+There really isn't any more to say. It is neither better nor worse than 50/50 or mostly male.
+
+As such, I can only conclude that diversity *isn't* important. It just doesn't matter one way or the other. Though that notably means that discrimination in hiring is bull, since women are just as good. "
+188,svgwrk,1490207216.0,10.0,"Everyone who wants to look holier than thou, of course."
+189,Incursi0n,1490215557.0,7.0,"I don't understand why anyone would judge a company based on diversity. This is tech, if you pass on a company just because majority of the employees are from the same group (granted that they were hired fairly), then you are stupid."
+190,Yelnik,1490387654.0,2.0,"It's an ideology based thing, that people have managed to convince themselves pertains to the real world."
+191,sudojess,1490198966.0,19.0,Someone who identifies as something other than male or female. 
+192,KristoffTV,1490202459.0,8.0,2
+193,Morwenn,1490197766.0,7.0,A gender that is not mostly conforming to the male or female gender.
+194,Yelnik,1490387328.0,1.0,For the most part it indicates nothing more than a person's political/ideological leanings. They are still male/female.
+195,pdp10,1490227559.0,2.0,"[proxy.pac is Javascript, right?](https://en.wikipedia.org/wiki/Proxy_auto-config) :)
+"
+196,3urny,1490203685.0,6.0,"I guess that many who code 11/12/13 years are like ""well about 10 years"" so just answer 10 years."
+197,lukewarmtarsier2,1490204849.0,3.0,"I wonder how much of that 9-10 years has to do with the dot com bubble bursting. I graduated college about 11 years ago now. When I started school a lot of the people in my classes didn't actually like programming or computers, they were just looking for a quick cash out when they graduated.
+
+The years learning to code graph has a dip about 14 years ago, which I think is around the end of the dot com bubble, and the professional coding drop corresponds to about the time a lot of those people would have finished college if they stuck with it."
+198,RaptorXP,1490266583.0,1.0,Who do you think invented PHP?
+199,,1490210073.0,3.0,"My guess is that, unlike Ruby, Python is usable for web development and scientific computing. It's because there are so many Python libraries for a variety of things that you're going to see a lot of interesting cross domain work done with Python.
+
+Another reason is probably that it's being used more and more as a first language for teaching programming. I knew there would be an uptick in Python's popularity for that reason alone."
+200,Lahusen,1490216312.0,2.0,"Learn right now. The harder it is, the more you grow. "
+201,TonyTheJet,1490224647.0,1.0,"I was kind of picturing it with a Frenchy ""zh"" sound, like in ""azure"". Or maybe a Spanish ""h"" sound, as in ""gila monster""."
+202,,1490333347.0,3.0,are people out there trying to use sqlite as a production db? because that sounds pretty miserable. using it as it should be used (as a replacement for file system storage) sqlite is a great tool.
+203,passionlessDrone,1490202273.0,13.0,Lots of people don't work in startups?
+204,,1490217770.0,5.0,"IIS is a fairly common enterprise web server. What do you mainly run on IIS? ASP.NET. And what do you write for ASP.NET? .NET.
+
+You're in a bubble."
+205,,1490189557.0,19.0,"No offense to alt-righters but Stack Overflow there survey is heavily focused on Western / English speaking programmers.
+
+Anybody who has ever worked in the Asian markets knows how massive amount of programming knowledis is there. BUT ... they are heavily focused on there own internal sites ( China is a good example. Outside it looks like GoLang may not be used a lot but its actually extreme popular in China ), so surveys are not exactly correct.
+
+The lack of women in the Western markets. Sure ... but its not that women can not program but from my experience its a general lack of interest in programming. The few that i knew from my school days ended up doing non-programming tasks.
+
+Its the same issue with female gamers. There are female gamers in FPS and other genres but its simply because a lot of women do not like those type of games. But if you survey more general platforms like android/ios with smartphone games, those results are way more female dominated or present ( depending on the game genre ).
+
+And that is again a issue with stack overflow there survey. Its a hardcore IT programmer site, that gets answers from a very specific genre of developers. So it skews results."
+206,twiggy99999,1490188990.0,32.0,"> But there's no diversity problem in software development 
+
+This really pisses me off, not only in programming but any field of work. I want to work with the best, regardless if they are a man, woman, black, yellow, heck I would work with a Lima if it was good at its job.
+
+I don't see why we should force people into a field that they have no interest in or are any good at. The majority of my female friends and family have zero interest in computer programming so it seems stupid to force a certain group of people into something just so the numbers look good.
+
+If you're the best for the position it doesn't matter what/who you are, it certainly doesn't bother me as long as your competent "
+207,Conradfr,1490196865.0,12.0,Are women developers proportionally more unemployed than men ?
+208,,1490203565.0,6.0,Beware of Reddit users...
+209,,1490191211.0,16.0,[deleted]
+210,pgmayfpenghsopspqmxl,1490193804.0,12.0,"First you have to establish why lack of *equity* is a problem, then we can talk. "
+211,,1490196241.0,8.0,"Meanwhile, the SJWs are pushing a sexist and racist agenda to increase diversity not by trying to attract diverse groups in to learning and being better qualified, but instead by taking the resumes of white males and throwing them out without a regard for qualification. 
+
+I'm not alt-right person, but first of all, the only possible take away is that females are under represented. The race is probably due to being stack overflow and the general audience.
+
+Second, the way to diversify the demographics is not to introduce racism and sexism as your ilk propose time and time again.
+
+Your mentally handicapped take on the situation that paints all people opposed artificial diversification through a different version of racism and sexism as a purely alt-right mindset is why you constantly find yourself disappointed.
+
+Maybe try to focus on things like better education instead? "
+212,workpuppy,1490190083.0,-6.0,"The female thing bothers me more, frankly, just because it's such a sausage party at the average dev shop and I find that irritating. 
+
+Edit: What, you guys don't like girls? "
+213,jcdyer3,1490236594.0,1.0,"I on the other hand, have only worked with a small handful of developers who use Windows as their work machine. I can only name one off the top of my head, but there are probably a couple others.  Myopia is a serious drug."
+214,jorl17,1490238515.0,2.0,How is that low in Europe?
+215,,1490203478.0,4.0,Take the Windows laptop and install Debian.
+216,metaledges,1490181933.0,145.0,Wait till you see the first 2 most used language on desktop
+217,znk,1490188739.0,114.0,Could it be the survey allowed to chose multiple languages and almost everyone uses javascript at some point?  So if 60% of the people use javascript 1% of the time it would be considered more popular than a language used 90% of the time by 50% of the people. 
+218,Kaiwa,1490183592.0,48.0,"I work in DevOps (Big data section), using NodeJS quite a bit."
+219,i_spot_ads,1490185600.0,44.0,JS can be executed on a toaster
+220,SpringwoodSlasher,1490203687.0,4.0,"We often use JavaScript (Node.js/Angular) to build quick/easy/modern front ends for our automation systems. 
+
+Much of our actual automation scripting is in Python though. "
+221,LivingInSyn,1490204653.0,2.0,"I used to work as a SysAdmin, I found most of my sysadmin answers on sites that weren't Stack Overflow. I also had to do some front end work, and modify some things (before I became a software dev) and that involved JS. Hence I ended up on SO"
+222,,1490267522.0,2.0,"It's almost as if it's skewed towards ""programmers"" who code by copying and pasting from StackOverflow."
+223,threading,1490228682.0,1.0,"> was the survey only completed by Sysadmins who work in web dev...
+
+It is actually. Most responders were web developers some of who call themselves data scientist, sysadmin etc. but I'm guessing there were some real data scientists who need to use d3.js hence their exposure to javascript."
+224,The_yulaow,1490182358.0,42.0,Isn't there already a implementation of javascript for arduino microcontrollers and derivates?
+225,Yojihito,1490185720.0,12.0,https://www.reaktor.com/blog/node-js-satellite-means-anyone-can-space-programmer/
+226,b4ux1t3,1490184513.0,21.0,"Look up ""espruino"". ;) "
+227,xtreak,1490194107.0,10.0,People have already written OS and kernels with Javascript
+228,,1490195125.0,3.0,"Yes, and the argument in the comments in r programming when it comes up are hilarious. Hilarious and a little sad."
+229,pimterry,1490191464.0,5.0,"I'm a developer at resin.io - we do deployment & device management for (and by extension, we write a lot of software that runs on) embedded systems, and it's almost all in JavaScript.
+
+People think of tiny arduinos when they think embedded/IoT, but a huge number of these systems in the wild are either hefty enough to run linux, or colocated with a gateway that does, so coding for embedded systems JS often isn't a big jump. In practice, there's a lot of raspberry pis/CHIPs/Edison's/ARTIKs out there. JavaScript on embedded certainly isn't standard, but it's not so unusual."
+230,cecilkorik,1490234380.0,1.0,Please stop the world. I want to get off. I'm feeling queasy.
+231,,1490258771.0,1.0,Weren't some people planning putting it on a satellite?
+232,ruiwui,1490189125.0,1.0,https://tessel.io/
+233,falconfetus8,1490276351.0,0.0,How about no.
+234,bro-away-,1490191489.0,78.0,"Only 11% identified themselves as a sysadmin, hardly seems like people over-reporting themselves with this title.
+
+Node.js is pretty agreeable with writing short, reusable/composable commands and scripts.  Scripting languages have always been used for sysadmin automation, it shouldn't be that surprising when a scripting languages thats swallowing everything has swallowed that space too, no?
+
+"
+235,pimterry,1490191922.0,26.0,"I was job searching recently, and nearly every single company I talked to was running a substantial portion of their backend infrastructure on Node, from machine learning companies to scalable messaging to IoT. Not necessarily the very core and high-performance parts, but for all the surrounding non-critical services, sure. In the startup I ended up working for (resin.io) 99% of the entire backend codebase (10s of substantial client-facing services, plus on-device code too) is written in JS. It's really easy and convenient, and incredibly popular, so it's easy to find devs who know it, and there's an incredibly busy thriving ecosystem of things on top too. I don't think the survey's inaccurate. For all sorts of reasons, JavaScript is _everywhere_ nowadays."
+236,i_spot_ads,1490191695.0,39.0,"> Then you see javascript bleeding in everywhere else? 
+
+poor thing, you have no idea."
+237,The_yulaow,1490190668.0,12.0,"On mobile js was already present with titanium, phonegap, ionic, etc... and then boomed even more after react-native. On the desktop side electron allows you to build desktop apps using one of the only ui """"frameworks"""" (html5 + css3) that is cross platform, with the advantage you have not to check what browser supports what (look at spotify app for example, is the same code for mobile/web/osx/windows/linux). 
+
+What surprises me the most is sysadmin poll. "
+238,koreth,1490198257.0,6.0,"A lot of the choices weren't mutually exclusive. So if you do database programming and you occasionally have to build a simple web front end with client-side logic, you end up checking both the ""database programmer"" and ""JavaScript"" boxes in the survey."
+239,ImprobableIT,1490191758.0,4.0,We use javascript everywhere. Node is a beast.
+240,thilehoffer,1490236371.0,1.0,What about TypeScript? I don't even write plain JavaScript.
+241,kurosaki1990,1490188326.0,14.0,I thought /r/sysadmin will.
+242,DonLaFontainesGhost,1490190495.0,5.0,They'll never see it - this article isn't about programming directly. No code listings. 
+243,,1490195179.0,1.0,"As well they should.
+
+Okay. Down voters. 
+
+Why should I, ""an old schnook"" that actually believes in best tool for the jobs, not be upset about new people jackhammering JavaScript everywhere because they're too lazy to bother actually learning? 
+
+Go.
+
+I mean, I appreciate all the free, high paying work you young guys are creating with this mentality, but eventually business is going to wise up to this scam and this ""JavaScript everything"" work is going to dry up as business get tired of doing to same work twice. You understand this, right? "
+244,spacejack2114,1490195039.0,-5.0,Most people on /r/programming are at [stage 0](http://games.greggman.com/game/the-4-stages-of-a-cc-programmer-using-javascript/).
+245,xiongchiamiov,1490195116.0,27.0,Remember that you were encouraged to select any professions that matched what you did. That means that slice includes people who work in small shops and wear many hats.
+246,workpuppy,1490190170.0,10.0,"I like me some Visual Studio...But it's really only good for C# and MSSQL, neither of which I use for AWS (or even Azure)."
+247,,1490215183.0,1.0,"TFS is actually a pretty nice devops stack now. Sysadmins though? Yeah, no idea where that is coming from."
+248,k-selectride,1490193071.0,5.0,Python is the more appropriate data science language I think at this point.
+249,astex_,1490196434.0,0.0,"You really need to give additional context here. R is a useful analysis tool, but can't really be used as a library by other applications. There's a reason TensorFlow is in Python."
+250,fernandotakai,1490187044.0,98.0,Followed by Salesforce. So fucking true.
+251,TheHobodoc,1490189653.0,13.0,"I dont think enought people have been exposed to ibm filenet, icm and related technologies. They are on a compleatly other level of hellishness."
+252,ShadowLiberal,1490190524.0,5.0,"As someone who's been tasked with helping to manage our Sharepoint system, I so understand this dread. 
+
+It's so easy to accidentally hang yourself with it, and some really obvious features are so blatantly missing (for example, there's a button to witch to classic sharepoint view, but switch back to the old view? No such button, you have to close your web browser to switch back!)."
+253,agumonkey,1490194032.0,5.0,They need to include most dreaded installer
+254,thilehoffer,1490236468.0,1.0,"Yes it is. I used to have to build web parts at a job. I would make web pages that did what was needed. To add them as a web part, I would put them in an iframe. Web parts were shit."
+255,,1490195325.0,39.0,"You mean reading 70,000 line undocumented programs on a 15 line terminal in an editor that has 0 features aside from barely functioning search is rage inducing?"
+256,thilehoffer,1490236508.0,1.0,I don't know. Doesn't COBOL pay really well? Does anyone even understand COBOL anymore?
+257,,1490209363.0,7.0,"The way the question was worded was ""what do you not want to be working with next year"". JS is probably just mediocre enough to not make that list"
+258,workpuppy,1490189035.0,14.0,Defending VB**6**? I've never seen such a thing. Why would anyone care? It's dead and unsupported...Nothing left but crappy legacy.
+259,mt33,1490186032.0,167.0,"Without a doubt the most prevalent methodology out there. Could also be called ""Let's cherry pick all the things we think sound good but not practice them""."
+260,TheTygerWorks,1490188837.0,16.0,It's Agile-like
+261,,1490195559.0,8.0,"I was looking for ""Well it's really just mini waterfalls that we call agile to appease the customer because we used buzz words in the RPF"""
+262,,1490212838.0,1.0,can't spell 'fragile' without 'agile'
+263,JasTWot,1490444407.0,1.0,This.
+264,JAPH,1490187839.0,31.0,"""We made scrum worse to fit our totally unique process like the special snowflakes we are"" = agile/scrum"
+265,,1490190985.0,12.0,"You mean every is probably not a full stack web developer?
+
+Maybe I'm just that out of touch with the industry. "
+266,myringotomy,1490185269.0,117.0,It doesn't surprise me. Linux is the best  development platform unless you are developing for windows.
+267,whisky_pete,1490185730.0,21.0,"Last year iirc Linux and Mac were like 23 and 25% or so. It looks like there was a pretty big swing this year.
+
+Edit: last year puts Mac os X at 26.2%, win 7 at 22.5%, Linux at 21.7% and win 10 at 20.8%"
+268,,1490192259.0,64.0,"As a person with all 3, Linux is far above everything else. Windows next. OSX is so far at the bottom it is laughable, unless you're a iOS developer. Even that is low because xcode is probably winning awards for the worst IDE ever. 
+
+You might think being Unix like would mean you have access to lots of tools, but you don't. You get Mac specific variants and the vast majority of developer libraries and tools don't actual have Mac ports.
+
+That and the rest of the OS is just a complete exercise in frustration. Want a mouse that is actually ergonomic? Use it, but you'll have to work with painful scroll acceleration unless you buy tools or dive in to hidden, undocumented configuration files.
+
+Want to see hidden files? Used to be an option, but that was taken away in favor of an obscure hotkey.
+
+Uninstalling should be easy, but it isn't because shit litters your system in a complete free for all and isn't taken with uninstalls. At least when this happens on windows, you normally have an idea of where to look. 
+
+The update system just straight up doesn't work. If the system goes to sleep in the middle of a large download, it has to start over every time for me. That's a pain in the ass cause I have 100 meg internet but Mac update servers are run by molasses covered potatoes and take 5 hours to deliver a 100 meg update. Never mind that it likes to forget what you have installed all the time and so claims you're up to date when you actually aren't.
+
+Mac used to be pretty decent, but these days it is bug filled shit that fights with power users at every single turn.
+
+Never mind that Apple themselves haven't updated their powerful lines in years and so are perceived to be abandoning developers. The latest Macbook wasn't well received by developers. The community quickly shit all over the developers for complaining, which I imagine will bite them in the ass hard in the next few years. "
+269,,1490184762.0,14.0,[deleted]
+270,xiongchiamiov,1490195240.0,2.0,"I'm trying to recall the wording of the question. From looking at the answers, it appears some people answered what platforms they do their development *on* (what workstation), while others answered what they *target*."
+271,senatorpjt,1490221688.0,2.0,"Maybe it wouldn't matter as much to sysadmins, but as a developer (who prefers emacs) I have to at least know enough vi to get around, because I can reliably expect it to be installed on systems I come across."
+272,gmfawcett,1490202991.0,3.0,Must... resist... the... obligatory... emacs-vim flamewar...
+273,Ahhmyface,1490296602.0,1.0,I'm an emacs dev but I use vim in remote sessions just for convenience
+274,JasTWot,1490444961.0,1.0,"Even for me as a backend dev, I'll have to dial into remote machines often enough that learning Vim is just worth it. Then I got used to doing it and started loving Vim"
+275,the_gnarts,1490216216.0,1.0,"Your list is not bad except for this one bit:
+
+> No adware or spyware, anti-hostageware - pretty obvious
+
+The more crap browsers accrete, the more of an attack
+vector they constitute, and a cross platform one at that.
+Think instant portable malware factory."
+276,Existential_Owl,1490206901.0,26.0,Man pages should just go ahead and point to a google results cache.
+277,twiggy99999,1490188677.0,84.0,"Ubuntu if you have no experience with Linux because its support base is huge but TBH you can't really go wrong with any of the major ones.
+
+Elemenatry OS is my go to distro, it's very Mac like in its look and feel and its also Ubuntu based so any support/tutorials/guides for Ubuntu will work on Elementary OS"
+278,agumonkey,1490193933.0,45.0,Emacs 25
+279,The_yulaow,1490187038.0,38.0,"Personally Fedora (kde), Mint Lts or Manjaro (xfce) based on your needs and what community you like the most. I rotate on all of them year over year and they are extremly stable and with everything I ever needed. Each of them works far better on my laptop than w10, with also between 2-3 more battery hours   "
+280,JAPH,1490188326.0,29.0,"Debian seems to serve my needs well enough, and it's pretty stable across upgrades.  Been running it constantly since ~2003."
+281,lykwydchykyn,1490191314.0,13.0,/r/FindMeADistro 
+282,LookAtThisRhino,1490210224.0,5.0,"I'm a fan of Xubuntu. I don't like Unity on Ubuntu so Xubuntu is essentially just Xfce (very nice) + Ubuntu. It's clean, simple, and if you're coming from Windows, intuitive."
+283,YvesSoete,1490220983.0,3.0,i3wm
+284,_lettuce_,1490189391.0,17.0,[Arch Linux](http://i.imgur.com/QZQIADt.png)
+285,redditthinks,1490188842.0,6.0,"Probably Fedora, it's up-to-date and is what Linus runs. /r/SolusProject is also great."
+286,IamPic,1490196981.0,1.0,"You've already got a lot of answers, and while I agree Ubuntu is probably the best choice, it's actually hard to recommend anything without knowing more about you. Have you ever used Linux? How important is it to you to have the latest versions of applications? If you really want to check out Linux (which I recommend, I can't go back to Windows anymore) you could look around in Linux subreddits, like the previously mentioned /r/findmeadistro. "
+287,Phrodo_00,1490204288.0,1.0,"I like arch with gnome. Sure it can be a bit worrying that one time every 2 years when you have to do some manual work, but I mostly hate having to install -dev packages separately.
+
+Edit: if You're starting, then Ubuntu gnome remix or fedora, although having to be constantly installing missing dev dependencies is pretty annoying."
+288,ledgerdev,1490211708.0,1.0,"[Solus Linux](https://solus-project.com/)
+
+/r/SolusProject"
+289,dancing_leaves,1490213587.0,1.0,"Fedora. With the KDE desktop option, it greatly resembles Windows with the task bar functionality and desktop icons. But behind the scenes you get a great OS with tons of great KDE specific applications as well as the usual open-source stuff that can be added in quickly."
+290,Pimoro,1490223734.0,1.0,deleted  ^^^^^^^^^^^^^^^^0.7594  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/70354)
+291,Yelnik,1490386579.0,1.0,"If you don't have a specific reason to be using Linux, then none of them."
+292,weirdoaish,1490204463.0,0.0,OpenSUSE with any DE you like. You can even use the TumbleWeed version for infinite updates (rolling release).
+293,cdimino,1490200308.0,-1.0,"None, flee. Linux is not a desktop OS unless you want your OS to also be your hobby."
+294,,1490210614.0,2.0,[deleted]
+295,steamruler,1490261659.0,2.0,"I've heard of blind developers, so they do exist.
+
+Haven't heard of people who develop but can't type, though."
+296,,1490205179.0,1.0,Do you not have a similar 2 year vs 4 year degree?
+297,LoveCandiceSwanepoel,1490195880.0,4.0,"CS major here, my parents are from Mexico and only had middle school education. Youre being dumb, I know plenty of students here who's parents went to college and they don't have anywhere enough money to help pay for them even for one year of college. Idk why you're trying to use your background as some ""I had it harder than you so fuck you"" issue.  Get over yourself."
+298,bitofabyte,1490192994.0,1.0,Just because someone goes to college doesn't mean that they're wealthy afterwards.
+299,DonLaFontainesGhost,1490194911.0,8.0,"> there are a lot of silver spoon developers in places I have worked whose only worries in their entire lives is when they have ran out of Civet coffee to go with their Wagyu beef for lunch
+
+So ""parents graduated from college"" automatically equals ""entitled spoiled brat packer""? "
+300,AkodoRyu,1490196402.0,4.0,"Don't get your point. Degree education doesn't mean rich, I would say there is no correlation at all. Both my parents have masters, one was a teacher, the other was an army officer. I had stable upbringing, didn't lack for anything in particular, but rich - not even close. 
+
+People with parents owning businesses are much more likely to be rich, than someone with doctorate let alone masters. And you don't need degree to own a metal works company etc.
+
+I find it fairly obvious people with, well, smart parents, are encouraged to pick up more cerebral hobbies and interests. It's also easier for them due to stability at home and support an intellectual upbringing can provide."
+301,svgwrk,1490206920.0,16.0,"Totally. I keep thinking of installing N++ even though I don't want to *use* it for much of anything just because, since it's implemented in basically ones, zeroes, and rocks, it's stupidly faster for looking at big files than most other tools I have."
+302,coder543,1490212062.0,6.0,"Have you tried *any* other text editor? Visual Studio Code (note: not Visual Studio) or Sublime Text or anything but Notepad++.
+
+Notepad++ just hurts me."
+303,invisi1407,1490271656.0,0.0,"Npp is not an IDE, so why would you even argue about it's comparison with PhpStorm, which _is_ an IDE?"
+304,kristopolous,1490209407.0,3.0,"yeah they probably do. 
+I do javascript apps and mobile. Everyone else is a kid, it's true.
+
+I had presumed that people get bored of and leave the industry or are sitting on their vast internet fortunes that I somehow dodged. But I guess the truth is that I just do TigerBeat Technologies."
+305,comrade-jim,1490199730.0,1.0,"Got a better developer survey? Stackoverflow does a very good job with these, and I've yet to see any other surveys with nearly as big of a sample size (29,114 responses). 
+
+I have no reason to believe that stackoverflow attracts one kind of developer over any other either, and in fact I would think stackoverflow would attract a more diverse crowd than say a fortune 500 corporation surveying their own employees. 
+
+Microsoft put ads in Windows, and you can only run OS X on apple hardware (reliably) which means you have to deal with apple BS. It's really not surprising."
+306,Creath,1490188379.0,79.0,"Apple went off the deep end with the new MacBook pro line, and W10 has a laundry list of significant issues. Not surprised at all to be honest."
+307,,1490187191.0,43.0,[deleted]
+308,The_yulaow,1490187948.0,10.0,I think the explosion of the node.js ecosystem had a big impact on the related increment of developers who prefer to use a linux desktop system
+309,Xaeroxe,1490208152.0,3.0,I joined the Linux camp this year myself!  Previously I'd been turned off by how horribly unstable my whole experience with the Linux ecosystem was.  No efforts made towards any kind of backwards compatibility.  That's not a good thing for a desktop OS to have.  However when I went to try and confirm my prior suspicions this year they were all proven wrong!  My Ubuntu machine was rock solid.  I was absolutely thrilled and put Ubuntu on all my computers right away.  Nowadays I only boot Windows to make sure my Windows builds work.
+310,tetroxid,1490256008.0,1.0,Apple fucked up.
+311,VoltronV,1490208364.0,2.0,"No, they're not drastically different than a few years ago. I don't trust this survey in this regard tbh. It's possible people are bending the truth to make themselves feel more badass or the increase could be due to Linux being used in countries where running Windows and macOS and products on them is too expensive. I do think Apple is dropping the ball with developers, but that's recent and wouldn't explain such a large (self reported) shift."
+312,,1490269945.0,2.0,"Not everyone like the same music. If you want to listen to music, bring headphones. Blocking out noise is harder. "
+313,Ld00d,1490198765.0,2.0,"Ok, that makes sense. Thanks"
+314,,1490189028.0,19.0,"Its hard to compare because they split the Most Popular technologies from 2016/2014, into Programming languages | Frameworks, Libraries, and Other Technologies
+
+But when comparing the 2016 results, even in the Most Popular technologies, the standard .NET was not showing up.
+
+Now its understandable that people who experience .Net Core are happy with it ( even more when they try out the 2.0 alpha/beta ). It moved the whole .Net and C# ( F# soon ) into the realm of new programming languages like Go/Rust/... for cross platform development."
+315,BigDumbObject,1490208396.0,8.0,"StackOverflow is always confusing to me.
+
+Top answer is always some elaborate well worked out solution using examples from the original question etc...
+
+I'd imagine any developers that experienced are too damn busy to be answering questions that would take most hours to explain.. 
+
+"
+316,compteNumero9,1490190724.0,7.0,"> I'd be interested to see if they actually use the internet.
+
+Of course they do. At least the ones who answered the survey do.
+
+Joke apart, I started develop long before the advent of the web but I wouldn't imagine coding without it today and I'm sure most old developers who still are in this business need to learn every day too."
+317,DonLaFontainesGhost,1490195161.0,2.0,"> I'd be interested to see if they actually use the internet.
+
+Only what I can get to through Prodigy. "
+318,Paradox,1490256817.0,6.0,"Don't forget ""difficult discussion"" and ""starting a conversation"""
+319,haeral,1490981620.0,1.0,"I took a Smalltalk course (obligatory, it was what they chose to teach us object oriented programming). I thought it was 100% dead... What is it used for? "
+320,devsquid,1490200527.0,3.0,We've had a Android app written in Kotlin that's been on the play store for about a year now.
+321,olaf_from_norweden,1490214463.0,3.0,Kotlin is big in Android dev. I saw it mentioned all the time in job listings when I was looking for a Android gig last year.
+322,3urny,1490203167.0,3.0,"Wow, TIL."
+323,Akkuma,1490191417.0,12.0,There was a guy in my freshman orientation who did the same thing. He said he had been contributing to the linux kernel and was then asked why he was majoring in IT rather than Comp Sci. He said he just needed the piece of paper and wanted the easier major.
+324,,1490185431.0,6.0,[deleted]
+325,swyx,1490223284.0,1.0,original comment was deleted. what did it say?
+326,forlornness,1490204675.0,51.0,And `:q!` when you pressed some buttons and have no idea what happened.
+327,olaf_from_norweden,1490214363.0,11.0,"> :wq
+
+Just use `:x`. Same thing.
+
+I recommend typing `vimtutor` on the command line and learning the other minor stuff like `o`, `O`, `I`, `A`, `p`, `P`, and a few other simple but super useful stuff."
+328,,1490231663.0,2.0,[deleted]
+329,parkourben99,1490218811.0,1.0,I thought that's all there was... 
+330,tanjoodo,1490213725.0,2.0,"Yep. Totally agree. The part where we actually write the code is fantastic. 
+
+But I don't appreciate the VS internal errors or the crashing of various tools every week."
+331,Yelnik,1490386875.0,1.0,"Just started working with Xamarin about a month ago. It's disconcerting how many ""bugs"" are fixed by cleaning and rebuilding or restarting VS...
+
+But to be fair, some of the issues I come across that people had a few years ago seem really outlandish compared to how it works now. I think they're really improving it quite rapidly."
+332,thilehoffer,1490236747.0,1.0,I have a feeling it is going to get a lot better really quickly. Microsoft is not messing around. Most of the new stuff in Visual Studio 2017 seems to be Xamarin upgrades. 
+333,shadow31,1490191580.0,5.0,Xamarin tends to be used for Android/iOS apps so I don't think Mono's reputation necessarily has anything to do with that.
+334,CaptainAdjective,1490186740.0,11.0,"Well, we could see if developers are generally getting older, how many are looking at retirement at any given time, whether the pool of available developers is being replenished, whether development is getting more or less popular as a field, what sort of correlation there is between age and number of years of development experience, how the skew compares with other fields, how pay changes as age changes..."
+335,Dave3of5,1490191324.0,5.0,"There was a post on here earlier about ageism in the developer community this would have provided valuable info for that discussion.
+
+Also why would you say it's not a ""good statistic""? How do you know it would ""skew young""?
+
+I'd like to be able to segment the data they are showing here and age of the developer would most certainly be a useful category to group some of their findings against."
+336,neurorgasm,1490186567.0,3.0,Might be interesting. And it could reveal something relevant about the sample.
+337,,1490218067.0,1.0,"What kind of applications is it being used for? I don't think I've ever knowingly used a piece of software (or a web app) written with Smalltalk. On the offchance you would know, would it be a prudent thing to learn for someone who is an aspiring web developer (who also loves learning about programming languages anyway)?"
+338,matthieum,1490204259.0,8.0,"> and one of the highest paid.
+
+To be honest, I'd really like to know how many developers reported being *paid* to develop in Rust.
+
+I am afraid the sample might be a bit on the small side.
+
+*(The other explanation being that Rust is only used for critical things right now, and Joe Next Door isn't selected for those tasks)*"
+339,suckywebsite,1490226130.0,0.0,It's typical Rust bullshit. 
+340,steveklabnik1,1490214671.0,1.0,"Not super common, but there are many places that have added Rust to their stack, so some people there might do some Rust work sometimes. There's a lot less ""Hiring a Rust programmer"" specifically at the moment.
+
+https://www.rust-lang.org/en-US/friends.html"
+341,lambdaexpress,1490208937.0,1.0,"When it comes to Node packages, where does WSL fall short as compared to native GNU/Linux?
+
+(Disclaimer: I ran Lubuntu 12.04 at home from 2012-2015 so I have some GNU/Linux experience.)"
+342,enmaku,1490224141.0,3.0,"Also don't forget the sudden popularity/ubiquity of Unity. I know quite a few people who cut their teeth modding Kerbal Space Program and such. PC gaming might just be our ""gateway drug."""
+343,i8beef,1490221457.0,1.0,"Agreed. There is very little of anything else here. You see some Java, but really not too much else outside of startups."
+344,soundslikeponies,1490275689.0,2.0,"As a programmer who hates matlab: it's syntactically dense and unintelligible.
+
+* I would much rather `A.tp()` to transpose a matrix than `A.'`
+* 1-indexing might be nice and intuitive for scientists, but realistically it screws you over a massive amount of the time when following pseudo code or code in any other language
+* Playing the game of ""Let's guess which way up our matrix is returned!"" if you take a drink every time you see an inconsistency even within the same family of functions, you might just wake up in Iceland!
+* Everything GUI.
+* Dynamic array? What's that?
+
+I could go on, but there are plenty of reasons to hate working with matlab."
+345,xjcl,1490183143.0,97.0,"I consider that ""spaces""."
+346,ktkps,1490181859.0,4.0,*raises hand while stroking the goatee*
+347,serg473,1490247653.0,1.0,"Wait, you mean someone is actually pressing a space bar 4 times? I always thought tab vs space argument was about what is inserted when you press a tab key."
+348,ubekame,1490196333.0,19.0,"> A space is a space
+
+And that is the problem. Some people like 8 chars indentation, some like 4, (and some weirdos like 1 or 2). The point is that with tabs everyone are happy, with space only whoever wrote it is.
+
+And no, there will never be any problems by using tabs for indentation. If you feel like you need to align parameters or something equally silly, you can still use spaces for that (after the indentation margin), but that is a bad solution to a problem that doesn't exist."
+349,pdp10,1490227193.0,2.0,"A tab is always a tab because it's ASCII #9. Separate your content from your presentation.
+"
+350,4690,1490192909.0,-4.0,There's nothing wrong with the tab character. It's the editors which are wrong in trying to assume a good default for the amount of spaces shown.
+351,,1490217241.0,4.0,"You're all nuts.
+
+    SELECT T.id
+        ,T.name
+        ,S.name
+        ,C.common_name
+        ,A.ip
+        ,AP.ext_id
+        ,AP.base_ext
+        ,AP.mac
+    FROM things T
+    LEFT JOIN sites S
+        ON T.site = S.id
+            AND T.site2 = S.id2
+    LEFT JOIN corporations C
+        ON T.owner = C.id
+    LEFT JOIN attr_phone AP
+        ON T.id = AP.parent
+    LEFT JOIN interfaces I
+        ON T.id = I.parent
+    LEFT JOIN addresses A
+        ON I.id = A.parent
+    WHERE T.type = 1
+        AND I.name = ""LAN"";
+
+Obviously everything is tabs, the only proper character.
+
+Edit: added table aliases because ain't nobody got time for typing out the full table names"
+352,compteNumero9,1490188981.0,5.0,Using spaces for alignement messes with diffs. You should not change lines of code just because other lines had to be changed.
+353,sbrick89,1490188161.0,5.0,"the problem with this approach is the assumption that tabs are represented equally... in reality, they're not.
+
+Open tabs in notepad, 8 chars... open tabs in VS, 4 chars... hover over collapsed text in SSMS renders tabs and chars differently.
+
+preference aside, I have found that for bulk changes to text, most Microsoft editors (SSMS, VS, PS IDE, etc) support SHIFT+ALT for GRID/multiline selection and editing... from the day I learned that, it's quickly become one of my favorite key combos."
+354,wewbull,1490214032.0,1.0,"The problem with this is that this is too complex for 80% of people i work with, or at least they don't care enough to make that effort. 
+
+Tabs only (i.e. For indentation and alignment) is broken. 
+
+So that leaves spaces only. It's the pragmatist's solution. "
+355,iaurp,1490188666.0,0.0,"I like you! Although I prefer dropping the first table reference to a new line. And break out the where clause components on to separate lines unless it's several OR conditions.
+
+    SELECT
+    T   things.id,
+    A   things.name,
+    B   sites.name,
+    S   corporations.common_name,
+    T   addresses.ip,
+    A   attr_phone.ext_id,
+    B   attr_phone.base_ext,
+    S   attr_phone.mac
+    FROM 
+        things
+        LEFT JOIN sites         S   ON   things.site=sites.id
+    T   LEFT JOIN corporations  P   ON  things.owner=corporations.id
+    A   LEFT JOIN attr_phone    A   ON     things.id=attr_phone.parent
+    B   LEFT JOIN interfaces    C   ON     things.id=interfaces.parent
+    S   LEFT JOIN addresses     E   ON interfaces.id=addresses.parent
+    WHERE
+        things.type=1 
+        AND interfaces.name=""LAN""
+        AND (corporations.common_name = ""Conglomo"" OR corporations.industry = ""Manufacturing"");"
+356,Eirenarch,1490219446.0,3.0,80% of developers are female? I work at a company with about 25% female devs and thought that was a lot.
+357,pdp10,1490228438.0,2.0,"> As such, I can only conclude that diversity isn't important.
+
+It's often unimportant until there are economic or political ramifications that can be exploited in some way.
+"
+358,,1490236305.0,1.0,"I think diversity is important. Even if you ignore all the political and social reasons, if we can get women into programming at the same rate as men that would boost the number of software developers so much. Which would be great for open source, since it seems like open source software can use as many developers as possible. "
+359,,1490203442.0,1.0,But... There literally are only those two available to humans.
+360,TonyTheJet,1490224525.0,3.0,"Yeah. I'm in that range, and honestly I kind of just forget exactly when I started. I didn't, like, throw a party or anything, so I know it's ""around 10 years""."
+361,,1490211472.0,0.0,[deleted]
+362,,1490218740.0,1.0,"I have made a promise to myself that I will learn how to program no matter how long it takes. The times I dedicated myself to it I really enjoyed it - even when it became really challenging. I'm currently working in the service sector. I'm finding that when I'm sitting down to continue an online course after a full day of fast paced work I feel drained, especially when the tasks are cognitively demanding. I'm just so excited about technology and its potential that I really want to be part of that world. Thank you for the encouragement."
+363,thbt101,1490202775.0,-2.0,"Of course, but I assumed that companies of all types were using fairly similar web technologies, but maybe not.
+
+Edit: Why would someone down-vote this?  "
+364,,1490206436.0,5.0,[deleted]
+365,RIC_FLAIR-WOOO,1490241676.0,3.0,"The distinction between equality of opportunity and equality of outcome is lost on a huge portion of the population.  Soon the NBA will have quotas for white men who feel that they've been """"""pushed out""""""."
+366,,1490206555.0,3.0,[deleted]
+367,TheMagicTorch,1490190313.0,-8.0,"Quit mansplaining. Your female friends have zero interest because of the white male privilege inherent in the system! Every single white man on this planet should have a member of every non-white, non-male group to mirror him in every single way, that is the only logical solution!"
+368,,1490207144.0,3.0,[deleted]
+369,,1490206890.0,3.0,[deleted]
+370,TonyTheJet,1490225396.0,4.0,"There is a systemic problem, however. In the early 80s, the rate of women entering computer-science-related fields was much higher than it is now. Even now, women fare very well in science and mathematics in school.
+
+While it doesn't, of necessity, need to be 50/50, there must be something in the system that is forcing them out. "
+371,,1490337472.0,1.0,"how could it not be political? it certainly isn't pure economics that prevents women from becoming developers. 
+hiring should be based on only merit, yes. but why is hiring always the first thing people jump to? there is something happening at many levels that drives women out of the software career track. hiring probably has the least to do with it. 
+
+[look at this graph](http://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
+
+women in software were on pace with law/medical/physical science by percentage and then, boom, the bottom drops out in the 80s and hasn't stopped. so when people kind of hand-wave and say ""yes but hiring should be impartial"", it drives me crazy because it's true but completely ignores the very real problem. 
+
+"
+372,,1490207067.0,1.0,[deleted]
+373,svgwrk,1490207653.0,2.0,"""The only possible takeaway is that females are underrepresented.""
+
+https://en.wikipedia.org/wiki/Begging_the_question
+
+If most people choose not to commit criminal acts and be put on death row, does that mean that people are underrepresented on death row? ...or does that mean we would prefer not to commit criminal acts and be put on death row?
+
+If most women *choose* not to pursue a technical career path, are they therefore underrepresented?
+
+Work on your arguments. You can't build a convincing case on a fallacy.
+
+Edit: the worst thing is that, by engaging in that fallacy, you hand these bigots a big victory by simply accepting one of their premises outright!"
+374,,1490211137.0,3.0,[deleted]
+375,weirdoaish,1490208799.0,-1.0,You're comment makes it look like you're blaming the hog for the sausage...
+376,neurorgasm,1490185887.0,161.0,Javascript and javascript?
+377,mike413,1490192898.0,42.0,maybe the people most likely to vote multiple times use javascript :)
+378,shanemitchell,1490188581.0,34.0,Is everybody using Electron?
+379,OneWingedShark,1490235498.0,1.0,COBOL and QuickBasic!?!
+380,mirhagk,1490200299.0,57.0,"I can almost guarantee that this is the reason. Nearly every person uses javascript at some point in their job, even if it's only a tiny percentage of their job."
+381,,1490205314.0,0.0,This was my thought.  I don't know an experienced developer that would say they don't use at least some js.
+382,jnordwick,1490205532.0,21.0,"I don't understand this. I work in a very data intensive segment too, but JavaScript would be way too slow to deal with the amounts of data. How do you use JS in a big data environment? I'm always looking for performance improvements."
+383,,1490239014.0,2.0,[deleted]
+384,Asians_and_cats,1490188056.0,175.0,You are talking about executed as in killed. Right?
+385,Dentosal,1490188568.0,45.0,"So can C, and it will run way faster."
+386,Nadrin,1490187387.0,13.0,It doesn't mean it should. :P
+387,gnx76,1490229462.0,2.0,"> JS can be executed on a toaster
+
+It's more like: it burns so many CPU cycles, eats so much memory, that it turns any computer in a toaster."
+388,mike413,1490192955.0,2.0,"and by on the toaster, you mean in the browser configuring the toaster"
+389,jesusalready,1490321801.0,1.0,But when it gets stuck in the event queue it burns my toast.
+390,,1490182539.0,143.0,[deleted]
+391,Spider_pig448,1490207146.0,13.0,"> Isn't there already a implementation of javascript for-
+
+Yes."
+392,u1tralord,1490224092.0,1.0,"Not sure about Arduino specifically, but the Beaglebone (sorta Raspi competitor) ships by default with Bonescript, a NodeJS framework for IO control"
+393,socialister,1490225671.0,13.0,I  can space programmer.
+394,jugalator,1490192266.0,9.0,I'd rather not... *shudder*
+395,sisyphus,1490198385.0,29.0,But do any of them work?
+396,FrankNitty_Enforcer,1490201089.0,13.0,All hope is lost
+397,KuribohGirl,1490214783.0,2.0,Oh my god why 
+398,,1490206663.0,2.0,"I fit into that space a while ago as well, but we switched away from JS because we needed more performance and more predictability. V8's GC kept causing problems on memory constrained devices, so we switched to a compiled language.
+
+However, we were able to go about 2 years before it caused enough problems to warrant switching technologies, which is saying something."
+399,k-selectride,1490192817.0,50.0,Node also makes it trivial to write scripts that run in the background indefinitely and watch and respond to events. Not saying you couldn't do it with other languages but Node brings all those abstractions out of the box.
+400,,1490206688.0,6.0,"I think there could also be an issue of full stack developers in small shops identifying themselves as sysadmin. 
+
+Edit: this came off wrong, but a lot of full stack devs spend most of their time developing and less time on sysadmin. This could explain some of the skew in the survey."
+401,sisyphus,1490207275.0,24.0,"It's not agreeable though.  Python has stuff like os.walk built right into the stdlib and comes already installed on basically every Linux distro in existence, along with perl and bash.  JS brings zero to the table in a space where there are already dominant existing scripting languages."
+402,,1490205945.0,-1.0,[deleted]
+403,flukus,1490227951.0,10.0,If that's a taste of the future I think I'll start looking for an alternate career.
+404,workpuppy,1490192233.0,5.0,"Yea, I've been out of that side of things for a long time: I do backend support and automation, nothing client facing. Just seems surprising to me."
+405,stopdropandtroll,1490240757.0,1.0,Definitely good to have in your toolkit even as a backend dev. I think people willing and able to maintain those systems once they become 'legacy'  will be in incredibly high demand one day considering the rate that JS evolves. 
+406,workpuppy,1490191967.0,14.0,"Been in the business for close to 30 years, so...I'm sure you can shoehorn it in, I just don't really see the benefit. I'm mostly automation and devops these days, and I only occasionally use javascript for anything."
+407,workpuppy,1490191239.0,9.0,"Yea, I'm all devops these days. I use Python, Perl, Java...Ruby for Chef. I don't have a usecase for javascript. I don't really do GUIs though, so maybe there is some big need there."
+408,VoltronV,1490205460.0,3.0,"Most mobile developer job postings still target native developers. I've only seen a few looking for React Native or similar (Ionic, PhoneGap) developers. I'm sure knowing React Native in addition to the native language would help you stand out though, even better if you can develop both iOS and Android natively and React Native on top of that."
+409,,1490200641.0,12.0,[deleted]
+410,pressbutton,1490219378.0,1.0,Also don't mention serverless architecture 
+411,gropingforelmo,1490196987.0,5.0,"I'm pretty happy using it for javascript as well. Takes some configuration, but it does the job when I'm forced to slum with the front-end crowd."
+412,rlbond86,1490250532.0,1.0,Pretty good for C++
+413,midnightbrett,1490194430.0,64.0,Followed by wordpress. At least developers in aggregate can tell when  technologies are fucking awful. 
+414,BlackDeath3,1490201629.0,2.0,"Perhaps this speaks to my limited experience more than anything else, but I don't think Salesforce is all that bad. Sure it's kind of strange to program to one very specific environment and platform, but it's got its upsides too."
+415,,1490241341.0,1.0,Oh man fuck Salesforce
+416,pattyhax,1490193950.0,1.0,If you want to set the experience for all lists/libraries you can change that from the admin panel in O365 or individually in the advanced settings of the list. Do you guys have a need to toggle in between or is it just a personal preference?
+417,tanjoodo,1490213057.0,1.0,or most dreaded installation experience. Xamarin would win HANDS DOWN
+418,workpuppy,1490195777.0,39.0,"I don't know where *you* work, but I've got my hardcopy greenbar printout of the code with the handwritten comments on it right here!"
+419,workpuppy,1490236782.0,2.0,"They go together. Almost no one does it, and it does pay well...Eventually. 
+
+It wasn't worth it, to me. I make as much now doing *new* stuff, and I don't have to work with systems and code older than I am (and I'm not young)."
+420,olaf_from_norweden,1490214178.0,7.0,"Modern Javascript is not much different than the other dynamically-typed languages to me, just far more ubiquitous with a nice async-everything runtime, so I find it increasingly hard to not just use Javascript."
+421,ryantwopointo,1490191635.0,2.0,"Can confirm, my company is still supporting a UI written in mostly VB6 that was started in the 90s."
+422,,1490187403.0,49.0,[deleted]
+423,,1490204514.0,21.0,[deleted]
+424,superPwnzorMegaMan,1490191903.0,11.0,Why not just use the tried and tested headless chicken approach? 
+425,cheddarben,1490237842.0,2.0,"I call it the Peter Pan methodology... if your shit isn't working, it's because you don't believe enough. On the plus side, it is one of the most used, but under recognized, methodologies there are. Also, a great beauty of the whole thing is the great majority of the hard work isn't even done during the project... or by the project. And if you have a great PTSOTS (pass this shit off to support) man, you charge full price on the project AND hourly for support.
+
+As a side note, I really appreciate all the PMs out there worth their salt. If you have ever been on a Peter Pan project OR been the support that shit is passed to.... it is fucking embarrassing and having a good leader who owns their craft and the process can make a world of difference. "
+426,Atario,1490215182.0,15.0,"""LOL dunno we just like making people justify their existences at 9AM every single day"" = agile/scrum"
+427,contrarian_barbarian,1490219460.0,5.0,"We implemented morning stand-ups. They're an hour long, and they're also the new employee fitness plan!"
+428,NOX_QS,1490195451.0,3.0,This thread is making me laugh so hard I'm crying
+429,VanFailin,1490203796.0,6.0,"It's a significant chunk of the industry, but probably overrepresented."
+430,,1490352581.0,1.0,"I think junior vs senior is even more skewed. Simply by the nature of the website, most people using it will be juniors."
+431,Nyefan,1490193406.0,24.0,"I use linux exclusively at home, but I wasn't given the option at work - I could only choose between Windows laptops and MacBooks.  When I asked if a Linux option was available, they said they might be able to persuade the IT team to allow it...and then forgot about my request entirely."
+432,karlthemailman,1490190179.0,20.0,"I don't disagree, but I haven't seen many corporations that support Linux desktops.  Even for Linux server applications, I usually see places that use windows or osx plus a terminal emulator. 
+
+Could just be related to the industries I have experience with. 
+"
+433,civildisobedient,1490224534.0,5.0,I think that may start to shift as [WSL use](https://blogs.msdn.microsoft.com/wsl/) grows.  Linux in Windows has made huge strides recently.
+434,,1490205925.0,6.0,[deleted]
+435,,1490191390.0,5.0,When visual studio is released for Linux I'll come over 
+436,comrade-jim,1490193312.0,2.0,I prefer to run windows in a VM on Linux. 
+437,,1490202416.0,10.0,"> Mac used to be pretty decent, but these days it is bug filled shit that fights with power users at every single turn.
+
+IMO Snow Leopard (10.6) was the last great OS X. But that came out in 2009. Since then, Apple has given a shit for developers and made the platform worse and worse for professional users. Today, Linux is a magnitude better for programmers (and other users as well, as long as they don't depend on Adobe Creative Suite etc.)"
+438,larrybunsold,1490196592.0,16.0,brew install coreutils
+439,McGarnagle23,1490200476.0,15.0,Did Tim Cook hit your dog with his car?
+440,zamN,1490202438.0,5.0,"Finally, someone else who isn't delusional. I ran into the exact same things you experienced when trying to use OS X at work... I'd say it really isn't good if you are used to any other OS, but if you start out with it then I can understand why someone would prefer it "
+441,VoltronV,1490206513.0,6.0,"Have had the complete opposite experience. Used Windows and Linux for years, just assumed OS X was a toy for graphic designers,  had to use a Mac at work and found working on it to be much better. Bought a MacBook Pro and haven't had any issues like you describe. I can also dual boot into Linux or run it in a virtual machine, same for Windows, but I have no need or desire to use Windows now. That said, I do feel like Apple has been taking developers for granted lately while Microsoft seems to be trying to woo more over now. If things don't seem to be improving on the macOS side, I may consider going back.
+
+Edit: Nice, downvoted. I thought my response was reasonable, but apparently I pissed some OS diehard off.
+"
+442,xormancer,1490206595.0,2.0,Any chance you could share recommendations for distro/packages and a good laptop? 
+443,pdp10,1490220200.0,1.0,"> Want a mouse that is actually ergonomic?
+
+Engelbart's mouse: 3 buttons. Alto mouse: 3 buttons. Sun mouse: 3 buttons. Macintosh mouse: 1 button?! NeXT mouse: 2 buttons. 21st century Mac mouse: one button and some weird gestures?
+
+Apple's been infantilizing things since at least the early 1980s."
+444,cheddarben,1490238225.0,1.0,"The company I have been at has allowed choice for the entire 11 years I've been there. It has been interesting. All of the devs were windows for several years and then it swung to probably 90% macs and now I would say about 70% pc.
+
+I am still on mac and might switch back when it times to upgrade phone and laptop.... they fuckn shit up."
+445,Hacnar,1490261300.0,1.0,"> The community quickly shit all over the developers for complaining, which I imagine will bite them in the ass hard in the next few years.
+
+I feel like the devs and computer-savvy users are the ones who set up the trends in hardware choices, which the rest of the public often start to follow in the following years."
+446,Spo8,1490202602.0,1.0,"As a Node developer who moved to OSX after several years of developing on linux, I don't ever want to go back.  I much prefer it to the unavoidable jank that you get in every linux distro."
+447,mrbaozi,1490212451.0,1.0,"I use Windows (games, mostly), OS X (old Macbook Pro) and Fedora (everything else) at home and Ubuntu/Debian at work. I agree with you that Linux is the best for development - but I'd develop on OS X over Windows any day. I spend most of my dev time in the console and I love iTerm, I wish Linux terminal emulators were half as cool :/
+
+Homebrew makes installing (most things) a breeze, which is probably the thing I despise most about Windows. The combination of iTerm + Vim + homebrew makes for a very usable coding environment, and Windows has nothing of the sort. As for hidden files - I don't use the Finder much, so that's really a non-issue."
+448,whisky_pete,1490188664.0,15.0,"> This has perked my curiosity. I tried to embrace linux as a development OS but I just couldn't find a quality desktop manager (gnome, etc). I felt my eyes were parsing the UI and this made switching from windows, panes, etc very tasking and feel tedious.
+
+Want a minimalist UI? try tiling window managers like i3wm. It's kind of like your desktop only being spotlight on Mac OS, and a shortcut terminal launcher."
+449,Spo8,1490202839.0,12.0,"This is the same experience I've had.  I've used desktop linux on and off for the last decade and switching to OSX was kind of a revelation.  Having never used it, I just assumed it was a dumbed down, easy to use OS.
+
+But a unix environment with actual *polish*, a *thoughtful* UI, good apps, and great window management?  I love how far linux has come, but it doesn't hold a candle to OSX for me. 
+
+
+^((as long as I'm not the one paying)^)"
+450,,1490202701.0,4.0,">  lack of polish/quality in linux desktop manager
+
+I think this is simply not true. I switched from Mac to Linux, and I find Gnome Shell (3.22) very polished and slick. Much better than the contemporary version of the Mac Finder. And if you are a pro user, there is nothing stopping you from customizing every detail, from font sizes to shortcuts, while Apple does the opposite since years, takes your options away and tells you want it thinks is good for you."
+451,guardianhelm,1490193880.0,2.0,"There are macOS like DEs, such as the one used in [elementaryOS](https://elementary.io/). Otherwise, for maximum customizability you can try a window manager, such as openbox, with a custom theme. I personally like [Arc](https://github.com/horst3180/arc-theme) and [vimix](https://github.com/vinceliuice/vimix-gtk-themes)."
+452,ummwut,1490210767.0,5.0,I feel bad for laughing at this.
+453,Kattzalos,1490237901.0,4.0,that would improve the usefulness of the manpages immensely
+454,Aphix,1490196201.0,25.0,Did Ubuntu for desktop finally drop the weird Amazon bloat/bundling? That really turned me off last time I tried it out; I still love Lubuntu on my little ASUS EeePC though.
+455,Regis_DeVallis,1490197170.0,3.0,Also you can just install OSX. Hackintoshing is still a thing now days. 
+456,JasTWot,1490445129.0,1.0,Ubuntu was my gateway os. Now I'm using Mint. I really like the Debian-based os experience.
+457,The_yulaow,1490191032.0,1.0,"if anyone wants a macos-ux like experience but with archlinux behind it, give a try to apricityOS  "
+458,,1490213037.0,36.0,can you recommend a decent text editor?
+459,slavik262,1490193326.0,11.0,Did Manjaro get their act together? I've seen most people recommend Antergos if you want Arch with a nice installer.  
+460,0983904,1490194398.0,5.0,"What Linux distro is this? (saved from 4chan)
+
+https://gfycat.com/WholeAltruisticAfricanhornbill"
+461,,1490191220.0,2.0,deleted  ^^^^^^^^^^^^^^^^0.2277  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/89097)
+462,Secondsemblance,1490241248.0,1.0,"Seconding fedora. I have no reason to look for another distro.
+
+I've tried:
+
+- ubuntu
+
+- arch
+
+- gentoo
+
+- debian
+
+Nothing compared to fedora, although ubuntu wasn't bad."
+463,Some_Human_On_Reddit,1490192209.0,1.0,Two more hours of battery life? That's wild. What percentage increase would you say?
+464,as_one_does,1490195761.0,6.0,"I moved to debian after a Ubuntu upgrade nuked my box for the third time, I don't know why I waited so long..."
+465,ledgerdev,1490212299.0,3.0,"I would agree.. but there is one huge problem, that actually caused me to give up on Xubuntu. It's nearly impossible to resize windows.
+
+Do you think they will fix that? I know it looks good, but the super thin window borders in Greybird and make it nearly impossible to resize windows which drives me crazy, and makes it nearly unusable. Judging from google a ton of other people too.
+
+I tried to change themes, and even edit the window manager files but it turned into a rabbit whole and I just gave up after an hour or so."
+466,,1490189989.0,51.0,Arch Linux:  for people who plant wheat and buy pigs when they want a ham sandwich (eventually)
+467,,1490200338.0,3.0,[deleted]
+468,,1490210148.0,2.0,"> is what Linus runs
+
+What does that have to do with anything? He's not a very savvy user, surprisingly, and he's stated as much in interviews (he didn't like Debian because he couldn't figure out the installer).
+
+Pick the distro that works the way you like, not the distro that someone else likes."
+469,ccfreak2k,1490260705.0,1.0,"> is what Linus runs
+
+I never really considered what Linus would run as a distro. Do you think he voted for [Beefy Miracle](https://beefymiracle.org/)?"
+470,pdp10,1490221928.0,1.0,"I sometimes wonder how people with this experience haven't had the equivalent with other operating systems. Like updating your video drivers, or scheduling your updates around when you'll need to reboot, or customizing the desktop preferences, or the yearly reinstall.
+"
+471,YvesSoete,1490302161.0,1.0,"Yeah me too, i wasn't kidding. "
+472,helisexual,1490303065.0,1.0,"Kid in my AI class was legally blind, but by using a special physical filter over his screen, wearing special glasses, and sitting **super** close to the screen he could read."
+473,the_gnarts,1490216428.0,4.0,"> Do you not have a similar 2 year vs 4 year degree?
+
+Most degrees (except medicine) are officially 3 years (B{A,S}) or
+5 years (B{A,S}+MA). But different kinds of higher education
+facilities offer these degrees, so even if the years match, the
+degree may differ significantly in value.
+"
+474,,1490221479.0,1.0,[deleted]
+475,,1490196043.0,6.0,[deleted]
+476,twiggy99999,1490195334.0,-2.0,No but parents with a degree === high salary === their children don't have the struggle that working class children have. Hence my first comment `only worries in their entire lives is when they have ran out of Civet coffee to go with their Wagyu beef for lunch`
+477,,1490209262.0,-1.0,"It doesn't mean silver spoon, but it's definitely a privilege to have such parents. Not all parents value education, and a lot of people in some social strata pretty much have to go straight into the workforce after high school to support themselves. I'm 36 and STILL haven't completed my degree, which I began at 29. I am trying, but it's hard when you have to work full time while taking classes.
+
+I worked with a lot of people at coffee places in the Bay Area, many who would love to get their degrees and move on, but it's tough. 
+
+This isn't to say that all people with parents who have a degree have money, but they're more likely to value education and make sacrifices to make college a possibility for their offspring (maybe a college savings fund for their kids, for example)."
+478,twiggy99999,1490197670.0,1.0,"> Degree education doesn't mean rich
+
+Every single study in every country all state having a degree increases income.
+
+> It's also easier for them due to stability at home and support an intellectual upbringing can provide.
+
+Exactly, silver spoon upbringing. You/Your parents certainly wasn't worrying about how to pay the next rent payment (probably home owners as well) or where your next meal was coming from. In all the jobs I have the majority of the people I have worked with have never even had to consider the above. Obviously my experience isn't unique with over 50% of the programmers interviewed stated their parents had a higher education. "
+479,Xaeroxe,1490207839.0,9.0,"> and rocks
+
+Gave me a good chuckle"
+480,shaggorama,1490214716.0,2.0,"Yeah, I think mainly it's just familiarity at this point. I've been using n++ for years now. I should give another editor a shot. As I mentioned, I use RStudio for R instead of n++, so it's not like I don't see the benefits of IDE's at all. For some reason, it's just how I'm used to doing my python."
+481,l3tigre,1490272489.0,2.0,...Because they were ranked together in the same list? 
+482,gnx76,1490230445.0,12.0,"> I have no reason to believe that stackoverflow attracts one kind of developer over any other either,
+
+* Developer type: Web developer 72.6%
+* Years since learning to code, top answer: 4 to 5 years
+* Years coding professionally, top answer: 1 to 2 years
+* Methodology: Agile 76.9%
+
+C'mon...
+"
+483,,1490201728.0,13.0,"> I have no reason to believe that stackoverflow attracts one kind of developer over any other either
+
+That's not the way it works, is it? Only the fact that there are as many Spanish respondents as there are Dutch shows a bias. Women also seem to respond less than might be expected from other numbers."
+484,cdimino,1490200354.0,7.0,"Man, I gave W10 another pretty good shake recently for backend and web dev work, but it's still so far behind where it needs to be, it's just sad, considering how much effort they're putting into making it dev friendly.
+
+Maybe this next update will be ""the one"".  Heh."
+485,VoltronV,1490208239.0,3.0,"Apple is falling behind recently. I hope they get their act together and get things back up to speed for developers who use macOS. Still prefer using it over Linux and Windows despite that, but that could change. I used to only use Windows and Linux before."
+486,digitalpencil,1490188972.0,6.0,I've considered switching so many times but the lack of Adobe CC just keeps me here.
+487,steamruler,1490261525.0,1.0,"If you use redhat, you could just buy it with redhat preinstalled. Most laptop vendors provide it, I've found."
+488,derkonigistnackt,1490272435.0,1.0,unless you heavily invested in becoming an iOS dev and don't want to do web dev :'( ... I guess there's always Android and systems
+489,Ninja_Fox_,1490269982.0,2.0,Did that answer say it wasnt using headphones?
+490,tanjoodo,1490213320.0,14.0,A lot of them are edited heavily. Especially popular answers. You can see the edit history.
+491,Ninja_Fox_,1490218871.0,9.0,The accepted answer is usually some bad hack with 10 points and under it is a 700 point super answer.
+492,workpuppy,1490191085.0,6.0,"Most of the real fossils I know are old school COBOL guys and gals...They're still mostly using the manuals that came with the mainframe.
+
+To be fair to them, when you google some of that old stuff, what you get online is the pdf of that old manual."
+493,,1490201692.0,2.0,"I started programming in the early 90s. We didn't have the WWW at my area at the time (you'd have to call long distance to get Prodigy, AOL, etc.), but we did have local BBSes and there were some pretty neat programming guides you could download to read offline. These were, of course, text files, but I remember learning how to do things like writing inline assembly to create interrupts to get mouse functionality in DOS programs through such text files."
+494,paholg,1490259940.0,2.0,"""Problematic difficult discussions that start conversations considered harmful."""
+495,Pharisaeus,1490214654.0,0.0,"It is, but I feel like it's still listed as something ""for the future"". If there is a new project, especially small one, then I can see it getting done in Kotlin. Android fits here quite nicely. 
+
+But no-one is going to re-write a large Java app to Kotlin, and it's unlikely to start a new large enterprise-class development in Kotlin."
+496,pdp10,1490223728.0,1.0,"Just because you can contribute patches to the Linux kernel doesn't mean you know Computer Science. CS is a demanding and highly theoretical program in a lot of institutions.
+"
+497,b4ux1t3,1490186027.0,9.0,"Most of the math I know learned from my dad (math major: doesn't go obsolete), but, honestly, *most* of the dev jobs I'm looking for are just that: software development, which doesn't require all that much in the way of abstract mathematics.
+
+To be clear, I'm totally behind you. I didn't self-teach while in school, but our outcome is functionally the same. I'd explain better, but I'm on mobile right now. Sorry if it seemed like we were at odds. "
+498,b4ux1t3,1490225672.0,1.0,"Basically:
+
+TeamA: Developers who are self-taught
+
+TeamB: Developers who went to school
+
+TeamC: Developers who self-taught and then went to school
+
+People give TeamB shit about not having practical experience, and then bitch bout how TeamA don't have the understanding of abstract concepts that TeamB have.
+
+Meanwhile, TeamC gets judged for going to school and for being self-taught by parties who don't identify very strongly with TeamA or TeamB, and/or those who identify too strongly in either TeamA or TeamB or, worse yet, TeamZ, who has never written a line of code in their life, but is in charge of hiring developers.
+
+EDIT: To be clear, I'm on meds now, so this might not make sense. I hope it does."
+499,Liberatric,1490220435.0,2.0,Going to have to give this a try. Thanks for pointing that out. 
+500,nothisshitagainpleas,1490284281.0,1.0,`ZZ` if you're already in command mode does the same thing as `:wq`/`:x`
+501,invisi1407,1490271853.0,1.0,"Esc, Esc, then repeat `:q!` until it exits usually works."
+502,b4ux1t3,1490191953.0,1.0,"I don't ""know"" it would skew young. It just seems to me that younger people are more likely to take surveys, given the admittedly small sample size of people who I know."
+503,Scroot,1490219875.0,2.0,"I only use it for personal projects, so I can't say definitively. But my understanding is that applications written in ST are used in the financial and logistics industries among others.
+  
+You likely haven't used a piece of software written in Smalltalk, because in most cases you would then be inside the Smalltalk environment itself. Unlike other languages, most Smalltalk implementations are a live environment that you are manipulating as you go. It's a very different way to program and can take some getting used to when you first try it. Check out some Alan Kay videos on YouTube to get an idea of the philosophy behind it.
+  
+As for web development, stick with what everyone else is doing. There is a framework for creating web applications in ST (called [Seaside](http://seaside.st/)) but I don't use it (also a web developer here).
+  
+However, I think if someone can get a ST VM up and running in WebAssembly, and when wasm can finally manipulate the DOM, we could have a true live system in every browser. It could also make front-end development much better, as well as the web applications themselves. Things like [Amber Smalltalk](http://www.amber-lang.net/) were a good start, but WebAssembly really steps up the possibilities in my opinion."
+504,ryno55,1490220984.0,2.0,"It's used by some major companies in the semiconductor manufacturing industry, for one."
+505,pdp10,1490228296.0,1.0,"A few firms commercialized Smalltalk out of Xerox PARC in the early to mid 1980s. Through the late 1980s and 1990s, though, the commercially dominant Smalltalk advocate was IBM, who developed their VisualAge version internally with an emphasis on ""visual programming"" and rapid application development.
+
+The typical customer of IBM's Smalltalk was a larger corporate customer of IBM's that had internal development teams that were open to trying less-conventional development environments with the hope to reap big benefits. A high-profile example that seems typical was [Chrysler's C3 project](https://en.wikipedia.org/wiki/Chrysler_Comprehensive_Compensation_System), although I don't know which vendor's Smalltalk they used. A number of pages referring to C3 can be found on c2.com.
+"
+506,suckywebsite,1490226742.0,1.0,Naaaah. Rust bullshitters keep on bullshitting. They self-reported bullshit. They gamed the survey to plug rust. 
+507,The_yulaow,1490209578.0,1.0,"not all syscall are supported on Wsl. If you get a package that uses one of the unsupported ones you are stuck with no working solutions.
+
+Also is still extremly problematic making some windows sw use a wsl program (eg I could not find a way to make windows webstorm to recognize and use node and git installed on wls, even using batch files or whatever suggestion I could find online)"
+508,NominalCaboose,1490194587.0,21.0,The people that are wrong are the ones who manually type in a certain amount of spaces.
+509,driusan,1490184539.0,34.0,"It is spaces. Calling it tabs is like saying ""type the caps-lock c character to kill the foreground process."""
+510,helm,1490215317.0,1.0,"moustache, eh"
+511,GreedCtrl,1490230556.0,1.0,Problem: Github
+512,steamruler,1490261971.0,1.0,"> If you feel like you need to align parameters or something equally silly, you can still use spaces for that (after the indentation margin), but that is a bad solution to a problem that doesn't exist.
+
+Well, it is a problem, you can't align with tabs because it means it gets misaligned if tab-width is changed.
+
+Aligning with spaces after the tab-indentation works pretty well, however! If only more editors supported it properly."
+513,komtiedanhe,1490263307.0,1.0,"To me, it's moot whether you use tabs or spaces, in itself. Intuitively though, I would say the people who mix tabs and spaces are a subset of people who use tabs, not spaces. Since people who use tabs aren't universally consistent in their use of *only* tabs, that makes spaces the winner. Consistency is king, no matter what the contrived code standard. "
+514,2a0c40,1490207679.0,-1.0,One day you'll get laid and realize what a retard you are.
+515,senatorpjt,1490222288.0,1.0,"There should have been another question about ""How many spaces should a tab be?"" I notice you didn't list my preference: 3."
+516,anechoicmedia,1490276327.0,1.0,To each his own but this is less navigable for me. The hierarchy for multiple join conditions is intuitive but not something I need frequently enough. I also worry I'd get lost in my statements if I used table aliases.
+517,knome,1490192906.0,0.0,"What do you do with using tabs for alignment when the difference between the length of variable names exceeds a tabstop for one developer and not another? If my tabstops are two, it takes 3 tabs to align the data. If yours are eight, a single tab aligns.
+
+If I write the change, you'll have 3 8 character tab stops making everything horrible. If you write the change, I'll have variables passing the tabstop and causing misalignments.
+
+> not using spaces for everything is wrong and 42.9% of developers are wrong"
+518,anechoicmedia,1490192834.0,12.0,"That's the idea; Use tabs where fixed width isn't required. Tabs can be used where they are allowed expand and contract to user preference for indentation, and fixed spaces align things as needed within a given level of indentation."
+519,pdp10,1490227423.0,2.0,"> at least they don't care enough to make that effort.
+
+This is a problem with everything. Unless you can manage to change the expedient behavior so that it matches the desired behavior.
+"
+520,anechoicmedia,1490192662.0,2.0,"I usually do it like that as well. This script just had a little less going on so it didn't get my usual OCD treatment.
+
+This sort of language freedom and clarity is why I love SQL as a data retrieval tool. Don't try and insert too much logic into it and it is clear and understandable.
+
+This ASCII art query is from my own pet IT configuration documentation system, so maybe it doesn't need too much overthinking."
+521,Jigokuro_,1490231416.0,3.0,"Nah, 80% of the company overall. Though the ecomm and IT depts are still >50%, and both are headed by women. 
+
+We're like 90% white though. ¯\\\_(ツ)\_/¯"
+522,Incursi0n,1490215372.0,12.0,"Hush, some people can get very upset if you say things like these"
+523,,1490209835.0,12.0,You're confusing gender and sex.
+524,,1490213230.0,5.0,"You misquoted me. There is an ""and scientific computing"" at the end of that sentence, meaning that while both are used for web development, Ruby is used almost exclusively for web development while Python is more common in other domains (programming robots, data science, etc). Of course Ruby is a general purpose language and COULD be just as useful for data stuff as Python--it's just that the libraries aren't there just yet."
+525,mav3rick25,1490225440.0,1.0,"Here's a path I've seen people successfully take at my work from non-coder->full time dev that allows you to learn on the job. 1. Get an IT job as that doesn't require programming ability(test executor for example). You should be able to get this type of job with general computer proficiency. We typically hire contractors for these positions. 2. After you get comfortable in that role, learn how to automate the manual aspects of your job. Learn how to triage issues, fix, and write tests yourself. 3. If you've been proactive in learning you'll definitely stand out and probably be able to transition into a full time test developer position. 4. Keep learning and you'll be able to move into a regular dev role eventually."
+526,lukewarmtarsier2,1490204470.0,6.0,"The place I used to do web development also had a desktop app, so C# was used for the backend to develop both a windows application and the website."
+527,pgmayfpenghsopspqmxl,1490233602.0,1.0,*it isn't lack of interest ^([Citation Needed])
+528,pgmayfpenghsopspqmxl,1490217677.0,5.0,Who or what is pushing you out?
+529,svgwrk,1490207457.0,3.0,"Sorry; I see the word ""mansplaining"" and my reflex is just to click that down arrow. :D"
+530,twiggy99999,1490197110.0,3.0,"Haha, I got the sarcasm but most didn't. I think it was the first line came across all 'kale eating feminist warrior'(ish) and people voted on that without reading the rest of it"
+531,passionlessDrone,1490202325.0,1.0,Love how you got the downvotes.  Have an upvote. 
+532,,1490203673.0,0.0,Lol.
+533,svgwrk,1490207537.0,0.0,You're right! Being a miserable person tends to make one miserable. Why not trade your negative self-delusions for positive ones? :)
+534,,1490267267.0,0.0,[deleted]
+535,,1490341656.0,1.0,[deleted]
+536,svgwrk,1490207494.0,0.0,lmao
+537,pgmayfpenghsopspqmxl,1490208000.0,2.0,"First you have to establish that this lack of *equity* is a result of pushing women out. 
+
+> Writing code for gobs of money is a great career.
+
+Also, this is highly subjective. "
+538,,1490208132.0,3.0,[deleted]
+539,workpuppy,1490209391.0,4.0,Point to the part where I *blamed* someone.
+540,mfukar,1490186783.0,190.0,Script and Java
+541,,1490205015.0,82.0,[deleted]
+542,The_yulaow,1490188742.0,47.0,"don't think so, but it is probably the first choice in the last months for those who want to target all three main desktop os without using different UI libraries or an unmanaged language.  The advantage is that if you use something like react/ract-native you could share the code for the whole data managing part between web, desktop and mobile (spotify is a good example) , and probably also big part of the ui code if you make all responsive"
+543,imMute,1490234444.0,3.0,"Shot I work in embedded video processing, No front end at all, and *we* have javascript."
+544,jnordwick,1490205432.0,0.0,"I've never touched javascript in my life. I'm exclusively backend, non-web. And I'm not the only person like this."
+545,jnordwick,1490209817.0,3.0,"Maybe this is an industry thing? I haven't, at no job have we ever used JS, and most of the devs I know don't either. An industry breakdown would have been very interesting."
+546,Metaluim,1490222240.0,1.0,"I've worked on many types of systems (embedded, real-time, your run-of-the-mill informaton system, etc) and in none of them did I use js."
+547,Existential_Owl,1490205980.0,14.0,"Asynchronous API calls?  I wouldn't do the number crunching in node, but I would definitely call out to the processes that can."
+548,OneWingedShark,1490235848.0,3.0,">  I work in a very data intensive segment too, but JavaScript would be way too slow to deal with the amounts of data. How do you use JS in a big data environment? I'm always looking for performance improvements.
+
+I'd rather look into a compiled, statically-typed language than JS -- the Ada `task` construct lends itself nicely to (as mentioned below) asynchronous APIs."
+549,Kaiwa,1490257287.0,1.0,Honestly I have a bigger problem with DevOps just being such a vague term to begin with. It could be something completely different at each company right now. 
+550,,1490188282.0,77.0,You cannot kill that which cannot die. 
+551,Wolfspaw,1490198830.0,0.0,"Gold comment, made my day 😂 "
+552,i_spot_ads,1490188797.0,4.0,"It's easier to write js code, especially with es6 and typescript "
+553,nuclear_splines,1490246905.0,1.0,What kind of performance do you need out of a toaster?
+554,mike413,1490193054.0,-10.0,"javascript execute way way faster on the toaster... and by ""on the toaster"" it means in the phone browser talking to the toaster."
+555,Aeon_Mortuum,1490198705.0,19.0,Is there a jQuery plugin for evil?
+556,pablonoriega,1490251330.0,3.0,"Don't flatter yourself, anyone can space programmer."
+557,nschubach,1490240577.0,1.0,I have 4 of them... pretty awesome devices actually...
+558,YvesSoete,1490220594.0,31.0,Yeah but only for 6 weeks until the next framework is out. 
+559,OneWingedShark,1490235907.0,2.0,Masochism?
+560,whostolemyhat,1490207337.0,1.0,So... Sysadmins then?
+561,bro-away-,1490211701.0,14.0,"I mean anyone using perl could have made the same argument against using python years ago.  Clearly appealing to something being pre installed never stopped anyone.
+
+It can help people get started (php) but it never stop progress from happening. 
+
+If people are using js everywhere it's a big value add to just use it for server automation too.  (Is what the people who ditched python would say, I'm not a sys admin)"
+562,spacejack2114,1490228955.0,3.0,It brings all of npm to the table.
+563,Lekoaf,1490217504.0,2.0,That's just not true. Javascript brings curly brackets to the table.
+564,olaf_from_norweden,1490213407.0,5.0,"It brings a ubiquitous language. If you think that's no big deal, you'd be wrong. Hence these survey results."
+565,Paradox,1490254467.0,1.0,"And both Chef and Puppet are written in ruby, which I know to both be used heavily"
+566,bro-away-,1490209833.0,2.0,"Async and await are standard in node now, Joyent has more limited involvement in node now, and also joyents cloud is laughable garbage at the moment so you aren't talking to a Joyent fan by any stretch lol"
+567,,1490208415.0,4.0,"I've used it for:
+
+- embedded devices (node.js on something like a Raspberry Pi, quick edit/debug cycle)
+- build tools for servers in other languages (my current Go projects use `jade`, `less` and a couple other JS web builders)
+- automation - many of our automated tests run on Javascript because it was convenient to have our web developers write integration tests as well
+- scrapers and other scripts - many tools already exist to work with web stuff, so why not have CLI applications that use similar libraries as you'd use in the web?
+
+I now use Go for most of the above, except for build tools for web pages."
+568,,1490230155.0,1.0,[deleted]
+569,flukus,1490231558.0,3.0,Can we? JavaScript seems awefuly popular.
+570,,1490199422.0,2.0,[deleted]
+571,eric22222,1490225898.0,2.0,"Your mileage may vary, but I can kind of see why people don't like writing code for Salesforce. It's littered with surprise limits that you wouldn't know about without getting deep into the documentation. 
+
+I've been pigeonholed into SF development for the past couple of years. Writing the code is pretty much like writing regular Java, but all the gotchas stack up while you're learning. Even after the first year I was still regularly getting problems because I didn't know all the seemingly arbitrary rules and exceptions. "
+572,agumonkey,1490213676.0,1.0,Im now happy never to have interacted with it.
+573,BigDumbObject,1490208089.0,2.0,"just curious, what kind of systems rely heavily on cobol to the point they can't update/migrate? (or just not worth it)
+is 0 downtime just not an option?
+do you see these same systems running 20 years from now?"
+574,YvesSoete,1490220737.0,2.0,HA
+575,thilehoffer,1490236957.0,2.0,"Makes sense. BTW, I'm 40 years old. Been coding .net since 1999. I wouldn't want to do COBOL either. I just thought it might be an easy way to make good money since COBOL still exists but COBOL programmers probably don't."
+576,workpuppy,1490192098.0,4.0,"Yea, I know it's there, I just can't imagine someone *shilling* for it. Even Microsoft is embarrassed by VB6 these days.
+
+At least with legacy COBOL the *language* is still getting updates."
+577,,1490188433.0,18.0,Coach? Hired? 
+578,cheddarben,1490238359.0,2.0,"Almost everybody sits down at all of our stand ups... it is a pet peeve of mine. And if the mother fuckin meetings were timely, it would be one thing, but they are not."
+579,weirdoaish,1490202792.0,8.0,McDonald's would sue
+580,Superpickle18,1490207856.0,17.0,My work practically forces Linux.. I suppose I could request Windows... But the fact there is literally one windows machine in the whole building... It's purpose? Skype screen shares with one client. Lol
+581,baubleglue,1490223681.0,2.0,"I just installed dualboot, when I really need - boot windows (last time was about an year ago) "
+582,grelphy,1490224889.0,1.0,"Install it yourself? You've got physical access to the thing, it's game over…"
+583,myringotomy,1490236699.0,1.0,Most larger and conservative companies are like that.
+584,catscatscat,1490204228.0,11.0,"Anecdotal, but the last 3 companies I worked at linux was either supported or downright preferred.
+"
+585,pdp10,1490219551.0,1.0,"Some industries are conservative in different ways than others.
+
+One of the organizations I ever saw most wedded to Windows had been using four different supported desktop platforms (two of them only in one department each) only a year or two previously. They weren't the least bit conservative when they spent a lot of money to switch *to* Windows very quickly, but then they got very conservative and nothing else could even be considered regardless of whether it might better suit needs or be cheaper. This wasn't an organization that had any strategic or overt reasons to prefer any technology stack, either.
+
+"
+586,tetroxid,1490254677.0,1.0,Support? Never. But tolerate? Yes.
+587,myringotomy,1490236598.0,0.0,I am told it doesn't work worth a shit which is why every windows developer always asks for a windows version of programming languages instead of using it.
+588,myringotomy,1490236652.0,1.0,"I wasn't expecting to see the ""fake news"" claim here."
+589,doom_Oo7,1490253295.0,1.0,">  I have never seen Linux used as the main OS for development teams 
+
+well, you'd be surprised."
+590,Eravier,1490270433.0,1.0,Where I work everyone has Windows installed because *corporation*. Yet I'd say at least 80% people not developing for Windows (myself included) work on Linux VM. And it's actually much faster with half the resources.
+591,gropingforelmo,1490197175.0,12.0,We're a lot closer to this being a possibility than I ever thought we would.
+592,Superpickle18,1490207928.0,3.0,VS Code has a linux port.
+593,myringotomy,1490236767.0,1.0,"Apparently lots of developers are able to code without visual studio.
+
+It must suck to be locked in to an OS by an app though. I don't envy your position."
+594,weirdoaish,1490203460.0,3.0,I'm the exact opposite lol
+595,,1490209441.0,7.0,"> Today, Linux is a magnitude better for programmers (and other users as well, as long as they don't depend on Adobe Creative Suite etc.)
+
+And honestly, the open source replacements for Adobe Creative Suite is really quite nice these days, especially Krita."
+596,,1490200310.0,17.0,"Homebrew addresses application management slightly better than builtin and also helps other issues like Mac specific tools being incompatible with the other nix brethren. That aside, it doesn't address the other host of issues with osx.
+
+Even if you count homebrew and Macports together, Linux is just so far beyond osx at this point that it is laughable to consider osx for anything outside of Apple ecosystem development. Since apple is keen to shit on developers in favor of simpletons that think pretty = better (as if they're mutually exclusive) as of late, the developers who buy in to Mac is going to sharply decline as they come to understand the massive superiority of Linux as a developer.
+
+The apple ecosystem as a whole is falling apart. That's true for both hardware and software. IPhones still sell like mad, but when the developers leave, what then?
+
+Any third party that can objectively look at Apple will say the same thing. Everything about their ecosystem is in complete disarray."
+597,3urny,1490202543.0,2.0,"I think brew might be one of the best parts of macOS ironically. If you google ""os x brew [whatever]"" you more often then not get useful information. With linux you have to decide between ""linux installing [whatever]"" and ""[distro] installing [whatever]"". If your distro is not debian or ubuntu, you're often lost. You can then start building stuff yourself and doing some guesswork which header files to install. "
+598,pdp10,1490220336.0,3.0,"Apple's been taking a lot of things for granted lately, but shopping for workstation-class Mac hardware is an especial exercise in angst.
+"
+599,TheHobodoc,1490189921.0,9.0,"Before i switched to i3 i thought that it would be hard to use. 
+It turned out its dead simple and extreamly pleasant to use."
+600,pdp10,1490220514.0,2.0,"Concur. There aren't necessarily easy answers when it comes to Linux desktop environments, but if you need something very minimalist and yet highly usable, i3/i3wm is *definitely* worth your time to try out.
+
+There should be a pretty good default configuration these days with the Super key for the main modifier, so try everything with the defaults and avoid any temptation to customize, at least at the start.
+"
+601,Nyefan,1490193685.0,3.0,"i3 is the best wm I've ever used, and I've used quite a few - plasma, gnome, kde, and cinnamon are the ones I had used most up until being led on a halter to i3, but none of them come close to the simplicity and usability of i3."
+602,XxNerdKillerxX,1490203813.0,1.0,"I think the sad reality is that people don't produce good UI's without money involved, and lots. It's such low level and boring code that people don't want to work (and fix bugs on it) in their free time. I'll have to try it again and see if it works for me, I would like to adopt it but it's not all pro's and no con's as some seem to preach."
+603,XxNerdKillerxX,1490203648.0,2.0,"> from font sizes to shortcuts
+
+Actually many of the fonts wouldn't increase over a certain size. There were many bugs like this that kept me from using Gnome."
+604,twiggy99999,1490197264.0,35.0,"I believe it's still in there? But not enabled by default, it certainly isn't on 16.04 which I'm using right now. 
+
+A lot of people took very badly to it but are okay with Apple and Microsoft recording every single keystroke and mouse click, it all seemed a huge over reaction in comparison."
+605,,1490201552.0,5.0,[deleted]
+606,,1490202366.0,3.0,"As of 16.04, the search-integration is off by default. They do still have the Amazon-shortcut on the panel, but that's like two clicks to remove it."
+607,compdog,1490204175.0,3.0,"I'm not sure if it has been removed, but the non-unity versions never had it."
+608,Secondsemblance,1490241172.0,1.0,"Just don't use unity. You can use literally any DE with ubuntu.
+
+Or just use fedora. It's arguably better. Definitely better for ops, if you're working with a lot of redhat servers."
+609,zootam,1490205424.0,5.0,And easier than ever
+610,suckfail,1490288653.0,1.0,"> apricityOS
+
+I took a look at this, but there hasn't been any updates in 3 months and no website updates. Is it still even active? It looks nice."
+611,agumonkey,1490213649.0,22.0,Is this a joke ? ed.
+612,pdp10,1490221050.0,1.0,"nvi starts very fast from inside my Emacs. But if instead of a text editor you need a full IDE you'd probably use [SLIME](https://common-lisp.net/project/slime/). But Emacs is a perfectly good office suite and personal information manager without those things.
+
+
+"
+613,The_yulaow,1490193557.0,2.0,Never had even a single problem with it since late 2015. I prefer it to any other Arch based even just for the politics of semi-rolling updates and the kernel management system
+614,Hacnar,1490261587.0,1.0,"My dad had no Linux experience at all couple months ago. He tried a couple of Linux distros on an old laptop and now uses Manjaro, mostly because everything he wants works there."
+615,The_yulaow,1490194707.0,7.0,"No idea, could be anything that uses gnome3 + Tilix as terminal emulator
+
+If you want the same ux you can basically get it in whatever distro you choose   "
+616,,1490203063.0,2.0,"Desktop manager is Gnome 3, somehow tuned and customized."
+617,u1tralord,1490224859.0,1.0,"I've been using gnome3 for a year now, and I'm almost entirely sure that's what this is. Just a few shell extensions for customization and fancy terminal themes"
+618,The_yulaow,1490192650.0,2.0,"I have now a t430 and previously a dell l502x. Both came with w7 preinstalled
+On a 9cell battery:
+
+l502x 
+
+w7 - 4h30  
+
+w10 - 3h50
+
+ linux>=4.4 - 5h30
+
+t430
+
+w7 - 11h
+
+w10 - 9h
+
+ linux>=4.4 - 13h
+
+ "
+619,,1490206138.0,5.0,Debian's never given me any of the upgrade troubles of Ubuntu. I love it.
+620,LookAtThisRhino,1490218390.0,2.0,"I have problems resizing from bottom right and bottom left, not really top right and top left. Additionally, you can right-click the title bar and click ""resize"" which will trigger window resize."
+621,straponnoparts,1490239816.0,2.0,"alt right click drag
+https://xubuntu.org/news/window-resizing-in-xubuntu-and-xfce/"
+622,greyfade,1490196724.0,31.0,You're thinking of the Gentoo ricers.
+623,tanjoodo,1490213200.0,10.0,"After the installation, Arch is so much less maintenance than the *buntus I tried. Especially the fact it's a rolling release. Fuck upgrades."
+624,Nyefan,1490194025.0,16.0,"For me, Arch is about the wiki and pacman.  If you're using linux in a development capacity, you'll need to learn how to delve into the config files eventually, and having a huge knowledge base like that dedicated to not only fixing common issues, but also explaining how all the pieces fit together is amazing.  And pacman is 10-million times better than apt in every capacity."
+625,the_gnarts,1490216542.0,3.0,"> Arch Linux: for people who plant wheat and buy pigs when they want a ham sandwich (eventually)
+
+That’s the LFS crowd. Though I actually pondered keeping
+a pig just today."
+626,steamruler,1490261244.0,1.0,"Arch is more like buying dough and a big chunk of pork. The hard part is done, so you get the joy of finishing it in your own way."
+627,ledgerdev,1490212751.0,2.0,"I've been using Solus as primary workstation for nearly 10 months. It's been amazingly stable, and a pleasure to use. I don't know how such a small team get's so much done, they are great.
+
+Just a couple of minor issues with packages not available, specifically dotnet core packages which I just fired up a virtual box with xubuntu to play with.
+
+edit: I should mention that I came from macos and was my first linux daily driver, though I had used linux for a very long time in virtual machines and on the server.
+
+
+
+
+"
+628,pdp10,1490221589.0,1.0,"> He's not a very savvy user, surprisingly
+
+He's not a sophisticated user in certain ways. I don't know much about desktop environments either, frankly. They're just there to hold down my display server and make me upset, I think.
+
+"
+629,redditthinks,1490222467.0,1.0,"Yeah I was mostly name-dropping, but him being a non-savvy user is a point for Fedora, and the fact that it is supported by Red Hat and has very up-to-date kernels/packages from what I read."
+630,cdimino,1490222201.0,1.0,"I haven't needed to do any of those things for either my macOS or my W10 boxes.  That used to be the norm, it isn't now.  It still is on Linux, too.
+
+And it's not ""updating video drivers"" it's ""getting video drivers correctly configured"", ""this mouse isn't compatible with my OS"", ""My network card occasionally stops working for 30s"", etc.
+
+Shit Just Works on the for-pay OSes."
+631,,1490217713.0,1.0,"Well its the same in the U.S but the years are 4 and 2. I see the trouble in picking an answer, they should have done somthing more comparible"
+632,,1490221735.0,1.0,Ya I was expecting the years to be different everywhere but the same ideas
+633,LoveCandiceSwanepoel,1490207316.0,3.0,Takes a big man to admit a mistake. Have a good day hermano.
+634,gropingforelmo,1490197436.0,4.0,"A college degree doesn't automatically result in high salary. Sure, you'll find a ton of ""data"" saying a college degree results in X more dollars earned in a career, but they very often focus on specific degrees. I know countless people with four year degrees making $15/hr, in jobs that in no way relate to their field of study."
+635,AkodoRyu,1490219063.0,3.0,"> Every single study in every country all state having a degree increases income.
+
+Yes, obviously people who have acquired higher education are usually smarter than people who didn't, ergo they have potential for better paid jobs. It's probably also skewed by fields requiring a degree, like medicine or law. Still, you can't get rich from doing a job where your income is proportional to time you put in. You get rich from a lot of people working on it: either you have a lot of employees, each making you a bit, or you sell a lot of goods (so high volume of customers get you money), or you have high volume of users in your app etc. To get rich, there much be an exponential growth somewhere in the process, and that is not related to level of education.
+
+> Exactly, silver spoon upbringing.
+
+Dude, there is a VAST gap between someone who can't make rent and someone who is rich. I would say most of the scale is between those 2 points. There is a bottom percentile who can't make ends meet, and top percentile who are rich. I would say I was brought up in a middle class family within central European country. We get chance to buy out our flat, sure, but not until I was in my mid teens or so, [this](https://upload.wikimedia.org/wikipedia/commons/8/81/Polski_Fiat_126p_rocznik_1973.jpg) was our 4-people family car until like 1998, than [this](http://i.iplsc.com/korozja-to-najwiekszy-wrog-uno-eksploatacja-mocno-zardzewial/00026Z5ADU69UGRG-C116-F4.jpg) one is what we used until 2010, when rust ate through it. So don't give this bullshit about being rich, or silver spoon upbringing. I wasn't hungry, but that's because my parents were both there and weren't bums, not because they were rich."
+636,ROFLLOLSTER,1490214460.0,11.0,[xkcd for anyone who hasn't seen it.](https://xkcd.com/505/)
+637,invisi1407,1490272971.0,0.0,"People have different needs - some people need an IDE, some people don't - some people haven't _seen the light_ (in whichever direction your own opinion goes)."
+638,weirdoaish,1490204740.0,5.0,What are some things that you think W10 is lacking?
+639,,1490233837.0,2.0,"I was also using W10 for backend/webdev, I found that between using Ubuntu in a VM for the database and using Ubuntu running on the Linux subsystem for the terminal I was pretty much using Ubuntu half the time on Windows. Eventually I switched to Ubuntu. "
+640,Creath,1490216747.0,4.0,"Yeah there's really no excuse for removing all the useful I/o ports and the dedicated function keys. Seems like they've forgotten which market their ""Pro"" line was supposed to cater to. It'll pretty much just be college students buying them now, and not those in technical fields.
+
+I've actually already started seeing a big shift towards Thinkpads, possibly because they run Linux out of the box so well."
+641,,1490206338.0,5.0,Linux is past 2% market share now. I think it's getting more and more likely that CC will get ported over. Especially when you consider that the market share of Adobe's supported OSX versions is 5.5% of the market - and Apple is the primary target of their creative products.
+642,,1490270202.0,1.0,"It's the way I read it. Of course using headphones is fine, but I've read about some workspaces that play music. "
+643,zagbag,1490220815.0,3.0,"Probably making bank, too."
+644,swyx,1490230104.0,2.0,"ha, it does. im on team A. but i doubt myself every day."
+645,Dave3of5,1490192557.0,2.0,"> It just seems to me that younger people are more likely to take surveys
+
+I work for a company that sells survey software and btw you're generally wrong in this regard. So rather than presume I'd like to see the data. Is there something wrong with that ?
+"
+646,Breaking-Away,1490236111.0,0.0,"Its not bullshit, its just small sample size + regional bias. Almost all the developers currently using Rust are in the United States (maybe not most, but many of them employed by Mozilla), which has higher average salaries than most other countries."
+647,lambdaexpress,1490209865.0,1.0,May I have specific examples of syscalls that WSL doesn't support? 
+648,xjcl,1490197141.0,5.0,I can understand it if it's two I guess.
+649,Ahhmyface,1490296845.0,1.0,Saw this watching silicon Valley and was horrified. Nobody actually does this do they? Who in the actual fuck doesn't have auto indent
+650,That_Russian_Guy,1490220785.0,5.0,I have no idea why this comment made me laugh so hard
+651,gnx76,1490231156.0,2.0,The later the better.
+652,sbrick89,1490200822.0,-1.0,"in your SQL statement, it seems likely that the source table (things) would have an alias just as the others, which means that the FROM is predicated on spaces as well, for alignment with the other table and alias names.
+
+otherwise you're just saying that you don't care about whether there is a variable length indentation to the entire query... and really, who cares about that?"
+653,,1490211645.0,5.0,That's the same thing. *Confused*
+654,,1490302526.0,1.0,"That makes sense, seems like a solid path. Thank you suggesting that."
+655,,1490315732.0,2.0,[deleted]
+656,belovedlasher1,1490230218.0,0.0,"Did you read that blog post from the former female Uber engineer? That is one very small example of bullshit. How soon it's forgotten.
+
+"
+657,l3tigre,1490206563.0,3.0,"""kale eating feminist warrior"".... hmmm now I see a clue why those stats may be the way they are...."
+658,TheMagicTorch,1490197360.0,2.0,"Haha good! I've removed the edit now I know you got it, I want to go down with my ship like any honourable Captain."
+659,,1490208235.0,7.0,[deleted]
+660,,1490361223.0,1.0,"okay, you're right. the issue is not strictly political, in the sense of having to do with governance. by that measure, the alt-right is not a political movement (and certainly not a political party). it's more cultural or socio-political... whatever you wanna call white nationalism.
+
+but i think /u/TotalInvisibility was referring to the refrain you hear from the alt-right, along the lines of ""you know the ones who are really disenfranchised by The System? it's *actually* the white males.""
+
+that's not suggesting that most or even many people in the tech industry hold views like that. but the systemic bias is there. and whenever someone points it out around here, they get inundated in a sea of defensive excuses or else dismissed for some point they didn't even try to make, like you did.
+
+so okay, we are going to hire the most qualified people for any given position. but what can we do to combat this problem?
+
+"
+661,,1490208001.0,3.0,[deleted]
+662,svgwrk,1490221695.0,-1.0,lol.
+663,NuttingFerociously,1490206357.0,89.0,We will build a firewall
+664,Dreadniah,1490213243.0,1.0,They have to go back.
+665,,1490192186.0,70.0,[deleted]
+666,mirhagk,1490207191.0,14.0,Yet this survey shows you are in the minority.
+667,Kaiwa,1490208036.0,12.0,"Yeah exactly, I use it to build APIs (in microservices)."
+668,jnordwick,1490209544.0,5.0,So for like scripting? Something similar to how you would use Lua or even bash?
+669,knome,1490191881.0,14.0,"Nope. You can definitely `kill` zombie processes.
+
+    $ emacs zombie.py
+    $ emacs zombie.py
+    $ python zombie.py &
+    [1] 19954
+    $ PID 19955
+    hello zombie
+
+    $ ps auxf | grep 19955
+    knome    19955  0.0  0.0      0     0 pts/5    Z    10:07   0:00          |       |   \_ [echo] <defunct>
+    knome    19957  0.0  0.0  15944  2204 pts/5    S+   10:07   0:00          |       \_ grep --color=auto 19955
+    $ kill -0 19955
+    $ echo $?
+    0
+    $ fg
+    python zombie.py
+    ^CTraceback (most recent call last):
+      File ""zombie.py"", line 10, in <module>
+        time.sleep( 10 )
+    KeyboardInterrupt
+    $ ps auxf | grep 19955
+    knome    19964  0.0  0.0  15944  2168 pts/5    S+   10:08   0:00          |       \_ grep --color=auto 19955
+    $ kill -0 19955
+    bash: kill: (19955) - No such process
+    $ echo $?
+    1
+    $
+
+where zombie.py is just
+
+    import subprocess
+    import time
+
+    process = subprocess.Popen( [ 'echo', 'hello', 'zombie' ] )
+
+    print 'PID', process.pid
+
+    while True:
+        time.sleep( 10 )
+"
+670,Winter_already_came,1490193145.0,2.0,What is dead may never die.
+671,Dentosal,1490189955.0,42.0,Yes it is. But with toaster you probably shouldn't do that.
+672,Existential_Owl,1490206105.0,15.0,Evil is an asynchronous node process.
+673,jyper,1490238903.0,1.0,Don't use it with jslint
+674,sisyphus,1490221558.0,3.0,"JS is not progress over Perl, much less Python, install base aside, but I will agree it does not stop *change*
+
+Using it for server automation because it's used elsewhere is a big win for whom?"
+675,auxiliary-character,1490245705.0,1.0,"I still think Python's prettier/more usable than Javascript, though.
+
+I suppose the same argument could be made for Lisp.
+
+I also miss Lisp. :("
+676,sisyphus,1490240888.0,2.0,And python brings all its packages and perl all of cpan there is nothing special about npm.
+677,sisyphus,1490221708.0,2.0,"In the spirit of Javascript you can write the Python you want and then 'transpile' it to the Python that is:
+
+    def config_all_the_things(some_shit_json_config): # {
+        ...
+    # }"
+678,sisyphus,1490221195.0,3.0,It is not 'ubiquitous.'  I have to separately install it on every machine I have to administer.
+679,steamruler,1490260399.0,1.0,"> things like nginx use js as configuration files
+
+Wait, what? Are you sure? The conf-files sure aren't an entire JavaScript environment."
+680,steamruler,1490260737.0,2.0,"It's not on par with VB6, Sharepoint and Salesforce. It's less awful, more icky."
+681,midnightbrett,1490202081.0,12.0,"It is ""good"" at its niche, which is as a blogging platform. But honestly the wordpress code is a complete mess. Using wordpress as ""an application platform"" is just horribly misguided.
+
+If you want to build an app, don't use wordpress. Use literally anything else. An open source framework like Ember, Angular, RoR, Django, is going to be way more maintainable going forward. You can probably find blogging plugins for those easily.
+
+If you just want a blog and pages, and you have a client who has used wordpress forever and is comfortable with it, that is a fine choice. But if you have to then add payments, invoicing, calendar with events (esp if recurring), etc, you are going to be sad with wordpress when you are done, most likely."
+682,the_gnarts,1490215691.0,7.0,"> Aww damn, WordPress is bad? I thought it was pretty good.
+
+Subscribe to oss-sec ASAP, please."
+683,BlackDeath3,1490226945.0,1.0,"Yeah, understood. I'm not blind to the cons, and I certainly hope to not get pigeonholed into SF development myself. Whenever I do choose to move on from my current position, I plan to leave the platform unless I've got a *really* good reason not to. I do, however, think that there are upsides to SF development too - it's pretty nice to be able to just log in and have an integrated front-end, execution environment, database, and more all at your fingertips.
+
+The limits in particular can be a hassle, for sure, but I like to think that it occasionally forces (no pun intended) me to get creative. Also, I understand that while a lot of the rules may seem arbitrary (and some of them seem more arbitrary than others), they also sort of make sense in the context of the shared environment that a particular org lives in. Some of them are less arbitrary but don't make sense until you dig into them a bit."
+684,tanjoodo,1490214697.0,1.0,It's really nice once it's set up and working. I guess it's just the baggage of supporting so many platforms that brings the problems of all these SDKs with it.
+685,workpuppy,1490209652.0,7.0,"Almost always financial code. They were early adopters, and they are *deeply* opposed to change.
+
+You can move the code, usually. But getting completely off the codebase is near impossible. The problem is they've had literally decades to get it *exactly* like they want it, and while it's extremely obsolete, everything balances out to the penny, and that's the important bit.
+
+So every conversation about modernization starts with all the features of the current codebase as being completely non-negotiable. Whatever the new thing is, it HAS to do everything the old system did, exactly as well. And then they want a hundred million new things on top of that.
+
+The project gets off the ground, wobbles around aimlessly in the air for a bit, and then goes down in flames, and they continue maintaining the old COBOL. I've seen this cycle dozens of times at many different companies. I think it's just a problem with the finance mindset...they are *extremely* cautious."
+686,Zaemz,1490208758.0,2.0,"There are financial systems that are 30-40 years old that have been humming along with only small changes needed. It's expensive and dangerous to rewrite them, and they work, so they're usually only modified."
+687,fission-fish,1490210451.0,1.0,Some of the stuff is very performance heavy. Like batch jobs that push around hundreds of millions of transactions/datasets. There was simply no replacement for that prior to parallisation/server farms. 
+688,pdp10,1490218462.0,1.0,"It's easier just to open a new bank with new systems and migrate all the customers. Nobody wants to do that, though. They want to do the *other* easy thing where the devs and engineers work feverishly just so the customers don't need to sign up again."
+689,workpuppy,1490272322.0,2.0,"You have to commit to maintaining some particular code base...That's what makes you so valuable: you can maintain some massive chunk of legacy hero code that has almost no documentation.
+
+I still get a big chunk of side-work from my last COBOL gig...Way cheaper to call me and get me to do it than it is to hire a new maintainer, and spend years training them up."
+690,helm,1490213135.0,2.0,"Exactly.
+
+Team management is a huge boon when things take more than a couple of months to complete. Few want to pay for it, though. I'm a part-time team manager now, and it's a set of skills that do take time to understand and put in practice. (It doesn't help that I'm also developer and project lead) "
+691,sabas123,1490219034.0,5.0,"Lol, can't you use a vm for that?"
+692,olaf_from_norweden,1490213949.0,3.0,We have a Windows computer for re-exporting Crystal Reports files from one client as XML data for our internal tooling once every 4-6 months.
+693,Nyefan,1490227189.0,1.0,Their VPN client doesn't support linux :(
+694,,1490203209.0,4.0,For sure.. I'm not saying it sarcastically or something. I'm expecting it  
+695,,1490209526.0,12.0,vs code is an extravagant text editor compared to visual studio 
+696,,1490210417.0,2.0,"> Krita
+
+Oh, didn't know that one. I use Gimp a lot. What's the advantage of Krita over Gimp?"
+697,Log2,1490205764.0,10.0,I'd like to point out that there are plenty of OS environments for Linux prettier than OSX.
+698,,1490209373.0,5.0,"I've worked with several developers that use Mac OSX and they seem to prefer it to Linux (though we force them to use Linux at work since we're not going to make all our syscalls compatible with darwin, and they, like me, chose Arch as their Linux of choice).
+
+With `homebrew`, you can actually get work done without hating your life most of the time. I don't really understand why they prefer Mac OSX, but it's certainly more productive for Unix-y development than Windows.
+
+In all honesty, I'd prefer to use FreeBSD for development, but a lot of practical, non-development related problems keep me on Linux (drivers, tutorials/wikis, etc)."
+699,larrybunsold,1490229575.0,1.0,Oh I would never buy another Macbook in the current state of things for sure. Just a way to bypass the Mac-specific versions of standard GNU utils easily. 
+700,whisky_pete,1490190202.0,7.0,"That's the magic, I think. You spend 10 minutes learning the handful of hotkeys and then realize ""oh, that's all there is to it"". Only other thing I had to do was spend 5 minutes figuring out how to map my keyboards media keys."
+701,pdp10,1490220914.0,1.0,"No, in fact they love to work on UIs because it's a creative outlet. Hence GTK3 and KDE4 breaking compatibility with everything that came before. It's the plumbing that doesn't get visibility that they ignore, hence Gnome consolekit being deprecated in favor of logind which directly led us to the systemd civil war.
+"
+702,,1490204113.0,1.0,"Well, I can tell you it works for me, while certainly OS X doesn't even offer this type of configuration. Tweak tool has a UI scaling factor setting. Gnome also lets you install add-ons and offers a great dark colors theme."
+703,Ninja_Fox_,1490218598.0,3.0,Its essentially just a bookmark on the dock now. The tracking stuff is gone.
+704,steamruler,1490261048.0,2.0,"> 
+> A lot of people took very badly to it but are okay with Apple and Microsoft recording every single keystroke and mouse click, it all seemed a huge over reaction in comparison.
+
+I guess it's probably because those who are okay with it use Apple of MS stuff, but the Linux crowd is *extremely* privacy focused."
+705,,1490199380.0,3.0,[deleted]
+706,tambry,1490198434.0,-2.0,"> Microsoft recording every single keystroke and mouse click
+
+Citation needed.
+
+**EDIT:**  
+Apparently people just like to circlejerk about Microsoft being horrible and will downvote a comment asking for an actual source."
+707,,1490205930.0,2.0,"Gnome 3's pretty slick.
+
+Oddly, my favorite DEs are i3+xfce and gnome, and those are pretty much polar opposites."
+708,Regis_DeVallis,1490211008.0,3.0,Yea definitely. I help a lot of people get their hack up and running and it's super easy now days. 
+709,,1490213941.0,18.0,"have you never heard ""emacs is a great operating system. the only thing it lacks is a decent editor?"""
+710,slavik262,1490193819.0,5.0,"I remember there being security concerns from the Arch devs over the ""semi rolling"" bit. Do the Manjaro guys do a better job these days about pushing security patches ASAP? And what benefits does the semi rolling setup offer over stock Arch?"
+711,agumonkey,1490194003.0,4.0,gnu hurd ~ 0 - +oo
+712,as_one_does,1490215140.0,2.0,"It's just so stable, the best distro I've ever used. "
+713,ledgerdev,1490220416.0,2.0,"Yep, exactly the same experience, they really need to fix that."
+714,ledgerdev,1490241676.0,1.0,"Yeah tried that too, meh. Surprising they can't fix such a fundamental usability issue, so easily addressed. That's actually sort of funny they need to have a page describing how to do this, where I can't recall it ever being an issue or even thought about in 20 years of use in any other os including lin/win/mac."
+715,,1490198473.0,3.0,How is pacman better than apt?
+716,StormBeast,1490215485.0,1.0,"I hear about the wiki a lot from Arch users, and I must say, it is pretty great. Explains some possibly complex stuff in a very straightforward, easy to follow manner. 
+
+That being said, I actually use Linux Mint, and have been for a while now. But I also use the Archwiki as almost all of the stuff mentioned on there is applicable to my system as well. My point is, as great as it is, it's important to note that it's not only applicable to ArchLinux."
+717,Secondsemblance,1490241344.0,1.0,"> Arch is about the wiki
+
+I use fedora, but the arch wiki is my goto resource. It's seriously awesome."
+718,,1490262060.0,2.0,"your analogy is much better.  In my defense, I was only trying to make jokes for fake internet points. "
+719,,1490227072.0,1.0,"Agreed. In the past I cared what my desktop looked like, but now I really don't care as long as it gets out of my way and doesn't make my graphical programs misbehave. I liked tiling WMs until using GIMP was a nightmare, so I now use GNOME shell and hide the top bar, so now I'm satisfied (but I'll likely never be happy)."
+720,,1490227201.0,1.0,"I used Fedora in the past until I got upset about how long release upgrades took (hint, *much* longer than reinstalling), so I switched to Arch and am happy again."
+721,pdp10,1490222987.0,1.0,"It's my experience that anyone who thinks Windows, at least (and probably macOS) is fundamentally easier just needs to see more of the world. Driver reinstalls are routine for many, although not all, users of discrete video cards and more leading-edge hardware in Windows.
+
+USB mice use the USB HID class and are always compatible with everything unless they're doing something proprietary which makes the mouse at fault, not the OS. For networking that sort of thing only happens with wireless, and DFS and 5GHz channel width is complicated, and you'll eventually run into problems with those on any OS as well.
+
+If you need help sleeping search for ""PatchGuard"" in the Windows kernel and see what type of complexity lurks where you haven't seen it yet.
+
+"
+722,twiggy99999,1490198035.0,3.0,"> A college degree doesn't automatically result in high salary
+
+Sure if you study philosophy and then go and get a job flipping burgers but the majority of people (and the data proves it) after getting a degree do get a higher paying job than someone without. That is pretty much a fact in any  country that publishes numbers on it"
+723,Ran4,1490205794.0,8.0,Unix tools. Linux subsystem is too fragile still. 
+724,cdimino,1490205971.0,4.0,"I don't feel like I'm in control when I'm in PowerShell, I feel like I'm using a powerful interface that sits on top of the GUI, rather than a powerful tool that lives under the GUI.
+
+I do Python dev work and I was *constantly* running into issues with pip, virtualenv, python versions; stuff would work for awhile, then stop working in unexpected ways."
+725,VoltronV,1490219625.0,2.0,"Yup, students and brand whores. I'm not giving up on them yet. If things haven't gotten better or have gotten worse once I need to replace my MacBook, I'm open to switching back to PC."
+726,Ninja_Fox_,1490270303.0,2.0,We actually play music over speakers where I work but its a small place and we all like similar enough stuff. Its not too loud and gets muted if needed for a call or something but I totally understand how it wouldn't work at a bigger place.
+727,workpuppy,1490221055.0,1.0,"It's all right...I bailed to do something else because it was so incredibly primitive, and I was just so sick of it."
+728,b4ux1t3,1490192613.0,1.0,"I don't disagree. I was just going off my experience, which, like I said, isn't much. Thanks for the info! "
+729,The_yulaow,1490211803.0,1.0,You should find a not exhaustive list on the github of the project managed directly by the microsoft team (and in their issues list they have even more things still not working properly or crashing)
+730,,1490212243.0,8.0,Nope. https://en.m.wikipedia.org/wiki/Sex_and_gender_distinction
+731,Yelnik,1490387397.0,1.0,"Don't worry, there's essentially no research available to support that gender is something you can just arbitrarily choose, and plenty of research supporting the *fact* that gender and sex are very closely tied to each other. And even more disconcerting, there's research (and more being done as we speak) that point to far leftist ideologies as being *damaging* to people's mental state."
+732,pgmayfpenghsopspqmxl,1490351258.0,1.0,"You're using your own situation and extrapolating it to the general population. Do I really need to explain how wrong this is? If you said this was your citation in a 9th grade paper you'd get points off. 
+
+Obviously, some people will treat you differently because of your gender. This applies both to women, and men. And this goes both ways as well, you can be treated better because of your gender or worse.
+
+I can find you tons of examples where a man was not hired just because he is a man, the company just wants to hire more women. Is that bullshit and shouldn't happen? Yes. Does it prove that men are being pushed out of programming? No. 
+
+For example, a long time ago I received an email from my university announcing a programming competition with an interesting detail: only women allowed. **I was not welcome to participate in something solely on the basis of my gender**. What does this mean? See the paragraph above. 
+
+What you have to demonstrate is that the combination of positive and negative discrimination puts women in a worse off position than men. Considering all the recent push for sexist hiring quotas, you would need to build a very strong case.  "
+733,pgmayfpenghsopspqmxl,1490230846.0,6.0,No I haven't. I don't tend to read blogs. 
+734,,1490206624.0,0.0,[deleted]
+735,svgwrk,1490221684.0,-1.0,"Except you don't. You actually *hate* your version of reality. It makes you miserable. It's funny that you would still choose it.
+
+Oh well. I don't mind you being miserable. :)"
+736,svgwrk,1490221713.0,2.0,"Someone who used to be on your side and then woke up, honey. <3"
+737,jnordwick,1490209693.0,6.0,But who will pay for it?
+738,codejitsu,1490241789.0,3.0,Make StackOverflow great again! 
+739,k-selectride,1490192887.0,64.0,Not so much unresponsive (i'm pretty sure VS code is an Electron app and it's super snappy) but massive memory hogs which could lead to unresponsiveness.
+740,Twistedsc,1490193065.0,7.0,Now try navigating around in phonegap/cordova built apps. I think the official 2048 app was slow because of that. How soon can we get react native hooking up to desktop apis...
+741,The_yulaow,1490192696.0,3.0,are you talking about ui lag or action delays?  Or just ui responsiveness to resizing?
+742,Pycorax,1490242922.0,1.0,It's more than just unresponsive. I've had Discord and Atom break with a white screen and not loading anything. Reinstalls don't fix it.
+743,gnx76,1490229335.0,0.0,"In the minority of people answering Stack Overflow survey, which according to the answers to the profile/demographic questions and according to some of the questions themselves, is a quite specific subset of programmers and computer related persons. "
+744,GamerLeFay,1490250380.0,2.0,"RESTful microservices, it sounds more like. "
+745,Compizfox,1490210048.0,6.0,"You absolutely cannot kill a process which is in uninterruptible sleep (""D"" state) though. Rebooting is the only way to get rid of such a process.
+
+(Don't ask...)"
+746,sacado,1490196520.0,6.0,"    TypeError: toaster.emergencyEject is not a function
+"
+747,,1490196658.0,0.0,[deleted]
+748,bro-away-,1490271906.0,4.0,"Eh you're clearly never going to be convinced.  Ubiquity is clearly more valuable to people than many other things you're considering (otherwise js wouldn't be gaining traction to this day).  
+
+The fragmentation between python 2 and 3 is a giant mess and turn off for new users.  Few languages manage to make backward progress like python has.
+
+js (es7) with eslint is really nice and on par with any other scripting language.  The warts of the language are actually easily avoided with a code quality tool.   ""We could be running a better language everywhere!"" is kind of a meme at this point.  The only really valid argument is the lack of static typing.  The revolt against js is never really going to happen--at least not in the next five years and especially not if things like typescript still play nice with it"
+749,spacejack2114,1490241819.0,2.0,"Well, we recently needed to batch process a bunch of SVG files, to allow them to be styled with CSS classes and then optimized and compressed. `npm install svgo`, write a quick script and done. I don't think python or perl have libs for that."
+750,flukus,1490261253.0,1.0,"To be fair, vb6 was compiled and it could run on computers with 8MB of RAM, probably less. I'd love to see electron/node do that."
+751,,1490216348.0,2.0,[deleted]
+752,TRiG_Ireland,1490216702.0,1.0,"My own blog runs WordPress, and I'm happy with it, but building anything else on top of WordPress looks like far more trouble than it's worth. And yet people will do it."
+753,armyBRASS,1490222614.0,1.0,"Over the past two months I've seen two or three projects (larger-scale web apps) that were being developed with Wordpress- and I thought to myself, ""How is that even possible?"".
+
+It's great for blogs, and there are a huge amount of plugins to extend its feature set, I'll give it that- but it doesn't seem even remotely scalable, let alone how can it deal with separate environments or version control?"
+754,fission-fish,1490210130.0,4.0,This is very true. But most companies want to get rid of their COBOL codebase. But what do? You can't just migrate millions loc.
+755,pdp10,1490218625.0,6.0,"> So every conversation about modernization starts with all the features of the current codebase as being completely non-negotiable. Whatever the new thing is, it HAS to do everything the old system did, exactly as well. And then they want a hundred million new things on top of that.
+
+This is also literally why Microsoft Excel has been a legacy system for years. Nothing important can change because it's vital that all of the results be exactly the same as they always were, bug-for-bug and quirk-for-quirk compatible back to the incorrect leap-year in Lotus 1-2-3 compatibility.
+
+MS Word is the same way. Microsoft has built moats around their most profitable business with implementation-defined compatibility problems, and now they can't change anything without having compatibility problems.
+
+
+"
+756,OneWingedShark,1490236804.0,2.0,"> So every conversation about modernization starts with all the features of the current codebase as being completely non-negotiable. Whatever the new thing is, it HAS to do everything the old system did, exactly as well. And then they want a hundred million new things on top of that.
+
+This is actually a reasonable view on their part: if it can't do the job of what they have now as well, then they're not going to be onboard -- this (managing finances) is literally their entire reason for existing.
+
+Given that there are very few languages which *natively* support fixed-point there's a *huge* drawback right there. (Besides COBOL the only language that immediately springs to mind is Ada.)"
+757,sabas123,1490218863.0,1.0,Wouldn't building a COBAL to java (or something else) be the best in that case?
+758,BigDumbObject,1490219021.0,1.0,"Gotcha, Thanks.  So I guess the next question I would ask is...
+
+Is there any technological/hardware issue that could/would eventually become a problem just based on computational power/need?  Like, do people running the COBOL systems see an ice berg in the distance whether it be 10/100 years from now?"
+759,Superpickle18,1490220607.0,3.0,I do. Only way to test fucking IE... :(
+760,JasTWot,1490444658.0,1.0,Hangouts pretty good option too.
+761,pdp10,1490219671.0,-9.0,"A text editor, a debugger, and some build tools to go with your compiler. Very commoditized stuff. Some apps breed a perverse kind of irrational loyalty, and MSVS is one of them. A cynic might wonder if the real draw is the automatic completions that make users look like they know what they're doing.
+
+
+"
+762,,1490210577.0,4.0,"It's way cleaner and designed for drawing, though GIMP is way better for photo editing and other post processing tasks. In fact, I've seen some artists prefer Krita to Adobe's offerings."
+763,xormancer,1490206617.0,3.0,Which ones do you recommend?
+764,ConspicuousPineapple,1490290439.0,1.0,"I have hope for Windows with their Linux subsystem though. Still pretty unstable, but there's already quite a bit that can be done."
+765,TheHobodoc,1490191675.0,5.0,"That, network and monitor management. I'm not a purist so i wouldn't mind having that stuff working by default. But as you said, it takes 5 min to google it.
+
+"
+766,XxNerdKillerxX,1490205338.0,1.0,"I think the major difference is that OSX doesn't need to, it scales well. With Gnome, when I open it, it doesn't scale right and I had to configure it to make it more readable. But I ran into bugs where it wouldn't let the font on the main task bar go over a certain value so it made it hard to read on higher resolutions :/
+
+It's just that I like big text that's all, makes it easier for me to identify which window is what quicker."
+767,Ran4,1490205564.0,11.0,And years behind in packages... Unless you run an unstable version. 
+768,wytrabbit,1490199153.0,18.0,https://www.privateinternetaccess.com/blog/2017/03/microsoft-windows-10-keylogger-enabled-default-heres-disable/
+769,Tatortotts,1490278402.0,2.0,Most tutorials/guides I've seen seem to give off the notion that hackintoshing will be a huge hassle which has swayed me away from attempting it--where would you recommend starting?
+770,agumonkey,1490215761.0,4.0,"no decent emacser ignores that one. also, I love ed to edit text (no sarcasm)."
+771,The_yulaow,1490194125.0,0.0,"Honestly I am not sure because I didn't really check in particular that and now I am on Fedora, but If I remember correctly their updates of type ""security update"" that are ""Critical"" or ""High Priority"" were pushed asap without waiting the big cumulative ones that happens every 1-2 weeks"
+772,Geertiebear,1490199871.0,5.0,The most noticeable difference I feel is that it's so damn fast compared to apt.
+773,mmstick,1490203955.0,9.0,"Better dependency management, better meta package support, actual functioning package hooks versus deb scripts galore, sane default configurations for software, dev dependencies aren't split from built software and packaged separately, significantly faster at installing packages, and works well in a rolling release environment."
+774,Badabinski,1490205577.0,2.0,"I'd say speed, how packages are defined (PKGBUILDs are fucking awesome), and the AUR and other infrastructure around pacman. There may be other stuff, but those are the main ones for me."
+775,,1490210026.0,3.0,"- faster (there are only 3 repositories, 4 if you need 32-bit compat)
+- easier once you're used to it (apt-cache, apt-get, apt-policy, dpkg, etc are all done with once command, pacman); this also makes it more discoverable since there's one manpage instead of several
+- easier to build packages (you create a PKGFILE and run makepkg to create a custom package; takes maybe 10 minutes)
+- fewer packages for the same amount of software (don't need -dev, -doc, etc)
+- it doesn't automatically start services for you (I prefer to configure before I start services like databases, desktop environments, etc)
+
+And as others have mentioned, the AUR is pretty fantastic (much better than PPAs IMO).
+
+I can't think of anything I like about `apt` more than `pacman`."
+776,Hoek,1490233420.0,1.0,"You don't need PPAs for anything that's not coreutils, emacs and vim.
+
+You want IntelliJ's EAP version? apacman -S  intellij-idea-ue-eap installs it from AUR.
+
+No need to hunt random PPAs that won't be maintained next month."
+777,pdp10,1490228795.0,1.0,"I *care*. I've just never found anything I preferred. Or should say preferred over all more than OpenLook/NeWS, and contemporaries (Genera? Pilot?). Zero-space tiling doesn't look sophisticated but it's lightweight and highly productive for what I need. Anything that means to supplant it needs to have the fast keyboard accessibility of i3 with the discovery and aesthetics of something considerably better than average.
+
+Gnome 3 looks pretty but I've turned my back on Gnome either way. I'm not due for another examination of my options for at least six more months. Quite recently I killed a day checking out the latest UI research to see if there were any hidden gems. Unfortunately the great majority of the academic works are still enthralled with touchscreens and voice recognition (!) and the non-academic work was far more dire than that.
+
+The only innovation I can think of in the last couple of decades is the scroll wheel third mouse button. I was immensely dubious at first, but I've come to use it very heavily.
+
+"
+778,cdimino,1490224065.0,2.0,"I have a *great deal* of experience on macOS, Linux, and W10.
+
+If you're going to sit here and pretend the wireless driver for Linux is just as good as the wireless drivers for macOS and Windows, we're done.
+
+If I need to ""get out and see the world"" to know how to use my OS, that OS isn't for me.  I'm too busy ""getting out and seeing the world"" to have to deal with all the problems a Linux desktop environment would provide.  Is it literally the kernel's fault?  No.  Is an OS just its kernel?  No.
+
+*Literally today* is the first day I can watch Netflix on a Linux computer out of the box.  No thanks!"
+779,,1490234046.0,5.0,I still find it funny how Microsoft's solution to unix OSes being better for developers than Windows was to just make Ubuntu run on top of Windows. 
+780,Dimasdanz,1490212960.0,2.0,"I'll just install git for windows, and have most unix tools i need. on a terminal with forward slash, and tab completion support."
+781,RaptorXP,1490266735.0,1.0,Linux subsystem is still in beta.
+782,HelperBot_,1490212248.0,3.0,"Non-Mobile link: https://en.wikipedia.org/wiki/Sex_and_gender_distinction
+***
+^HelperBot ^v1.1 ^/r/HelperBot_ ^I ^am ^a ^bot. ^Please ^message ^/u/swim1929 ^with ^any ^feedback ^and/or ^hate. ^Counter: ^46838"
+783,,1490213053.0,4.0,"What the.... How is that a thing? Gender/sex has nothing to do with feelings. Nobody feels like they are male or female. That's an attribute like having blue or brown eyes. You have a vagina or a penis. That doesn't define you.
+
+Everything else is just fetish or if you are into guys or girls or nothing or whatever. Which nobody cares about."
+784,belovedlasher1,1490231969.0,-1.0,This was all over the news last month. Not sure how you missed it. https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber
+785,TheMagicTorch,1490208055.0,2.0,Good :)
+786,,1490316045.0,2.0,[deleted]
+787,,1490316448.0,2.0,[deleted]
+788,luckyleprechaun98,1490231689.0,4.0,"mexi.co
+
+.com was a premium domain but I think they are good for it. "
+789,jnordwick,1490287202.0,1.0,Drain the swamp of the mods.
+790,,1490194426.0,15.0,[deleted]
+791,muntoo,1490234922.0,5.0,VS Code and Atom's initial startup time (2-4s) is kinda slow compared to i.e. Sublime Text (<100ms?!)
+792,llIlIIllIlllIIIlIIll,1490213838.0,3.0,"Yeah VS Code is fast as hell, but it seems like *most* electron apps are clunky."
+793,knome,1490210266.0,1.0,"Heh, I can't test that one, but I'd wager you can successfully execute kill against its pid, though just like my zombie example, it won't have any effect.
+
+> no number of signals will remove zombies or uninterruptible sleepers, though a wait can cure the former
+"
+794,segv,1490216098.0,1.0,"On a similar note - if your Veritas shared file system desyncs between the nodes in the cluster any application, just reboot the cluster  and don't even try to fix it. Any syscall touching that file system will never ever return and the process that made that syscall will never ever be killed (other threads will work though).
+
+Double fun if it happens in production :V:
+
+(Don't ask...)"
+795,ShinyHappyREM,1490197670.0,2.0,And that's the problem.
+796,sisyphus,1490279064.0,1.0,"I too sometimes would like to be able to not have to learn new things and only have to worry about what is happening in JS, I certainly understand the appeal, and maybe one day its tools and libraries will be on par, it certainly has the momentum.  I have not been convinced that 'ubiquity' is an accurate description of the current state of affairs, nor of a desirable state of affairs, that is true."
+797,Paradox,1490254539.0,1.0,[there are always perl libs for something](https://metacpan.org/search?q=svg)
+798,sisyphus,1490243687.0,1.0,"Aside from that Python has had svg optimizers longer than node has been in existence, even it didn't some niche non-core-ops use case is hardly an argument for adopting something as a general scripting language."
+799,midnightbrett,1490219016.0,1.0,"It is getting better - it is probably better now than it ever has been, but there is a lot of crufty legacy junk. And plugins are hit or miss. Since they are just contributed by random people, there are plugins that are lovely and abstract away a ton of junk (advanced custom fields), and also complete trash heaps. You just have to do a lot of research when selecting plugins because you can't really trust they won't have weird side effects or bugs."
+800,midnightbrett,1490218911.0,1.0,"Yeah, and there are really good plugins with well-written code. There is also a lot of junk. It's been around a long time, which is why the wordpress core code is so crufty. Some that has been rewritten is nice, but maintaining backward compatibility means they are also have a ton of legacy code, or design decisions that were made long, long ago in a galaxy far far away."
+801,workpuppy,1490210638.0,7.0,"I've worked with finance people for years...Decades (!!!) actually. 
+
+You get situations where you're trying to apply a routine patch or something, and it takes 4 meetings, and after you've applied the patch, you have to run fifty reports to make sure they're *exactly* the same as the last time they were run for that day...Just in case your SSL patch changed the value of 2 to 2.000001.
+
+Big changes are actually *easier*...Like if I added a whole new series of apps, then they could test that, and get stuff that matches their expectations, and then I can just roll it out. But as soon as I tried to change them later, then I'm in exactly the same boat.
+
+And, to be fair, the numbers aren't going to add up right, not exactly. I worked on this one system, old HP system, used the old [BCD numeric format](https://en.wikipedia.org/wiki/Binary-coded_decimal) and moving money off that to other things caused unbelievable rounding errors...Whole pennies were flying off into space.
+
+You're somehow going to have to sell them on fixing the numbers."
+802,OneWingedShark,1490237387.0,1.0,"> This is very true. But most companies want to get rid of their COBOL codebase. But what do?
+
+The Ada language has an optional annex for language interoperability, and one of the languages therein is COBOL, so there is that option -- but I don't expect many programmers are aware of it as an option."
+803,workpuppy,1490219775.0,2.0,"You'll have to validate it so thoroughly that it'd probably be easier to rewrite it clean. And COBOL is shitty in other ways...There won't be any decent error handling, etc.
+
+Moving the code isn't bad. There are COBOL compilers everywhere, so you can just recompile it modern. The problem is they want it new, but you don't get 30 years of past development on a new system (thank god)."
+804,,1490323217.0,2.0,"There's a boat load of (mainframe language) to Java language transpilers. Every one of them is absolutely horrible. 
+
+Never mind what it does to your database (there's ways around this, granted) 
+
+Back in the mainframe days, relational databases weren't as much of a thing. You got relation like databases that give you multi value fields, or what is basically multi value groups of fields. You also have tonnes of fixed length flat files. 
+
+The knee jerk reaction of your boss is just to ""make the new Sql database look like the old one"". "
+805,pdp10,1490223402.0,1.0,"Cobol has been an open standard language since 1960. You could run it until the end of time without any fundamental problems that I can imagine. All code needs a certain amount of maintenance, and Cobol is not inherently better or worse than any other language. You'll most likely spend more time changing things in response to government decree than updating technical standards.
+
+IBM mainframes will continue to get more and more expensive, so not migrating will continue to have the usual increasing costs over time, but that's not related to the language itself.
+
+"
+806,,1490208734.0,12.0,Have a look here: https://www.reddit.com/r/unixporn/
+807,,1490294063.0,1.0,"It's really not the same though. It's like running WINE on Linux, you'll never have the same experience as running on the actual OS."
+808,pdp10,1490220577.0,1.0,"i3 would really benefit from a bit more discoverability and an intutive way to handle those two things -- GUI network and monitor issues -- but those are the only obvious weaknesses.
+"
+809,,1490205681.0,5.0,[deleted]
+810,Lintheru,1490205833.0,3.0,Thats just evil. Is the same true for Mac?
+811,tambry,1490205480.0,-7.0,"What they don't mention that those keystrokes are probably sent only if you have a touchscreen (and are using the on-screen keyboard?). But that seems to be standard practice for predictive auto-correct on most touch-screen devices.  
+I myself can note that I can't even enable the given feature, because I don't have a touch-screen monitor.
+
+I unfortunately I am unable find actual sources for the above... If anyone finds any, then let me know."
+812,Regis_DeVallis,1490296009.0,1.0,"Well, I'm pretty active in a discord server where we guide people through hackintoshing their computer step by step. Generally it's not a huge hassle as long as you have an intel build. 
+
+[Link to Discord channel](https://discord.gg/zaUDY4n)"
+813,dagbrown,1490237210.0,2.0,"If you just want to make a minor change to a text file, like deleting a line or commenting something out, you can't get faster than ed.
+
+Plus, using it makes you look like a wizard guru."
+814,the_gnarts,1490216650.0,4.0,"> Better dependency management
+
+I doubt that, considering its job is to pull the most recent packages,
+not to resolve intricate dependency constellations as in Debian
+archives. Does pacman even have a builtin solver like other
+package managers? Not that it’d be needed much with a rolling
+distro."
+815,,1490204014.0,1.0,"Good to know. I'm pretty new to Linux Desktop, and I'm yet to try Arch. "
+816,,1490229575.0,2.0,"My workflow is pretty much:
+
+* Firefox (and occasionally Chrome)
+* tmux
+* gimp/inkscape occasionally
+* Android Studio occasionally
+* Steam + games
+* relatively frequent network profile changes (once or twice a week)
+
+I have 2, maybe 3 applications full screen at any given time. I used a tiling WM in the past (i3 and XMonad), but since I found tmux, I haven't needed the tiling features, so it wasn't worth the occasional l frustration with GIMP, games and other random applications that don't behave nicely in a tiling WM environment.
+
+Since I have so few applications, using keyboard shortcuts works reasonably well, and I only occasionally miss functionality from XMonad.
+
+Use whatever works, trash what doesn't."
+817,pdp10,1490225371.0,1.0,"> If you're going to sit here and pretend the wireless driver for Linux is just as good as the wireless drivers for macOS and Windows, we're done.
+
+There's a different driver for each chipset family on all OSes, and sometimes more difference than that.
+
+> Literally today is the first day I can watch Netflix on a Linux computer out of the box. No thanks!
+
+Because Silverlight because DRM. I guess you don't want to hear about HAL on Debian Linux because Flash discontinued because Adobe Flash because DRM?
+
+This isn't about operating systems, it's about encumbered ""standards"" and lack thereof. It's not really a legitimate complaint against Linux any more than not having a graphical desktop on a Raspberry Pi is a legitimate complaint against Windows.
+"
+818,steamruler,1490261445.0,1.0,It's nice to see them pull out the Subsystem feature of NT again though. I love it.
+819,olaf_from_norweden,1490214640.0,19.0,"- Sex is reproductive.
+- Gender is self-identity.
+
+Did you not read the link?
+
+It's a ""thing"" because both distinctions exist."
+820,,1490216695.0,8.0,"It's always been a thing all throughout history. Gender studies is a legitimate academic field because it is, to use hot words, ""a thing.""
+
+Another way to think of it is this: gender is sociological and cultural, sex is biological. In popular usage, we often confuse the two, but they really do connote different concepts."
+821,pgmayfpenghsopspqmxl,1490233364.0,6.0,"I have most of the political shit filtered out. Reddit has lost it's mind after Trump got elected. That's probably why. 
+
+That seems like an instance of an extremely unprofessional guy and an incompetent/malicious HR department.
+
+HR is there to protect the company, and they did a *really* poor job. I am pretty sure she could have sued the pants off of Uber, don't know why she didn't. Complaining about sexism and not doing anything about it when you're in a prime position for it is rather irresponsible. 
+
+Also all of that is from a single source telling one side of an unverified story. Is there any corroboration? "
+822,svgwrk,1490366060.0,1.0,lmfao
+823,svgwrk,1490366064.0,1.0,lmfao
+824,Aramillio,1490330762.0,1.0,"Donald J Trump is calling for a complete shutdown. Not a sleep or a standby, a complete shutdown. "
+825,espasmato,1490212730.0,4.0,Yeah it uses chromium
+826,Boba-Black-Sheep,1490199344.0,1.0,I think it can use any web runtime - chromium's is definitely a hog though - but I've had good results with xul.
+827,Compizfox,1490210625.0,1.0,"Yes you can try to kill it, but the process won't respond to SIGKILL. If a process is in uninterruptible sleep, there is no way to kill it except from rebooting. This is different from a zombie process.
+
+https://stackoverflow.com/questions/223644/what-is-an-uninterruptable-process"
+828,pdp10,1490218870.0,3.0,"Decimal arithmetic started to be deprecated when IBM introduced the brand-new modern System 360 in 1964. Too badly they just couldn't make the leap to ASCII at the same time. Had to be compatible with the BCD/EBCDIC peripherals, you see.
+
+For a very long period of time one of IBM's most profitable lines of business was selling Hollerith-type punch cards to go in their equipment. Funny to think people would keep using obsolete punch cards for so long even after they were far more expensive than the alternatives. But then look at Microsoft's legacy business today.
+"
+829,JasTWot,1490444175.0,2.0,"It all sounds a bit shit. Did you get paid really well, or something?"
+830,id2bi,1490253396.0,1.0,How so? More up to date packages so less bugs? 
+831,wytrabbit,1490208414.0,2.0,"Not sure about any other, more mainstream, sources. But that's the one \/u/twiggy99999 was probably referring to."
+832,twiggy99999,1490260628.0,1.0,"https://privacy.microsoft.com/en-us/windows-10-speech-inking-typing-and-privacy-faq
+
+They weren't clear about this at launch until the mainstream media got hold of the story, either way its still enabled by default and a lot of people don't know it"
+833,agumonkey,1490254081.0,1.0,It forces my brain to think and plan in advance deep; which is something I kind of love.
+834,cdimino,1490234587.0,2.0,"Sorry, but if my OS can't do a thing, it's about OSes.
+
+I know everything you know about these OSes, I am not uninformed.
+
+Linux is the best non-desktop operating system by far.  Its desktop offerings are not up to par with the other ones, however."
+835,,1490271876.0,1.0,Yeah I'm glad it exists but it's a lot better to just have an actual Unix os
+836,,1490258765.0,0.0,[deleted]
+837,belovedlasher1,1490234931.0,0.0,"You're excusing away a problem that is real. Read enough of these examples and listen to women. If you don't want to do that, then stop asking who/what is pushing out women. It's pretty clear you don't care.
+
+It isn't her responsibility to fix things. I wouldn't want to be dragged into a lawsuit and have my personal life exposed if I were in her position. You have the internet, look up the result of that blog post."
+838,,1490267631.0,1.0,[deleted]
+839,knome,1490211177.0,1.0,"I know. SIGKILL won't kill a zombie either, as it's waiting on the parent to wait on its return code.
+
+The whole thing is just a joke, of course. But thanks for trying to educate.
+
+I was just joking that the kill command in bash would still return success when used against such processes to nay say the poster I originally responded to.
+"
+840,workpuppy,1490449719.0,2.0,"I stumbled into it when I was young, and then I kept getting recruited for it when I was looking for new jobs...People would downplay the amount of cobol or pretend like they were getting off the system ""within the year.""
+
+Eventually I had to completely remove it from my resume...I still get calls from people who've gotten my name from people...
+
+The pay is decent, but I make nearly as much doing more modern stuff."
+841,tambry,1490264348.0,1.0,"Well, you do get to change such privacy settings during installation.
+
+Also, every other on-screen keyboard that I know of has such things enabled by default (if they offer predictive autocorrect). I don't find it exactly as shocking."
+842,derkonigistnackt,1490273215.0,3.0,"there were always outsiders but they might have been seen as people with some form of mental illnesses which manifested in a ""non binary gender"" type of way. Now we know better and do the only humane thing to do... cutting their dicks off, giving them hormones and referring them with whichever pronoun satisfies their delusion."
+843,,1490281270.0,2.0,I actually just got done with an anthropology class which spent some time on this very topic. You really don't know what you're talking about.
+844,,1490281208.0,1.0,http://listverse.com/2015/10/21/10-examples-of-nonbinary-genders-throughout-history/amp/
+845,pgmayfpenghsopspqmxl,1490240744.0,4.0,"> Read enough of these examples and listen to women.
+
+I will listen to evidence and properly conducted statistics. I don't subscribe to the ""listen and believe"" mentality. 
+
+> It isn't her responsibility to fix things. I wouldn't want to be dragged into a lawsuit and have my personal life exposed if I were in her position.
+
+She is in the better position than anyone else to fix things. She has allegedly been wronged and can punish the people responsible. If it's not her responsibility, then whose is it?
+
+> You have the internet, look up the result of that blog post.
+
+Im not invested enough in this discussion to do research. If you want me to look at something you can just link it. "
+846,Boba-Black-Sheep,1490277185.0,1.0,"Turns out I was thinking of: https://flexx.readthedocs.io/en/stable/webruntime/
+
+which is a Python GUI library similar to Electron that I'm excited about. See discussion of web engines here: https://flexx.readthedocs.io/en/stable/webruntime/"
+847,eriknstr,1490217391.0,1.0,"One thing I miss about Solaris is that they had a command named `preap` which allowed you to manually reap zombie processes.
+
+http://www.c0t0d0s0.org/archives/4778-Less-known-Solaris-features-Getting-rid-of-Zombies.html
+
+Two other great features of Solaris were ZFS and DTrace but those were ported to FreeBSD (among others) and that happens to be the OS I run on the computers I rely the most on (my two laptops and my mail server), so I have those two features still, though ZFS is the only one of those two I am currently making use of.
+
+As for processes in uninterruptible sleep mentioned by /u/Compizfox, I agree that those are the type of thing you really can't get rid of without reboot on any platform that I know."
+848,twiggy99999,1490267666.0,1.0,">  you do get to change such privacy settings during installation.
+
+Certainly not at launch until they got caught out, maybe there is an opt out option now but it certainly is opt-out rather than opt-in
+
+> Also, every other on-screen keyboard 
+
+This is *all input* regardless of keyboard, touch screen, speak to text (any other form of input here), it doesn't matter. I don't know why you keep refereeing to touch screen devices specifically as no one has mentioned it and Microsoft make it very clear themselves its all types of input?
+
+Anyway if your're happy to be spied upon in that way then fine that's your choice but don't go spreading incorrect information so others can't make an informed decision based on facts rather than speculation "
+849,wytrabbit,1490277177.0,1.0,"Other users were saying this option was not available to them during installation. So without prior knowledge (or random curiosity), people are unlikely to ever come across this opt-out option."
+850,,1490300123.0,-1.0,[deleted]
+851,belovedlasher1,1490243870.0,2.0,"She went public with the information and used her real name. If she ended up taking them to court the most likely scenario is Uber would have quietly settled and made her shut up. What she did took courage. The point isn't to punish Uber; it's for this abuse to stop happening. People need to speak up when they see sexual harassment and stop being complicit.
+
+Fortunately I don't need to think too much about what I am saying on this topic, because this has been an area that's been examined by lawyers, law makers, and researchers for at least 20 years. There is a growing mountain of evidence that can only be ignored by those who are uneducated or unaware of the topic (and no-one in tech other than recent graduates should be at this point). It's time for everyone in tech to stop ignoring the problem, and start publicly and privately calling out any and all bad actors on this even if it destroys the careers of a few ""high performers"" (even setting aside the fact that said high performers with bad behaviour often drag down the performance of the teams and organizations they are a part of, offsetting any of the gains).
+
+These are just a short list of samples of articles that are based on surveys, studies, and legal opinions.
+
+http://www.jstor.org/stable/1229336?seq=1#page_scan_tab_cont...
+
+http://fortune.com/2014/08/26/performance-review-gender-bias...
+
+http://www.iflscience.com/editors-blog/men-and-women-biased-about-studies-stem-gender-bias-opposite-directions/
+
+https://www.wired.com/2014/07/gender-gap/
+
+https://theestablishment.co/new-study-finds-60-of-women-in-tech-experience-sexual-harassment-ddfeaf42fba9#.a4vqg5268
+
+https://mic.com/articles/132285/most-women-in-tech-say-they-... "
+852,,1490302243.0,3.0,"That literally makes no sense, but whatevs. You can choose to educate yourself or not. I'm really only here to talk about programming, not debate anthropology."

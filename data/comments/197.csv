@@ -1,0 +1,109 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,ThomasAbraham,1590648368.0,68.0,"What seems to be more surprising is JS being the second most wanted technology with 18.5% that means ""% of developers who are not developing with the language or technology but have expressed interest in developing with it""
+
+With 65K survey respondents that means there are 12K devs who want to build in JS but don't."
+1,SenboneZakura,1590671801.0,57.0,"Title is misleading. JS won most commonly used which the survey phrases as ""popular"". Rust won the most loved language, this posted result represents how many people use JS, not how many like it.
+
+A lot of the comments seem to imply this result means 67% of people love JS, i think it actually just means we all use it.
+
+Typescript was second most loved though! Beat out python by a hair."
+2,pabloneruda,1590672305.0,10.0,Even more if you pseudo count JS flavors like TS.
+3,rift95,1590706688.0,3.0,"> JS wins
+
+It's a survey, there are no winners, it's not a competition 😂"
+4,jagdishjadeja,1590669003.0,4.0,2020 is not over yet. why surveys are being taken ? is it the end ?
+5,Bazookatoon,1590663017.0,-3.0,"I think that is more related this post to ""how many post's this technology had on 2020"" not real popularity.
+
+I really doubt C# is more popular than PHP or jQuery being more popular than Vue."
+6,LQST,1590713805.0,1.0,Been waiting for this :)
+7,smordelior,1590714889.0,1.0,"Yeah, with HTML/CSS next, because of browsers."
+8,spazz_monkey,1590661581.0,-34.0,"I thought js sucks da balls and is sooooo bad and node is ded, long live Dino."
+9,aforty,1590692527.0,-5.0,People still use Angular?
+10,bajcmartinez,1590707872.0,-1.0,"We should not be worrying about AI and robots taking over the world, JS seems more real and scary to me"
+11,noXi0uz,1590664767.0,47.0,it's all the devs stuck in corporate jquery projects that want to move to vanilla js
+12,lynx10001,1590668553.0,5.0,"As a past PHP developer who moved on to the JavaScript stack a few years ago I can say that it was something that I wanted to do for a while but JavaScript can be quite extensive when employers want you to know es6, node, react native etc etc, there's a bit of learning to do before you make the switch! Not everyone has time I guess."
+13,braindeadTank,1590676955.0,13.0,"I wonder how much this ""must loved"" is worth, too.
+
+I mean, most Rust devs probably switched from Cpp, so it's kind of understandable that they are lovestruck."
+14,,1590684298.0,4.0,[deleted]
+15,Ser_Drewseph,1590675263.0,7.0,"Thank you! I was coming here to say the exact same thing. Most used is not most popular.
+
+And really, it’s not at all surprising that JavaScript is the most used when just about every front end requires it, plus all the node back ends out there."
+16,SurgioClemente,1590673024.0,0.0,"Plus, I wouldnt call it ""winning"" with that much jQuery still out there.
+
+Its almost as bad as wordpress use driving up php"
+17,ryosen,1590675559.0,5.0,"Probably not. If you use Typescript, you probably also count yourself as a use of JavaScript. This survey isn't popularity of the language, it's a measurement of how many people use that language."
+18,ryaninvents,1590672984.0,-2.0,"Notably:
+
+> After a consistent rise over the last five years, Python fell from second last year to third this year on the list of most loved technologies, being beat out by TypeScript.
+
+Although with [Deno](https://deno.land/) reaching a 1.0 release TypeScript now has its own first-class runtime. It'll be interesting to see how it compares with JS over the next few years since it started out as a compile-to-JS language."
+19,longebane,1590713041.0,5.0,That's very true. But js did win.
+20,Prof_Dr_Koala,1590670327.0,12.0,"The survey was taken in February. I think they named it 2020 because they took it in 2020, not because it’s about 2020"
+21,laxameer,1590670863.0,1.0,I believe this is their survey for the year :)
+22,editor_of_the_beast,1590670849.0,10.0,You know that there are people who aren’t web developers right?
+23,jimmyco2008,1590668718.0,8.0,Of course C# is more popular than PHP
+24,davidrabbich,1590664686.0,11.0,"To be fair both of those are easy to understand if you look at the potential context
+
+C# is now omnipresent with .net core being deplorable on just about anything and there are thousands of devs who have inherited platforms or projects where a little bit of Jquery was introduced. 
+
+Vue is kind of an investment per project and when you’ve got several other options it’s becomes less compelling as a choice"
+25,smoonster,1590667948.0,3.0,This is a survey isn't it? So not about number of posrs
+26,dw444,1590669271.0,6.0,"Vue is nowhere near as popular, especially outside China, and C#/Microsoft stack is  nowhere near as unpopular, as people like to believe."
+27,Ser_Drewseph,1590675337.0,2.0,The category the title is referencing isn’t even most popular. Rust was in 1st for that. JS is first in “most used”.
+28,techmighty,1590664857.0,10.0,"Thats like saying English sucks da balls and soooo bad and me, long live Oxford dictionary"
+29,longebane,1590713116.0,2.0,You still acting immature?
+30,ColtDabbler,1590715445.0,2.0,"In his defense, that joke would've slayed here a year and a half ago."
+31,Oalei,1590669007.0,44.0,"Move to vanilla js ? Usually jquery is used with vanilla js projects.  
+You try to avoid jquery when you’re using frameworks that tracks the DOM like Angular React etc"
+32,Ser_Drewseph,1590675091.0,8.0,Or it’s people who want to use JavaScript in the backend with Node. I know java and C# devs that want to try out node for more rapid prototyping of server-side applications
+33,d36williams,1590685404.0,3.0,A lot of PHP devs work with JS front ends often enough though. You can use a PHP career to subsidize learning JS by doing more front end work with the PHP
+34,jillesme,1590682096.0,8.0,I love this break-up analogy.
+35,kbielefe,1590677674.0,6.0,"It also didn't account for percentage use, IIRC. I'm pretty sure I put down JavaScript, even though I program approximately 90% in Scala, 5% in python, 4% in TypeScript, and maybe 1% in vanilla JavaScript."
+36,,1590684495.0,6.0,[deleted]
+37,Daelan3,1590798441.0,1.0,"Yes, there are probably more PHP websites out there, but much more active coding being done in C#."
+38,tmk0813,1590670409.0,5.0,Wasn’t .NET Core just voted favorite framework on SO?
+39,RufusThreepwood,1590667605.0,13.0,"> deplorable 
+
+lol"
+40,AlexAegis,1590665230.0,2.0,not to mention unity
+41,DrifterInKorea,1590673067.0,-1.0,"That sounds like opinions rather than facts.
+
+I am outside of China and see dozens of front end jobs using Vue, while I see almost nothing using C# other than windows app development. There is a Java / python / php domination around here."
+42,LuckyNumberKe7in,1590968202.0,1.0,"This was hilarious! An even better analogy would be ""...Oxfurd dictionary""... Since he misspelled Deno."
+43,braindeadTank,1590675356.0,9.0,Some people out there are so gung ho about being vanilla that even using jQuery is a pain for them.
+44,lachlanhunt,1590713332.0,2.0,"Since when is JQuery considered vanilla JS? Vanilla JS has always referred to using only natively supported APIs, rather than 3rd party libraries."
+45,ojedaforpresident,1590673651.0,7.0,"Obligatory ""React is not a framework"" comment."
+46,braindeadTank,1590686294.0,5.0,"Really not sure why the downvote city, this is a fact of life."
+47,roodammy44,1590693400.0,2.0,I shit on JS all the time being a front end dev. But when I look at backend enterprise Java... *shudder*
+48,phamlong28,1590738368.0,-2.0,"why would one switch from one of the most beautiful language like C#, to the garbage JS"
+49,d36williams,1590685520.0,-4.0,"not in Deno, or at least that was the plan a year ago. Deno was at that point planned to directly interpret TS rather than transpile"
+50,davidrabbich,1590670562.0,5.0,"I think so yes, I’m a C# guy though and have been for 15 years so I’m a bit biased but it’s a great language to use"
+51,davidrabbich,1590667667.0,8.0,God damn fat fingers
+52,,1590675700.0,7.0,"> while I see almost nothing using C# other than windows app development.
+
+All that tells us is that you aren't very good at research.
+
+C# is common."
+53,dw444,1590674661.0,1.0,"Depends on the location I guess. In the Toronto area, a major tech hub that was adding more tech jobs than the Bay Area in the 2-3 years leading up to the coronavirus related slump, Vue jobs are almost non-existent compared to React and Angular. The gap between React and Angular is pretty huge in and off itself, with React postings easily outnumbering Angular by a factor of 3 to 5. C# is at least as in demand as Java, though neither is as in demand as C++ or Python (again, it's a location thing- Toronto, and the nearby Kitchener area, are major hubs for AI related research and development)."
+54,spektumus,1590677471.0,18.0,what if I copy paste jQuery code and rename it app.js?
+55,Oalei,1590733375.0,0.0,"I did not say that jQuery was vanilla js, I said it was used with vanilla js projects meaning without frameworks. Sure then it’s not vanilla js anymore because of jQuery, hopefully you get my point"
+56,ItsReallyEasy,1590683354.0,9.0,Hodge-podge library zoo
+57,Daelan3,1590797695.0,2.0,To me it's not really the language but the platform.  With node you just spend a lot less time building/deploying.
+58,braindeadTank,1590687428.0,6.0,"Define ""directly"".  
+It still uses the ordinary Microsoft's typescript compiler, as can be seen [here](https://github.com/denoland/deno/tree/master/deno_typescript)."
+59,tmk0813,1590678998.0,2.0,I’m all C# too. Right there with you. Have you messed with TypeScript at all?
+60,DrifterInKorea,1590703253.0,1.0,"Let me see what you've got in your search in Korean language, you seem to be confident in your searching skills."
+61,braindeadTank,1590677876.0,20.0,"Better yet, copy half of it to utils.js and the other half to misc.js - then chances of anyone noticing are virtually zero."
+62,MangoManBad,1590678287.0,4.0,That is technically vanilla
+63,orta,1590702847.0,0.0,"I think it's reasonable to call it a TS runtime - yes, it has to transpile the TS, but that abstraction is effectively hidden from you as an end-user of deno."
+64,davidrabbich,1590679235.0,2.0,"Funnily enough I'm working on a project as we speak in conjunction with another team who are building an Ionic mobile app and thats all built in Typescript. 
+
+I had to do an authentication flow last week and when I dove in to the typescript I enjoyed what I did.
+
+I usually scaffold my JS with module code so that I can keep everything modular but this kind of did away with that and let me just focus on writing the classes and not have to worry about scope as much.
+
+So yes is the TL;DR and it gets a thumbs up from me."
+65,Daelan3,1590798013.0,3.0,"It still uses Chrome V8 which does not support typescript.  With V8 being developed primarily for browsers I doubt that will change any time soon, but with Google generally being pro-typescript it's possible.  It would be nice not having transpile at all."
+66,tmk0813,1590681238.0,1.0,I have yet to work with it so I love hearing experiences from other C# devs. Thanks!
+67,davidrabbich,1590681255.0,1.0,Anytime

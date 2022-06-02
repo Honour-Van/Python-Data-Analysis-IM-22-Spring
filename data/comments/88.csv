@@ -1,0 +1,82 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,pickle9977,1652785503.0,47.0,"Scala is an amazing language, but it’s like Perl it’s very easy to write very obsfucated code.
+
+There are a lot of syntax shortcuts that don’t exists in other languages that make reading “smart” scala code very time consuming as you have to do extra layers of code diving to understand what’s happening.
+
+Just like Perl, it seems everyone goes through a phase where they try to write more and more “crafty” scala code to show their knowledge of the language, some grow out of that and focus on easily legible maintainable code, some get addicted to the power and continue on their path towards trying to write code so collect that Odersky himself wouldn’t understand."
+1,jarek_rozanski,1652775980.0,60.0,"I met with developers for whom Scala was the first language they learned. They almost universally excelled in Scala and did not think it was complex. 
+
+At the same time, many folks from OOP or very pure FP feel it is complex. 
+
+Whether this says something about the language or people's habits is IMO hard to tell.
+
+I am retrained OOP to FP. I made the transition hard for me at first by looking at the pure FP approach in Scala.
+
+Bad idea.
+
+But, after unlearning some OOP stuff and going through the RochTheJVM course (Scala and Cats), I feel at home. 
+
+Was it easy? Nope. I had some terrible habits. Was it a Scala problem? Nope. It was my problem. Proof being, I am now very comfortable and much more efficient than I ever was.
+
+Money and time well spent.
+
+Scala, the Marmite of programming. You either love it or hate it 😉"
+2,DisruptiveHarbinger,1652777746.0,13.0,"I assume that if you don't use Scala on a day-to-day basis and get assigned odd tasks (small features, bug fixes) on an unfamiliar codebase, the experience might in fact be dreaded by a lot of people. Especially if it involves Spark jobs, that's yet another can of worms. This scenario might be overrepresented among StackOverflow users who take the survey, and more generally among people who touch Scala without being comfortable with the language, I wouldn't read too much into it.
+
+From what I remember StackOverflow surveys also show that Scala is the top-paying language (or close), I doubt people stay in these jobs just for the money and/or that employers just enjoy overpaying their devs."
+3,kag0,1652778306.0,37.0,"I reject your premise.   
+Every year Scala sits about smack in the middle at forty something percent dreaded and fifty something percent loved. Hardly ""one of the most dreaded"". Consistently less dreaded than Ruby or Java, and not much more dreaded than JavaScript."
+4,snowvark,1652774641.0,11.0,"Because Scala have to much stuff in it and not enough guidance.
+
+There is also a much dreaded shorthand operation and method notation (:/, ::, etc.). It really breaks a flow of language. Most of the times when I have a question about Scala it is regarding shorthand operators in ""functional"" flow.
+
+There is an inherit problem of ""hard to grasp"" languages requiring very smart and experienced people to code in them. This often result in smart and complex code. And then a second degree Conway law kicks in and you have a complex language with a complex code base on top.
+
+Now if you never seen a Scala before this is a nightmare situation.
+
+And then we get SBT which is again not user friendly if you don't know Scala. 
+
+So this is my experience and take on ""why"" question.
+
+And I don't despise Scala and actually okay to write program in it for a modest amount of money. For a personal projects or a leisure programming I would rarely use it."
+5,LCG_LAOJI,1652770075.0,4.0,"Because scala is multi-paradigm and provides very powerful functions, the corresponding learning curve is naturally high, but a good language does not mean simple. When it comes to complex business logic, only powerful abstraction functions can better handle"
+6,Dynam1co,1652769029.0,4.0,"It is clear, it is because of the learning curve, learning to program is fashionable, Scala is one of the most difficult languages to learn, compare it with Python for example, for the beginner, Python is more user friendly."
+7,Encomiast,1652802258.0,-1.0,Because many people get turned off by having to deal with the JVM?
+8,snowvark,1652808476.0,5.0,"Curse of Perl is very strong in Scala shorthand notation.
+
+And if for Perl those shortcuts had a historical relevant and usage patterns, for Scala... I heard somewhere theory that it (shorthand notation) is useful in writing a concise ""type theory"" proofs that will fit on slide and be verifiable by just be a ""compillable"" in Scala repl. This makes sense and really useful in academic circles. The horror begins when this ""academic"" writing slips to production code."
+9,mlopes,1652782603.0,14.0,"This. I think the paradigm mix can make it confusing if you're coming from OOP or Pure FP into Scala because there will be things that don't seem to make sense, because they don't align with the paradigm you're used to. Because it mixes paradigms, it makes it harder to distinguish between what you should be using, and what's targeted to a different paradigm and you shouldn't be using.
+
+Like you, I also came from an OOP background, and initially had trouble trying to understand why some things existed, and how they seemed to just make things worse. Then I went into Haskell, learned Pure FP, and came back to Scala and things made a lot more sense. I now identify things that are clearly OOP and should be avoided (because I'm doing FP), and things that are useful for FP and should be avoided by those doing OOP. Also like you, I think I'm more productive and spend more time writing useful code and less time debugging things that went wrong."
+10,tuxedo25,1652788009.0,10.0,"> But, after unlearning some OOP stuff and going through the RochTheJVM course (Scala and Cats), I feel at home.
+
+A year into my scala job (after 10+ years of java) I got a rockthejvm membership and my comfort level with scala went from a 3 to an 8. It's such an awesome language when you know how to use it. 
+
+Ecosystem's a little small though."
+11,kag0,1652778407.0,18.0,"But if I had to put a reason on it, I'm guessing a lot of professional developers are exposed via spark which for a number of reasons would not be the most flattering introduction to the language"
+12,threeseed,1652790993.0,8.0,"> requiring very smart and experienced people to code in them
+
+Really smart and experienced engineers know that the best code is the most maintainable code.
+
+It's why the Twitter style guide is so limited in scope."
+13,ebruchez,1652822966.0,4.0,"> There is also a much dreaded shorthand operation and method notation
+
+10 years ago, sure. But this hasn't been a problem for many years. The community of users has largely moved away from abusing symbolic method names."
+14,depleteduraniumftw,1652784107.0,10.0,"> And then we get SBT which is again not user friendly if you don't know Scala. 
+
+To be fair SBT is not user friendly period. Doesn't matter if you know Scala."
+15,u_tamtam,1652820217.0,2.0,"IMO, Scala us a better Python than Python. You could use both languages at the same abstraction level and have a nicer experience with Scala (and on many aspects it's ""fun"", or satisfying, to keep an eye on Python's introducing type hints, case classes and pattern matching one release after the other…).
+
+Of course Scala offers many abstractions to build loads of interesting things with, but my experience is that those are mostly useful to library developers and rarely, if ever, seen in glue/business/money-making parts of a codebase."
+16,snowvark,1652808042.0,7.0,"This isn't the case if you take a look at Kotlin and Clojure. Both are JVM hosted and don't have such dreaded aura, quite the opposite."
+17,threeseed,1652791265.0,-8.0,"Spark is a fine way to be introduced to Scala. It's supported, documented, consistent and cleanly written. There are far worse libraries in the ecosystem.
+
+It's just that Scala is inherently far too complex and clunky compared to Python. In particular the tooling which is slow and unfriendly."
+18,ExternalPanda,1652903545.0,1.0,">I'm guessing a lot of professional developers are exposed via spark which for a number of reasons would not be the most flattering introduction to the language
+
+Why would that be? If we're talking about the RDD API, I can kinda see why, but it still sucks a way less than writing MapReduce jobs in Java. But as far as the DataFrame based APIs go, starting with Spark is one of the things that helped me fall in love with the language, if anything."
+19,snowvark,1652807803.0,3.0,"
+> Really smart and experienced engineers know that the best code is the most maintainable code.
+
+This is very much my current mindset. Again the problem is that there is not a lot of those people around. There is a lot of smart people who think that they are ""experienced"" enough to write a good/clean/agile/TDD (etc) code, when instead they should write a simpler and more maintenable code. Those people are ""the problem"". I understand them. I was (I hope) one of them in the past."
+20,Daenyth,1652817403.0,4.0,"Scala syntax is more complex than python syntax. Having had jobs in both, I'd never pick python again between the two. *Using* python is clunky and complex"

@@ -1,0 +1,158 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,,1429060865.0,22.0,"I use Ubuntu for development as well. It just works (tm). I can't believe Notepad++ is so widely used (nothing against it) by now I thought many people jumped ship to Sublime, plus part of my believed most of us just used either vim or emacs and now I know that was a silly perception. 
+
+"
+1,j0llysnowman,1429067700.0,4.0,"Why would they poll for favorite text editor, but not favorite IDE???"
+2,,1429089430.0,12.0,[deleted]
+3,majesticsteed,1429101878.0,5.0,I hear a lot of negativity about ubuntu on other linux forums. why is that?
+4,LeSageLocke,1429093385.0,5.0,"> After millennia of heated debate, mercifully, at long last, we have an answer. Most developers prefer tabs to spaces.
+
+&#3232;_&#3232;
+
+> Upon closer examination of the data, a trend emerges: Developers increasingly prefer spaces as they gain experience. Stack Overflow reputation correlates with a preference for spaces, too: users who have 10,000 rep or more prefer spaces to tabs at a ratio of 3 to 1.
+
+ಠ‿ಠ"
+5,trtryt,1429053623.0,23.0,"Only 5% use Fedora, some anti-Ubuntu mod on /r/Linux couldn't handle the truth, and deleted the submission there. "
+6,pt000,1429069204.0,1.0,"I love using Ubuntu to develop for Android, but I with [Android Studio the fonts look terrible](http://redd.it/2lc6il), unlike in Eclipse. Has anyone else faced this issue on Ubuntu."
+7,mmmayo13,1429112447.0,1.0,"I know it's new, but I'm kind of surprised at the low levels of Atom adoption. I just recently moved on to Atom from emacs, and think the world of it so far. A nice lightweight, attractive, hackable (and free) Sublime alternative IMHO."
+8,,1429082832.0,1.0,"I wish they had broken it out into the different versions of Ubuntu. Ubuntu is really a family of operating systems now. I use Ubuntu server and Xubuntu, but would never use vanilla Ubuntu with Unity."
+9,BloodyIron,1429072348.0,0.0,"In regards to Ubuntu/Linux as a dev environment, how can you sell the tools as a compelling argument to visual studio 2013? I'm not a developer so I can't make a good argument yet. :(
+
+tips?"
+10,d4rch0n,1429071378.0,13.0,"A lot of us use vim of course, but it depends also on the code you write. You can definitely code Python/Ruby/Lua/C professionally with vim. You can set it up so it's an IDE, and for those guys you really don't benefit that much from code completion (but of course, that varies person to person). Personally, even on my workstation I don't have many plugins, just syntax highlighting. I can usually maneuver my code extremely easily, and making that easy to do also helps me write cleaner code. If the module is well named as well as the function, it's easy to find and it's cleaner code anyway.
+
+But for languages like Java, C++, C#, you probably want a full fledged IDE, and these are extremely popular languages. I can't code java without code completion, but then again I'm not a professional java dev.
+
+It's all personal of course. The only thing that matters is what makes you more efficient. As a Python dev, I've never felt faster using anything but vim. With a statically typed language other than C, I'd feel uncomfortable without a professional IDE. If you're not getting hints that you're calling a function with the wrong types in your IDE, you're missing part of the beauty of writing code in a statically typed language.
+
+But of course, I'm sure there's a vim plugin for that."
+11,Soreasan,1429068687.0,3.0,Sublime is too expensive in my opinion.  Although it is very generous that they have the unlimited trial.  
+12,OmicronNine,1429068505.0,2.0,"Personally, while it has some great ideas, I found Sublime to be far to buggy and unpolished to be relied upon for serious work."
+13,RustyToad,1429091286.0,9.0,"As a text editor (not full IDE), notepad++ is just fine. Small, easy to install and use, and has pretty much all of the things you would expect. I used it a lot in a previous job, for editing data files, manually handling GPS recordings, writing short scripts, etc. It was great for all of those tasks. "
+14,thedoginthewok,1429096885.0,1.0,"What's so bad about Notepad++? There are so many reddit comments where people complain about it, but never stating any reasons. I use Notepad++ and I prefer it to Sublime.
+
+I mostly don't use Notepad++ to program (I have the awful ABAP Workbench and sometimes Visual Studio for that). 
+
+One example of something that I like about Notepad++, which Sublime doesn't have: Saving text files as admin. If you try to save the hosts file with sublime, you just get an error message. If you do the same thing in Notepad++ and have the save as admin plugin, you can just click yes on the UAC window and it works.
+
+I also like the Compare plugin and XML Tools. "
+15,,1429106019.0,5.0,"I first noticed it when they sent your dash search results to their own servers by default (and then to Amazon). Many people felt this was an invasion of privacy (which it was).
+
+Currently, I'm not 100% sure. There's still the Amazon thing, also some people don't like that Ubuntu is trying to distance itself from Linux in a way (a lot of their updates are designed only for Ubuntu instead of being tools that run on Linux in general)--I think that's fine, but some people disagree. And of course there's just the general elitist that look down on Ubuntu as Nooby distro and the hipsters who look down on it because it ""sold out"".
+
+If you wanted detailed information, you should try asking in the forums where it's getting hate."
+16,,1429111865.0,2.0,Probably the amazon search shit which i agree with
+17,j0llysnowman,1429103766.0,2.0,"That surprised me, too. I don't know anyone who prefers tabs..."
+18,,1429068477.0,6.0,Did they actually give you the reason for deletion?
+19,,1429094394.0,4.0,Fedora has a good community because of it's corporate sponsorship but outside of the internet chat forums and suchlike I have never met anyone who actually uses it on a day to day basis especially in work roles.  Maybe that's just me but yeah I would definitely say that Fedora isn't all that popular it's just well funded and marketed.
+20,,1429106360.0,-5.0,"Maybe they removed it because you're tittle is inaccurate. It's not 60% of Linux StackOverflow users, it's 60% of the people that answered the survey. That was only 26,086 people out of 32 Million that visit the site.
+
+So 60% of the ~0.00082% that actually answered the survey who use linux also use Ubuntu. It says in the opening the report is biased. Maybe Ubuntu is over represented because Ubuntu users are more likely to answer surveys.
+
+[edit] oh nevermind, it looks like it was because it's a repost"
+21,epicstar,1429075808.0,2.0,I'm using Ubuntu also. Nope... No problem at all.. Then again I use Source Code Pro and don't have to scale. I'm also using Oracle Java 8
+22,,1429077564.0,9.0,[deleted]
+23,BloodyIron,1429151916.0,1.0,"Wow, okay, why a I being downvoted?"
+24,,1429075663.0,6.0,"For future reference: There's [youcompleteme](https://valloric.github.io/YouCompleteMe/#intro), personally I'm just waiting for [Clion](https://www.jetbrains.com/clion/) to mature. (I haven't used it since EAP, plus it's not like I'm the most experienced person in C++; I'm still learning)
+
+I agree. Just thinking of configuring vim to do Java programming makes my skin crawl. "
+25,pydry,1429088884.0,1.0,"> It's all personal of course. The only thing that matters is what makes you more efficient. As a Python dev, I've never felt faster using anything but vim. With a statically typed language other than C, I'd feel uncomfortable without a professional IDE. If you're not getting hints that you're calling a function with the wrong types in your IDE, you're missing part of the beauty of writing code in a statically typed language.
+
+You can (kinda) get that in python too by embedding ipython, coding using the REPL and just copying and pasting from the history back to your text editor."
+26,j0llysnowman,1429103644.0,1.0,"The big Java IDEs (thinking of IntelliJ IDEA and Eclipse) have vim plugins for the editor. Professional Java guy here, and yeah, you definitely need code completion :)"
+27,,1429069101.0,10.0,"Expensive? I think anyone already freelancing or starting a business in development will find Sublime Text a valuable tool. Honestly, if your business is doing well $70 for a tool that has everything you need shouldn't be hard to get. 
+
+Note: I personally use vim for development, however if I found a commercial tool to be better--ideology aside and no free beer mindset--then I would just purchase said tool. 
+
+I used Sublime Text, it's neat but well I vim sort of provides the things I need right now. When it doesn't I just use PyCharm.
+"
+28,,1429071086.0,7.0,[deleted]
+29,,1429104426.0,2.0,[deleted]
+30,flopgd,1429127445.0,4.0,what's wrong with tabs? :/
+31,LeSageLocke,1429104650.0,1.0,"Yeah... I think more less-experience programmers prefer tabs because that's just how their dev environment is initially configured and they wouldn't have thought to change it. (And why would they? They're busy trying to figure out what the fuck a seg fault is.) So, when they first encounter the debate, would likely just stick to what they know.
+
+That's how it was for me, anyway."
+32,captain_awesomesauce,1429069373.0,21.0,"Probably because it's a repost?
+
+http://www.reddit.com/r/linux/comments/31u9ww/stack_overflow_developer_survey_2015_desktop/
+"
+33,trtryt,1429068864.0,-3.0,"no just disappeared ASAP, it's like if you post any reports of malware news on /r/Android they will take it down"
+34,awaitsV,1429094786.0,2.0,"i have always been an Ubuntu user, installed Fedora last month and to my surprise, it isn't that different.
+
+i definitely like yum/dnf, copr feels superior to ppa's and in general it is good enough.
+
+i did add rpmfusion the second the install was complete"
+35,trtryt,1429107280.0,1.0,"lol then you will have to say that about every survey, it's a title not a paragraph"
+36,Herbstein,1429102657.0,1.0,"Well, GIT Bash is a decent way of having Linux commands on Windows."
+37,BloodyIron,1429152019.0,1.0,"One of the things I hear is that visual studio just does a superb job of being an IDE, agnostic of the language you write. The JetBrains stuff is interesting, thanks for that info. I'm just trying to prepare a case to argue for software dev on Linux instead of Windows. "
+38,Herbstein,1429102387.0,3.0,"Don't know if you've heard, but CLion is out of EAP."
+39,pydry,1429086548.0,3.0,"I don't mind shelling out $70, but I tried it and just didn't get on well with it. I'm much happier with Kate, and feature for feature there doesn't really seem to be anything that sublime (or vim or even emacs) has that it doesn't."
+40,,1429073347.0,2.0,"Agreed,  plus spring another $35 for Essential PragmataPro."
+41,otherl,1429084513.0,1.0,"I don't want to start flame or anything, but how is sublime better than vim, emacs or other free alternatives? I see people mention it now and then, what I don't see is why, other than personal flavor."
+42,OmicronNine,1429076103.0,2.0,"> Really? Why do you say that?
+
+Because that's how I personally found it. It actually crashed on me twice the first day I tried to do work with it, and I was working with very small text files that other editors have no trouble with.
+
+Dropped it immediately and never looked back. *shrug*"
+43,thedoginthewok,1429105461.0,2.0,"Yes. I use windows at work and at home on my PC. I like Ubuntu and linux in general, though. I use Ubuntu Server on my vserver and OpenELEC on my HTPC."
+44,,1429069624.0,28.0,Does this make OP a thick bundle of sticks?
+45,,1429069713.0,3.0,"/u/captain_awesomesauce
+
+>Probably because it's a repost?
+
+>http://www.reddit.com/r/linux/comments/31u9ww/stack_overflow_developer_survey_2015_desktop/
+
+That was his reply to me"
+46,three18ti,1429106086.0,5.0,"It's funny, I find yum to be slow and clunky, although I do like that all yum command come from one tool vs all the various apt-*
+but I can get the apts with tab complete.  I prefer apt and the .deb package format (fpm really mashes package creation trivial anymore, so it's less of an issue).
+
+We're a RHEL/CentOS shop. All of the devs use Ubuntu. For the most part deploying to dev/test has challenges, but with the exception of a few individuals, we dinner have many cross platform incompatibility issues. "
+47,,1429106842.0,2.0,"Yeah, most distros end up feeling very similar. The only ones that are really different are the one that require you build from source."
+48,,1429115425.0,-3.0,"Yes, all surveys should state their biases. That doesn't excuse a misleading title. Here is a better one: ""Ubuntu is most popular Linux distro amongst surveyed StackOver flow users"".
+
+Not that hard is it?"
+49,,1429166063.0,1.0,[deleted]
+50,,1429124525.0,1.0,"I found about it yesterday after posting about it. :) I still got access to my student copy, although honestly I don't think I'll play with it as I'm trying to establish myself as a freelancer (until I finish my studies) thus ... maybe if I find a friendly C++ project to contribute. "
+51,,1429075392.0,1.0,I prefer Andale Mono or Deja Vu Sans Mono. :]
+52,ANUSBLASTER_MKII,1429091338.0,7.0,"It looks nicer out of the box, and doesn't introduce foreign concepts to newbies like insert mode."
+53,Negirno,1429085750.0,3.0,"Emacs and Vim is more difficult to a beginner, since both of them predates modern UI conventions. "
+54,ihazurinternet,1429072921.0,21.0,"Of course, that's a given. It's OPs Law."
+55,TotesMessenger,1429474206.0,2.0,"This thread has been linked to from another place on reddit.
+
+- [/r/shitredditsays] [""Does this make OP a thick bundle of sticks?"" \[+22\]](//np.reddit.com/r/ShitRedditSays/comments/335opf/does_this_make_op_a_thick_bundle_of_sticks_22/)
+
+[](#footer)*^(If you follow any of the above links, respect the rules of reddit and don't vote.) ^\([Info](/r/TotesMessenger/wiki/) ^/ ^[Contact](/message/compose/?to=\/r\/TotesMessenger))*
+
+[](#bot)"
+56,EatMoreCrisps,1429118393.0,1.0,He might be an offal meatball.
+57,,1429518479.0,-1.0,"No, but it does make you a homophobe."
+58,trtryt,1429070332.0,0.0,why wasn't I sent a message
+59,mhall119,1429117342.0,3.0,"> I do like that all yum command come from one tool vs all the various apt-*
+
+You can (mostly) do that with apt now too, try: apt --help
+"
+60,awaitsV,1429113035.0,1.0,"> I find yum to be slow and clunky
+
+weird, although i have started using ```dnf``` as i was told that it is the future
+
+> apts with tab complete.
+
+heh, i used to have an alias for apt-get so as to avoid typing the ```-```
+
+> I prefer apt and the .deb package format
+
+i haven't packaged any of my programs for fedora yet, it might get interesting.
+
+>we dinner have many cross platform incompatibility issues. 
+
+i too deal with issues after dinner :D"
+61,hothrous,1429118572.0,3.0,"The title that was used here does say that the results are surveyed. It certainly could have been worded better, but it's definitely not a misleading title in any way."
+62,BloodyIron,1429166200.0,1.0,Curses!
+63,,1429071974.0,1.0,"Idk, I'm not a mod."
+64,three18ti,1429121703.0,1.0,I still use init scripts...  muscle memory is hard to change. 
+65,three18ti,1429121643.0,1.0,"Haha. That's the best typo ever! That Sikhs be ""we don't have many..."""
+66,,1429119758.0,-2.0,"Maybe misleading isn't the right word. My issues with the title is that it doesn't make it clear that the results apply only to those who took the survey and it assumes only developers took it.
+
+It makes it seem like Ubuntu is the distro of choice amongst developers. I wouldn't be surprised if it was, but the survey does not support that conclusion."
+67,,1429166594.0,1.0,[deleted]
+68,BloodyIron,1429171846.0,1.0,"And that's intentional, sorry."

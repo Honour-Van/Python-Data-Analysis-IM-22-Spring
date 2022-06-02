@@ -1,0 +1,1047 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,pipnina,1554891397.0,121.0,How does this compare to last year's?
+1,neilhwatson,1554897195.0,201.0,"Yeah, 50% are developing for Linux yet on 25% have a Linux workstation. Corporations not supplying the right tools for the job."
+2,mrrchit,1554901948.0,36.0,Seems weird when all I see at conferences are MacBooks... Maybe Mac people go to conferences more?
+3,thethrowaccount21,1554899960.0,90.0,"Linux is a dream for development. When you're a developer, in fact, one of the only good criticisms in the past about Linux becomes its strongest quality: the reliance on the terminal! Unlike windows which makes you lose several seconds by clicking on and opening a gui for everything (trust me, it adds up), with linux you have direct access to everything you need right from the terminal. 
+
+This makes a developers workflow much, much faster. SSH'ing into a server to replace an executable and coming right back takes a couple seconds, limited by your typing speed. Opening remote connect, clicking on all the settings you need, clicking ok, then clicking on this and that to copy it over, rdpclip.exe freezing and needing to be restarted which is more clicks, it definitely adds up."
+4,uncleguru,1554897968.0,13.0,I've been using Linux for years and the only reason I miss using Windows is for WebEx and other conference services that I have to use Windows for. Other then that I wouldn't use any other OS else.
+5,ContractEnforcer,1554894572.0,23.0,I've been writing my application since last July.  Every few weeks I fire up Windows and MinGW and make sure it will run.  I admit I hate doing it.   I am  wondering if it is worth all the hassle to potentially  reach a larger market.
+6,RR321,1554901088.0,57.0,I will not work where I cannot run Linux full time...
+7,bartturner,1554896529.0,32.0,"I made the switch.  Had been using a Mac for almost a decade for development and did replace with a Pixel Book that comes with GNU/Linux and what I now use for development.
+
+Been really happy with the move so far.   I also get Android which was not the reason for doing the switch but it actually comes in handy more often than I thought it would.
+
+Really like how Google has done the GNU/Linux support on the Pixel Books with Crostini.     How they did it you get Wayland and XWindows support.
+
+I have move to using Flutter for iOS development and the only thing that still sucks is needing to turn on my MBP to sign apps for the Apple app store.  The last thing I need is a cloud based service that I can use to sign Apple apps.
+
+BTW, the keyboard broke on the MBP a second time and what was the catalyst.    Apple support was excellent.  I could not ask for more.  But it is still a huge hassle to go to the Apple store and be without the machine.
+
+The keyboard issue on the MBP is not getting as much press as it should.   It is an actual issue.  Not a bunch of reddiots bitching."
+8,maep,1554907990.0,32.0,"It is remarkable that OSX is still held in such high regard. In terms of developer friendlyness they have been getting increasingly worse for a couple of years now, while Windows is getting slightly better through WSL."
+9,LizardOrgMember5,1554909385.0,15.0,"With Linux (or Ubuntu, a distro that I am using), I can download any programming language I want through Terminal without having to do tedious setup. That's why I enjoy using Linux more than any OS out there."
+10,grimmr33fer,1554888382.0,42.0,"Love is a strong word.
+
+Its not Windoze, and that's enough."
+11,wittyaccountname123,1554931122.0,3.0,"I genuinely don't understand how so many devs are satisfied working on MacOS. The lack of a native package manager is a complete non-starter for me. Does Homebrew really work that well? I've used it a bit and it seems to break more often than not, and God forbid you upgrade MacOS. Maybe it's gotten better?"
+12,cameos,1554919659.0,3.0,"Most loved platforms are mixed by OSes and hardware, ""Raspberry Pi"" is in the fourth place, but aren't most RPI users (if not all) using Linux?"
+13,MitchTJones,1554912987.0,6.0,Keep in mind that this was also the year that Microsoft released the Ubuntu terminal and other tools specifically designed to retain developers who are used to Linux... and they’re still losing users.
+14,_Anarchon_,1554924462.0,2.0,I don't see how it's the most loved if half the people are using windows.
+15,rickdg,1554929390.0,2.0,When you dev but you also have to easily open fully-featured psd or xls files.
+16,Groudie,1554946600.0,2.0,"As someone who switched to Windows this week, after about 6 years of having Linux as my primary OS, I must say that this is oddly comforting. I always believe that the vast majority of developers owned Macs or something UNIX-like and that that programming in Windows was so trash that it would rank well below MacOS especially. Programming in Windows isn't nearly as hard as some people made it out to be (including myself) if 47% of developers surveyed said they used it. With WSL the transition has been mostly painless but it has been less than a week so I'm not sure how long things will go this smoothly but programming in Windows is doable, at the very least."
+17,Nodebunny,1554948955.0,2.0,Now if only Linux had better apps
+18,robberviet,1554950045.0,2.0,"Does this mean desktop environment or just deploy environment?
+
+I work just well with server running Linux (I mean what other option?), but Linux for personal usage is still suck for me. I don't know why but the UX is just off.
+
+Also for this vote, I will of course vote both MacOS and Linux. Multiple choice could be misleading sometimes."
+19,,1554961898.0,2.0,"75% are frauds
+
+jk, my company doesn't allow linux. have to use an overpriced macbook pro."
+20,,1554914847.0,3.0,[deleted]
+21,supermans_90s_mullet,1554986631.0,1.0,"Linux is not a ""platform"" and things should stop acting like it is.
+
+There is no real feasible way for software to ""target Linux"" and no ""GNU/Linux"" is not a plarform either.
+
+Most of these distributions are their own platform and software often needs significant patching to run  on another and that's fine; these different operating systems have no obligation to be like one another but things should stop acting like it's any other way as well.
+
+I would go so far as to say that for a lot of use cases  ""Ubuntu GNOME"" and ""Ubuntu KDE"" already become different platforms because some stuff stops working properly. Steam in particular says ""We only support Ubuntu Xorg KDE/GNOME/Unity"" and other than that you're on your own.""; one some platforms that are similar enough you can get it to work with hacks but good luck ever running it on Alpine Xorg KDE or Ubuntu Wayland Sway.
+
+Linux just isn't a ""platform"" in the same way that Windows is where all this is centrally controlled and for a lot of applications whether you use Wayland or Xorg will have a bigger impact than kernels like say Wine which runs fine on any Unixlike kernel but the developers have announced they have no intention of as much as attempting a Wayland port since it doesn't offer a lot of things they need and it's far harder to map Windows to it because it functions completely differently from Windows."
+22,soutsos,1555171198.0,1.0,"You mean GNU/Linux. Linux is simply the Kernel. Let's give the GNU guys some credit, which they surely deserve :)"
+23,urban-_-hominid,1554908894.0,1.0,The one thing I ask is awesome touch gestures like Macos...then we'll have everything.
+24,ender_wiggum,1554919453.0,0.0,"Jebus H. Christ in a chicken basket, look at the development environments... I feel the need to hork.  
+
+
+Visual Studio / Android Studio takes the top spots.  <shudder/>.  
+
+
+At least I can sleep well knowing those vile yet criminally fraudulent Emacs users aren't holding sway with their idolatrous nincompoopery."
+25,,1554927155.0,0.0,"1. Holy shit VS Code really took off.
+2. Where would WSL fall. I would not put down Windows if I had taken the poll"
+26,,1554951455.0,0.0,How the fuck do people actually PREFER windows? I thought it'd be like 0.01%
+27,igonejack,1554899482.0,-25.0,How could people do their jobs with so buggy Linux desktops?
+28,,1554897648.0,184.0,[deleted]
+29,dreamer_,1554901122.0,109.0,"I was in this situation... The whole team was using Linux in Virtualbox to work, yet management was totally ok with corporate IT supporting Windows only and mandate additional Windows-only software. Some people (including moi) made the switch to using Linux with Windows in Virtualbox, but it was almost equally painful."
+30,CyanBlob,1554905257.0,37.0,"Yep, it's irritating. My company does embedded Linux development, but all the desktops run Windows. All the devs here use Linux VMs"
+31,BlackCow,1554914484.0,20.0,"I installed Ubuntu on my work Macbook and sorta assumed it was fine. IT decided to install anti-virus on everyone's machines and found out that me and a handful of other engineers were running Linux.
+
+My manager was awesome and decided to stick up for us. They decided we're ""grandfathered in"" but they made it clear that wasn't allowed for anyone else in the future."
+32,bump_bump_bump,1554910240.0,39.0,"We develop to run only on Linux, but fully 75% of engineers choose OS X as their dev environment, and there are a few hoops we *all* have to jump through to make everything compatible for them.
+
+It's funny, my impression is the draw of OS X is for more polish, having your machine ""just work"", etc., but they're *always* having to deal with some issue or failure with it (most recently many of them periodically lose USB connectivity and have to reboot).  It could be that we Linux users just accept that sometimes things fuck up and we have to reboot or something, or that we have internalized various workarounds and tricks, but frankly it seems like a lower-bother environment to me for a developer."
+33,SahinK,1554918488.0,8.0,"We have a team of engineers developing and maintaining our own Linux distro based on Debian, and it's the only approved platform for development. I love it."
+34,efethu,1554915179.0,12.0,"> Corporations not supplying the right tools for the job.
+
+Not necessarily. In our company(fairly large, thousands of employees) all servers are Linux. When a new person starts they are asked if they want Linux, Windows or MacOS. No strings attached, purely their decision. I use Linux, but most(over 50%) of my colleagues use Mac.
+
+You really don't have to write code on the same platform. Think microncontrollers and game consoles."
+35,postmodern,1554937105.0,4.0,"Can confirm. The biggest excuse is that it's just too hard to manage Linux laptops/desktops, so IT departments stick with what they already know (Windows, macOS, JAMF, etc) instead of learning how to use [Canonical Landscape](https://landscape.canonical.com/) or [RedHat Satellite](https://www.redhat.com/en/technologies/management/satellite)."
+36,jgierer12,1554906089.0,7.0,Keep in mind that includes things like web servers that run in a Linux environment. To me it's more surprising that the number isn't higher than that. I wouldn't say having a Linux workstation is necessary for those kind of applications.
+37,lengau,1554927369.0,7.0,"This is literally my current situation. I'm running the following applications right now on my work laptop (Windows):
+
+* Firefox (for Reddit and other personal stuff)
+* Chrome (for work web pages, including Jupyter notebooks)
+* PyCharm
+* 8 different SSH sessions to Linux machines (including to a Linux VM running on my laptop).
+* FileZilla, because Windows doesn't have SFTP integration.
+* RDP session to a remote Windows server. (We have some data we're not contractually allowed to put on laptops, but we are allowed to remote to a server to work on the data)
+
+I do need Windows-specific stuff occasionally, but 100% of what I need Windows for could be done within the aforementioned RDP session. I wouldn't even need a Windows VM."
+38,LuckyHedgehog,1554900681.0,8.0,"Corporations making the switch from .NET Framework to dotnet core can be developing for both platforms, and probably still maintaining products built in framework. Windows os is the right tool for those developers"
+39,yur_mom,1554902695.0,0.0,"I have been developing for Linux servers and embedded linux for 12 years and prefer my MacBook Pro for development.  I have an AWS instance that I ssh into to cross compile for embedded and all the server dev is on AWS.  I also have Linux desktop on parrellels.
+
+
+This is the best of both worlds because I have all the Linux tools for development and the Mac os for off the self programs that are a pain to configure in Linux.  Also, Mac has a decent bash prompt and combined with Homebrew I can get a lot of native utils for command-line.
+
+
+I also have a Linux desktop, but rarely use it because my Mac is way better hardware.  I feel forcing yourself to be a fanboy of one os is foolish and every os has its strengths and weaknesses."
+40,Rookeh,1554916296.0,1.0,"My team pretty much all develop on Windows (one guy has a Mac), but for deployment we package everything up with Docker and deploy out to Linux. It's worked fine for us, but of course it depends on your stack and more importantly what exactly it is you're building."
+41,AddemF,1554937273.0,-4.0,"To be fair, corporate management tends to be pretty idiotic and I just can't seeing them getting used to Linux.  So they're probably right to stick to Microsoft.  So you either have half the firm on one OS and half on the other, or enforce everyone on Microsoft.  Having half the firm working on a different OS entails another host of challenges.  So ... no matter which way you go, someone's going to have to deal with extra difficulties."
+42,awxdvrgyn,1554912166.0,30.0,"Well money helps you make it to conferences..
+
+
+I expect Linux dual boot or primary on main workstation and single stock OS on laptop is common"
+43,BlackCow,1554915068.0,22.0,It's because they come with a unix environment.
+44,idenkov,1554913597.0,23.0,"You are going to the wrong places - all I see when I go to some kind of conference/meeting is thinkpads.
+
+But the bigger events have mostly macs - it is part company policies, part mostly management going there, but I might be wrong."
+45,Ogg149,1554953108.0,1.0,They have more money?
+46,,1554938397.0,1.0,"Wealthy developers tend to stop caring about cost efficiency for laptops. There’s not much point fussing over a couple hundred bucks, just buy what you want."
+47,Zoenboen,1554914237.0,-5.0,"Just like how this really just shows is that the people who need the most help are Linux and Mac devs. 
+
+Or rather, Windows developers are seeking help on Microsoft sites."
+48,Hohenheim_of_Shadow,1554906287.0,5.0,"OpenSSH has first party support in Win10. It doesn't natively support remote desktop environments, but then you're looping back to evil GUIS. For an all in one gaming, moderate development and software support for random devices computer, Win10+WSL is pretty damn good. I don't even have to deal with the annoyances of dual boots, hard drive partitions, performance penalties of VMs or dicking around with WINE or other compatibility layers."
+49,,1554927285.0,1.0,"> Unlike windows which makes you lose several seconds by clicking on and opening a gui for everything (trust me, it adds up), with linux you have direct access to everything you need right from the terminal.
+
+/r/BashOnUbuntuOnWindows"
+50,neogeek23,1554898462.0,14.0,I don't have a problem with webex in rhel.  Everything works really well.
+51,captainstormy,1554903493.0,7.0,Chrome has a WebEx extension that makes it work just as well on Linux as it does Windows.  If you don't mind Chrome.
+52,RedditIsNeat0,1554901707.0,14.0,You might want to look into cross compiling with mingw and using wine. Then you don't have to actually boot Windows and you can take advantage of your package manager rather than having to manually maintain your mingw installation on Windows.
+53,sablal,1554895416.0,13.0,"I don't have a personal box with that OS. For all my utilities, the policy for Windows is - _port it if you need it_. As far as I know, there are no alternatives on windows with the same specifics and use-cases. And so far, I've seen people submitting patches for Windows OR having local patches to use them."
+54,pdp10,1554911457.0,6.0,"You can cross-compile with MingGW and Clang/LLVM, so you don't have to run Windows just to keep the compile clean. Testing will still require some Windows, though you could also consider Wine. And if you want to make sure it compiles with Microsoft's toolchains, you'll need to figure those out, which is nontrivial.
+
+The code I'm currently working on may or may not ever have significant Windows market share. There are a number of reasons I'm keeping it portable, and smoking out bugs is one of them. I may also end up using it on Windows myself in the future (it's a server application, not desktop)."
+55,aaronfranke,1554953944.0,2.0,">  I am wondering if it is worth all the hassle to potentially reach a larger market.
+
+Yes. Ideally, programs should run anywhere."
+56,,1554927974.0,0.0,/r/BashOnUbuntuOnWindows?
+57,dr_barnowl,1554904483.0,31.0,"+1 to this. Was a major factor for me leaving my previous job, who hired me on the premise that they were forming a dev team with agile principles and then 2 years later were issuing locked-down Macbooks with no root (and ... no Homebrew!), trapped in a network walled-garden, as ""managed"" developer workstations.
+
+Did not get on with those Macs and held onto my trusty Dell (which I re-imaged with Ubuntu on day 1) for dear life, even if I was literally risking having my face burned off as it had some major battery swelling issues.
+
+My current employer gave me a choice between 4 devices - big/small mac/XPS - and have wiki pages with well-tested procedures to dual-boot the Dells with Ubuntu.
+
+TLDR : would literally rather risk lithium burns than use OSX or Windows."
+58,the_gnarts,1554910043.0,9.0,Indeed. That’d be a deal-breaker in any job interview.
+59,StephenSRMMartin,1554950672.0,3.0,"Same. I do stats/programming for my job currently. If an employer didn't let me use linux, I would strongly hesitate to work there."
+60,Free_Bread,1554900501.0,11.0,How's the pixel trackpad in Linux?
+61,,1554916052.0,5.0,[deleted]
+62,Game-of-pwns,1554950458.0,4.0,"Being forced to use a Mac at work and it's my first experience working on one after using Windows Vista, Windows 7, windows 8, windows 10, ubuntu, lubuntu, Ubuntu mate, raspian, and mint over the years. 
+
+Besides the quirky (cludgy?) window management and completely different keyboard shortcuts, the worst thing I've noticed is that pretty much every app I try to download costs money, and most of those are apps that I only want because they add functionality missing on OSX that is literally on all other modern desktop environments, like window snapping.
+
+I've very much gotten used to finding cool Linux tools that are community developed and free. Big change when switching to OSX. Not sure why developers would chose OSX, although I will say it's nice how light the MacBooks are."
+63,the_gnarts,1554910311.0,11.0,"Status symbol factor is strong.
+
+That said, I don’t know a single developer colleague who would
+touch a Mac unless compensated. Some still prefer Windows,
+especially the older generations. But they’re cool about it and
+it makes for hilarious banter."
+64,thethrowaccount21,1554910876.0,4.0,Installing rust and using cargo will blow you away if it hasn't already. I know I could never go back to the old fashioned way of getting things without utilities like cargo.
+65,strongdoctor,1554914088.0,1.0,"Well, I mean, Chocolatey lets you do just that on Windows."
+66,,1554928100.0,1.0,"> I can download any programming language I want through Terminal without having to do tedious setup
+
+That is true for WSL. It's the same Ubuntu, byte for byte. Including the programing languages you download using `apt`."
+67,Reverent,1554894969.0,47.0,"Eh, the hate against windows is pretty artificial. I'm in devops, 90% of my servers are linux based, and my primary platform is windows. A short list of things windows does better:
+
+* multi-screen with different DPIs or different resolutions. Honestly multi-screen in general. Windows has that pretty locked down. Well except for OSX. OSX is by far the best environment I've seen in regards to dealing with weird resolutions or DPI scaling.
+* laptops. Just laptops in general. 2-in-1s are basically useless on linux, their tablet functionality is hit or miss on a good day.
+* dock compatibility. USB 3.1 type c docks, especially using MST, seem to be 50-50 on whether it will actually work.
+* battery life. I haven't done a good benchmark recently, but power saving seems to be skewed to windows. This is generally due to the attention manufacturers pay to windows drivers vs linux drivers.
+
+Don't get me wrong, I mean 90% of my time is spent in a ssh terminal. I love docker, I love oVirt, I run homelab services on proxmox. But user experience in a notebook environment is not a strong suit for linux.
+
+EDIT: Also, I *love* powershell. Powershell is awesome. I've started recoding my shell scripts into powershell core, because awk/sed/data structure handling in linux is so ugly. I love doing text replacement or JSON structuring in powershell. In bash, it feels like I'm fighting the OS.
+
+EDIT2: sort by controversial is an interesting metric for this post."
+68,shirro,1554950783.0,2.0,I am not a very serious developer but my experience was homebrew was fine until you started to run into differences between your development and production target. Then you move to virtual machines. And pretty soon you might as well be back on Linux. But it think it probably depends a lot on what you are doing. If you are developing web frontend it is probably  fine. Not so great with server side or compiled stuff.
+69,bartturner,1554978419.0,1.0,"I use to use a Mac for development and did for a decade.   MacOS is unix based so close to GNU/Linux.
+
+I have now replaced with a Pixel Book so have GNU/Linux.   
+
+The one that surprises me is people using Windows.   I have not done Windows development for a decade now.   Windows is not at all like Unix."
+70,CapableCounteroffer,1554938360.0,2.0,"Yeah, you can vote for several. For example I voted for AWS and linux, but I don't target desktop linux, just linux on AWS (and other cloud services). So someone can vote for linux, then also vote for rpi to specify that they develop specifically for that hardware (or in addition to other hardware)."
+71,Soundtoxin,1554955631.0,2.0,I think someone using it has more meaning behind it. It doesn't come on most computers. In many cases you have to install it yourself. A lot of Windows users don't even know what an operating system is.
+72,audioen,1554953095.0,3.0,"Yeah, I am perhaps mildly exceptional in that have written code on all platforms, largely java and javascript kind of stuff in a so-called full stack setting. VS Code, Eclipse, node and openjdk are of course perfectly installable on all OSes, so you can evaluate the operating systems against each other while running the same client software. Hardware is typically different, though.
+
+In my experience, Windows is hampered by low performance of its file I/O, and this is true even after you disable things like antivirus and windows search from indexing your node\_modules directories. It is bad enough that Windows seems to be several times slower doing some task that involves a lot of small file I/O, though this depends on the hardware as well. I guess WSL suffers from similar problem, I've seen that it is noticeably slower than native Linux doing similar tasks should be. I also ran into some compatibility issues, such as that deeply nested directories may end up hitting Windows's 256 character pathname length limitation, though this is only a concern for some older, legacy APIs. Still, that's not much consolation when the particular program you need doesn't work.
+
+Linux, in comparison, has excellent i/o performance but I find that its GUIs are clearly laggier than the competition's. The new GNOME that's going into 19.04 seems to have made at least GNOME feel a lot snappier, but I think it's still not quite as fast as it should be. In my subjective experience Linux applications are just slower to paint and to respond to window resize and stuff like that, and it's been like that since I first started using Linux sometime in 199x. I think I had best experience on nvidia proprietary driver sometime in like 2004 before compositors arrived running KDE 3.5. Adding compositor to X made all GUIs noticeably laggier, giving Linux that heavy, nonresponsive feel that it seems to have never recovered from, over a decade later. I always complain about this but nobody else seems to agree, though.
+
+So, in the end, I have stuck with macOS for now. It is the operating system married to hardware that I have least annoyance with, but Apple is getting worse. To be honest, I'm kinda dreading the next upgrade because I have a feeling that Apple computers have already reached the end of their road, for me. There seems to be problems all around from software to firmware to hardware, and they didn't use to have these issues until fairly recently, say in the last 3 years. I now have random issues with bluetooth connectivity which only clear via a reboot, the keyboard insensitivity issues we have been having from 2017 and forwards, and random crashes of system software and GPU lockups once a month or so. The previous 2016 MacBook Pro I had ate two batteries in about two years, both got destroyed way before their expected time, and I've no idea what is wrong with that particular computer that it would do that.
+
+It's a real shame, this brand used to be pretty good. I had years of problem-free experience in the beginning, but perhaps it was Jobs's influence and demand for perfection from when he was still alive, or I was just lucky. I guess my next machine is going to be Linux one, and I may have to get one that has 120 Hz high-dpi wide-gamut screen, or something like that if such a machine even exists."
+73,PullJosh,1554925621.0,5.0,">Do people seriously think that developers would pick Windows if they had other options? 
+
+Not sure if you're looking for honest answers or if it was more of a rhetorical thing, but I personally switched back to Windows (from Linux) because I found Linux to be too unstable (weird bugs with connecting/disconnecting monitors, funky hardware behavior in general, etc...)
+
+I loved Linux when it worked, but Windows has been far more consistent for me in the long run. I still love the Linux philosophy, but just couldn't stick with it because it wasn't user-friendly enough for an (already often-confused) developer like myself.
+
+(Oh, and I don't do a Mac because I can't justify the cost of Apple products.)"
+74,iTzHard,1554917407.0,2.0,There's [https://github.com/bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) and some in the work revelotionary touchpad driver built on libinput that I can't remember the name of for some reason.
+75,moosingin3space,1554967246.0,1.0,"I recently installed Fedora Silverblue 30 beta on a travel laptop, and a lot of packages have received new gestures that work surprisingly well. I used to always prefer keystrokes to gestures, but now, I use both (keystrokes due to muscle memory mostly). Gnome has smooth workspace-switch gestures, and Gnome Web has gained support for touchpad swipe-based navigation and zoom in the technology preview flatpak.
+
+Firefox lags a bit in this area, but it should become possible once they officially support Wayland."
+76,dsifriend,1554909955.0,1.0,"The chromebooks have a lot of those, but they’re limited to ChromeOS ☹️"
+77,,1554923580.0,3.0,[deleted]
+78,scandii,1554973447.0,1.0,"like, I get I'm in a Linux sub, but at the end of the day a normal day at work looks a bit like this:
+
+fullscreen app, fullscreen app, fullscreen app
+
+it really does not matter to 99% of people what OS they're in as long as they can install the app they need and the OS allows them to use said app without restriction.
+
+and when we look at the first part, ""install the app they need"", Windows and macOS blows any singular linux dist out of the water when it comes to third party compatibility. you can install stuff like ZSH on both macOS and Windows today so it's not like linux is the undisputed king of usable terminals either, while still leading the pack naturally.
+
+can you name something you find completely unacceptable when you're sitting in your IDE on Windows, caused by Windows that is solved in the linux dist of your choice? I can't think of anything. I can only think of downsides when it comes to things that actually matter in my day to day life."
+79,RedditIsNeat0,1554901832.0,23.0,It's like using a buggy Windows desktop but simpler.
+80,RADical-muslim,1554904447.0,9.0,"So far, linux has been less buggy than MacOS for me."
+81,BlackCow,1554914650.0,3.0,Because I use LTS Ubuntu and it's not buggy.
+82,Neumean,1554903171.0,166.0,Wouldn't that be a gain of 2.4 percentage points and 10.3% growth?
+83,pipnina,1554899210.0,9.0,"Hm, but the 2017 survey said 32.9%, so backwards since then... [https://insights.stackoverflow.com/survey/2017#technology-\_-platforms](https://insights.stackoverflow.com/survey/2017#technology-_-platforms)"
+84,steven4012,1554954403.0,2.0,"So it seems like 2.4% moved from Windows to Linux, when Mac didn't change much."
+85,destarolat,1554990142.0,2.0,"And the Linux growth has come at the expense of Windows, not macOS."
+86,dr_barnowl,1554904852.0,48.0,"> totally ok with corporate IT supporting Windows only
+
+To be fair, I was mostly OK with corporate IT supporting Windows only in a former role, because it meant that as long as you installed an SNMP agent on your Linux servers, they left them the fuck alone because they were afraid to touch them.
+
+The downside was getting their cooperation on anything involving AD integration."
+87,cheese_is_available,1554925185.0,13.0,Sometime the IT support is so bad that you're very glad you can can handle your problem yourself with admin right... (Especially as a dev)
+88,ZazzlesPoopsInABox,1554935620.0,5.0,Developing in Virtualbox sounds like a nightmare. I use it for pen testing and network simulations and i hate it.
+89,neilhwatson,1554935207.0,3.0,"I was using VirtualBox on Windows for a while, but found it buggy."
+90,53120123,1555358675.0,2.0,"as somebody who devs in a linux vmware remote vitual machine, I feel I must go full four-yorkshire-men uphill-both-ways-in-the-snow but I shan't, at least it beats windows corporate IT that's so locked down you can't install a firefox add-on without written permission in triplicate."
+91,GabrielForth,1554921766.0,17.0,"I feel like having diversity in your eco system should help.protect against viruses, now if the Mac or Linux boxes started getting viruses the other portion will likely be immune and the virus will impact the business less."
+92,,1554964471.0,1.0,"> but they made it clear that wasn't allowed for anyone else in the future.
+
+So that includes ""don't develop **for** Linux"" as well?"
+93,damselinuxindistress,1554922373.0,27.0,"Some things are better than Linux, some are worse. My experience is that developing software is generally better on Linux but corporate software basically only supports windows and sometimes Mac so macos is an OK middle ground"
+94,bdsee,1554992541.0,2.0,">It's funny, my impression is the draw of OS X is for more polish, having your machine ""just work"", etc., but they're always having to deal with some issue or failure with it
+
+This reminds me of the times people have brought Mac's into the various meeting rooms and tried to use the projectors (which are all different). Almost every Windows PC would work with them without issue but the Mac people would be unplugging and replugging into the projector for 5-10 mins every time."
+95,Dan_Quixote,1554963371.0,1.0,Mac has vastly superior support for communication tools. Specifically for videoconferencing.
+96,FlyingBishop,1554940555.0,1.0,I only reboot my Linux laptops for updates. My Windows laptops I reboot every time something stops working (which is frequent.)
+97,xr09,1555035447.0,2.0,Found the Googler!
+98,_ahrs,1554901334.0,29.0,If you're deploying to Linux you should be actively developing and testing your code on this platform lest you get bit by any weird platform specific issues not caught by using Windows. You want to find these issues early rather than after you've finished everything and deployed your code into production.
+99,meeheecaan,1554901580.0,3.0,"> Corporations making the switch from .NET Framework to dotnet core can be developing for both platforms, 
+
+im still a bit weary of dotnet core, but im always welcome to more linux software. id rather they port all of dotnet(and win32) to linux to more free myself from windows"
+100,the_gnarts,1554909934.0,11.0,"> Mac has a decent bash prompt
+
+Apple ever upgrade to a modern version?"
+101,idenkov,1554907315.0,6.0,"You just explained how you overcome all limitations to bring the linux tools you need on it and then ranted about fanboys? But if the ""better hardware"" works for you that is all that matter."
+102,kenmacd,1554911678.0,4.0,"Sounds okay for what you're doing. Personally I've had to work far too many developers working on code that would only ever run on Linux in production, but still had to be littered with `Darwin` checks so they could run it locally on their dev boxes. I'd have preferred if they ran Windows because at least that wouldn't have been expected to run."
+103,Nowaker,1554945682.0,1.0,"> and the Mac os for off the self programs that are a pain to configure in Linux.  
+
+Exsmples of such programs?
+
+> Also, Mac has a decent bash prompt
+
+It's actually pretty bad compared to Arch Linux ISO ""prompt"" (well, not just prompt). Check out zsh with zsh-grml-config, it's awesome. 
+
+> and combined with Homebrew I can get a lot of native utils for command-line.
+
+Every Linux distro gets you that through their distro-specific package manager, that's no different to Homebrew. 
+
+>I also have a Linux desktop, but rarely use it because my Mac is way better hardware.  
+
+Maybe get better hardware for your desktop? My 2016 desktop is way faster than my max-specced 2018 13"" MBP. And it doesn't sound like a tractor when CPU usage hits 100%."
+104,ChikkaChiChi,1554918853.0,8.0,"Exactly. I started using a Mac because it gave me a solid terminal environment. My dev environment has been remote for years, so I never have to worry about local hardware failures borking all of my tweaks.
+
+I know WSL supposedly gets Windows closer, but at this point, the GUI on my local device doesn't matter much."
+105,,1554927705.0,-2.0,"So does Windows
+
+/r/BashOnUbuntuOnWindows ;)"
+106,burdalane,1554916965.0,8.0,"When I go to the annual Linux conference near me, the laptops l see are mostly Macs."
+107,yawkat,1554963809.0,3.0,"Eh, I know lots of non-management devs that work on mac. It's just a combination of pleasant ux and a pleasant development environment. If you have the money it's a solid choice."
+108,,1554945155.0,1.0,"You think people go to conferences because they need ""help""? Yikes."
+109,Democrab,1554907563.0,16.0,"The thing is, depending on your taste in games plain Jane Linux does that equally well. I've basically had to give up on only Forza...Which I already had to give up once when I decided not to get an XBO and didn't think it was coming to PC."
+110,StephenSRMMartin,1554950165.0,3.0,"Haven't really had that experience. Windows 10 annoys me to death. I've had far more problems with win10 on our acer laptop than linux. Linux 'just worked'. W10 has buggy drivers, it's slow, and the start menu is filled with ads and bull shit.
+
+&#x200B;
+
+Haven't had to mess w/ partitions either - I use btrfs + subvolumes. I added an SSD, and just moved the root subvolume there; easy-peasy.   
+WINE has come a LONG way in the past 2 years; honestly, I rarely need it for anything other than games, and now Proton comes with steam, and most of my windows games also 'just work'. No fiddling (open steam, install game, launch, ???, profit).
+
+&#x200B;
+
+My work is largely statistical, with some programming required. Linux makes that far easier; and I can say that, because installing the same packages in windows for my labmates has been a major hassle. Dependency hell, compiler hell, version hell. All the hell. When I need to update my stats suite, I just update. When they need to update, it's several hours of hell."
+111,Astrognome,1554918760.0,7.0,"WSL is *slooooow*. Try compiling a large dependency under it.
+
+A VM is considerably faster in my experience."
+112,,1554939062.0,6.0,"It also has numerous forced updates, countless reboots, slowness, viruses, privacy issues and misuse of system resources. It tries to emulate Linux with WSL and OpenSSH, but it's very slow like @Astrognome said, as opposed to Wine (which in some cases runs faster than native Windows). Wine is getting better by the day with stuff like Proton and Lutris, with over 50% of all Steam games having either native support or support via Proton. Yeah it's not the Year of the Linux Desktop™, but things have gotten a lot better and Windows isn't exactly the solution to al your problems."
+113,,1554927305.0,1.0,/r/BashOnUbuntuOnWindows
+114,thethrowaccount21,1554910233.0,-1.0,"It might be. But you are trading off your privacy with Win10. If you have cryptocurrencies like I do, you cannot alllow any unauthorized buffer copies, screen captures or other security vulnerabilities because your seed phrase can reconstruct your entire wallet. Linux **only** runs the software you want it to. Windows runs whatever MS wants it to.
+
+Someone could then empty your financial accounts without your knowledge or any ability to get your funds back. So gaming may be better on Windows, but for serious, mission-critical software and systems like financial software/cryptocurrency wallets/secure communications, Linux is really the **_*only*_** way to go."
+115,dr_barnowl,1554904681.0,7.0,"The latest annoyance for me is ""Skype for Business"" (aka, The Application Formerly Known As Lync), which has no Linux version.
+
+Allegedly you can get Pidgin working with it, but I can't work out how to join meetings as a guest, which my current client demands.
+
+So I have to boot into Windows. And transfer any materials that aren't cloud-based presentations over to it. And hope no-one wants to see me using real tools during a screenshare."
+116,tsar9x,1554911332.0,6.0,Works perfectly fine on Chromium and Firefox too.
+117,,1554937073.0,11.0,"Be careful doing this. What runs in wine does not always run on real windows... I learned this the hard way. Apparently, windows STILL does not have any compatibility layer for unix sockets."
+118,taxeee,1554909167.0,9.0,Who's your employer? Seems nice
+119,grudg3,1554919574.0,10.0,"I'm jealous. We had free reign when I first joined my employer. It was great, i had arch+i3 setup, luks on lvm, productivity was good.
+
+Then we got merged/purchased by a larger company, they need you to run Windows and the corporate network is so stupidly locked down (port 22 is locked on outbound connection, can't ping) that it's killed my productivity.
+
+I've effectively had to find ways to break IT policy to be able to do my work. Everyone I've spoken to inside the company does it also. The infra team must be aware and turning a blind eye. I want to find an employer that lets me run my chosen OS again."
+120,bartturner,1554900592.0,13.0,"Excellent.  I am sensitive to keyboards and trackpads.  A big reason use Macs.
+
+But the PB keyboard and trackpad are as good as Apple.   The keyboard feels similar but also has not broke.   My MBP keyboard broke twice.   I mean literally twice.
+
+BTW, when home I use a mechanical keyboard with my PB."
+121,bartturner,1554916544.0,5.0,"You do for signing apps for the App Store.   I am still turning on my MBP for the signing.  But there are cloud services and just been too lazy to switch.
+
+I will get around to it at some point."
+122,BlackCow,1554914987.0,15.0,Well the company is offering me two laptops. One is made of plastic and comes with windows and the other is made of metal and comes with a unix environment. It's pretty obvious why Windows is losing with developers.
+123,Mordiken,1554913381.0,2.0,"IMO a Mac is not a status symbol as much as it is a ""fashion victim"" symbol that tells the world ""I'm a shallow person of terrible taste"": It's the computer equivalent of a gold-plated toilet.
+
+EDIT: 
+
+And because apparently some people (probably Mac users) got a bit salty because of my opinion, I'd like to double down, and I will in fact reiterate that **if you're a Mac user, I do indeed think less of you for it**, specially in the context of a FOSS-centric discussion forum.
+
+Apple is anathema to both Software and Hardware Freedom, the home to what is by far the most proprietary consumer-oriented general purpose computing software and hardware platforms in the market today: Even a Windows PC is a more open platform than a Mac.
+
+And by buying Apple Hardware and Software, you're legitimizing a business model that rests squarely on the principals of restriction of user Freedom, and you're throwing away principals and ethics because of a ""shiny brand experience""...
+
+So no... I do not take you seriously, and I do think you are very much part of the problem! :D 
+
+And if this offends you, good: It means you have a consciousness! ;)"
+124,CapableCounteroffer,1554937584.0,8.0,">It's the same Ubuntu, byte for byte.  
+
+Except for the kernel, the desktop environment, and the terminal emulator. I use WSL at work because it makes my windows laptop bearable, but it is not on par with actual Ubuntu."
+125,Gavekort,1554895249.0,38.0,"I completely agree, but many of these points are simply just a lack of support from hardware manufacturers."
+126,Agent_03,1554898743.0,17.0,"Eh, for linux a lot of that is the desktop environment.   I'm on KDE (Kubuntu 18.04) now.  Multi-screen worked OK last time I tried it, and since my X1 Yoga is a 2-in-1 I can say that the tablet hardware works fine... although I think the Windows UX support for tablet features is better.  Onboard is NO replacement for the Windows on-screen keyboard (or handwriting support) -- the Windows tablet features are better integrated into apps too.  The main thing that doesn't work so well out-of-box is screen rotation/autorotation -- I wrote a short script for that. 
+
+Haven't tried a dock yet so I can't speak to that. 
+
+Power management is a wash for me -- Windows generally has better tuned drivers and (especially) tends to use the GPU more efficiently, but Linux doesn't tend to have the fans spinning constantly installing an update."
+127,13531,1554900148.0,16.0,"> laptops. Just laptops in general. 2-in-1s are basically useless on linux, their tablet functionality is hit or miss on a good day.
+
+
+Hmm, I have a 2-in-1 and it works perfectly with both plasma and gnome."
+128,,1554902985.0,14.0,"Weird, the poor multi screen support was one of the reasons I left Windows. 
+Also, I find laptops infinitely more usable under Linux with window managers like i3."
+129,thethrowaccount21,1554900006.0,21.0,I'd say the hate against windows is pretty real. As a dev who's gone from windows to linux within the last 2 years I can safely say its night and day in terms of productivity.
+130,animefreak123323,1554905827.0,11.0,"If awk and sed are getting too ugly, that's time to switch to a proper language like Python, and then use those python programs from bash."
+131,,1554897131.0,41.0,"The love for Windows is pretty superficial based on your bullet points. I've seen counterpoints to most of them. i.e., Linux does better.
+
+As another reply pointed out, many of them are due to hardware vendor support, and Microsoft still has a monopoly on desktop preloads.
+
+The desktop monopoly means a lot of users grew up with Windows. This creates artificial preference as well. I grew up pre-DOS. Dad had a Vic-20, and my friends had Atari and Apple. When I finally got my own computer, I went with OS/2, because it met my needs the best.
+
+My hate for Microsoft and Windows isn't artificial. Just as some older users hate for IBM wasn't artificial. They both used monopoly power to drive better products out of the market."
+132,Jeettek,1554900245.0,16.0,Linux on laptop is king for me since I have a setup where I do not have to touch a mouse for anything and navigate and work with only a keyboard. On windows this is impossible and seriously annoying. Especially if you only have the touchpad and not an external mouse connected.
+133,satimal,1554896734.0,15.0,">multi-screen with different DPIs or different resolutions.
+
+Ehh, have windows fixed the blur issue? Last I checked you *could* have different scaling options on different monitors but boy was it ugly if fractional scaling was used. One screen would always be incredibly blurry. Fractional scaling in Windows is far superior to Linux however. 
+
+>laptops. Just laptops in general. 2-in-1s are basically useless on linux, their tablet functionality is hit or miss on a good day.
+
+Depends on the laptop. I've been running Linux on my Dell XPS for years with no issues. 
+
+>dock compatibility. USB 3.1 type c docks, especially using MST, seem to be 50-50 on whether it will actually work.
+
+I don't think this is general over all docks. I've got a Dell WD15 which is USB C and outputs to two monitors, and have had no issues there. I actually get more issues with it on windows! The webcam is choppy when on windows and it's fine on Linux. 
+
+>battery life. I haven't done a good benchmark recently, but power saving seems to be skewed to windows.
+
+It is a little skewed to windows, but with correct configuration of tlp and monitoring with powertop you can get pretty close. However whenever I boot up windows, a million different process start up and my batter is nuked, but that's probably because of how infrequently I use that partition."
+134,Chocrates,1554902565.0,8.0,"I'm curious about your Powershell Core experience.  I have been using it for about a year (granted mostly on windows build machines) and I have come to the opposite conclusion, sh scripts seem far more intuitive and less finicky so far."
+135,voidsource0,1554896672.0,23.0,I've found for a few laptops that the battery life is almost twice that of windows after installing things like tlp and powertop
+136,rytio,1554903898.0,14.0,I hate Windows 10 with so much passion that I want to throw my work computer out the window every day. I have been running Linux as my OS at home for 6 months now because I could not stand using windows anymore.
+137,Soulthym,1554900660.0,6.0,"Wether or not we agree on which one is the best(is there even an answer to this?), we can all agree that they both have their problems.
+
+Windows is flawed in its philosophy, in a way that makes it scale worse than Linux does with more performant hardware. 
+
+As almost everyone said, Linux's main problem in laptops is the lack of official support... But it brought one of its best features, and I would say one of its strongest points: the community support!
+Laptops are messy under Linux if you are not willing to put some effort into configuring the OS, but that's only for one God damn reason that has nothing to do with Linux... Windows comes pre-installed on almost every machine you can buy. That's a huge problem imo.
+
+Also when people lack some support from the most used distributions, it mostly (I'm saying that by experience) boils down to the distro not being up to date with the most recent hardware. Honestly, try installing and Arch on recent hardware that's barely used. Yes it is hard and requires some knowledge and tweaking compared to a good old T420, but you can get so much more out of it that you would on Windows, at the expense of loosing some mild features (some RGB keyboards, fine grained fan control).
+
+EDIT: This is mostly my experience with the Aero15X v7 from Gigabyte, and a couple EEEpcs, so take it with a grain of salt"
+138,RedditIsNeat0,1554901423.0,13.0,"> the hate against windows is pretty artificial
+
+Derp derp I like it so I'm going to say that everybody who disagrees with me is artificial. Lots of people hate Windows. Not just developers, ordinary users hate it too.
+
+It's fine that it works for you but you should try getting less emotional and just accept that other people have other opinions."
+139,Cere4l,1554902003.0,9.0,"I find linux' multi screen so much better than windows the conclusion you make seems laughable. No experience with different DPI's but 0 problems with different resolutions EVER. And by far the most important reason I like linux more for this. If I open a program on the left screen... it opens on the left screen! The only exception being wine stuff sometimes. It also doesn't matter what you want, multiple taskbars, one taskbar, one screen turned everything is possible.
+
+not much experience with laptops or docks. 
+
+And powershell... fuck if I'm ever forced to use that for more than a small moment again I'm quitting that job."
+140,nostril_extension,1554913552.0,4.0,"> Vendor support for windows is better therefore windows criticism is artificial.
+
+ok man."
+141,beomagi,1554898159.0,4.0,"Linux in a notebook is a little of a sore point yes. Try in a Chromebook chroot. My best notebook so far.
+
+As a desktop I'm fine with windows. I cringe at servers. I appreciate the power of PowerShell, but in my work environment, certain services (think it was wmi) get into a weird state where PowerShell won't run at times. We ended up settling on rebooting our windows servers before pushing upgrades that relied on those scripts to minimIze that. We ended up installing Python and using that for some scripts instead."
+142,Democrab,1554907893.0,2.0,"Another spot is TV Tuners/capture cards. That's not to say they simply don't work on Linux, but you're just going to have a much easier time of it than on Windows because of drivers alone."
+143,aaronfranke,1554953839.0,2.0,"> multi-screen with different DPIs or different resolutions. Honestly multi-screen in general.
+
+Wayland should improve this greatly IIRC."
+144,grimmr33fer,1554898426.0,8.0,"I don't like the entire Windoze philosophy.
+
+Contextual empiricism isn't worth a lump of coal and it is no science without a peer review.
+
+
+All the biggest headaches in Windoze can be traced (to some degree) to their broken principles.
+
+
+
+
+.....
+
+
+It was Henry Ford that perfected the assembly line in such a manner that if Billy Joe Bob dropped his tool, the whole system didn't come crashing down.
+
+
+Gates didn't pay attention."
+145,fsdagvsrfedg,1554929684.0,1.0,Cough cough cough Active Directory cough cough cough
+146,makhno,1554970438.0,1.0,"A small comment to your first point: I'm currently running 3x 1080p monitors and 1x 4k monitor in Debian, and it works like a charm."
+147,GorrillaRibs,1555022100.0,1.0,"Well on a couple of these -
+
+- Gnome w/ wayland fixed the first 2, at least for me - touch handling + gestures are great on my 2-in-1, and multi-DPI setups just work, with no setup required.
+
+- I'm starting to love powershell now too! It's on linux now too, I think officially ported by MS - I'm not going to use it as my default shell for a while yet but for scripting it's fantastic"
+148,anechoicmedia,1554927593.0,1.0,">2-in-1s are basically useless on linux
+
+I have never seen a fellow human use or purchase a two-in-one.
+
+Blessing/curse of Linux is that it supports what the people developing it want to use. This is why Linux will flawlessly support Thinkpads and obscure gaming peripherals and have no support for flagship Asus/Microsoft/etc products with novelty features that geeks aren't familiar with or interested in.
+
+>I love powershell. Powershell is awesome. I've started recoding my shell scripts into powershell core, because awk/sed/data structure handling in linux is so ugly. I love doing text replacement or JSON structuring in powershell. In bash, it feels like I'm fighting the OS.
+
+This is a pet complaint of mine, but this comparison is the wrong one to make.
+
+Powershell is not analogous to Bash; It is analogous to Python. That's why it's got so many features, such rich data handling, and more verbose error messages than a nested C++ template. It is glaringly apparent from every design choice that Powershell was never intended for continuous, interactive human use; The ergonomics are terrible. Like Python, you can technically use it as a REPL, and maybe a ""shell"", but that's not the intended use of either.
+
+Powershell is indeed a better system automation/data management language than Bash; Then again, so is almost any real programming language, most of which Linux already had first and best.
+
+Bash is a user interface that happens to support automation, in the same way Microsoft Word supports macros. It may be technically possible to manage complex data state in Word macros but it's hardly a fair fight.
+
+The ""Windows version"" of Bash is *nothing*; Windows has no first-class user-interactive terminal environment. Bash et al were the primary or only user environment for Unix systems for many years; This is why they're so darn comfy -- it's been refined to perfection to be what it is. After years of having no analogous power-user interface, Microsoft missed the point and named their automation tool ""Powershell"" implying that the point of a command line was to write scripts, as if the reason Unix people have opening a shell down to muscle memory was because they're constantly needing to touch-up their scripts at a moment's notice. It's not, go to /r/unixporn and watch the workflow fetishists play with their terminals and appreciate people experiencing joy interacting with a computer. Windows still has nothing like this and that's why it's an agonizing experience to use."
+149,_Anarchon_,1554971107.0,3.0,The half of the people using windows in the poll were developers.  They know what an operating system is.
+150,senatorpjt,1554943825.0,5.0,I don't understand how any professional developer can cheap out on their machine. Tradesmen make less money but they don't buy tools at Harbor Freight.
+151,urban-_-hominid,1554910506.0,2.0,They might have the different gestures support on Chrome OS but what about the underlying touchpad drivers ? They have to be updated to be more faster and smoother.
+152,urban-_-hominid,1554910300.0,1.0,"I don't understand. Is it that difficult? If they did it, so can we right!"
+153,little_kiss,1554912728.0,1.0,Install crouton on your chromebook so that you can run both chromeOS and Ubuntu at the same time :)
+154,ender_wiggum,1554924511.0,2.0,"Verily, the vast territories of GPU memory must indeed be compelled into service."
+155,,1554985720.0,1.0,"I don't think there's this one thing I find completely unacceptable, but rather small things that add up, some that come to mind:
+
+* windows line feeds
+* dotfiles and compatibility of such dotfiles with unix tools... .vimrc is _vimrc and it's not hidden...
+* the shell blows ass, I tried WSL and it's just not the same
+* my ""IDE"" is vim and tmux, gvimrc just won't cut it and there's no tmux.
+* package management is shit
+* some random shit like the maximum amount of charaters in a path
+* no unix-like permissions
+* missing unix tools in general
+* windows update
+
+For me, the user experience is just bad."
+156,thethrowaccount21,1554910895.0,11.0,With less bugs.
+157,house_of_kunt,1554910933.0,27.0,A gain of 240 basis points and 10.3%
+158,,1554904627.0,59.0,[deleted]
+159,,1554909373.0,-6.0,[deleted]
+160,bigmikemk,1554901432.0,48.0,"That's an entirely different number. You are referring to the ""Most Popular Platforms"". It includes Android, Wordpress, and Arduino. That seems to be the platform developers work on, not the system they are running on their desktop. The ""[Developers' Primary Operating Systems](https://insights.stackoverflow.com/survey/2018#technology-_-developers-primary-operating-systems)"" wasn't there in 2017 as it seems."
+161,13531,1554900112.0,5.0,Might be due to WSL getting better.
+162,Raknarg,1554907119.0,1.0,three points of data isn't statistically significant
+163,will_work_for_twerk,1554934605.0,8.0,"Well, not only that but very often the number of linux users aren't enough to justify hiring additional support staff for the machines, and end users who use linux are an auditing and compliance black hole. This is the main reason why Mac OS is so popular with devs, its because its an option most enterprises can reasonably support and maintain."
+164,peeonyou,1554955943.0,7.0,"I work in a place that is primarily macos and linux.  Every engineer has a linux desktop, and about 90% of the company has a macbook.
+
+The techs we hire are primarily from Apple.
+
+We've been pushing really hard to find linux desktop support people but it's worse than hunting for a needle in a haystack."
+165,ceeant,1555054567.0,1.0,"Yep, that's my job."
+166,Setepenre,1554958507.0,4.0,"does ssh-ing to a linux box using putty sound better ?
+Because that's how Financial companies do it..."
+167,SMM_Sockpuppet,1554943286.0,7.0,Windows is buggy! Who knew?
+168,alcoholic_chipmunk,1554955235.0,3.0,"Honestly I kinda doubt viruses were the primary concern for IT. A multi-os environment is harder to streamline and the environment just got harder to standardize. All their PS scripts are now irrelevant, remote access might now be impossible without switching to different $oftware. Plus Mac and Linux guys are more expensive and harder to find entry level guys that know those systems. 
+
+I would be more surprised if IT didn't freak out. They probably just happened to find out when installing the AV."
+169,iSnortedAPencilOnce,1554967982.0,-1.0,"No, just don't make changes to your system that are against company policy. Organizations that are serious about security have air-tight policies for compliance, auditing, monitoring, security, DR, etc. If you isolate your machine from them, you become a giant security and liability risk. If you want Ubuntu instead of MacOS, you go through the proper internal processes to request that the policies are changed. If you decide that's not worth your while and do it yourself, all the places I've worked at would have you escorted out of the building by armed security on the spot."
+170,LtWorf_,1554980645.0,2.0,"Yep, osx has that thing called ""a browser"" that doesn't exist on linux."
+171,Ogg149,1554906607.0,9.0,"I'm running into this issue right now, in fact!  Fortunately my workplace IT sets up all the machines with dual-boot"
+172,,1554905765.0,4.0,"\> If you're deploying to Linux you should be actively developing and testing your code on this platform lest you get bit by any weird platform specific issues not caught by using Windows.
+
+That's correct, but Visual Studio doesn't have a Linux version (yet) and it's still the best IDE for .NET development. You could work with Visual Studio Code but you'll be lacking features."
+173,,1554915432.0,5.0,"Switch to Docker. You can have Docker for Desktop running locally, use VS or VSCode to compose, this can also run all your tests inside the container. Finally deploy the tested container. Docker on Windows supports both Windows and Linux containers."
+174,MDSExpro,1554910782.0,4.0,"Not sure if You should give advice, when you are mistaking ""developing"" and ""testing"", and missing testing all together in development process. Testing for Linux software should be done on Linux. Developing can be done on any platform."
+175,postmodern,1554937506.0,2.0,"The excuse I hear from macOS-bound developers is that you can just run everything in Docker and let CI run the tests. Of course, Docker on macOS will eat all of your available disk space and CI is always slower than testing locally..."
+176,yawkat,1554963636.0,2.0,"That really depends on what you're doing. For many applications, testing on windows or the linux subsystem is sufficient during development."
+177,sadhorse_kaishain,1554907838.0,2.0,"Genuine question: is testing it on a Linux VM inside Windows not good enough?
+
+Because that's what I'm using at work. I keep the code in a shared folder and do most of my work in the Linux VM but load it up in Visual Studio in Windows now and then to try testing for platform issues."
+178,s_s,1554910424.0,1.0,"I mean, most things are going to be deployed in a Docker container, it really matter less than ever."
+179,LuckyHedgehog,1554903286.0,1.0,"I haven't had any weird issues yet using the WSL + Docker, but I do dual boot to linux when i know the day ahead is going ot be pure dotnet core work so I root out any potential issues"
+180,LuckyHedgehog,1554903191.0,2.0,"dotnet core is amazing, from my experience. I am one of those devs that is working with framework but starting to pull out parts of our products into dotnet core services and building new on core. Microsoft took full advantage of a fresh start here and knocked it out of the park. I am dual booting to linux now which gives me the best dev experience in both worlds
+
+If you don't mind me asking, what in particular are you cautious about?"
+181,yur_mom,1554910018.0,4.0,I am used to ash on busybox for embedded so it seems modern to me.
+182,yur_mom,1554910510.0,1.0,"Also, I mostly use the shell to ssh into a dev server which is running Linux so I do not write many scripts directly on the Mac Bash."
+183,yur_mom,1554908177.0,5.0,"I like both os equally and each has their pluses and minuses.  
+
+
+
+The hardware on my linux desktop is from 2000 and my MacBook Pro is a 2018 with a i9 and 32 gig of ram.  The inferior hardware has nothing to do with the os.
+
+
+My statement stands as is.  I also have an LG v40 phone so I am not an Apple fanboy by any means, but I like some of their products.  I do not see a need to choose one or the other.  Linux is not practical in all applications, but I have been using linux over 20 years and once thought every device I own must run Linux, yet that mentality is toxic and narrow minded."
+184,yur_mom,1554912003.0,3.0,"Yeah, I would never do my Linux dev directly on the Mac.  I would either use the virtual os locally or ssh into a AWS server.  I program in vim so I am mobile.
+
+
+Using AWS for dev has many advantages like you can quickly save build environment, create copies, backups, increase number of cpus or ram.  It is nice to have everyone dev on the same version of Linux also no matter what they choose for a native os."
+185,zamN,1554934174.0,6.0,You aren't missing out on anything. WSL is still lacking a ton in terms of performance compared to just using the real thing.
+186,,1554927745.0,-1.0,WSL supports GUI's out of the box.
+187,BlackCow,1554927870.0,12.0,"Unix is more than a bash shell. I know windows is trying to catch up with Ubuntu compatability. It's been years since I've used windows though so I don't know what it's like now.
+
+Honestly windows just feels icky to me and I can't imagine ever going back or wanting to pay for it."
+188,LtWorf_,1554980836.0,1.0,Let me guess… js?
+189,Zoenboen,1554948465.0,3.0,"Wow. Jesus no, that it's why they are on Stack Overflow. But I think everyone missed the point too."
+190,,1554909019.0,5.0,[deleted]
+191,Hohenheim_of_Shadow,1554913869.0,-1.0,Why would I want to spend the extra time and effort trying to make my relaxation activities work ~95% as well so that I have access to Linux dev-tools that I like natively instead of only semi-natively? WSL is a thirty second setup and for college level development it does all I use Linux for.
+192,Salty_Limes,1554937628.0,1.0,"Anything with relational databases is also slow. Reloading Postgres databases takes a minimum of 20 seconds on WSL, but less than 5 seconds on Mint. And my Mint box has far worse specs than my Windows box.
+
+Also, I still haven't found anything comparable to Gnome terminal in terms of speed (and Gnome is certainly not the fastest), good keybindings, and not crashing."
+193,,1554927433.0,1.0,"I just compared compiling 500k lines of C++ on WSL vs a 32 core machine.
+
+Both using 4 cores, the WSL laptop was about 30s faster on a 5 minute compile. 
+
+When WSL is slow in IO you need to add an exception to Windows Defender."
+194,Hohenheim_of_Shadow,1554914286.0,3.0,"If you want to go down the security rabbit hole, why even have a software wallet? Or why even trust a pre-compiled OS? If you don't compile it yourself, someone could've modified the contents, similar attack vectors have happened before. Hell, even if you compile it yourself, how can you trust your compiler? Even if you have a trustworthy compiler, you probably didn't read all the source code so you have to trust it to some degree. If you're using a CPU you didn't build from the transistor up, someone could've put an attack vector somewhere in it. Intel has been shit on for baking a OS into their processors. If someones come up with a novel way to steal crypto, they're not wasting it on a small fish like me."
+195,,1554927539.0,0.0,If you trust Canonical to develope Ubuntu do you think they would do so without checking if MS followed their stated privacy statements?
+196,tronj,1554925493.0,4.0,Don't you mean Teams the application formerly known as Skype for Business?
+197,atomic_cheese,1554943493.0,3.0,"Do you work at my company?
+
+IT issues Windows laptops packed with so much bloatware that an i7 with 16GB of RAM hovers around 90% CPU and 1.5GB free memory with nothing open. Engineers each have private stashes of tips on how to bypass IT, and are hesitant to share because that might get it patched.
+
+Most devs keep the old laptops after getting updated ones, install Linux on the old ones, and use a collection of hacks to get any work done."
+198,Free_Bread,1554913685.0,3.0,That's great to hear. My MBP is starting to show its age and it's unfortunate that the newer models don't seem to hold up to the name. Would love to have a first class Linux experience on my next device
+199,shreddit0rz,1554921887.0,9.0,"Ironically, my metal 2016 mbp suffers from the ""flexgate"" issue, and I'm given to understand it's a miracle the keyboard hadn't failed yet. Meanwhile my years-old plastic Thinkpad trucks along and runs Linux like a champ. Go figure."
+200,Soundtoxin,1554943857.0,4.0,">Even a Windows PC is a more open platform than a Mac.
+
+Are you sure about this? Obviously neither is fully free, but I've heard that large parts of Mac OS are free. There's even a project to build an OS from the free components\[1\]. I can't help but think that a large part of the cult-like Apple-hate is actually Windows apologists who gain a small bit of anonymity in insulting Mac OS because of the \*possibility\* that they use GNU/Linux or BSD. For the record I have used exclusively GNU/Linux for several years now, and I haven't even got Apple hardware. There is also a point to be made that Mac OS is at least unix-like. You get man pages, ssh, vim, emacs, and more out of the box on Mac OS. They're old versions, but in a scenario where you haven't got internet, I think this puts it far ahead of Windows.
+
+\[1\] [https://www.puredarwin.org/](https://www.puredarwin.org/)"
+201,,1554937711.0,-3.0,"Ubuntu isn't a kernel, it's a distribution of a userspace. It is the same Ubuntu. Byte for byte.
+
+You do realize that it runs desktop enviornments, the same terminals that run when on the kernel?"
+202,Arkhenstone,1554898744.0,16.0,"Which is a consequence of the windows centric in the general public. Struggles today, live better tomorrow."
+203,timrichardson,1554906088.0,5.0,"The key point is mixed DPI multi- monitor support. Linux needs wayland-based compositors and and native Wayland apps to solve this. Right now we don't even have a Waylandnative mainstream browser. However it is progressing. Give it two more years: we should have screen sharing, remote control, multi DPI on all major apps and NVIDIA support by then. I have avoided high DPI laptops so I am happy with X. 
+
+Perhaps by then we'll also have a browser which does hardware video decoding which is he biggest battery difference between Linux and windows for me (although I mostly use a chromium build with video decode support)."
+204,LoneCookie,1554928262.0,9.0,Pretty sure the acceptance of windows is artificial
+205,thethrowaccount21,1554900063.0,27.0,"> My hate for Microsoft and Windows isn't artificial. Just as some older users hate for IBM wasn't artificial. 
+
+Exactly, I don't think its fair to say this hate is artificial. It was very much earned."
+206,,1554923130.0,5.0,"Totally agree.  I switched to Linux in 2016 and never looked back.  I only have a single machine with Windows installed on it in my home and I got that machine for free.  I even got my wife using Ubuntu exclusively.  Microsoft spent years giving me reasons to hate Windows.  Hell they are still doing it.  Windows 10 is constantly introducing changes and features which I think are antagonistic.
+
+That's not to say Linux is perfect but it's a hell of wonderful thing to feel like you are actually in total control of your own system.  In addition now that I only buy hardware that comes pre-installed with Linux, I generally don't have any problem getting started as all of these machines tend to be well supported by relatively current mainline kernels.
+
+I've been pushing hard into .NET Core development recently as I can actually develop [ASP.NET](https://ASP.NET) Core apps exclusively in Linux using Visual Studio Code.  Sooner or later Windows will be nothing more than a bad yet vague memory of my past.  That day cannot come soon enough."
+207,LuckyHedgehog,1554899795.0,2.0,"Pointing out the reason why windows has better hardware vendor support for being a monopoly on the market doesn't dismiss the advantage Microsoft has
+
+It is similar to saying Amazon is cheaper than a local store because they operate on a much more massive scale and can lower profit margins to shove out competition. Ok... But the price is still cheaper. If you don't want to support Amazon because they kill small business then great! You can go shop at the local store instead and help them grow to being a viable competitor someday. But today, Amazon does dominate the market and does have cheap prices for a ton of stuff."
+208,,1554897330.0,-2.0,[deleted]
+209,,1554898985.0,-4.0,">The desktop monopoly means a lot of users grew up with Windows. This creates artificial preference as well.
+
+Preferences can be either influenced by your environment or by genetics. The way you're using artificial you imply that environmental preferences (things you happened to grow up with) are inferior.
+
+&#x200B;
+
+\> My hate for Microsoft and Windows isn't artificial. Just as some older users hate for IBM wasn't artificial.
+
+It's environmental though, because it's a reaction to your externals (what Microsoft did). Some people care, some don't, and that depends on their values which are again a product of their environment."
+210,trevorishere,1554910895.0,1.0,"> On windows this is impossible and seriously annoying.
+
+Woah, no not true by any means for Windows/Microsoft applications included. While 3rd parties may suffer from lack of accessibility, Microsoft probably does this _better_ than anyone else -- and keyboard only access is part of that accessibility package."
+211,LuckyHedgehog,1554900367.0,0.0,">a million different processes start up and my battery gets nuked
+
+If you are talking about programs you installed, you can disable startup on system start. Otherwise if you're talking the windows processes, that be accounted for when saying battery life is skewed towards windows"
+212,HittingSmoke,1554905325.0,-1.0,"I've been a primary Linux user for years. Before that I used Linux servers and occasionally jumped on a desktop distro for a while dating back to before Ubuntu 7.04.
+
+I have never found bash scripting anything remotely adjacent to ""intuitive"". It's completely unreadable unless you're a programmer and it was a huge part of why systemd  ended up so popular. A user shouldn't have to know how to wrangle a cryptic scripting language just to make a process start as a daemon at boot. All of the other major popular options used bash scripting for that. Maybe if you've used bash for years it makes sense, but if you compare to pretty much any other scripting language it's an absolute unreadable mess. Javascript is more readable than bash. bash looks like someone really felt the need to save 200 bytes in a 20-line script which may have made sense in the 80s but today we have the RAM and storage for something more comfortably readable. I avoid bash like the plague. If I have to do any complex scripting I go for Python and my primary shell is fish. Switching to fish was a major improvement in quality of life for me when I discovered it. Just realizing that I don't really have to touch bash scripts beyond skimming other people's script from time to time made Linux a much more accessible option for me. I probably wouldn't be here today if OpenRC was still the norm.
+
+Powershell has its issues, but it's much more readable and pleasant than bash. As mentioned above, working with JSON and other data structures is *so* much more intuitive since Powershell includes custom objects. In makes data output so much easier and more reliable. User input is also much more simple and straightforward in PS. To me comparing bash and Powershell is like comparing FAT16 and ZFS. bash and FAT16 may have been the best we could do at one point, but it's far from the case in 2019."
+213,nicocarbone,1554897627.0,12.0,"I have a Dell XPS 13, and I can get 12h of screen time (or even more if only reading) with Ubuntu and TLP. But, this is one of the better supported laptops in Linux."
+214,ronasimi,1554900369.0,9.0,"I get better battery life in Linux after installing and configuring TLP and powertop.  Unfortunately, it takes a bit of work to improve battery life in Linux, and in Windows it works out of the box because the hardware manufacturers and the OEMs have already done the work."
+215,agonyzt,1554916660.0,3.0,"Same here. I have a Xiaomi Mi Notebook Pro and I get over 10 hrs of usable battery instead of \~7 in Windows with similar workload. It used to be pretty equal, but Fedora 29 + TLP was a game changer for me."
+216,Brillegeit,1554909608.0,1.0,"The questions is often: ""Do you have a pure Intel laptop or some kind of hybrid bastard?""
+
+For pure Intel systems there's nothing but sunshine and rainbows with Linux. 
+
+(Intel PowerVR chips doesn't count!!!)"
+217,_ahrs,1554906641.0,6.0,">fine grained fan control
+
+Fan control works fine (look up the aptly named `fancontrol` command provided by lm\_sensors) it does require driver support though which may not always exist."
+218,ZaitaNZ,1554936177.0,-1.0,Ever tried more than 2 monitors? Linux is nothing short of a complete nightmare.
+219,PullJosh,1555012637.0,2.0,"I'm a student at the moment, not a professional."
+220,dsifriend,1554911471.0,1.0,"Also true, and probably the reason there aren’t more gestures implemented (aside from hardware limitations)"
+221,scandii,1554990279.0,1.0,"so to summarise your complaints:
+Windows does not support my VIM-based development style.
+
+99% of the developers out there have no such need. they're in an IDE that takes care about all the details.
+
+you do you, but do not act surprised when your edge case does not scare people away from Windows"
+222,Neumean,1554909584.0,25.0,"Yeah, but you used the % symbol incorrectly."
+223,Neumean,1554909528.0,10.0,Here's a [handy slide](https://i.imgur.com/D0AvS4y.jpg). There's an important distinction and the % symbol used incorrectly in the original comment.
+224,Chocrates,1554900320.0,10.0,"Maybe.  I wish I had an option to go to Linux full time at work.  2017 was a glorious year, where I got to develop on Linux full time using only open source tools."
+225,aaronfranke,1554952983.0,3.0,But what about situations like /u/dreamer_ describes where people are using Linux in VirtualBox anyway?
+226,,1554957866.0,1.0,Are you in seattle?
+227,KinkyMonitorLizard,1554963992.0,3.0,"At leaat with SSH you get the full resources of the system vs having to share them with the bloated windows system.
+
+SSH could be a major security risk though."
+228,BlackCow,1554988165.0,2.0,"> all the places I've worked at would have you escorted out of the building by armed security on the spot
+
+Defense industry?
+
+I came from a place that was all about BYOD so it's not like that everywhere. Obviously some industries are more sensitive than others.
+
+When it happened we suggested IT supported Ubuntu for us. One of the guys in IT was a centos fan and thought we should all use that (of course) and then they decided it wasn't even worth the effort and just ""grandfathered"" us instead."
+229,Dan_Quixote,1554991581.0,2.0,"I have never found a videoconferencing tool to work consistently on a browser. Bluejeans is probably the best, but still see lots of problems."
+230,pdp10,1554910440.0,7.0,"> IDE for .NET development. 
+
+I can't speak to quality, but anyone who wants to develop C# for CLR/.NET Core should be aware of [Jetbrains Rider IDE](https://www.jetbrains.com/rider/), which is commercial. And most potential MSVS users are probably aware of [MS VS Code which runs on Linux and Mac](https://code.visualstudio.com/download), and can use [Language Server Protocol to support arbitrary programming languages](https://langserver.org/)."
+231,sadhorse_kaishain,1554907901.0,7.0,Rider has been working pretty well for me so far.
+232,x0wl,1554914206.0,3.0,"You can compile and debug (with a remote debugger) Linux code with it though, so not all is lost."
+233,Kaisogen,1554906866.0,0.0,I thought that Visual Studio DID have a Linux version.
+234,pfSensational,1554907143.0,-2.0,"Literally i just opened it on my Fedora 29. Also worked on my Linux Mint at home.
+
+&#x200B;
+
+Edit: [https://code.visualstudio.com/docs/setup/linux](https://code.visualstudio.com/docs/setup/linux)"
+235,_ahrs,1554910948.0,7.0,Testing is a part of the development process. You can write the most beautiful unit tests possible but it means nothing if they pass on Windows and fail on the platform you plan to deploy on (Linux).
+236,damselinuxindistress,1554922514.0,6.0,It's slow and tedious
+237,,1554905836.0,3.0,"How's dotnet core development on Linux? I'm loving Visual Studio so far and I was wondering if there are any alternatives.
+
+&#x200B;
+
+Edit: I have no idea why your comment is at -1 but I didn't downvote you btw."
+238,meeheecaan,1554903409.0,2.0,"lack of gui stuff outside of windows, and lack of the full dotnet/win32 apis. Since we use those quite a bit at work but the higher ups are looking to core and cloud stuff to replace everything they can here. 
+
+mono does address most of my worries true but i dunno if theyd want to do that."
+239,the_gnarts,1554910755.0,4.0,"Ha, I imagine everything would =)"
+240,LtWorf_,1554980795.0,2.0,"Any pro linux user doesn't like having to use the very dated osx tools… except gentoo users, they are happy they need to recompile everything to get useful tools."
+241,my_meme_ID5,1554993346.0,2.0,Shit is not worth the price
+242,,1554928328.0,-1.0,"I am aware. Started off with Fedora Core. 
+
+>  I know windows is trying to catch up with Ubuntu compatability
+
+It's not just Ubuntu. The NT kernel supports practically any distro/user space that the Linux Kernel does. 
+
+> Unix is more than a bash shell
+
+And WSL is more than a bash shell. You can run entire desktop environments out of the box."
+243,yawkat,1554980860.0,1.0,"No, some Java and some of them C++"
+244,,1554950142.0,0.0,So what *is* the point? How does going to conference = needing more help?
+245,Democrab,1554909877.0,17.0,"As someone who switched over 24/7 earlier this year, I can tell you that's just par for the course in my experience. If Windows works for you, then that's simply down to what games you play and what particular hardware/software you have...Hell, there's Win9x games that run *way* better under Linux/wine than native Windows post XP for me, but even more recent games have problems under both OS' in my experience.
+
+The biggest difference is that when Linux breaks, it doesn't try to hide *why* it broke so then I can just simply work out how to fix it. I actually set up a Win10 install on one of my HDDs specifically *just* for Forza but the combination of my controller breaking and Win10 being kinda frustrating to set up and use has meant I've basically booted it up once and installed my drivers/classicshell."
+246,LtWorf_,1554981371.0,1.0,"In my experience, windows gets stupid issues as well.
+
+For example, to swap ctrl and caps lock I had to download some sketchy .exe that edited the register, and then after some upgrade, the changes were gone so I had to do the thing again.
+
+Oh and the time I completely wiped the windows partition for good was because it was doing updates, I really really had to go so I forced shutting down, then it worked fine, and after the next reboot it never booted again.
+
+Or that nice thing they did of removing the GUI for creating ad-hoc networks, so now you need to use the shell to do it, while on Linux there is a GUI for that."
+247,TH3_ST0CK,1554910215.0,-1.0,"This is my major gripe with Linux. I always seem to have to fix something or deal with problems or crashes. Especially in Ubuntu.
+
+For me, Linux is best for headless servers, Windows is best for Desktops, and MacOS is best for my Laptop experience."
+248,Democrab,1554914246.0,4.0,"I'm not saying that you should, I'm just noting the facts.
+
+... That and I've actually had an easier time configuring Manjaro than Win10, including with games on my last format a couple of months ago. A few games needed extra steps but they do on Windows anyway. (eg. AoE3)"
+249,Hohenheim_of_Shadow,1554929594.0,3.0,Was the thirty two core machine doing the compiling in a VM? Either way its impressive that a laptop can beat a workstation in compile time. Is the laptop newer?
+250,LordTyrius,1554935527.0,3.0,Clock speeds? I guess those 4 cores go much faster on a laptop than on a 32 core system...
+251,thethrowaccount21,1554915482.0,1.0,"> why even have a software wallet? 
+
+Software wallets form a legitimate ring in a cascade of security (from hardware wallets to hot android wallets, all wallets that exist for, e.g., Dash). However that ring gets broken if you have malware on your computer. Obviously if your OS is also malware, that ring is broken.
+
+>Or why even trust a pre-compiled OS?
+
+There are degrees of threat level.
+
+>If someones come up with a novel way to steal crypto, they're not wasting it on a small fish like me.
+
+https://www.reddit.com/r/CryptoCurrency/comments/ayomey/hey_everybody_patch_your_winrar_or_lose_coins/"
+252,CapableCounteroffer,1554938755.0,4.0,"I never said ubuntu _was_ a kernel, but if you download ubuntu it comes as an entire operating system _with_ the linux kernel. And yeah you could use an X server to run a DE, but it's first of all not stock WSL at that point (there are a lot of modifications you have to make), and in my experience very buggy. Also, you can't use all the terminal emulators ubuntu has available (such as gnome-terminal) without using an X server to run a DE, and the WSL terminal is honestly shit in my opinion. So if you just enable WSL and download Ubuntu, it's not accurate to say it is ""byte for byte"" the same, because it's not at all the same not just in source code (byte for byte) but also look and feel."
+253,jcelerier,1554922460.0,3.0,"> Linux needs wayland-based compositors
+
+X11 supports per-screen DPI"
+254,GorrillaRibs,1555022172.0,1.0,"Firefox supports wayland native now, so there's that"
+255,thethrowaccount21,1554931406.0,2.0,"I'm pretty sure you're right. They basically force new users to accept them by default.
+/u/MyDashWallet tip 1.8 mDASH"
+256,,1554900295.0,11.0,"Did I say it dismissed the advantage?
+
+It's more akin to buying items out of the back of a truck; you know they're stolen, so you might not want to crow about it as much."
+257,,1554899958.0,22.0,You post a subjective comment and then act like it was objective.
+258,thethrowaccount21,1554900160.0,11.0,"I'm not a radicalist and once I made the switch to linux I never looked back. I too only use what is comfortable, and I look for the best tools for the job. Linux made my life many times easier with no forced updates, data wiping bugs or intrusive spyware. If you have cryptocurrencies you can't have your private keys being automatically copied and stored in plaintext on someone else's server. That's how you lose thousands of dollars unaware."
+259,happymellon,1554933284.0,2.0,Oh god my work laptop experience is putrid. I'm glad that I have a BYOD policy to avoid that shit.
+260,pdp10,1554929844.0,3.0,"> because it's a reaction to your externals (what Microsoft did)
+
+Not necessarily. I was directly affected in a number of ways by what happened then, and what's happened since."
+261,thethrowaccount21,1554900224.0,2.0,"> All preferences are environmental unless their origins are genetics. 
+
+Uh that's a pretty big caveat don't you think? Kind of like saying ""Everyone is 6'8 unless they're average height (5'9)"" You kind of negated the whole first part with the latter part."
+262,,1554900055.0,1.0,"The environmental preferences are inferior, since they are subjective."
+263,nostril_extension,1554913620.0,8.0,"> Microsoft probably does this better than anyone else
+
+You really haven't heard of keyboard driven window managers, have you?"
+264,satimal,1554918222.0,3.0,"I'm talking windows update, Windows defender, and disk indexing stuff mainly. It probably isn't accounted for on the level I'm talking because usually these things are done incrementally in the background, not all at once after not being shutdown for months."
+265,nostril_extension,1554913713.0,0.0,"I hope you're aware that bash is not the only language you can code for linux shell, right?"
+266,BrofessorQayse,1554976776.0,3.0,"Well, If you're running an Nvidia gpu laptop, youre SOL.
+
+On the fly gpu swapping doesn't work well on *nix."
+267,agonyzt,1554916913.0,2.0,"Just to add to that, idling in KDE at 40% brightness, 79% battery, reports over 13 hrs battery remaining, which I find insane! That would get me 16 hrs of idling at full charge :P"
+268,sensual_rustle,1554910769.0,2.0,Avoid shintel. You've been banned from r/ayymd
+269,Soulthym,1554906878.0,2.0,"Yea, my bad that's what I meant. It doesn't work on the Aero15X, or at least didn't when I set it up."
+270,Cere4l,1554936836.0,4.0,I've been using 3 monitors for the past... I think 12ish years. Maybe more.
+271,urban-_-hominid,1554911743.0,2.0,Ah yes. I think the hardware limitations are a big part of the problem. Not every laptop has an expensive glass touchpad. Never gave that much thought before now....
+272,,1555004462.0,1.0,"99% of developers have no need for decent package manament, a decent shell, and tools in general?
+
+Whenever I'm trying to install something on windows I fear I'll have to go through some weird GUI with some random UX, and worrying I'll have to do extra stuff to make it work, and then remember to do stuff differently whenever I have to deploy. It's just overall cumbersome.
+
+&#x200B;
+
+How do you manage your services your applications depend on in windows? Do you use containers? How do you manage containers? Do you SSH into stuff? Manage your keys, your config files? What's the terminal emulator you're using? Do you have to switch over to PuTTY? How do you migrate your windows stuff when you're setting up a new machine? What VCS do you use? Do you install a GUI for every single thing?
+
+Check this out: [https://stackoverflow.com/questions/22575662/filename-too-long-in-git-for-windows](https://stackoverflow.com/questions/22575662/filename-too-long-in-git-for-windows)
+
+>Git has a limit of 4096 characters for a filename, except on Windows when Git is compiled with msys.
+
+Hoooly fuck, I don't wanna deal with that kind of stuff, sorry."
+273,efethu,1554916455.0,42.0,"> Yeah, but you used the % symbol incorrectly.
+
+He used % symbol ambiguously but not incorrectly.
+
+Percentage points is a fairly modern concept and it's mainly used in economics. It is almost never used in math.
+
+It's also worth noting that for many people this concept might also be confusing as they never heard about it. I was doing a presentation in front of 300 IT profressionals, was asked a question ""points of what?"" and made a joke ""anyone in the audience knows what percentage points are""?  Got *3* hands."
+274,dontbeanegatron,1554911612.0,17.0,"Technically incorrectly, the worst kind of incorrect."
+275,fsdagvsrfedg,1554929238.0,0.0,ladies and gentlemen... the linux community
+276,,1554921610.0,-1.0,"If you take the difference of two percentages, you get a percentage. So he is not incorrect. Just a piece of shit."
+277,sensual_rustle,1554910556.0,12.0,Huh. The more you know. Neat
+278,peeonyou,1554958352.0,2.0,We're actually hiring for support/senior support and leads in Seattle yes.
+279,Setepenre,1554966455.0,1.0,you usually share the server with a lot of people and you ssh through the local network
+280,iSnortedAPencilOnce,1555012038.0,1.0,It applies to any industry with strong regulations such as medical and finance.
+281,,1554923249.0,3.0,"I actually own a Rider license and find myself going back to Visual Studio Code to do everything.
+
+/shrug
+
+In any event, .NET Core freaking rocks and I look forward to it continuing to gain momentum."
+282,lengau,1554928945.0,2.0,"One of our dev teams now has two services they run. One they're developing in Visual Studio (it's a .net Framework app running on a Windows server). The other they're busy switching to Rider for (it's a microservice-based .net core app running in Kubernetes). 
+
+They're very happy to have Rider and DataGrip."
+283,,1554908006.0,4.0,"Visual Studio \*Code\* does, which is a text editor. The IDE is called Visual Studio. Confuses many people so don't worry!"
+284,,1554907625.0,6.0,[deleted]
+285,damselinuxindistress,1554922469.0,8.0,Case sensitivity regarding file systems is a classic
+286,MDSExpro,1554911579.0,-9.0,"Me:
+> Testing for Linux software should be done on Linux.  
+
+You:
+> unit tests possible but it means nothing if they pass on Windows
+
+Let me introduce you to this brand new concept called ""actually reading nad understading post before commenting on it"", or short in short version, ""how not to look like an idiot""."
+287,LuckyHedgehog,1554907380.0,5.0,"The go-to editor on linux is VSCode. It lacks many of the features that full VS has, but it runs much faster as a result. There is a healthy marketplace for free and paid extensions to provide intellisense, auto complete, code lens, git support, etc. 
+
+A lot of the development for dotnet core is through the dotnet CLI, so you end up using the terminal for a lot of the build, test, deploy commands. With VSCode you can wrap common commands in tasks that can be easily run as well. For example, if i have a specific project for unit tests i want ot run, I don;t want to type out the name of the test project to run it each time. I can just define the command as a custom task and map it to a key binding to run automatically."
+288,,1554923388.0,1.0,"I have actually developed some [ASP.NET](https://ASP.NET) Core applications exclusively on Linux and I got to say: I love it.  Nearly everything about .NET Core seems designed with multiple platforms in mind.  Visual Studio Code is definitely my go to editor for all of my .NET Core work, even the work I still do in Windows VMs.  However there is also a commercial IDE in the form of Jetbrain's Rider available that some prefer.  I personally find myself always returning to Visual Studio Code, so I'll be sticking with that."
+289,pdp10,1554910633.0,7.0,"> lack of gui stuff outside of windows, and lack of the full dotnet/win32 apis.
+
+Those are purposeful. Microsoft wants to make sure they don't get ""OS/2ed"" by devs building for Linux/macOS first with full functionality.
+
+By controlling Mono and now .NET Core, Microsoft can ensure that the threatening functionality is never incorporated. They get to promote their runtime as working on Linux, and easily developed by median developers who are used to Windows, without significant threat of losing control over the app market.
+
+And it also plays into their UWP plans, which are even more threatening to Linux desktop."
+290,LuckyHedgehog,1554907033.0,-1.0,"Your specific use case isn't supported yet, which is unfortunate. Doesn't mean what it does do is bad though.
+
+Gui support is coming in 3.0 for windows. I would image they will release a linux version after that has stabilized.
+
+They never intended to duplicate the .NET Framework apis, part of that was the intent. Framework has been around for so long it has a ton of baggage. It also is so tightly coupled to the windows OS that for the longest time they were only able to release new versions with new updates to the OS. Why would they continue using that model, or the apis that go along with that? They are starting fresh
+
+It sounds like you are throwing away the baby with the bathwater on this one"
+291,yur_mom,1554911480.0,1.0,"I will say the one benefit of learning to script in ash which is a limited subset of features is that your scripts are more portable.
+
+
+I also learned scripting from the book Learning The Bash Shell which stresses staying away from more advanced syntax that is less portable."
+292,Salty_Limes,1554938371.0,7.0,">The NT kernel supports practically any distro/user space that the Linux Kernel does.
+
+You still can't run DD or anything that would interact directly with hardware, and SystemD services are still not present."
+293,BlackCow,1554928545.0,2.0,"> You can run entire desktop environments out of the box.
+
+Neat. Hopefully they are on the path to doing the right thing and sun setting windows. We don't need it anymore."
+294,my_meme_ID5,1554993391.0,1.0,But updates LoL
+295,Zoenboen,1555019458.0,1.0,Lol no one said that.
+296,thethrowaccount21,1554910515.0,9.0,"I've been running Ubuntu for about 2 years now. Never had a problem, never had a crash and I'm a 'power user', i.e. I usually have 2 instances of intellij open, two browsers with 10-20 tabs, two terminals, ledger live (to watch my crypto portfolio move), jami (skype replacement), and Pithos (open pandora desktop client) all running and my machine never gets over 45% CPU usage (watching that with a desklet). 
+
+Linux completely blows Windows 10 out of the water imo from a desktop/laptop perspective imo. There's no comparison. Windows 10 is buggy, slow, unresponsive, intrusive, pushy, aggressive and not a lot of fun to use. Linux is like driving a high performance race car. Windows is like being stuck in LA traffic every day. At least, imo."
+297,StephenSRMMartin,1554950481.0,2.0,"I find myself spending more time fixing windows than I do linux. 
+
+When linux breaks, you can figure out why, and usually fix it with one text file or command. When windows breaks, it's a restart and a prayer; maybe some regedits; maybe downloading a utility to fix just that problem.
+
+I used windows for 14 years; then linux only for the past 7 years. I can't stand using anything but linux now. Everything else feels so disorganized, breakable, buggy, and limited."
+298,Hohenheim_of_Shadow,1554914747.0,0.0,"Every game that I've installed on Windows is just installing a binary. Even weird indie games, like Dwarf Fortress or Aurora 4x, or really old ones like Freespace are a simple click and done. The times I've installed a mainstream game on Linux via WINE its a pita of dependency hell. Finding out that you need a specific ""super common"" build tool installed on top of the listed dependencies that wasn't listed for some reason or another makes installation a drag. Linux is a really good tool for a lot of problems, but its not an end all be all and Windows isn't nearly as bad as this sub makes it out to be."
+299,,1554929739.0,-1.0,"> Was the thirty two core machine doing the compiling in a VM?
+
+No. On Cent OS using the same version of GCC.
+
+The laptop is a 2 years newer."
+300,,1554936304.0,-1.0,"They are actually comparable at 2.4GHz, but irrelevant. People are discussing WSL as IO limited."
+301,Hohenheim_of_Shadow,1554915844.0,2.0,"Aight so if you need a software wallet for security and a hardware is impossible, Linux is better. That doesn't solve any of my problems, all of my coins have compatible hardware wallets and I don't hold more than 10-20 dollars at a time because I actually use cryptoCURRENCY. For my workflow, a Linux main OS is worse."
+302,,1554938923.0,0.0,"> but if you download ubuntu 
+
+Well, I download Ubuntu directly from Canonical and I get a user space. 
+
+No, there are no modifications to make. How about you start naming all these modifications. 
+
+You can't use gnome-terminal on any system without running an X-server. It's no different. 
+
+Maybe you should refresh yourself on what the system is, and where it comes from. It is byte for byte the same userspace."
+303,timrichardson,1554937965.0,2.0,Name one distribution or desktop environment using multi DPI under X.
+304,LuckyHedgehog,1554903434.0,4.0,"You didn't outright say it, but whenever someone goes down that route of ""yeah but..."" for something like that, it is what you are trying to do.
+
+I don't understand your analogy there. What is the equivalent to buying items out of the back of a truck in this scenario? What is stolen?"
+305,,1554904854.0,2.0,English isn't my first language so apologize for the misuse. Edited the original post.
+306,trevorishere,1554914088.0,2.0,Let's not make this petty. Windows keyboard navigation is _excellent_ but not put at the forefront for obvious reasons.
+307,HittingSmoke,1554913877.0,2.0,"I think my comment made that pretty apparent. However, since this is reddit, you can scroll up above my comment to see that it was made in the context of another comment specifically comparing Powershell and sh."
+308,Brillegeit,1554911901.0,-1.0,"AMD in a laptop paired with Broadcom chips? /r/onfire
+:)"
+309,Neumean,1554916855.0,26.0,Weird. Where I'm from (Finland) percentage points and its difference from percentage is taught in high school maths and the term is often used in the news (for example when talking about polls) and other day-to-day discussion.
+310,grumpieroldman,1554956071.0,1.0,"I don't understand how everyone doesn't know this.  
+You always have to check if it's a straight-up add or a multiplier."
+311,audigex,1554987616.0,1.0,"I wouldn't even say OP used the % symbol ambiguously... he used it normally, and it is inherently ambiguous in many situations.
+
+In this case, though, the context of the whole (the 100%) is clear, so it's not even particularly ambiguous, particularly with the numbers right there.
+
+That said, it's about time percentage points had their own symbol so we can remove the ambiguity."
+312,Zakgeki,1554912758.0,11.0,"Yeah but using it incorrectly can lead to confusion. Not in this case, but in others. It's important to communicate in a standard way to avoid any confusion."
+313,,1558971714.0,1.0,"sorry for the late reply. What level of competency are you looking for? I can configure i3, not fuckup an Arch vm, and pimp out vim but i'm no guru. Basically, I know enough about linux to realize i know nothing about linux."
+314,BlackCow,1555012750.0,1.0,"Yeah, those industries tend to drug test too.
+
+I found that out when I was looking for my first real software job and one of the offers I got was from the financial industry. Interview went well, they extended an offer, and they asked for a drug test. I'm a pot smoking unix hippie so uh... oops.
+
+The recruiter was mad I ""wasted his time"" but like... maybe don't pop that on me after the interview and job offer. I guess they assumed everyone knows the financial industry drug tests but I was green and didn't know haha."
+315,Frozen1nferno,1554909316.0,3.0,"Visual Studio Code can be turned into a decent IDE with plugins, though. I develop Dotnet Core professionally and as a hobby, on both Linux and Windows, and we use VSCode almost exclusively."
+316,pfSensational,1554907789.0,2.0,"Ah, i see. My bad. Did not even know the difference, now i do."
+317,lengau,1554927994.0,7.0,"Seriously, FUCK WINDOWS in this regard, and fuck the bad habits it forms in developers."
+318,BambooRollin,1554938732.0,5.0,And it hits when you develop on a Mac and discover its filenames are not case-sensitive. So another good reason to use Linux.
+319,_ahrs,1554911700.0,2.0,"You:
+
+> Not sure if You should give advice, when you are mistaking ""developing"" and ""testing""
+
+Me:
+
+> Testing is a part of the development process"
+320,meeheecaan,1554911844.0,3.0,"and therein lies one of the things im not entirely happy about this with. MS pulling that. i love c# and am happy that I can use most of it on linux and love what ive got sofar, but i dont like how ms so sequestering so much of it away from me"
+321,meeheecaan,1554908495.0,1.0,"dont get me wrong, im still using it and enjoying it so far just have  a little wishful thinking about how nice it would be if i could move all my c# to linux easily iguess. step 1 though."
+322,,1554938755.0,-3.0,"That's hardly a concern for the majority of users. Even so, its actively being worked on.
+
+However, with the Windows/WSL interoperability there are nuances available to the WSL that are not available on a Linux Kernel. But I guess it's better to only make comparions in one direction."
+323,,1554997822.0,1.0,`sudo apt update; sudo apt upgrade`
+324,iTzHard,1554916602.0,2.0,Why Pandora?
+325,,1554913417.0,2.0,[deleted]
+326,Not_Pelle,1554923377.0,1.0,"I've only ever had (and still have) 1 real problem with my Debian installation: LightDM (or maybe it is the GTK+ greeter or Light Locker) is an utter piece of crap, especially with multiple monitors or on mobile devices. I've tried it with Xubuntu's default config and with my own config on Debian Unstable, both have the exact same problems. The only 2 other active DMs according to Wikipedia are GDM (which is too tied to GNOME, so not really an option for me, though it works fine) and SDDM (which uses Qt, so not really an option for me, though I haven't tried it).
+
+With Windows on the other hand, I'm only having issues with updates (it removing Office, GRUB, my Btrfs partition, etc). Also because I'm mostly working with things intended for a Linux environment, I've to fix all kind of weird shit on Windows. And no, WSL isn't a solution with their memory leaks and weird file system and things that just don't work. Also Windows is so much slower, especially on low-end machines (think Celeron N2840)."
+327,TH3_ST0CK,1554912119.0,-1.0,"[This](https://itsfoss.com/how-to-fix-system-program-problem-detected-ubuntu/) is similar to the issues that I have experienced using Ubuntu in the past.  Almost always happens within 24 hours of a fresh install on multiple machines.
+
+Additionally, NVidia drivers are not the best on Linux.  Noveau had bad performance on my Alienware Alpha, and the NVidia official drivers caused tearing when watching videos.
+
+I can see how some computers may be slow when running Windows 10, but mine never skips a beat (i7 3770, 16gb Ram, AMD 290x, 500gb SSD)"
+328,iTzHard,1554916913.0,5.0,Lutris?
+329,Democrab,1554917207.0,5.0,"Literally all but 4 games were simply click install either in Steam or on the Lutris website for Linux for me, and those that required extra config typically do on Windows anyway. (eg. AoE3 as I said. [I literally just helped a dude out with getting it to work on Win10 earlier tonight](https://www.reddit.com/r/linux_gaming/comments/bbbvrb/linux_tech_tips_microsoft_should_be_very_afraid/ekjwieq/?context=3). I feel like both Windows and Linux have similarly 'intensive' solutions to make AoE3 work on them. Another one that required extra config was obviously SkyrimSE/FO4 that needed the wma enabled faudio patches which is extremely simple to do especially when compared to what most of us do to those games mod wise anyway and the other game, Subnautica, was a game I just used the ProtonDB stuff with initially only to find that just running it vanilla with no tweaks worked better for me.)
+
+I've also had poor luck with older games and Windows, Jazz Jackrabbit 2 plays fine but screws up my desktop resolution when I quit (Something that Lutris can auto-fix for me, and is also fixed by extra config via installing JJ2+ on either Windows or Linux), Age of Empires II original (Lotta people prefer that to HD for MP still) works perfectly under Wine but *requires* patching to fully work under Windows, The Sims 1 is buggy as hell under Win8/10 because DirectDraw emulation is broken but works fine under Linux, Simcity 4 worked with zero tweaking (And actually allows for me to run my native res of 2560x1080 in Hardware DirectX or OpenGL mode, something I've never manged to have work under Windows) and while this last game is one most people probably don't know, Gearhead Garage will crash very quickly every time you run it on anything newer than XP which makes sense given that it needed patching to work properly on XP in the first place but once again, works fine under wine."
+330,Astrognome,1555003504.0,1.0,"I find it really hard to believe that a 4 core laptop compiled faster than a 32 core workstation/server, especially seeing as mobile parts are way slower than desktop ones.. Mind posting specs? Ram, CPU model, storage?"
+331,thethrowaccount21,1554916450.0,1.0,">Aight so if you need a software wallet for security and a hardware is impossible, Linux is better.
+
+Not necessarily. If you have multiple pools of assets hardware wallets are better for long term hodling. Software wallets are better for quick transactions, like with Dash's instantSend. Most other blockchains are slow and require 50 minutes for confirmations, but all Dash's transactions use instantSend technology, so software wallets work very well as a quick way to spend your cryptos. I guarantee you I use cryptos more than you do so you can take that shouting somewhere else.
+
+That might be for **your** workflow, but if your workflow requires privacy like mine does, there's no way it could be. In short, you're making a desperate argument for a worse solution. I don't envy you."
+332,CapableCounteroffer,1554939606.0,3.0,"> Well, I download Ubuntu directly from Canonical and I get a user space.  
+
+No, you download Ubuntu directly from Canonical and you get an entire operating system, which includes the userspace.
+
+>No, there are no modifications to make. How about you start naming all these modifications.   
+
+Literally just google ""run X server on WSL""...  
+
+>You can't use gnome-terminal on any system without running an X-server. It's no different.  
+
+Right, and when you download ubuntu it comes preinstalled with an x server and runs it by default on boot. It also comes with gnome-terminal preinstalled. WSL comes with neither.
+
+> It is byte for byte the same userspace.  
+
+Oh I thought it was byte for byte the same, now its byte for byte the same _userspace_? Nevermind that still isn't true, since the default ubuntu install comes with userspace programs that WSL ubuntu does not..."
+333,,1554905031.0,7.0,"The marketplace for personal computers was illegally influenced by Microsoft, per US court findings of fact, so the hardware vendor support was stolen from possible competitors."
+334,thethrowaccount21,1554909673.0,1.0,"No worries, I understand what you mean now."
+335,nostril_extension,1554915972.0,6.0,"You set a very low bar for excellent. You don't even have basic context managers so if you have more than 4 programs you just keep mashing alt+tab?
+
+I'm sorry but it's not _excellent_ in any way shape or form."
+336,GiraffixCard,1554927593.0,10.0,"Same in Sweden (IME). It makes more intuitive sense to me too, since 10% growth of some arbitrary percentage can be anywhere between enormous and a rounding error, while 2 percentage points is always just 2 percentage points."
+337,peeonyou,1559007928.0,1.0,"Well we filled the tech role so now we're just looking for an IT lead. Someone who can get around in MacOS, Linux, and W10. Also comfortable with asset management and gsuite+okta."
+338,iSnortedAPencilOnce,1555013523.0,1.0,"Yup, worked with a small company of 100 people in the financial sector and it was absolutely mandatory before hiring. While I was with them they would routinely fire people in their LA offices who came in stoned."
+339,MDSExpro,1554912033.0,0.0,"Nothing like editing you comment, and then failing to reference correct one in try to burn someone."
+340,my_meme_ID5,1555036927.0,1.0,Does it solve windows updates problem? ;-)
+341,thethrowaccount21,1554916913.0,4.0,"No reason. Haven't heard of anything better yet, I'm all ears though."
+342,thethrowaccount21,1554915470.0,4.0,"That's fine, everyone is at different levels of this thing. I've never had a single issue with Linux after I bought a system76 box. Windows was a daily hassle that made me lose many hours of man time.  ¯\_(ツ)_/¯"
+343,LtWorf_,1554981477.0,1.0,"What you mean is that you are more experienced with windows and know how to fix it, and you are very unexperienced with linux, and you to stupid stuff without realising."
+344,thethrowaccount21,1554931340.0,0.0,"> Also Windows is so much slower, especially on low-end machines (think Celeron N2840).
+
+This was also my experience too. Thanks for sharing
+/u/MyDashWallet tip 1.8 mDASH"
+345,thethrowaccount21,1554913683.0,8.0,"I'm sorry you had to deal with that. I can only go by my own experience, and the experience of those I've converted, linux is way faster and far less error prone than windows.
+
+Whether its from a security perspective or a UX perspective, once you're no longer used to the 'Windows way' of doing things that is, Linux is far superior imo to Windows. I had a machine with the same amount of memory but with windows10 and I couldn't do half of what I do now. 
+
+Windows defender or some other hard to kill program like svchost.exe would run in the background and take up 80% of my CPU for hours! I am not exaggerating. My machine would slow to a crawl if I opened up two instances of visual studio! It was an extremely frustrating and **eye-opening** period. Eye-opening because of how bad the UX had grown."
+346,,1555003888.0,1.0,"Ok. Do you know that you can tell a compiler to limit itself to a certain number of cores, and that by default it uses 1?
+
+Did you read where I said I only used 4 cores in both?"
+347,Hohenheim_of_Shadow,1554917757.0,3.0,"My entire argument was that win10+wsl  is a superior solution for me and that this sub hates on Windows needlessly.  
+    
+If you use software wallets for long term storage, Linux is better, I never argued that Windows was a better tool than Linux for that particular problem. I don't have that problem and didn't bring crypto into the conversation because it is t relevant to my PC use case.  
+    
+My argument and point was that for my use case of a PC, moderate development, gaming, some specific windows only programs and general computing(and note that Crypto isn't on that list), Win10 + Windows Subsystem for Linux is a superior solution than Linux with a VM or dual booting. The fact that this setup is less optimal than a Linux system for HODLing is completely irrelevant to my point, so idk why you brought it up and act like you won."
+348,,1554939770.0,-1.0,"> No, you download Ubuntu directly from Canonical and you get an entire operating system, which includes the userspace.
+
+It's not my fault you don't understand that Canonical distributes via multiple methods.
+
+You dont' run an X11 server on WSL. It runs on Windows. You can get one in the Windows Store.
+
+> gnome-terminal
+
+Multiple distribution methods. All Canonical.
+
+> Oh I thought it was byte for byte the same
+
+It is."
+349,LuckyHedgehog,1554905837.0,-7.0,"How many decades ago was that? The market has had plenty of time to adjust at this point, and Windows is still better with hardware support.
+
+It also ignores the shady behavior of all tech companies during that era. Macintosh, Microsoft's main competitor, was just as foul during that era as well. If you want ot say Microsoft is the equivalent of selling stolen goods out of the back of a truck, then I would say the only market available was stolen goods and everyone was pulling up their trucks."
+350,trevorishere,1554933388.0,1.0,So you don't know about WinKey+Tab? This is the problem when you're talking about a subject you're unfamiliar with :-)
+351,brrrchill,1554957003.0,2.0,"If your profit is 23.2% of gross and it goes up to 25.6% then your profit has increased by 10.3%, which is not too bad."
+352,BlackCow,1555013847.0,1.0,Well coming in to work under the influence of anything is totally unacceptable in any industry. It's going to get interesting once cannabis is federally legal though.
+353,,1555058860.0,1.0,What problem?
+354,,1554984588.0,0.0,[deleted]
+355,TH3_ST0CK,1554915235.0,-3.0,"I'm in no way tied to the Windows way of doing things, I remote into and manage many Linux servers for work, and I use a Mac as my personal laptop. I just think that many of the Linux frontends, as light as they might be, have way more rough edges. They don't have the same level of polish that MacOS, Windows, or even Android has.
+
+I have no issue with interacting with Linux systems and I love the Bash shell. I would just rather interact with it via an SSH shell from my Windows or Mac environment with a compositor that is double buffered"
+356,Astrognome,1555004307.0,1.0,"Ah I missed that part. That still doesn't make much sense though, my fairly new laptop still gets beat out by my 7 year old desktop with -j8, both quad core, with HT, both on linux. What are the actual specs?"
+357,,1554927616.0,1.0,"> My entire argument was that win10+wsl is a superior solution for me and that this sub hates on Windows needlessly.
+
+Not needlessly. It's a direct threat to the identify of this community, despite having a great benifit to users."
+358,thethrowaccount21,1554917897.0,0.0,">My entire argument was that win10+wsl is a superior solution for me and that this sub hates on Windows needlessly.
+
+I know. My entire argument was that its not needless. Windows deserves EVEN MORE hate than its getting. In fact, I'm kind of surprised it took this long to be honest with you.
+
+> I don't have that problem and didn't bring crypto into the conversation because it is t relevant to my PC use case.
+
+True, but not everyone is talking about you and only you. There are other people who might want to join the conversation, and some of them will use crypto. 
+
+>My argument and point was that for my use case of a PC, moderate development, gaming, some specific windows only programs and general computing(and note that Crypto isn't on that list), Win10 + Windows Subsystem for Linux is a superior solution than Linux with a VM or dual booting
+
+My argument is you're wrong.
+
+>The fact that this setup is less optimal than a Linux system for HODLing is completely irrelevant to my point, so idk why you brought it up and act like you won.
+
+Because there are several usecases where Linux is definably the only secure solution. Perhaps if you read my argument more carefully you would've read the part where I said that."
+359,CapableCounteroffer,1554939894.0,5.0,"lol okay dude. idk how far out you must be to consider ""ubuntu"" and WSL byte for byte the same, but good for you."
+360,,1554913061.0,6.0,"""How many decades ago was that?"" Try walking into a mainstream store and buying a desktop computer running Linux today."
+361,CapableCounteroffer,1554938207.0,4.0,"Not OP, but couple of things I do on my linux computer that I don't know how to do on windows quickly, using just the keyboard: resize windows, send windows to different monitors or workspaces, switch workspaces, swap windows that are horizontally or vertically split, open a new window of a specified program directly to the right, left, above, or below the current window. Can all these things be easily done on windows?"
+362,ExistingObligation,1554991297.0,3.0,"That makes more sense than the original case though, where it's measured against a total market share that sums to 100%. In that case, some obscure OS could go from one user to two users and you'd say it experienced 100% growth over the year, which is more misleading than saying it went from 0.00001% to 0.00002%"
+363,my_meme_ID5,1555059532.0,1.0,"> > Windows updates problem..
+
+> What problem?
+
+Which century you are living in?"
+364,LtWorf_,1554991006.0,0.0,">  Did you miss the part 
+
+No i didn't miss it. I've seen people who work in offices for years and still type with 1 finger… using something for work doesn't mean much."
+365,LtWorf_,1554981806.0,2.0,"For me, windows and osx desktops are shit compared to linux.
+
+Linux has 2 copy paste buffers, one with ctrl+c one with the middle click. It also uses triple click to select an entire row or paragraph. I enabled compose key so I can type in multiple languages without changing layouts, and altgr+caps lock let you do many more symbols. For example italian speakers can't type ""È"" on windows, but can do so on linux.
+
+And let's not even talk of klipper, which keeps track of everything you copy paste…
+
+If you haven't learned how to use desktop linux yet, I can see why you wouldn't like it, but the overall experience is better."
+366,,1555005586.0,1.0,"> my fairly new laptop still gets beat out by my 7 year old desktop with -j8
+
+An E5-2697 v4 @ 2.30GHz vs an i7 8550U @ 1.8GHz (operating at compile at 2.5GHz)
+
+And plenty of ram in both.
+
+I also don't know how many processors your actual laptop has, but hyperthreading is not the same as a CPU, which is why I limited it to 4 cores, to make the comparison equal."
+367,Hohenheim_of_Shadow,1554929311.0,1.0,"Communities  oppose a change that has tangible benefits simply because its ""a threat to their identity/culture"" tend to be toxic cesspools. WSL is a bad thing despite doing good because it isn't  ""Pure Linux"" or ""its a threat"" is the same logic behind pretty much every other argument against the future."
+368,Hohenheim_of_Shadow,1554919060.0,2.0,"In the usecase outlined, why is Linux a superior solution? It isn't. It is still a decent solution, and you can make it work, but it is not a better solution."
+369,,1554940409.0,1.0,"I guess you know more than Canonical
+
+> “Right, so just Ubuntu running in a virtual machine?”  Nope!  This isn’t a virtual machine at all.  There’s no Linux kernel booting in a VM under a hypervisor.  It’s just the Ubuntu user space.
+
+> “Ah, okay, so this is Ubuntu in a container then?”  Nope!  This isn’t a container either.  It’s native Ubuntu binaries running directly in Windows.
+
+> “Hum, well it’s like cygwin perhaps?”  Nope!  Cygwin includes open source utilities are recompiled from source to run natively in Windows.  Here, we’re talking about bit-for-bit, checksum-for-checksum Ubuntu ELF binaries running directly in Windows."
+370,LuckyHedgehog,1554913556.0,-4.0,"You can buy desktops running iOS, and laptops running Linux (Chromebook). You can buy desktops with no OS and the ability to install Linux on your own without paying the extra overhead for Windows licenses.
+
+Nothing illegal about what Microsoft is doing, as you originally stated. Hardware companies don't bundle with Linux because Linux isn't a single OS anyways, and anyone who wants Linux will likely reinstall with a different distro.
+
+The original issue wasn't even market saturation, it was hardware support. Who cares if pre-build desktops are running windows, the issue was after you wipe it clean and install Linux the hardware support isn't as good as Windows. That has nothing to do with finding Linux in stores or not. Any hardware company has the choice of shipping with Linux if they want to, and they typically do not. Windows currently has an advantage here no matter how much we would like it to be otherwise. 
+
+Do I hope it gets better, and soon? Absolutely. I think it will happen sooner than later. Doesn't change the reality of 2019 though
+
+You are complaining for the sake of complaining at this point"
+371,nostril_extension,1554945868.0,2.0,"Let me add to this. Switch to program by part of its name. Drop down terminal and apps in general. Full screen window and back to original size. Automatic monad, matrix and a dozen different windows layouts. Windows remembering their position and automatic startup on launch. Moving floating windows with keyboard. Using hjkl instead of arrows - fully customisable controls. Launch program in specific window and specific place. Just the tip of the iceberg.
+
+Op is full of shit when he says that windows keyboard support is even comparable to that of Linux.
+
+Check out i3wm, qtile, sway to name a few."
+372,,1555059633.0,1.0,"The one where I don't wasnt an army of botnet computers ala XP spaming me constantly.
+
+The one where automatic updates serve a valid function, like immunization."
+373,Astrognome,1555006818.0,1.0,"Both my laptop and my desktop are quad core. Laptop has the same CPU actually(8550U), desktop is an i7 2600k@4.8ghz. Both have SSD and 16gb of ram. Your results still seem kinda fishy to me. I'm not saying I don't believe you but I still find it hard to believe that a mobile part is beating out a desktop part at similar clocks, even a 2 year old one. Either way, I still can't get WSL to run acceptably fast on big compile jobs, even after adding an exception in defender. I get better results from VMs."
+374,,1554929852.0,1.0,I agree. I didn't mean it was good that it's opposed. The opposite actually. I'm actually the creator of the official WSL subreddit.
+375,senatorpjt,1554953355.0,1.0,"WSL has no tangible benefits if you don't use Windows, obviously. And it is actively harmful in driving adoption as an OS if it's just a layer on top of Windows. 
+
+Unfortunately it's just the nature of OSS that it's going to be a one-way street, Microsoft has full access to Linux internals and Linux has no access to Windows internals."
+376,thethrowaccount21,1554931286.0,0.0,"Linux is more secure, more private, faster, doesn't do random updates, doesn't delete your data, doesn't require 'telemetry', doesn't store your typed keys, spoken words and other input data on someone else's server, etc. there are a myriad of reasons, those are just off the top of my head though."
+377,CapableCounteroffer,1554940903.0,1.0,">Here, we’re talking about bit-for-bit, checksum-for-checksum Ubuntu ELF binaries running directly in Windows.  
+
+Do you not know what an ELF binary is? It's just a single executable/library. All this snippet says is that ubuntu userspace executables are byte for byte the same, which I never contested. No where does it say that ubuntu in it's entirety is the same, in fact it explicitly says ""there's no linux kernel booting,"" and furthermore there isn't even a linux kernel included, which would clearly lead to a change in the source code (and thus byte for byte parity). Honestly idk what planet you must be from to come to the conclusion that WSL ubuntu and the ubuntu operating system distributed from canonical are ""byte for byte the same,"" but you guys must excel at mental gymnastics. And don't give me some bullshit that ubuntu is just a userspace, not an operating system, because the title to ubuntu.com starts with ""the leading operating system,"" wikipedia categorizes it as an operating system, and even if it was just the userspace, _there are still userspace programs missing from WSL_ that come by default in ubuntu. The userspace programs that are included in WSL ubuntu are the same, great, but ubuntu in its entirety is not the same, in fact far from it, and many pieces are missing."
+378,,1554913946.0,3.0,Disingenuous expected answer. You seem to be a Microsoft apologist.
+379,CapableCounteroffer,1554946913.0,1.0,"Big i3 guy, been meaning to checkout sway - do you find it tends to work out of the box with your i3 config?"
+380,,1555007088.0,1.0,"Adding exceptions to defender are tricky, and easy to get wrong. It also depends on the location you are compiling. 
+
+Other than that, the results are what they are."
+381,,1554941077.0,0.0,"> No where does it say that ubuntu in it's entirety is the same, in fact it explicitly says ""there's no linux kernel booting,"" 
+
+This concept of a user space seems beyond you. Have a good one"
+382,LuckyHedgehog,1554923005.0,-1.0,"What exactly is disingenuous? So far you have completely ignored all of my arguments, and dismiss me as a microsoft apologist. Don't strain yourself with the effort now, wouldn't want to seem like you have, like, educated opinions and stuff"
+383,,1554949861.0,1.0,Your config will work. Sway is just i3 ported to Wayland.
+384,Astrognome,1555028247.0,1.0,"Interesting. You should try to run a compile inside a linux VM on the same machine and see what results you get, I'd be curious to find out."
+385,,1554926535.0,4.0,"Coming back with iOS, Chromebooks, and no OS self-installs as equivalencies of being able to walk into a store and buy a Linux desktop is either disingenuous or stupid. You choose which appellation you like better.
+
+Same goes for saying hardware vendor support isn't based on market share."
+386,LuckyHedgehog,1554929038.0,0.0,"You were saying Microsoft was manipulating the market with illegal practices by making all computers in stores run on Windows, which is factually wrong. 
+
+And what difference does a desktop vs laptop make? They are both computers, and Chromebook running Linux is a big deal. If you really want to say those don't count then you are sticking your head in the sand by being pedantic about desktop vs laptop.
+
+I get it, you hate all other companies and Linux is god. But learn to be coherent when you argue for Linux. There is a reason Linux users are viewed at elitist pricks and it is because of people like you. Leave your ""witty"" retort and we'll leave it at that, because you'll just spin around in more circles without having a reasonable response"
+387,,1554930050.0,4.0,"I'm not sure what point in history you are talking about, but the was the per-processor license agreement.
+
+Chromebooks are a big deal, but not quite the same as buying a computer from System et al.
+
+Linux isn't god. OS/2 is god. ;-)
+
+Sorry if I'm messing with your talking points too much. \[sic\]"

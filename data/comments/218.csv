@@ -1,0 +1,1470 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,PM__YOUR__GOOD_NEWS,1520949507.0,162.0,"> Most dreaded platform: SharePoint (72%)
+
+Say what you will about the survey, they nailed this one."
+1,,1520947702.0,148.0,[deleted]
+2,sinesSkyDry,1520936497.0,173.0,"It would be nice if they would introduce more categories for some of this.
+Presumably, the current category of ""Backend Developer"" includes:
+
+
+*) I copy npm commands into the shell
+
+
+*) I copy parts of tomcats web.xml into my editor
+
+
+*) I wrestle mainframe zombies from the 60ties so that airplanes don't crash"
+3,JohnnyZee,1520943414.0,67.0,"**[Valuing Compensation and Benefits by Geography](https://insights.stackoverflow.com/survey/2018/#work-valuing-compensation-and-benefits-by-geography)**
+
+Germany
+
+> Health insurance    13.7%
+
+> Parental leave    4.2%
+
+Which person in Germany would consider these things compensation or benefits? Those can't be taken away or given to you by an employer.
+"
+4,Edg-R,1520947024.0,65.0,I found it interesting that there's twice as many bisexual users than gay users. 
+5,karuna_murti,1520926067.0,163.0,Rust is the most loved language for 3 years in a row (and 3rd in 2015). But why adoption is not like Go?
+6,,1520944745.0,114.0,When your weapon of choice (C++) doesn't even make the list of highest salaries...
+7,svick,1520947680.0,27.0,"[The sexual orientation question](https://insights.stackoverflow.com/survey/2018#developer-profile-sexual-orientation) has some interesting results:
+
+* There are about twice as many bisexual (and queer) people as there are gays and lesbians.
+* Being asexual is much more ""popular"" among students than it is among the rest of developers."
+8,IPv8,1520951375.0,18.0,"Most surprising for me:
+ * 25% of people would like to be a founder/co-founder in the next 5 years.
+ * Nobody really cares about what industry they are in."
+9,lukaseder,1520928057.0,233.0,Let's talk about [survey](https://i.imgur.com/kzvgktw.png) [bias](https://i.imgur.com/xaS71q6.png)
+10,MrGreggle,1520954141.0,49.0,Why the fuck do people want to use Mongo?
+11,svick,1520947996.0,15.0,"I find [the categorization of language by average experience interesting](https://insights.stackoverflow.com/survey/2018#work-salary-and-experience-by-language):
+
+Languages with highest average experience are legacy technologies: Delphi, Cobol, Perl. That's expected. But the next one is F#, which is certainly not legacy. Is it because experienced developers are unsatisfied with their current language (C#?) and so are switching to F#?
+
+And in contrast, another functional language, Haskell, has the second lowest average experience."
+12,Philluminati,1520932877.0,38.0,Holy shit I’m old.
+13,geodel,1520952255.0,13.0,"Erlang, OCaml, and Ruby are more dreaded than Java. That's my takeaway from survey."
+14,incraved,1520945041.0,21.0,"> Women say their highest priorities are company culture and opportunities for professional development, while men say their highest priorities are compensation and working with specific technologies
+
+Interesting"
+15,sundaymouse,1520955341.0,12.0,"Due to single payer healthcare, almost no one cares about health insurance as part of the package in the UK:
+
+https://insights.stackoverflow.com/survey/2018/#work-valuing-compensation-and-benefits-by-geography"
+16,rcoacci,1520927908.0,103.0,"Good God, people are really using Notepad++ to program? I can understand Vim and Emacs, but notepad++?  
+Not that it's bad or anything, but there are *really* better tools today....  
+Edit: nevermind, I was under the impression it was the *primary* editor used. I myself used it a lot as a secondary quick-edit tool."
+17,Blueberryroid,1520928885.0,30.0,"Django is the fifth most dreaded tool?
+
+Surprising, I must say, from the very good reception I heard from my peers but then again the Django REST Framework documentation is just awful. So much classes undescribed in sufficient detail. Especially Serializers."
+18,KurrKurr,1520955524.0,19.0,"Haha, nice!
+
+""Most Popular Development Environments""
+
+Sysadmin/DevOps: ""Vim"""
+19,TheBestOpinion,1520978581.0,7.0,"
+How does a third of the population skips a meal to be more productive at least once a week ?!
+
+>""How often do developpers skip meals to be productive ?""
+
+
+>* Never 63.6%
+* 1 - 2 times per week 25.2%
+* 3 - 4 times per week 6.0%
+* Daily or almost every day 5.2%
+
+What the fuck.
+
+Is this just my frenchness ?"
+20,themoosemind,1520962339.0,16.0,"Does anybody have an explanation why there are [only 6.6% women in the survey](https://insights.stackoverflow.com/survey/2018/#demographics)? Is the male/female ratio in professional development really that extreme?
+
+edit: Fixed typos and added link."
+21,Dentosal,1520959787.0,6.0,"I have never used it myself, but what is so bad about CoffeeScript? It's the third most dreaded language (82.7%) in the survey."
+22,imot01,1520933886.0,24.0,"https://insights.stackoverflow.com/survey/2018/#work-how-do-developers-assess-potential-jobs
+
+30.4% says that ""The diversity of the company or organization"" is ""Lowest Priority"" for them and below they say ""The tech industry is struggling overall with issues around diversity, and INDIVIDUAL developers are not making it a priority when looking for a job.""
+
+How can you say that 30.4% of responders are individuals? Results are showing that majority of developers are not taking that as priority, not individuals."
+23,Carl_Byrd,1520947407.0,12.0,"I know Node is popular now, but it's high rankings just doesn't seem right."
+24,,1520940689.0,18.0,[deleted]
+25,UnfrightenedAjaia,1520941396.0,9.0,[The survey demographic is quite specific](https://i.imgur.com/1rZUcxw.png)
+26,grep_Name,1520951924.0,3.0,Anyone have any insight as to why Oracle is the second most dreaded database?
+27,morewaffles,1520957464.0,3.0,"Was really interesting to see how young the demographic was for these surveys. Kinda makes me wonder about the rest of the results, considering how surprised I was with some of the numbers."
+28,rlbond86,1520974153.0,3.0,I find a lot of these responses disturbing in the age category. It's clear that software is a young person's game these days.
+29,dom96,1520962778.0,2.0,"The [2017 results](https://insights.stackoverflow.com/survey/2017) also state:
+
+> Want to dive into the results yourself? In a few weeks, we’ll make the anonymised results of the survey available for download under the Open Database License (ODbL). We look forward to seeing what you find!
+
+I was hoping to find a link to this data (even if it is for 2017), anyone know where to find it?"
+30,azzamsa,1520984099.0,2.0,"Is there any minimum point to get all question ?
+
+When I answered a survey. I don't get questions about my dreaded, favorite library/language ?"
+31,takanuva,1520955663.0,6.0,"As an asexual programmer, these results caught me by surprise. There were around 1200 asexual professional developers answering the survey, and even more students (proportionally). I'm gonna start using StackOverflow as a dating platform from now on."
+32,not-much,1520930013.0,4.0,It may be interesting to see if the wanted technologie of today become the technologies used tomorrow and if the dreaded technologies end up being dismissed.
+33,aarkerio,1520960087.0,3.0,I want to learn Python just to escape from the JS hell that webdev is now.
+34,saberb13,1520957120.0,1.0,"So I’ve recently been learning scala for a university course, but I find it a very intriguing language. I saw i the US that scala was a top ranking language in terms of salary. From a relatively novice perspective, I would guess that it is a combination of its relatively young age, integration with java, and the fact that there is just so much to learn about it in order to use it to its full strength. Does anyone with more knowledge have any insight into why it’s seemingly valued so highly? (I know the flaws with this survey, but I’ve seen it’s salary potential in other places before) "
+35,My-Work-Reddit,1520962852.0,1.0,I was pretty surprised by some of the answers.
+36,Deep-Thought,1520962902.0,1.0,"I'm impressed by the immense growth of ASP.Net Core. Last year if I recall correctly it barely registered, now it's at the top of non-node backend frameworks. Also very surprising to me that Angular tops React."
+37,kersurk,1520992383.0,1.0,Apparently 0.002% of respondents are from North Korea.
+38,Kringspier_Des_Heren,1520995620.0,1.0,Well I'm surprised Go isn't dreaded more I guess with all the complaining about it.
+39,Nodebunny,1521009679.0,1.0,What about the Asian users??
+40,Kok_Nikol,1521036818.0,1.0,I like how in `What Do Developers Think Is Dangerous and Exciting About AI?` both the `Exciting` and `Dangerous` answers are almost the same.
+41,Chaoslab,1521071219.0,1.0,Mercurial sure must be kicking themselves.  They sure did shoot themselves in the foot.
+42,justbouncinman,1520945910.0,0.0,"This survey is confirming what I've said for a couple of years. Stack Overflow has been destroyed by script kiddies coming from reddit who know ""computers and stuff"" and are only looking for ""teh codez"". I stopped moderating cause it's so overwhelming the, quantity of bad questions and answers, that we can't keep up. 
+
+What ended it all for me was when newer, higher rep users, people over 10K, started chastising me for telling users their questions or answers needed editing and I quoted Stack Overflow rules to back me up. Then there was the 60K+ rep guy who rode on the back of improper questions garnering his rep and I just lost it.
+
+Surveys of anonymous users are worthless and, therefore, pointless."
+43,,1520937377.0,1.0,"This deserves more upvotes; reading this carefully, and thinking about your home country, can help you understand what the market is like, and how you might need to adjust your career.. Not just financially but also for your happines;, maybe you need to change a specialization, or focus on a different language."
+44,,1520963892.0,0.0,"I've already heard people being upset that [men care most about compensation than the rest, and that women, transgender and the rest care the most about office environment and culture](https://insights.stackoverflow.com/survey/2018/#work-differences-in-assessing-jobs-by-gender) like that was an indictment against men or something..."
+45,ChrisRR,1520935414.0,-15.0,"[The frequency that people visit stack overflow does concern me slightly](https://imgur.com/a/ey9ob)
+
+If 60% of people are visiting at least daily, do they really understand what they're working on or are they googling everything they need to know and hacking together code found on SO? (ignoring people who visit to answer questions that is)"
+46,andradei,1520952189.0,43.0,That and Salesforce. Terrible platforms.
+47,brogrammer9k,1520970844.0,6.0,"I started learning software development when SharePoint 2010 was released, and my company wanted to use it for EVERYTHING. 
+
+An old manager of mine had an expression for situations like this. 
+
+>If you want to win a football game, you don't put in your most expensive player, you put in your best player.
+
+SharePoint as an enterprise collaboration tool is great, but I think many companies are guilty of implementing it for everything. (*We have this tool we bought for X, but maybe we should use it for Y and Z!*) Upgrading seems like a HUGE pain in the ass, and I've run into so many limitations and problems with the platform that I actively avoid working in it when I can. Granted that's SP 2010 but even on 2010 standards it's terrible, I still have PTSD about Correlation ID errors."
+48,Kok_Nikol,1521035330.0,3.0,"Can confirm, SharePoint sucks.
+
+I use it at work, couldn't believe how bad it was.
+
+Everything is sluggish. For me it's unintuitive. Also, the search functionality is useless.
+
+Can't believe they're paying for it."
+49,ProudOppressor,1520958225.0,55.0,">US salary information needs to be broken down by state
+
+They don't even break it down by country."
+50,walesmd,1520949305.0,26.0,Because the entire survey is useless.
+51,woo545,1520956243.0,2.0,"I make significantly more than that as a C# dev. Granted, I'm a full stack dev so that might play a part in it."
+52,kriswithakthatplays,1520965088.0,2.0,"If you want free karma, make some visualisations and post them to [r/dataisbeautiful](https://reddit.com/r/dataisbeautiful)"
+53,geeky_username,1520970933.0,4.0,"The top-paid languages had a lot of dying/obscure ones that are probably rare in the wild, thus drive up the overall average.
+
+F#, OCaml, Clojure, Groovy, and *Perl* are the top 5?  I literally don't know anyone coding with these.
+
+So someone looking at this could easily get the wrong idea and think learning these will lead to success, when in reality they are a niche market with highly paid devs to maintain legacy systems."
+54,frenchchevalierblanc,1520948262.0,1.0,Salary means are meaningless. One very high/very low salary will change the whole mean.
+55,delusions-,1520957177.0,101.0,"> 60ties 
+
+This hurts me physically."
+56,WildWeazel,1520958555.0,32.0,"I feel the same about ""full stack developer"". I suppose that's what I do but it usually implies ""I write JavaScript on _both_ sides of the web.""
+
+I'm a software engineer. I develop whatever the requirements dictate. Web, mobile, desktop? Sure. Need DevOps or UI design? On it. I mean, right now on one project I'm integrating virtualized apps with virtualized hardware, and on another project I'm writing (mostly) headless Android code for a robotic platform and managing CI. _What am I?_"
+57,matthieum,1520948575.0,33.0,"Yes :( Every year I struggle to answer that question.
+
+I develop services. Just that, services. If there's no front-end on top, is this a backend?"
+58,Trazgo,1520961621.0,2.0,"I couldn't really find a job category listed that I'd put myself into. 
+ I'm doing research commercially and that involves a bunch of random bits from different categories depending on the projects/contracts we have.  I guess it kinda feels like ""Data scientist or machine learning specialist"", but not specifically for data science or machine learning.  Makes me feel left out :("
+59,stormannnn,1520955761.0,-1.0,Ahh the oft-repeated opinion of the punchcarders. Always refreshing to know you guys are still alive and kicking! 
+60,robothelvete,1520946881.0,28.0,"As a Swede, I felt the same thing when I did the survey. I took it to mean benefits *in addition to* what I've already got by law/union bargaining. But that's just me, I don't know how other people took it. "
+61,theKovah,1520949318.0,23.0,"I was wondering about the same. But I think many people who voted for this mean that they get *additional* insurances like accident insurance (Unfallversicherung) or income protection (Berufsunfähigkeitsversicherung) which are paid by the company. And that would count as a benefit for me, even if it wouldn't be priority 2."
+62,,1520958956.0,14.0,"> Which person in Germany would consider these things compensation or benefits? Those can't be taken away or given to you by an employer.
+
+When I read that part of the survey I was like, what the duck is this. I don't even have to work to get all these things: 
+
+- Health insurance
+- Parental leave
+- Childcare benefit
+- Transportation benefit 
+- Retirement or pension savings matching
+- Fitness or wellness benefit (some health insurances give you fitness/wellness benefits if you actually use them, e.g., if you actually go to the gym 6 times/month every month of the year your health insurance pays for x% of your gym membership)
+"
+63,,1520950808.0,5.0,"Can German companies not give you private health insurance, or extra parental leave? I'm in the UK where I can use the NHS and am entitled to paternity leave, but many companies offer benefits that improve on the basic rights.
+
+I'm more surprised that remote working isn't listed as a benefit. It's pretty much the *only* benefit I care about after salary. You can keep your catered lunches."
+64,hogg2016,1520962590.0,5.0,"The survey forced you to *class all* the answers to this question. You could not select a few answers and deselect other ones. I remember being particularly annoyed at this question (many others were shit but this one was the worst) because it made no sense at all for me. So people who answered gave whatever meaning to the question and the sorting order, or just didn't sort anything and left it as it was.
+
+So, for civilised countries, you cannot interpret the answers to this question. It is only valid for USA and other third-world countries.
+
+There were several questions which made sense only if you were a Web Dev too."
+65,trin123,1520971033.0,3.0,"Those people are probably freelancers
+
+In Germany you still need an employer to pay your health care insurance. If you have no employer, because you are freelancing/self-employed rather than being an employee, you have to get your own insurance. And an own insurance is expensive, around 400 to 800€/month with the public plan. 
+
+"
+66,NanoCoaster,1520950326.0,1.0,"Exactly. Maybe I misunderstood the question, but to me, these aren't things I care about when looking at potential job offerings, seeing as they have nothing to do with the company. Everybody gets parental leave.     
+Health insurance is of course a little bit different, but still: It's not like your employer grants you private insurance or something, that solely depends on your salary."
+67,Ut_Pwnsim,1520951078.0,1.0,"If they are comparing jobs in different countries, that could still be a concern (and reason that they chose a job in Germany)"
+68,alcalde,1520976940.0,-1.0,"> Those can't be taken away or given to you by an employer.
+
+History shows that Germans can take away from you whatever they want. "
+69,,1520951027.0,37.0,[deleted]
+70,Kringspier_Des_Heren,1520995176.0,9.0,"That's the same everywhere.
+
+I find it amusing how much ""bi erasure"" exists while the demographic has always been more common than homosexual and I'm pretty sure _a lot_ of bisexual people exist that just put themselves in straight; it's quite common that people find that out only much later.
+
+It's easier to think you are straight because society tells you when you're bi than when you're gay obviously but people continue to treat it as something that is rarer than homosexual.
+
+""ambivalent gender identities"" are also far more common than ""incongruent gender identities"".
+
+I really dislike terms like ""gay marriage"" or ""gay adoption"" for what should just be called ""same-sex marriage"" and ""same-sex adoption""; you don't even need to be ""gay or bi"" to do it; if you're straight as an arrow and want to live together with your best friend of the same sex and adopt children together then go for it; there's no rule in life you have to have sex with the person you raise a kid with."
+71,Audiblade,1520963986.0,12.0,"When I took the survey, I put myself down as both gay and bisexual. I'm attracted to men and women, but my SO is the same gender as me and we're both monogamists. So I decided I fit both categories."
+72,HereticKnight,1520968235.0,6.0,"Would *love* to see this broken down by geographic region. In my neck of the woods, most people self-identify as bisexual."
+73,editor_of_the_beast,1520945992.0,270.0,"I'm going to make a potentially controversial claim: it's because Rust isn't really meant for application development, and most people don't really need a systems programming language.
+
+I think Rust is so loved because if you've developed in C or C++, which is a non-trivial percentage of developers that build systems-y things (OS's, Browsers, Databases), you know that you write every line of code with fear. Multi threading isn't just a pain in these languages - it's a fool's errand. Source: worked on a highly multi-threaded cross platform application written in mostly C++ for three and a half years. It crashed - all the time.
+
+If you don't have that experience, and have lived in JavaScript or Ruby or Python or Java, or anything garbage collected for the last 5 years, why would you care about Rust? If you're building primarily SaaS web apps why would you care about Rust? I think the answer is, you really shouldn't. Just keep doing what you're doing - those tools are much better for application development.
+
+But applications today run on top of tons of infrastructure. No one writes Browsers in Java. No one writes an OS in Python. Those people care very much about Rust because what love have they gotten since 1980? They've been working without package managers, without garbage collection, and with tons of linters and static analyzers for decades just to avoid double-free and use-after-free errors. Rust's memory model solves a whole class of those problems, while also offering modern package management and popular language features like closures, optionals, and powerful ADTs. The standard library provides lots of high-level operations that you'd need to implement yourself in C or bring in a library.
+
+Rust's demographic is dying for a language like it, and it wasn't Go. So if you don't love Rust, you're probably not supposed to, and that's totally fine. "
+74,gt50201,1520928035.0,135.0,Because rust wasn’t made at google. You have people who want to develop like Google does and you have ex googlers driving adoption when they go to new jobs
+75,harlows_monkeys,1520952054.0,16.0,"What they are measuring by ""loved"" is noted below the numbers, kind of unobtrusively so it is easy to overlook: the percentage of people *who use the language* who say they would like to continue using it.
+
+Under that definition, a language could easily be quite loved, but not be widely adopted.
+"
+76,steveklabnik1,1520947759.0,36.0,"For one thing, Go has been stable for much longer."
+77,_VictorTroska_,1520945839.0,27.0,"For me, it has nothing to do with google. I just think Go was an easier language to pick up. Within 24 hours of reading my first line of Go code, I made [this](https://github.com/frankenbeanies/uuid4) , which while certainly not the most impressive package out there, is fully tested, documented, and ready for use in my other packages. I simply couldn't pick up Rust that quickly."
+78,wretcheddawn,1520960740.0,6.0,"It serves a different purpose.  I'm looking to start learning Rust, but it's clear that it's not an ideal language for most of the projects I work on as a web developer, or even my hobby projects.  Most web applications spend the majority of their time waiting on the database, and generally we don't have much shared state across requests (or it's impossible for languages like PHP). Using Rust would mean each project would take longer and cost more, while as a contractor, I need the opposite.  Rust is a better choice for things like high-performance or real-time apps and games, which is a small minority of development.  In cases where Rust is a better choice, developers may be required to use C or C++, rely on C/C++ due to familiarity or due to the lack of libraries in Rust compared to C/C++."
+79,PM_ME_UR_OBSIDIAN,1520962257.0,4.0,"Industry adoption has little to do with how loved a language is. See: PHP, Java, JavaScript. And the other side of the medal: Haskell, F#, OCaml, Nim are all well-loved but neglected by industry (for good and bad reasons).
+
+Industry adoption is a major driver of [general] adoption."
+80,Thaxll,1520950021.0,10.0,The same reason people use Java / C# / Python and not C++. Why bother with Rust complexity when you can deliver faster products with higher lever languages. The borrow checker is powerful but tbh it adds a little compare to the overall complexity to write anything in Rust.
+81,vine-el,1520947503.0,11.0,Go is easier.
+82,UnfrightenedAjaia,1520941039.0,-10.0,Because the Rust Evangelism Strike Force will bias whatever survey you throw at them.
+83,oromier,1520954026.0,-9.0,Because you Rust devs are all cultist.
+84,geodel,1520950019.0,-1.0,It is. You just have to follow this subreddit to know that.
+85,lelanthran,1520977950.0,0.0,"> Rust is the most loved language for 3 years in a row (and 3rd in 2015). 
+
+Yeah, and its use in industry[1] is not even a rounding error. It shows up as *BOTH* **most loved** and **unused**, both in industry and out of industry (personal projects)[Programming, Scripting and Markup Languages](https://insights.stackoverflow.com/survey/2018/#technology-programming-scripting-and-markup-languages).
+
+This tells me that the hype around Rust is not proportional to its utility (yet). Maybe next year Rust will show up in the ""I write programs in this"" category. This year it is not even on the charts.
+
+[1] According to the survey, anyway."
+86,quicknir,1520954755.0,108.0,"This honestly just says more about the SO results than it does about reality. Game dev doesn't pay amazingly well by most accounts, but C++ is an incredibly important language at 3/4 of the biggest tech companies (Google, FB, and Microsoft). Those are some of the best salaries you can get in tech.
+
+In finance/fintech, C++ is also one of the most important languages. Good C++ developers are incredibly hard to find. If you know C++ well and have a few years of experience, in NYC you'll have no problem picking up multiple offers north of 300K, potentially more. And demand is always high. Languages like python, Java, etc, you can always find someone, maybe a bit worse, maybe a bit better. A lot of the C++ devs I've interviewed are somewhere between bad and mediocre.
+
+On top of all that, C++ is such a complex, multi-faceted language that many, many languages are quite easily to learn after C++. A colleague of mine who's an expert at both java and C++ once said that someone with 5 years C++ and 1 year Java experience, is a better Java dev than someone with 6 years in Java.
+
+tl; dr with a sufficiently sharp version of your weapon of choice you should be doing extremely well."
+87,roselan,1520947890.0,25.0,"that's mainly due to game dev slavery, no?"
+88,justbouncinman,1520946111.0,57.0,"That tells you about the quality of surveys of anonymous users and just how low SO has dropped in the quality of users. Most of us have left, never to return, until SO can correct the vulgarity of bad questions and answers."
+89,McCoovy,1520966488.0,2.0,"Who even markets themselves based on language? I guess the question is more about the main language you use and also how much you get paid, these two points don't seem to be 100% related."
+90,Catdogparrot,1520992554.0,1.0,These surveys get gamed by language fanbois. Prime example of bullshit: rust.
+91,,1520945068.0,-23.0,c++ devs completely utterly btfo will they ever recover?
+92,valtism,1520983936.0,4.0,"I would say that 1\) is because historically a significant fraction of people who have identified as straight have also answered surveys that they have had enjoyable sexual encounters with someone of their own gender. These are people who are probably mostly straight, but the current social climate makes it more acceptable for these people to identify as bisexual / queer.
+
+2\) would be a combination of social acceptance and probably somewhat due to the younger demographic who may not have yet developed sexually."
+93,ReDucTor,1520985000.0,10.0,"> About a quarter of developers say they want to start their own company, but this is most common among developers who are younger than 25 years old.
+
+I feel this is really a survey of what students want."
+94,ChrisRR,1520932924.0,85.0,"I think [this](https://imgur.com/a/19pFT) accounts for a lot of bias in the survey.
+30% of professionals have been in the industry less than 2 years, 57% less than 5 years and 19% are students.
+
+Quite a large part of this survey is people in their very early 20s"
+95,,1520930807.0,139.0,"I am not sure about you, but as my career as a developer progressed I rely less on Stack Overflow today as I did in the past. To me it seems that this survey may have a strong bias."
+96,night_of_knee,1520932439.0,90.0,Less than a third of respondents have children? I think the existence of children is correlated with less time available for online surveys. 
+97,twiggy99999,1520936187.0,26.0,"> Let's talk about survey bias
+
+This data is not as first seems, it doesn't mean 80.8% of the respondents are hobbyists, it's saying 80.8% of those who responded do coding as a hobby. 
+
+> Many developers work on code outside of work. Over 80% of our respondents say that they code as a hobby.
+
+If you take a look at the number of respondents on each tab (all respondents and professionally only) 98,855 total responses of them 87,450 where from professional developers.
+
+I'm not saying there is no bias in this survey but you have misinterpreted the data on this section."
+98,edanschwartz,1520947721.0,6.0,"It would be great if someone could take the raw survey data, and break it apart to account for some of the bias (eg, how do responses change if you only include devs with 5+ yrs exp? with kids? etc.)
+
+I would do it, but I have kids, and no time for working on hobby projects ;-)"
+99,steve_b,1520959006.0,3.0,"I was wondering what the methodology was for collecting these survey results.  I use stack overflow on a daily basis and am always logged in, yet until I saw this article, I had no idea they were conducting a survey.  
+
+Did they present this randomly as an interstitial to people visiting the site? Or was it a banner at the top that said ""take our survey"" (the kind of think I instinctively avoid to the point that I subconsciously filter it out).
+
+IMO, the only reliable way would be as an interstitial that the user has to explicitly dismiss, and to track the dismissals, correlated by the demographic information in the user's profile (or perhaps by answering 2 simple multiple-choice questions prior to dismissing it), but I'm guessing SO was too afraid to disrupt users' experience."
+100,,1520948056.0,2.0,[deleted]
+101,WinDOS_98,1520987379.0,1.0,How does a large portion coding outside of work show bias? 
+102,,1520958405.0,32.0,[deleted]
+103,,1520958559.0,3.0,"yeah that was weird. just use it if you want. it's not exactly bleeding edge or especially abstract or anything
+
+"
+104,snorkleboy,1520962403.0,2.0,"Easy to start easy to change.
+
+You can just save an entire RSS feed response and later on fetch the parts you need. 
+
+It also scales well horizontally, so there's that. 
+
+Honestly why not use mongo? If you want you can use it in a way largely analogous to any relational database with the option of not. 
+"
+105,Double_A_92,1521026006.0,1.0,They heard it's webscale.
+106,jasie3k,1520955298.0,10.0,"Uhm, pure speculation here, but Haskell is a go to language for functional programming, right? Where F# is more tailored to people that already are within .NET stack, so it might be that once they know what they are getting into when jumping ships?"
+107,marcosdumay,1520956916.0,5.0,Haskell is teached at school.
+108,phillipcarter2,1520960187.0,2.0,"F# has a lower barrier to entry than a lot of other FP langs. Super easy to new up a FAKE script to help infrastructure (literally every workplace can benefit from this :)), or just use it to write some test code, or have a functional core in your domain logic that you can plug into the rest of the system via Add Reference."
+109,Potato44,1521088538.0,1.0,I'm not sure if I'm typical of these low experience Haskell users but I'm someone that is young (~20) and self taught myself Haskell. It wasn't my first langauge (that would be Java). 
+110,nutrecht,1521013451.0,0.0,"Haskell is probably skewed because it's used in university.
+
+You see something similar with Clojure and Scala: both part of the Java ecosystem and I know a lot of experienced developers who dove into functional programming. It's unfortunate that Kotlin is not on that list; I suspect it's similar. A lot of Java devs (myself included) prefer Scala and Kotlin over Java because of the stronger FP support, null safety and immutable-by-default approach of the languages. "
+111,andradei,1520951928.0,8.0,"Juventude is a matter of spirit at this point. Stay energetic, good humored, and having fun."
+112,EcksrayYangkeyZooloo,1520963704.0,3.0,"[I am 30, or I will be in November.](http://www.pbh2.com/wordpress/wp-content/uploads/2013/05/greatest-office-gifs-creed-acts-young.gif)"
+113,Freyr90,1520965287.0,2.0,"> OCaml
+
+It is more dreaded than PHP. What's wrong with this world?"
+114,mrdrewbeats,1520960092.0,3.0,Ocaml... Fuck that
+115,k-selectride,1520965368.0,2.0,"Erlang I can understand, the punctuation rules are kind of goofy. Though coming from Elixir it's pretty readable once you get passed it."
+116,fuckin_ziggurats,1520928899.0,98.0,I use Visual Studio. Some people use VS Code. Some people use Sublime Text 3. But we all use Notepad++.
+117,oromier,1520941654.0,6.0,"My friend who works with C++ files and assembly ferquently uses notepad++. Easy to install and easy on the memory without any bloat and has syntax highlighting. If you need to edit files in on a server especially usefull. 
+
+If you have a staging server with 15+ VMs running you don't want to run Atom/Sublime/VScode.. every MB of RAM is precious. "
+118,KrocCamen,1520928438.0,19.0,"Faster, though? So many editors are using a million web-based extensions that Notepad++ is hard to beat for raw speed."
+119,XboxNoLifes,1520945485.0,3.0,"I'm using Notepad++ because I don't want to go through Tech Support to get something better, and anything better will only be *very* marginally better than Notepad++ for my work."
+120,Carighan,1520929101.0,11.0,"> but there are really better tools today
+
+Are there? I mean on Windows? There's not that many decent text editors around, and the bar is extremely high with N++."
+121,,1520998048.0,2.0,"Notepad++ can debug C# code while Vim/Emacs CANNOT
+
+https://archive.codeplex.com/?p=csscriptnpp"
+122,Zigo,1520942940.0,1.0,"I primarily use Visual Studio and Vim for actual programming, but I still have N++ *installed* on pretty much every machine. Sometimes I just want to open a simple text file in a GUI, and it works for that. I don't think I've ever written any code in it."
+123,,1520966822.0,1.0,"I use notepad++ all the time for things. I do mostly web design and development. It's a good tool that's really quick for certain things.
+
+I use Sublime text for larger more in depth projects but notepad++ easily gets the job done for modifying just template files, WordPress themes, or similar task. "
+124,,1520952843.0,12.0,"The original questions in the survey were never the form ""Which tools do you love?"" and ""Which tools do you dread?"", and instead were actually the form ""What tools do you use today?"" and ""What tools do you want to use tommorow""?
+
+Loved and dreaded are *bad* extrapolations from that sort of measurement. It's not the sort of measurement which can tell people's intrinsic favoring of a tool, since it doesn't at all measure whether people formed their toolchain by desire or incidence, and it doesn't attempt to differentiate extrinsic motivations that people could have for working with a tool (like the opportunities involved with it).
+
+COBOL, for example, is at 85% dreaded. That sounds reasonable, until you realize that it only consists of people using COBOL professionally. If you've looked into the world of mainframes you'll also find that COBOL is just one of the many tools used by the systems, instead of always a component one would be seeking to work with from the start. And, if you think about the people who would pursue COBOL, you'd realize pretty quickly that they are likely in it for either the opportunity of the legacy-work or the opportunity to work with mainframes. You can't say whether the people actually love or hate COBOL from any of that, but those are the factors that determined that low score of 15% saying that they explicitly wanted to continue pursuing work with it. 
+
+You can't say that 15% of all developers love COBOL, and just as to say clouds mean rain you can't say that 85% of all developers dread it either. Either that, or 2/3 of people using Object Pascal hate it, 3/5 of people using OCaml regret their jobs, and 52% of people working with Ruby just do not enjoy it."
+125,i9srpeg,1520950703.0,4.0,"Yeah, I end up reading the source code way more than I should."
+126,,1520976706.0,2.0,To be fair with the right suite of plugins it’s basically an IDE.  
+127,ScrimpyCat,1521010307.0,4.0,"I ticked that. From my perspective it's not to be more productive (not sure why they inferred that, as they didn't phrase it that way nor asked you about your productivity levels). Rather I just get too caught up in something, I'll sometimes forget to eat. Basically as simple as that, it doesn't make me more or less productive whenever it happens. 
+
+Also isn't restricted to just programming activities either. "
+128,0987654231,1521023452.0,1.0,I only eat at night most days so I skip breakfast and lunch
+129,mmstick,1520995119.0,1.0,"I only eat one meal a day, at the end of the day. It's pretty common."
+130,,1520966042.0,17.0,[deleted]
+131,,1521008063.0,4.0,[deleted]
+132,nutrecht,1521013495.0,1.0,"> Does anybody have an explanation why there are only 6.6% women in the survey? Is the male/female ratio in professional development really that extreme?
+
+If we had 6.6% developers in our team we would be doing a lot better than we're doing now. So yes; unfortunately. "
+133,Nodebunny,1521010778.0,1.0,It's trash.
+134,HINDBRAIN,1520940653.0,48.0,Diversity is highest priority for 1.6%! It's impressive how little people give a shit despite the amount of articles and conferences and overall noise about it.
+135,SgtBlackScorp,1520948958.0,10.0,"If I am not in a leading position at my my company, why should I care about the diversity of the employees? That's not my concern, at least not my primary one. "
+136,,1520971117.0,2.0,"It's a survey of individuals. If the result was 100%, then it would be 100% of individuals."
+137,tdb7893,1520945121.0,-13.0,"The survey was heavily skewed towards young white males so it's unsurprising that diversity wasn't important. Also diversity contributes to company culture, which was important to people (especially women)."
+138,IPv8,1520951488.0,6.0,"Agreed.  I haven't seen all that many shops running it, nor have I seen many job postings for it.  Intuitively it feels like survey bias, but even then it still seems really high."
+139,Nodebunny,1521010823.0,2.0,"It's been popular for a long while now. Something else should rank higher? Node is cornerstone to almost every frontend tech right now even just as a build utility. Everyone and their baby mama wants react like crack, which duh requires Nodejs."
+140,,1520964750.0,3.0,Why?
+141,andradei,1520952009.0,5.0,At least it isn’t a nibble depressing.
+142,Pzda,1521045756.0,1.0,"It looks like it needs a subtitle like...
+*Do you have a stack overflow account?*"
+143,Double_A_92,1521026145.0,9.0,Licensing hassles. 
+144,Nodebunny,1521011247.0,4.0,Cuz it's crap.
+145,Nodebunny,1521011062.0,3.0,I think ur perspective is off. Think about the people who would need a Stackoverflow. Some grey beard wizard or some green react snapchat junkie? 
+146,Sloshy42,1521039437.0,1.0,"It seems like they're extrapolating from the actual questions to get some of those. So ""dreaded"" wasn't explicitly asked (AFAIK) but was instead the results of whatever tech people didn't say they wanted to use tomorrow, or something like that."
+147,Nodebunny,1521011170.0,6.0,Do asexual people date? Seems a little contrary
+148,Kopachris,1521091229.0,1.0,"Whoa, another asexual programmer with a bionicle-inspired nickname"
+149,fuckin_ziggurats,1520932819.0,4.0,If we're ignoring the fact that different people like different things and that the wanted and dreaded technologies hugely overlapped in that chart..
+150,dalittle,1520953474.0,4.0,"In my experience it has no correlation.  People hated javascript years ago and still hate javascript and node is popular.  All the bolt ons for it and stuff like ES16, typescript just make it a bit less sucky.  Adoption usually has more to do with politics and support than technical merit."
+151,Nodebunny,1521011106.0,1.0,"Popular != Better.
+
+Didn't you read that one dudes article about Lisp? 
+
+The hard technologies are a barrier to entry and a business differentiator."
+152,Nodebunny,1521011220.0,1.0,Just use ES6 like a pro and don't use any frameworks. Vanilla ... As they say
+153,KagakuNinja,1520960037.0,2.0,"My guess is that it is mainly used for server back-end and big data (due to Spark). These jobs tend to pay more than front-end.
+
+Perhaps the lack of experienced Scala devs is a factor."
+154,nutrecht,1521024172.0,2.0,"The primary reason it pays well is that it's used a lot in finance and typically that the people working on these kids of systems tend to be rather senior people. So it's not really the language itself, it's more the niche it's being used in. Language that are more 'niche' tends to stand out more. Most of these Scala devs are really just senior Java devs, so a senior Java dev would make the same money. But that same Java language is also used for a lot of really simple android development. So that's why it's more towards the average than Scala."
+155,alcalde,1520976349.0,4.0,">Surveys of anonymous users are worthless
+
+On what do you base that?"
+156,theKovah,1520949962.0,12.0,"Like in the /r/webdev thread, someone pointed out that you should never make decisions based on such surveys. It may make sense to get a *rough direction* of the market for US citizens but for me as a German the survey is more like ""interesting what the rest of the world looks like"" because there is basically no relevant data that gives me more insights than e.g. studying current local job offers. There is just not enough specific data for each region and it's also highly inaccurate due to the broad user base that participated.
+"
+157,alcalde,1520975797.0,3.0,I think it suggests that negative aspects of office environment and culture target women and transgender people.
+158,nutrecht,1521024009.0,2.0,"How is that an indictment against men in general? It just shows that women, transgenders, gays, etc. suffer more from nasty shit in the office than men do. "
+159,Morwenn,1520935817.0,35.0,"Most of the time Googling what you want to know and clicking on SO links is the fastest way to get an explanation and/or solution to a very specific problem. Turns that sometimes I've got plenty of very specific problems to solve.
+
+That, or even when I understand what I am doing I still want to check whether it's the proper way to do it or whether there is a more elegant/idiomatic solution to solve the same problem."
+160,RuthBaderBelieveIt,1520935897.0,10.0,Let's be fair though this is a survey asked on SO it stands to reason that people who answer it are more likely to frequent the site. 
+161,Zigo,1520943310.0,4.0,"When I Google something, half the time SO comes up first instead of the official documentation. I click on whatever gets me there the fastest, and no, I don't have the entire set of libraries, frameworks, tools, infrastructure options, and APIs (in multiple languages!) I use at work completely memorized.
+
+I do occasionally like to compare my solution to the ones other people have made. Sometimes it makes me realize that what I've done isn't optimal. Nothing wrong with that, just means I'm still happily learning. :)"
+162,twiggy99999,1520952419.0,3.0,"I end up there most of the time because they are usually the top result on Google. I go there for information rather than asking questions and I can do this because I have a general idea of how to solve the problem I just don't know certain specifics of it.
+
+Now give someone else the same task with fewer years difference they wouldn't have that ""general idea"" as a starting point and I think that's the people you're highlighting. This isn't a bad thing though everyone starts somewhere and I bet you have done the above at some point in your career.
+
+I certainly didn't go into my first job knowing everything and would ask questions very often, probably more than on an hourly basis. Although..... at that time there was no SO and my questions went to senior devs on the team (I'm feeling old now)"
+163,,1520936586.0,2.0,"Sometimes I'll use stackoverflow instead of the official documentation, sometimes it can be more informative. I do agree multiple times a day is a bit much though."
+164,,1520967490.0,1.0,A lot of those will be API questions. How do I do this specific thing with this specific API and why it is returning JSON when the docs say XML?
+165,nutrecht,1521024241.0,1.0,Stackoverflow is basically the wikipedia of code. I use it constantly to end up where I need to be. 
+166,muharagva,1520935880.0,-2.0,"Well, it's easier to fix something with SO snippet, than to understand the problem and fix it with understanding. I know a lot of people like that and they don't see the problem with that kind of work."
+167,DuckDuckYoga,1521318451.0,1.0,Isn’t your most expensive player normally your best player?
+168,ASK-ABOUT-VETRANCH,1521035700.0,3.0,Super glad my work is moving over to using SharePoint in the coming weeks :/
+169,,1520952979.0,28.0,[deleted]
+170,ReadFoo,1520959573.0,3.0,"Agreed. Nothing I saw comes close to matching reality, platforms, languages, salaries, everything."
+171,a_tocken,1522901553.0,1.0,"Disagree. You're making a classic ""not perfect therefore not worth anything"" argument which is rather silly. Just take things for what they are. Specific criticisms are more useful than dismissive pithy comments."
+172,PeterBrett,1521009134.0,2.0,"> I literally don't know anyone coding with these.
+
+Perl is pretty much ubiquitous in bioinformatics."
+173,kiteason,1521470597.0,2.0,"It would be a pretty strange statistical distribution if the top earners *weren't* specialized wouldn't it?  If you don't know anyone who is coding in any of those examples, I guess you are moving in the wrong circles ;-)."
+174,Shumatsu,1520950321.0,5.0,That's when you remove outliers when calculating means.
+175,Zonarius,1520958013.0,50.0,sixtyties
+176,jewdai,1520960782.0,7.0,"I don't get the split up between frontend and backend developers. 
+
+IMO, Typically ""Frontend"" developer just means someone who got out of a hacker school or is a designer getting into code. 
+
+I avoid FE/BE only roles because I need to be versatile when the job market, if ever, crashes. If you're ever stuck in a choice between the two, I'd recommend backend anyday. There are way more languages you can work in and if you have solid fundamental in those many positions will let you learn on the fly for front end stuff. "
+177,btreecat,1520971510.0,1.0,">*What am I?*
+
+You pass butter. "
+178,PM__YOUR__GOOD_NEWS,1520948820.0,78.0,"Backend developer.
+
+NEXT!"
+179,alcalde,1520977415.0,2.0,"Doesn't anyone write real software anymore? Like, programs people use? Bowling score calculators and the next Bonzai Buddy and whatnot?"
+180,theor,1520974861.0,1.0,I'm afraid you are working in the service industry. :(
+181,watchme3,1520959781.0,13.0,"are those real words, or are you just trolling"
+182,alcalde,1520977057.0,1.0,">Retirement or pension savings matching
+
+Really? Your government contributes to your retirement savings?
+
+>Parental leave
+
+How can you be not working yet get parental LEAVE?
+
+>Transportation benefit 
+
+Similarly, a government pays you to ride around?
+
+"
+183,,1520953262.0,5.0,">  companies not give you private health insurance, or extra parental leave
+
+Yes in Sweden, some companies add extra salary during parental leave to the social security salary ceiling, and some offer some basic health insurance
+
+"
+184,sihat,1521028267.0,1.0,"In the Netherlands, the amount of health care insurance you need to pay, is determined by the insurance you take and the amount of money you get. (You get a tax back for the monthly minimum insurance amount, if you earn less than a certain amount.) 
+
+Accident insurance, extra pension and work/income insurance is separate if you are working for yourself/freelance. (Also you need to be working for at least 2 companies to be freelance in a certain time frame.)"
+185,notadoctor123,1520962945.0,11.0,"Is there a correlation between asexuality and autism? Anecdotally, none of the people I know who identify as asexual are on the autism spectrum, and all of the people I know on the autism spectrum are not asexual."
+186,Edg-R,1520952152.0,15.0,"That's what I thought too.
+
+IRL I know maybe 2 bisexual guys (most of the stack overflow users are male according to the survey), and I know many more gay guys. 
+
+Maybe it's due to the fact that the survey is anonymous. People in CS and younger people in general tend to be more liberal/accepting of homosexuals these days. So it leads me to believe that maybe they're also more likely to be turned on by it to an extent and only willing to speak about it anonymously."
+187,valtism,1520983490.0,16.0,"Just because your SO is your gender doesn't mean you're suddenly gay. A folding couch is still a folding couch, even in bed mode. Being gay means you're only attracted to your gender, which by your own admission, you're not."
+188,Kringspier_Des_Heren,1520995204.0,10.0,"Would you've also put yourself under ""straight"" if your SO was of the opposite sex?"
+189,,1520970705.0,8.0,"> most people self-identify as bisexual.
+
+What? Where in the world is that? That's something I've never heard of."
+190,,1520958043.0,35.0,"> If you don't have that experience, and have lived in JavaScript or Ruby or Python or Java, or anything garbage collected for the last 5 years, why would you care about Rust? [...] Just keep doing what you're doing - those tools are much better for application development.
+
+I actually see a lot of Javascript, Python, and Ruby developers using Rust. If a Ruby application is slow because of Ruby, you can work around this by re-writing the hotspots in C. For a team of full-time Ruby developers dropping down to C can be risky and some teams actually get professional C developers on board to help with this.
+
+Rust enables Ruby developers to do it themselves while having a high-degree of confidence that they aren't writing a time-bomb."
+191,matthieum,1520948509.0,53.0,"I partially agree with you.
+
+I disagree because Rust is trying to be more than ""just"" a systems programming language, and is used in other settings (low footprint, high-performance, ...).
+
+However you are right that as a C++ developer I am glad that finally a new language is popping up which solves so many fundamental issues with C++.
+
+I was very excited when Go was announced, and very disappointed when it was revealed: it wasn't what I needed to replace what I use C++ for (not high-performance/low-latency enough). Rust is unlikely to be perfect, however it does have the potential to be much better than C++ for what I work on: the foundations are solid, I am eagerly awaiting const generics and SIMD support."
+192,hu6Bi5To,1520976574.0,4.0,"I think one of Rust's biggest strengths is that it removes that line between ""system"" and ""application"" languages.
+
+It is both a C++ replacement with safety, and package management, and a consistent build tool shared by every project, etc.  But it's also quite an expressive high-level language: traits, closures, etc.
+
+As for ""why not the take-up of Go"".  I genuinely don't know.  Quite often A vs. B comparisons between languages make no sense, as they all have strengths and weaknesses (even the unpopular ones, well most of them).  But the use cases for Rust and Go are nearly the same, and Rust is a superior language in nearly every way.  The only exception is Go's built-in co-routines, vs. using a library in Rust; but the Rust 2018 roadmap is going to address that one too."
+193,doom_Oo7,1520966656.0,3.0,"> I think Rust is so loved because if you've developed in C or C++, which is a non-trivial percentage of developers that build systems-y things (OS's, Browsers, Databases), you know that you write every line of code with fear. Multi threading isn't just a pain in these languages - it's a fool's errand. Source: worked on a highly multi-threaded cross platform application written in mostly C++ for three and a half years. It crashed - all the time.
+
+How did you do ? In my app I do threading either manually with std::thread and lock-free queues for message passing, and tbb & Qt's QThread for higher level threading... Hardly ever had a crash due to threading outside of the main development phase - and that's with running with ASan on almost all the time."
+194,tom-dixon,1520984246.0,2.0,"> Multi threading isn't just a pain in these languages - it's a fool's errand. Source: worked on a highly multi-threaded cross platform application written in mostly C++ for three and a half years. It crashed - all the time.
+
+I think you were working on a badly written multi-threaded cross platform application. Let the flame war begin."
+195,lanzaio,1520968357.0,2.0,I just wish the Rust team pulled a Swift/Objective-C and made Rust more interop-able with C/C++ codebases. 
+196,Nighthawk441,1521028558.0,1.0,Is rust not attractive for the video game industry?
+197,fiedzia,1520947860.0,-9.0,"> If you don't have that experience, and have lived in JavaScript or Ruby or Python or Java, or anything garbage collected for the last 5 years, why would you care about Rust?
+
+Because its faster and programs have less bugs. Also because it is modern language that makes many things easier to do even comparing to those languages. It is not there yet in terms of libraries/frameworks, but it does have benefits that make using it worth the effort."
+198,karuna_murti,1520947152.0,-10.0,"But but my personal project: https://hangar-project.org/ 
+Should be like most web framework + webassembly"
+199,rcoacci,1520930641.0,39.0,Also the only enterprise-y place/product rust is used extensively that I know of is Mozilla/Firefox/Servo. Go is used extensively inside Google.
+200,Thaxll,1520949820.0,-16.0,"People don't care about Google, if you think so you probably don't understand the advantages of Go."
+201,dm319,1521030279.0,1.0,"Yes, Go promised no-breaking after Go 1.0 (release 2012).  That has given companies confidence to commit to the language and invest their time in it.  Rust v1.0.0 was released in 2015 - I don't know if they've made such a promise, but they said back then the vast majority of Rust was stable, which doesn't have quite the same ring to it."
+202,iopq,1520960930.0,9.0,"It's true, Go is made not to be exciting, in fact, it's fairly dumbed down.
+
+But because only Go developers can develop type-safe abstractions, I'm already turned off by it."
+203,prozaker,1521042487.0,1.0,"It serves different programming markets. All those languages require a virtual machine to run and are garbage collected.
+
+If it's a website, sure I would agree that Rust is overkill when there are tools that are more mature for that."
+204,Lucretia9,1520950139.0,-7.0,You got downvotes because you’re right. Sad really.
+205,Overunderrated,1520958238.0,34.0,"> If you know C++ well and have a few years of experience, in NYC you'll have no problem picking up multiple offers north of 300K, potentially more.
+
+If I could do that but not have the cost of living of NYC / work remote, I'd sign up in a heartbeat.
+
+Glassdoor doesn't seem to agree that 300k is a common salary for c++ devs in NYC though. What does c++ and a computational physics PhD get me?"
+206,,1520965220.0,1.0,[deleted]
+207,Metaluim,1521024112.0,1.0,I would wager that a lot of those C++ devs that answered the survey are young and junior devs working on gamedev. Probably not that many systems programming guys answered the survey because maybe they don't use Stack Overflow as much.
+208,feverzsj,1520948433.0,2.0,"FinTechs, infrastructures, video/audio process, machine learning "
+209,donalmacc,1520955706.0,0.0,"I don't think it's fair to paint gamedev like that. I work in GameDev and am fairly compensated. There are plenty of web development jobs available that would be considered slavery with worse working conditions than GameDev, especially if you consider the ""will work for equity"" types of jobs."
+210,swytz,1520951338.0,33.0,"I'm pretty sure this is why python is over represented. Lots of sysadmin and devops style responders, with Javascript dominating. Other people left a while ago. "
+211,Haramboid,1520952674.0,10.0,"Are you using other resources? Or is Google enough?
+
+ Or are you just that smart?"
+212,McCoovy,1520966765.0,2.0,"I see most of complaints against SO are about bad moderating and having your question removed for being bad or a duplicate when its not.
+
+People also complain about the answerers often refusing the question.
+
+I haven't seen many complain about the bad questions."
+213,appropriateinside,1520980225.0,2.0,">until SO can correct the vulgarity of bad questions and answers.
+
+How about they address the extremely unhelpful and toxic power users that drive the community away?
+
+
+
+Making an SO post is like rolling a d20 where anything under 16 is a guaranteed loss. If a high-rep user happens upon it and they don't understand the topic it will be voted as closed. Or you get that guy who reads the title, then makes a comment asking questions that are answered directly in the post, and votes to close. Or reads the title and marks it as a duplicate of an unrelated post with a similar title.
+
+
+I've had some very frustrating arguments with SO users that seem to insist on commenting even though they don't have knowledge in the area of the question. If you get a troll latched onto your question, it's usually better to delete it and try again in a couple hours. Rinse and repeat till a subject matter expert comes along.
+
+It's infuriating. "
+214,alcalde,1520976464.0,1.0,">Who even markets themselves based on language?
+
+People who only know one language, some of whom tend to be zealots for that language, especially if it's a legacy language."
+215,PeterBrett,1521009289.0,3.0,"> Prime example of bullshit: rust.
+
+Please elaborate."
+216,incraved,1520963158.0,-5.0,Hopefully they don't. I hate C++. Let it die off
+217,kankyo,1520991441.0,3.0,"""Mostly straight""? Is that like ""almost pregnant""?"
+218,,1520948288.0,33.0,[deleted]
+219,Neuromante,1520934916.0,51.0,"Well, take a look at the years working graphs. Is obvious there's a strong bias towards younger people."
+220,lukaseder,1520931189.0,17.0,"I rely on SO as a support channel (from the support providing side), so that's maybe not the standard use-case.
+
+Among all my former coworkers, I hardly know anyone who would say they code as a hobby (survey: 80%). At the same time, almost everyone has kids (survey: 28%).
+
+Clearly, *my* coworkers aren't included in the survey (perhaps there's a strong correlation between coding as a hobby and answering surveys as a hobby, just like there might be a strong negative correlation between coding as a hobby and cleaning up kids' vomit, who knows).
+
+Of course, my coworkers are an even smaller sample than the survey's sample, but I simply fail to believe that so many people in our industry code as a hobby and have no kids.
+
+Which leaves the question: Who *is* the survey sample population, and why would we care about their opinion?"
+221,sazzer,1520935093.0,2.0,"I've found similar. More and more often, the problems that I have that I ultimately go to SO to ask for help on, I don't get any help there. The problems that I would have previously gone there for, I'm more adept at finding solutions myself or knowing where to ask to get a better response."
+222,neoKushan,1520965749.0,1.0,"Over the years I've found myself on S/O less and less. I still use it all the time, though. More often than not when googling for something, even something simple, it's the top/best answer. So though I use it every day, I'm not posting questions or answering them anywhere near as much.
+
+I find that by the time I have a question to post, I've googled the shit out of it so much that it either never gets answered (Because it's some weird edge case) or it gets answered by the dev of that particular library or whatever. 
+
+It's a blessing and a curse, really. A blessing because my Google-fu is clearly good enough that I rarely need to ""ask"" for help but a curse because when I do need that help, it's pot luck if I'll ever get the answer."
+223,editor_of_the_beast,1520946957.0,8.0,Amen to that
+224,,1520952466.0,3.0,"I wanted to write a smart comment about older devs having less interest in SO, but there are enough answers from older devs in the survey. This is something interesting to investigate "
+225,lukaseder,1520942927.0,5.0,"> This data is not as first seems, it doesn't mean 80.8% of the respondents are hobbyists, it's saying 80.8% of those who responded do coding as a hobby.
+
+That's exactly how I understood it the data.
+
+> I'm not saying there is no bias in this survey but you have misinterpreted the data on this section.
+
+No, I haven't, at least not in the way you put it."
+226,,1520938783.0,2.0,"> This data is not as first seems, it doesn't mean 80.8% of the respondents are hobbyists, it's saying 80.8% of those who responded do coding as a hobby.
+
+I think you've misinterpreted what OP said, rather than OP misinterpreting the survey. They're not saying 80% of coders are hobbyists *as opposed to pros*, they're pointing out that the number of people (pro or otherwise) who code in their own time is strongly correlated to the number of people (pro or otherwise) who have no kids, and that this survey is heavily biased towards those people."
+227,lukaseder,1520975836.0,1.0,Touché
+228,lukaseder,1520967617.0,1.0,"I saw a banner at the top, and I believe I also saw links on twitter and got an email because I participated in a previous survey. I don't know if I'm just part of some specific sample, or if everyone saw those banners or links."
+229,lukaseder,1520975815.0,0.0,"That's just your assumption, right?"
+230,lukaseder,1521013965.0,1.0,It's just my assumption that it is *very* unlikely that 80% of people in software code in their free time.
+231,TheSwissArmy,1520965353.0,7.0,"Furthermore, most of the devs in the survey have only been developing for a couple of years so they are going to be more reliant on the beginner tutorials."
+232,HereticKnight,1520970249.0,12.0,"Definitely easy to start, but *change*? I’m afraid not. Most people don’t rip out their entire database unless they have a damned good reason.
+
+I would never recommend MongoDB for three reasons.
+
+-	You think your data isn’t relational. Are you sure? Are you really sure?? You’re probably wrong. See [Diaspora](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)’s use case
+-	There are better NoSQL solutions, like Couchbase or Cassandra. MongoDB lies to your face. At its default settings, it will blithely tell you that a write has succeeded even though nothing has been persisted to disk or replicas. Yay! A database that loses data! Revolutionary.
+-	Scalability doesn’t necessarily mean going NoSQL. A single PostgreSQL node can cover you for a good long while. If you ever do need 100x scale, CockroachDB looks and feels like traditional SQL, but is distributed and is super easy to manage to boot. Then of course, there’s Google who hired the guy who came up with the CAP theorem and told him to break it. The result, Spanner, is black fucking magic."
+233,defunkydrummer,1520991366.0,4.0,"> If you want you can use it in a way largely analogous to any relational database 
+
+Big mistake."
+234,Lemon_Dungeon,1520973917.0,8.0,"Fuck...according to you, now I'M old."
+235,mrdrewbeats,1520960153.0,4.0,"That's a blanket statement but I still can't figure out how to program in ocaml, everything is so abnormal and counterintuitive sometimes"
+236,Carighan,1520929069.0,42.0,"Exactly this. Sometimes you need a **text editor** - not an IDE. But it is an important programmer tool, so I ticked the box."
+237,rcoacci,1520930421.0,10.0,"Hum ok, I can go with that. I myself have used notepad++ this way. I just got the impression that notepad++ was used as *the primary* tool. Perhaps I missed something in the survey results."
+238,,1520938933.0,10.0,"I haven't used N++ in *years*. Why would I ever choose to use it when I have Sublime Text right there, which is just as fast and much nicer to use?"
+239,Carl_Byrd,1520947615.0,2.0,Accurate.
+240,cryptos6,1520938582.0,-1.0,"But raw speed of what? Opening large log files? That isn't exactly the best productivity booster, I can think of. 
+
+VS Code offers so much more that I wouldn't even think of whether Notepadd++ could be faster in some cases. It is not that VS Code is slow, but probably not as fast as Notepad++."
+241,rcoacci,1520930264.0,19.0,"VS Code. Atom. Eclipse. Even Vim and Emacs works on Windows these days.  
+And those are the free ones."
+242,acousticpants,1521001445.0,1.0,source == truth
+243,KurrKurr,1520982281.0,3.0,Really? Apparently I've always been too lazy to read the docs. 
+244,Double_A_92,1521025855.0,13.0,"> Just look at many of Redditor's responses to anything about diversity.
+
+Most people don't have anything against diversity... It's just en**forcing** diversity that might be seen negatively.
+"
+245,PeterBrett,1521008979.0,-2.0,"In fact, [/u/73737's post adjacent to yours](https://www.reddit.com/r/programming/comments/8429be/stack_overflow_developer_survey_2018/dvo8wxl/) is a great example of the problematic behaviour and attitudes that drive women away from working in our profession."
+246,nutrecht,1521013805.0,6.0,"The main reason that western countries have low percentages of women in STEM vs. a lot of other countries isn't about freedom. Women in eastern European countries are not 'forced' to go into STEM; they choose to do so. [Before 1985 or so](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding) the ratio's with showing a healthy growth, but then something happens (home computers and related advertisements) and women participation dropped steeply. 
+
+A lot of men claim that women 'choose' to not be in programming. This isn't that simple. Women are being told from a very young age that computers are boys toys. By the media. By parents. By teachers. And by their peers. And that's a pattern that needs to be broken because in countries where this doesn't happen (easter europe, asia, middle east) participation of women is a LOT higher."
+247,Dentosal,1521023146.0,1.0,"Why? To me it just looks like a weird mix of python, ruby and js. Not something like VBA and Cobol that are on the list as well."
+248,,1520946208.0,93.0,"The other way of interpreting that is that the majority *aren't interested in identity politics*, and don't see any need to worry about whether a person is male/female/other, black/white/purple, english/german/martian etc - they are happy to work with whoever and just want to get stuff done. From that perspective, no: diversity **isn't** high on their agenda, despite them being totally welcoming and inclusive to all comers.
+
+Frankly, I'd be more worried about working with someone who insisted on dragging identity politics into everything."
+249,ChrisRR,1520942049.0,25.0,"Higher ups and a select group care as it makes tech look like a straight white males club, which only compounds the problem.
+
+I think most developers want to get on with their work and aren't too bothered what gender, race, sexual orientation etc. the people around them are.  And even less would rate it more important than their salary."
+250,,1520971201.0,5.0,"It's a bit of a luxury thing. How many people _have the freedom_ to give diversity the highest priority, over salary, location, fit of the technology with your skills et cetera?"
+251,Audiblade,1520964450.0,1.0,"I want to know how many developers listed diversity as _a_ high priority instead of just _the_ highest priority. I will always put a company's culture and the payment package I get before everything else, and I suspect that's true for most developers. I think you need to ask what developers' top 5 priorities are to get anything meaningful."
+252,,1520971311.0,1.0,"You would care if you're not a white male, or if you like working in a team that is mix a of diverse people.
+
+Personally I enjoy working in teams that are a healthy mix of men and women, it's just a better work environment, people act more normal than in all-man or all-woman teams. I'm also in my 40s so I'd like a work environment that isn't all 20-somethings. I couldn't care less about religion or race or sexuality etc though, and I like to be able to speak my own native language (Dutch) with everybody."
+253,alcalde,1520977523.0,-1.0,"Who you work with should be your concern. It's been found that the number one metric that differentiates a successful team (in any endeavor) is diversity of its members! If everyone looks alike, comes from the same background and thinks alike you're at a disadvantage. It's the team-building equivalent of being inbred. "
+254,Ajedi32,1520949733.0,16.0,[The chart includes a tab with a break-down by gender.](https://insights.stackoverflow.com/survey/2018/#work-differences-in-assessing-jobs-by-gender) Even among women diversity is extremely low on the priorities list.
+255,,1520949506.0,15.0,"You realize there is more to diversity than just the color of someone’s skin, or what genitals they have, right? "
+256,Nodebunny,1521010966.0,1.0,I mean are you in Minnesota or what? Silicon Valley is all about Node and React right now.
+257,Java4ThaBoys,1521053054.0,1.0,Nice one
+258,grep_Name,1521034395.0,1.0,"I guess that makes sense. I deal with an oracle database for my job, but I've only been here a few months and it's a big company so I've never had to deal with licensing"
+259,takanuva,1521021479.0,2.0,"We can try. I mean, you can have a date that does not end in sex, right? Of course it is way harder to keep a relationship without the sexual part, but it would be nice to have a partner for companionship and not dying alone and stuff."
+260,Kopachris,1521091359.0,2.0,"We tend to make more of a distinction between sexual attraction and romantic attraction. Some people who are asexual are also aromantic, they experience neither, but a good many of us do experience romantic feelings unconnected with sexual desire.
+
+I've been in a happy, committed, asexual relationship with my trans girlfriend for over a year now."
+261,not-much,1520933399.0,1.0,"A survey and some basic statistics only make sense when data of heterogenous, don't you think?"
+262,,1520954994.0,1.0,"Uh? I think that job satisfaction in your current role versus what it is like for other roles may be important. Furthermore, a data scientist is something that you can do a masters in, etc. etc. I am not talking about 'web development' or a shallow look. I am talking about thinking about things, and understanding them; obviously this is biased and influenced by a variety of things; e.g. salary is much lower in Germany/UK, but the taxes and healthcare systems is completely different from the US, etc. etc. It DOES give a good idea of which technologies are interesting and in-demand, and which aren't, though."
+263,,1520940173.0,4.0,"> Most of the time Googling what you want to know and clicking on SO links is the fastest way to get an explanation and/or solution to a very specific problem.
+
+Yes, but that's at least partly because Google scores StackOverflow so high that it crowds out other sources."
+264,lelanthran,1520978744.0,1.0,"> Most of the time Googling what you want to know and clicking on SO links is the fastest way to get an explanation and/or solution to a very specific problem. 
+
+Sure, but if you need to do that daily doesn't that indicate a problem?
+"
+265,ChrisRR,1520939810.0,-2.0,"I agree with this, and I do it myself very often.  But I'd say on the order of once a week, maybe more if I'm particularly stuck.
+
+Multiple times a day seems like you really don't understand the task at hand."
+266,hector_villalobos,1520940152.0,3.0,"I like to search SO to see if my solution is the best possible, sometimes I find other answers (not necessary the most voted one) that makes me realize there are better approaches."
+267,phillipcarter2,1520962201.0,3.0,"Just to add to this, the way I'm interpreting the salary section is that there is a correlation between developers with higher salaries and developers who use a functional programming language.
+
+I think that correlation is interesting, because you could interpret it as people who know functional programming might be _worth_ more money on average. That opens up several questions about why someone might be worth more money."
+268,alcalde,1520976173.0,1.0,"Everything made sense to me. People love Linux, Python, PostgreSQL. Microsoft sucks. Old stuff sucks. Lots of devs using OS X and Linux. 
+
+The only thing I thought was skewed was average U.S. Delphi salary. First, most Delphi users have been using it for 20+ years while 75% of survey respondents were under age 35, which likely skews to figures. Second, I'm still convinced there are going to be some outliers in the data or a very small sample size, but I have to wait until the raw data comes out."
+269,geeky_username,1521009234.0,2.0,How big is that field?  How specialized is it?
+270,geeky_username,1521471010.0,1.0,"That's kinda the point.
+
+You probably wouldn't tell someone to study to be in some niche field that is hard to get into or might not be around soon."
+271,spacejack2114,1520967461.0,1.0,Not really so much anymore. These days you're more likely to do the more interesting/challenging stuff on the front end while the back end is basically a disk drive.
+272,bubuopapa,1521010541.0,0.0,"And how about being astronaut, in case the whole planet crashes ? :D Being a dev of one side means being able to create and develop a complex solution on your own, without any frameworks. So, both front/back sides have tons of stuff that you need to learn and practice, And while you can do both at some degree, i wouldnt give both titles to any people. You are either front or backend dev. Im not saying you cant do both, but the quality of work really shows what is your primary specialty."
+273,RuthBaderBelieveIt,1520955533.0,18.0,it's for a church honey
+274,2Punx2Furious,1520963878.0,1.0,"Can you tell me what I am next?
+
+I'm developing a website, but I do basically everything but the design. Backend, frontend, SEO, and anything else that needs to be done."
+275,PinkyThePig,1520969444.0,21.0,"In german, these super long words are actually just several normal words mashed together without spaces. where in english you would describe a noun with several words (e.g. waiting room), in german, you will also describe it with several words, but those words will be mashed into one (waiting room = Wartezimmer, `Warte` is wait, `zimmer` is room).
+
+In the OP example, `versicherung` means insurance. `unfall` means accident or crash. So `unfallversicherung` is accident insurance."
+276,theKovah,1520961314.0,2.0,If you mean Unfallversicherung and Berufsunfähigkeitsversicherung: these are real words.
+277,hogg2016,1520962808.0,0.0,You just need to add a couple of spaces in the right places :-)
+278,,1520980432.0,11.0,"> Really? Your government contributes to your retirement savings?
+
+Here you don't have to work or have worked to get minimum retirement or unemployment benefits.
+
+> How can you be not working yet get parental LEAVE?
+
+You can get parental leave while on unemployment. You don't have to apply to new jobs or do courses while unemployed if you are on parental leave :) 
+
+> Similarly, a government pays you to ride around?
+
+When you are unemployed you need to commute to job interviews, the unemployment center, courses, etc. The government pays you a part of your commute while employed or unemployed per km, that is, independently of how you commute (bike, car, train, etc.)."
+279,sydoracle,1520969429.0,3.0,""" About a third of people with autism use little or no spoken language""
+
+https://www.verywell.com/what-is-nonverbal-autism-260032
+
+At that level, practically any non-family / non-professional social interaction or relationship is going to be difficult. There will be some correlation with people who don't get involved sexually. I doubt whether they'd medically be classed as asexual.
+
+Obviously those responding to the survey are at the milder end of the spectrum. As is, in all likelihood, every one you know on the spectrum. "
+280,takanuva,1521006238.0,1.0,"I am asexual, but I am not on the autism spectrum. Also, a coworker of mine, who has Asperger's, is gay."
+281,,1520954368.0,14.0,[deleted]
+282,Audiblade,1520984065.0,5.0,"Fair. I'm more attracted to men (my gender) than women even though I'm bi, though, so I still give myself a pass :P"
+283,Audiblade,1520997203.0,3.0,"Honestly, I probably would have :P"
+284,HereticKnight,1520971788.0,5.0,"I use dating apps. Because of my age and location, I get matched with a lot of UC Berkeley grads. It’s honestly funny. I can count on one hand the number of profiles that identified as straight. Everyone else was bisexual, sapiensexual, pansexual, or whatever else was popular on Tumblr. "
+285,Kringspier_Des_Heren,1520995515.0,1.0,"I don't ask for sexual orientation labels to be honest; I mostly just assume that people don't categorically dismiss an entire sex and that seems to work for me. Wouldn't say it's typical of the Netherlands but it's typical of my social circles there.
+
+A lot of those people don't identify as anything in particular and just do what they like. If you ask me it's really stupid that those ""identity labels"" need to exist for it and that's a fairly new invention too mind you. During the renaissance same-sex behaviour was quite common but no one needed to identify as anything to do it. There are no special ""identity labels"" either for categorically dismissing fat people."
+286,admalledd,1520960613.0,11.0,"We are looking to do the same in our .net code where we currently drop to raw assembly. Instead we have found that rust (more like clang/llvm) optimize nearly as well with the correct hints and is so much nicer to write than asm. Yes for our hottest of hot code we will probably keep the asm, but anything new or reworking? Yes please! "
+287,,1520960016.0,3.0,[deleted]
+288,editor_of_the_beast,1520978544.0,4.0,"This was about 5 years ago, when C++11 was still new and we couldn't even upgrade because of our toolchain. So we were doing all multi threading with custom wrappers built around libpthread."
+289,editor_of_the_beast,1520984908.0,1.0,This is entirely possible.
+290,steveklabnik1,1521011606.0,2.0,What kind of thing are you envisioning here?
+291,steveklabnik1,1521031785.0,2.0,"Some people say ""absolutely"" and some say ""never"". It just really depends. Chucklefish is writing their new game in Rust, Jon Blow is creating a new programming language instead of using Rust."
+292,,1521056147.0,1.0,"It'd be nice, even really nice. but most studios rely on middleware 
+ engine and tooling atm. There wouldn't really be a huge push unless Unity or Unreal decide to do something drastic, which may not be entirely possible until consoles themselves start to support rust (not sure how performant Rust -> C bindings are)."
+293,editor_of_the_beast,1521059499.0,1.0,It is - so I suppose Rust is attractive for systems and performance-sensitive applications. That would be more accurate to say.
+294,svick,1520948486.0,18.0,"How does Rust ensure programs have less bugs than a statically-typed garbage-collected language like Java or C#?
+
+And how does it make things easier than those languages?"
+295,est31,1520932012.0,92.0,"There is a [large list](https://www.rust-lang.org/en-US/friends.html) of companies that uses Rust, including well known names in tech circles like Atlassian, Canonical, npm, and really well known names even outside of tech circles like Samsung or Dropbox. There is a [great talk](https://air.mozilla.org/rust-meetup-may-2017/) about Dropbox's use of Rust. It's not just Mozilla :). Facebook and GitHub are using Rust as well but they are not on the list. Dropbox, just like Mozilla, even bets some of its core business onto Rust (Magicpocket, sync engine that is being rewritten)."
+296,throwaway27464829,1520954585.0,13.0,lol no generics
+297,steveklabnik1,1521030551.0,3.0,"> I don't know if they've made such a promise,
+
+Yup, we did. We do reserve the right to make soundness fixes, and in a super strongly typed language, almost any change *could* break some code. However, we do things like ""run the new version of the compiler over the entire open source ecosystem"" to ensure that we don't cause major breakage. Most users report zero pain upgrading."
+298,Aceeri,1520971449.0,1.0,"Can or cannot develop type-safe abstractions?
+
+edit: Ah nevermind, I think I understand now. I was confused by ""only Go developers can"", I was assuming you meant anyone who uses Go."
+299,iopq,1520961056.0,9.0,He got downvotes because his post is bad. It adds nothing.
+300,UnfrightenedAjaia,1520952915.0,-3.0,"It isn't even subtle, is it?"
+301,quicknir,1520960407.0,8.0,"> If I could do that but not have the cost of living of NYC / work remote, I'd sign up in a heartbeat.
+
+Sure, a valid point. A lot of this depends on your family/commute considerations. If you are single or don't mind a longer commute, then financially NYC still ends up making sense over many other areas. If you want to have a family of 3 and be 20 minutes from work, then yes, NYC is probably going to be harder even with double the salary.
+
+> Glassdoor doesn't seem to agree that 300k is a common salary for c++ devs in NYC though.
+
+Nowadays a lot of salary differentiation occurs by firm. 300K probably isn't typical across all C++ devs, but this is typical at the ""top tier"" of firms, for a relatively junior dev. Like in tech, the big 4 typically pay more than much of the next slice of major tech companies (like, SO itself does not seem to pay as well as Google by a substantial margin, from what I've seen). Maybe people who work there get more stock, more job satisfaction, or maybe they are just the people who aren't good enough to work at Google, I don't really know. In fintech it's similar, there are places who need/want very good C++ devs and are willing to shell out, and places that either don't have as high a standard, or simply aren't as profitable, and pay less.
+
+>  What does c++ and a computational physics PhD get me?
+
+At the ""top tier"" of companies, you should get at least 200 nowadays, I'd think. At Google/FB you'd need to pass fairly grueling CS style interviews. At top tier finance companies, you'll have less of that, but more actual C++ questions (if you are marketing your C++) and quant/math questions (if you are marketing your quant skills as a PhD in physics).
+
+My background is very similar to yours so feel free to message me and I can give you more details on my personal experience."
+302,Warbane,1520961505.0,2.0,"In addition to what u/quicknir said, Glassdoor tends to be on the low side for salary reports. Salaries have been increasing in the industry the last few years, dramatically so in some regions, and Glassdoor seems to pull in some older data."
+303,whisky_pete,1521041012.0,2.0,"I don't work in fintech, but I've been working with c++ professionally for 4 years now. To start learning, just build things and focus on learning using at lest C++11 as a base. After you're comfortable there, you can start wading into lower level topics. A good grounding in your bitwise manipulation would serve you well, because being able to parse binary data is typically important.
+
+Learn the best practices around ownership & move semantics. Things like RAII, rule of 5, and trying to just remember when to allocate non-trivial objects and when to pass a pointer/const reference to them.
+
+I recommend the C++ 11 Primer (not Primer Plus). Or, look here for what may appeal to you more: https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list"
+304,stringsfordays,1520952955.0,10.0,"I would question whether all these combined would offset game industry by numbers. Also I work in fintech, C++ isn't as dominant as one might think, I see more Java than anything "
+305,delusions-,1520957060.0,25.0,"> I don't think it's fair to paint gamedev like that. I work in GameDev and am fairly compensated.
+
+""I am an outlier and think the whole industry should be painted by my personal experience, rather than what's statistically true""
+
+>especially if you consider the ""will work for equity"" types of jobs.
+
+\>implying these don't exist just as much or more in game dev
+
+Are you even trying to be truthful? "
+306,hogg2016,1520961188.0,2.0,"> There are plenty of web development jobs available that would be considered slavery with worse working conditions than GameDev, especially if you consider the ""will work for equity"" types of jobs.
+
+I'd say we can put Web-, Mobile- and Game-Dev in the same basket. Especially now that there is a large overlap between those industries."
+307,iopq,1520961158.0,1.0,"""Will work for equity"" of course pays off if you worked at Snapchat or Instagram as a webdev
+
+So it's not fair to say that it's not a good compensation, on AVERAGE it might be"
+308,nocensts,1520961332.0,12.0,How can you leave SO... it's just a QA site isn't it? To my knowledge it's still miles ahead of any other community resource pool...
+309,rawrgulmuffins,1520988650.0,2.0,"Eh, tiobe puts python at 4th most popular language and PopularitY has python at 2. 
+
+Anacdotally I know that python is one of the most used language at Google, facebook, and surprisingly Dell (company I currently work for)."
+310,Jake323021,1520957449.0,3.0,"For me, the documentation is usually enough. Or I could always ask a colleague if I'm really having trouble with a problem."
+311,justbouncinman,1520994091.0,2.0,"At a certain time of the day, if I'm in the mood, I can sit and close 50 questions in one sitting without hardly thinking about it. Just a while ago some clown came on and described some software he wanted to write and what he wanted it to do and I assume he wanted us to write it for him cause he never asked an actual question. I caught three of those just today and I catch a couple of those every time. 
+
+If you're going to complain about bad moderating, you aren't aware that it takes five high rep users to close a question and three even higher rep users to delete it. Don't think of SO mod as one person doing the deed."
+312,justbouncinman,1520993817.0,1.0,">How about they address the extremely unhelpful and toxic power users that drive the community away?
+
+How do you do that? One effort is you need to garner at least 50 reputation points before you can comment but that won't block the questions. I don't think links to third party sources should be allowed till you get at least 100. That will stop those who insist on posting their code on a fiddle instead of within the question (also clearly outlined in the rules). 
+
+I hate tag names in titles cause if you do a list by tag, you'll get a hundred titles all beginning with `node` if list by the tag `node`. 
+
+I could go on and on."
+313,valtism,1520998930.0,5.0,"It just means bisexuals / queer people who like the opposite gender most of the time, but will sometimes go for certain people who aren’t. "
+314,geeky_username,1520971026.0,8.0,Early twenties white male webdevs using Angular/Node.js .... how many of those IP's come from Facebook?
+315,Euphoricus,1520940278.0,52.0,No. Thats no bias. Thats reality. Amount of software developers doubles roughly every 5 years. So it is expected half of developers would have less than 5 years of experience.
+316,FarkCookies,1520954701.0,1.0,"It is not a bias, it is just an attribute of the sample group (people that responded to the survey)."
+317,svick,1520948694.0,14.0,"> why would we care about their opinion?
+
+Because, as far as I know, it it the most comprehensive survey of developers. It is biased, but what better way of finding what developers care about do you have?"
+318,TheIncorrigible1,1520948226.0,5.0,"I also support SO in my subject area, so you're not alone there.
+
+My group (professional enterprise) also reflects yours where I think the only people without kids are the fresh out of college ones and hobby coding is maybe 10-20%.
+
+I think too many respondents marked themselves as professional even if they were still in school; the ratios don't add up."
+319,twiggy99999,1520943628.0,5.0,So the data is bias (in your opinion) because over 80% of the full-time professional developers also like to code as a hobby after work? In what way (in your opinion) doe's this point make the data bais?
+320,twiggy99999,1520941435.0,3.0,"> I think you've misinterpreted what OP said, rather than OP misinterpreting the survey. They're not saying 80% of coders are hobbyists as opposed to pros, they're pointing out that the number of people (pro or otherwise) who code in their own time is strongly correlated to the number of people (pro or otherwise) who have no kids, and that this survey is heavily biased towards those people.
+
+Although I completely agree with what you're saying and that would make perfect sense, there is nothing in the OP's post relating to correlation with people who have no kids?"
+321,steve_b,1520969886.0,2.0,"In any case, it's a lot less ""scientific"" than it could have been.  If it has any bias at all right now, it's biased towards people who will eagerly participate in surveys.  The fact that there was very little difference in results between ""Professional"" and ""Student"" samples was also a bit odd, IMO."
+322,WinDOS_98,1521136947.0,1.0,Well Ill take survey data over your assumption any day.
+323,nutrecht,1521012916.0,3.0,"> There are better NoSQL solutions, like Couchbase or Cassandra.
+
+Nooooooo! Don't fall in the trap of thinking Cassandra is anything but a very very specialised tool for specialised use-cases. We use it as our primary store (because someone higher up believed some Datastax consultant that said they could save a ton of Oracle money by going for Cassandra) and it's horrible. Cassandra is a distributed hashtable functionally. It can't do 90% of what a relational store can.
+
+When it doubt; go relational. "
+324,acousticpants,1521001389.0,2.0,...and let's not get started on that username of yours...
+325,0987654231,1521023231.0,1.0,Which part of it is confusing out of curiosity?
+326,Recoil42,1520947914.0,10.0,But Sublime is a text editor? 
+327,,1520948402.0,21.0,[deleted]
+328,jWalwyn,1520947849.0,19.0,Sublime Text isn't an IDE and AFAIK neither is VSCode
+329,fuckin_ziggurats,1520930502.0,15.0,I didn't do the survey this year but I think every year that question is multiple-choice.
+330,fuckin_ziggurats,1520941512.0,40.0,"Well for one Notepad++ is completely free unlike Sublime which if not paid for is in evaluation and harasses you with popups based on how much you click Save (something that I couldn't deal with). In terms of performance, it would be very difficult to convince me that Sublime Text is as fast as Notepad++. They are certainly close in that regard but not quite the same. With that said, I agree that Sublime Text is much nicer visually and from a UX perspective."
+331,safgfsiogufas,1520948972.0,7.0,"I've found N++ to be quite a bit faster than Sublime, at least on start up. And I don't have a Sublime text window all the time."
+332,fuckin_ziggurats,1520945450.0,18.0,"I think you're misunderstanding the use case. I'm already using Visual Studio so I don't need ""so much more"". When I wanna quickly check some file outside my project I need Notepad with syntax highlighting (for any language, without installing plugins) - which is what Notepad++ is. And that raw speed (which is incomparable to any Electron app) makes it a lot more appealing to me."
+333,dalittle,1520952808.0,8.0,atom is pretty slow and awful.
+334,Carighan,1520930435.0,12.0,"Well vim or emacs I can understand. 
+
+Eclipse is a full-blown IDE, much much more sluggish but of course also tons more functionality. VS Code and Atom faster, but still too slow to be nice to use as just a text editor. Though I understand they're still popular, but uh... never sat well with me when I need to edit a number in a config file and the overhead of the application opening the file is the majority of that edit. :P"
+335,ApatheticBeardo,1520969611.0,1.0,">VS Code
+
+Ridiculously slow shit.
+
+>Atom
+
+Even more ridiculously slow shit.
+
+>Eclipse
+
+Not sure why are you mentioning a gigabloated Java IDE in a text editor comparison...
+
+>Vim
+
+>Emacs
+
+People who use the GUI applications are a majority.
+"
+336,bubuopapa,1520934455.0,-7.0,"1) Slow shit written in js;
+
+2) Same;
+
+3) First of all, this is ide, and second, it is the slowest code editor in the universe;
+
+4) vim and emacs and really meh and more like linux tools, windows has much better alternative to all of them - notepad++."
+337,,1521052659.0,-2.0,[deleted]
+338,nutrecht,1521013945.0,2.0,"It's also why the Damore case is so bad. And there are tons and tons of male developers who totally agree with him that women are genetically disposed against STEM; and this is utter nonsense. There is tons of research being done in that area and it's nurture much more than nature.   
+
+I volunteer for Devoxx4Kids and frankly girls typically do better than boys in their early teens, not worse. "
+339,akher,1521038154.0,1.0,"And what, exactly, in that comment do you think would drive women away from programming?"
+340,,1521014691.0,3.0,[deleted]
+341,imot01,1520946576.0,10.0,"Yea, I agree. I was going there with my post. They tried to make that a problem with this part of the survey, when the results of their own survey are showing that there is no problem. "
+342,,1520949045.0,-21.0,It's really easy to not care about identity politics when you're a white dude. Not so much if you're not.
+343,alcalde,1520977679.0,-9.0,"""Identity politics"" - that's a cute way of saying ""civil rights"". So if it's 1955 and you're sitting at an all-white lunch counter in Alabama, do you say you are happy to eat with whomever and people who are complaining they can't sit there are just engaging in ""identity politics""? Come on. If you're really happy to work with people of all genders and nationalities yet every single person around you is a lily-white male, you're going to notice and be upset. "
+344,HINDBRAIN,1520979935.0,1.0,People not actually applying for the jobs?
+345,Double_A_92,1521027872.0,4.0,"That seems kinda racist / sexist...
+Just because we are all ""white males"" we don't have different personalities and other traits? "
+346,tdb7893,1520952500.0,-6.0,"But if you look at it company culture is at the top of their list. These cultures that women (and also many others) are looking for don't often just spring up naturally in a field dominated by upper middle class white males, which means that to be able to attract and retain these candidates you need to foster a culture in which they feel comfortable, which is the intention of many of these ""diversity"" initiatives. For people it's generally not important to them that their company is diverse but it is very very important to them that they feel comfortable in the culture"
+347,tdb7893,1520956900.0,1.0,"Yes, I think that's a great point and we need to foster all sorts of diversity, gender and race were just the specific benchmarks that were easiest to point out in the survey. Overall in my experience software engineers (myself included) are culturally and socioeconomically fairly similar and by looking at this survey there doesn't seem to be a ton of diversity on those fronts either."
+348,IPv8,1521038354.0,1.0,"Na, Maine."
+349,takanuva,1521136261.0,1.0,"Not only that; I'm aromantic as well, but I still would like to have a partner, basically a best friend for cuddles and hugs and Netflix (but no chill!) that would not prefer _their_ partner over me."
+350,fuckin_ziggurats,1520933840.0,1.0,"So you agree that very few if any of the dreaded technologies on the chart are not objectively dreaded, on the contrary they are in the loved category for many developers."
+351,Pazer2,1520975811.0,1.0,"This is a good thing. The reason I couldn't stand using Bing (granted, this was several years ago) was that sometimes Bing wouldn't even have SO on the first page. "
+352,Morwenn,1520979633.0,1.0,Not really. It's more about verifying information. If admitting you don't know shit about stuff was a problem nobody would ever improve ^^'
+353,TKirby422,1520941357.0,5.0,"Hmm... Are you doing CRUD/boilerplate, Data-Access Layer, or stored procedure work?"
+354,muharagva,1520943128.0,0.0,"Well, that is one approach. But I have seen a lot of times when somebody has a problem, google it, find a solution on the SO and then just paste it into the code. On the short run is OK solution, but in the long run, fix without understanding will backfire just like that. Been there, done that, never again. If I got paid for all that overtime where I had to fix someones ""I found this solution on the SO and just put it in there, and everybody does that"", I would have much more money."
+355,birchling,1521027151.0,3.0,I think it correlates in working in Silicon Valley.
+356,Double_A_92,1521026286.0,1.0,"> Everything made sense to me. People love Linux, Python, PostgreSQL. Microsoft sucks. Old stuff sucks. Lots of devs using OS X and Linux.
+
+That's exactly the part that doesn't seem realistic. That maybe applies to ""hip"" beginner web devs... "
+357,kiteason,1521469979.0,1.0,"Huge, and specialized."
+358,jewdai,1520970091.0,15.0,"> back end is basically a disk drive.
+
+faaar from it. 
+
+Yes, your backend does do the data storage, but it also **must** manage all your business logic rules. That even includes data validation because rule #1 is not to trust anything the client sends back, ever, ever, ever. "
+359,PM__YOUR__GOOD_NEWS,1520955939.0,14.0,STILL LOOKING!!!
+360,PM__YOUR__GOOD_NEWS,1520968098.0,4.0,"Frontend developer.
+
+NEXT!"
+361,HereticKnight,1520967163.0,2.0,It’s a reference to a this post https://www.reddit.com/r/ChoosingBeggars/comments/7kr5as/i_need_a_free_100mile_bus_trip_for_20_people_and/
+362,,1521185866.0,1.0,What a shame those useless white spaces!! May the compression gods punish you all
+363,Edg-R,1520956351.0,11.0,"I think it makes sense. If they're bisexual and not willing to 'come out' publicly then that means they value the way they're perceived by others more and fear that it may affect them either professionally, with their straight partners, and with their family.
+
+If they're bisexual then that means that they can get sexual satisfaction from heterosexual relationships as well, and so they're not forced to live a life in the closet like a gay person that isn't out. "
+364,curiousdude,1520963100.0,3.0,Do you live in San Francisco or an urban metro where you need double income / no kids to live?  If so then the demographics are skewed to being a higher percentage of gay/lesbian couples.
+365,Enlogen,1520977168.0,3.0,">I seriously wonder what the cause might be.
+
+Bisexuals that you assume are straight because they never mention being bisexual and happen to be dating the opposite sex. I don't think any of my coworkers know that I'm bi."
+366,,1521257472.0,0.0,"> so I find it hard to believe that bisexual folks in our industry are this much afraid to come out of the closet, but anything is possible.
+
+no one cares who you sleep with, but with this survey you also see a lot of young devs. These days its hip to call yourself bi-sexual even if you've never slept with a person as the same sex as yourself to get victim or minority points as so many companies are looking to hire ""diverse"" people. "
+367,,1520965418.0,11.0,"Note that Rust does have inline `asm!` (just like C, C++, D, etc.). Depending on the level of control you need that might be enough."
+368,kibwen,1520961541.0,2.0,"Very interesting, I see people using Rust from Python and Ruby and JS and Java a lot, but I don't think I've seen it used from .Net before. Can you tell me more about your experience? Are you using any sort of scaffolding library to make the interoo easier, and is it open-source?"
+369,iopq,1520960785.0,20.0,"You can't, because of a few problems.
+
+1. Header files and lack of a sane module system
+2. NULL subverts the type system, so even if everything checks out, you may have some function get a NULL at some point and everything will crash if you forgot to handle it. This isn't possible in Rust, since there is no NULL equivalent. `None` has to be explicitly handled in places where it can appear.
+3. No agreed upon packaging system. Having to hunt down the correct libraries using my OS's package manager is very error-prone since their names differ between distros.
+4. Makefiles are sometimes not written in a portable way - this is a ""developer"" problem, but Rust's cargo allows you to avoid having to write a Makefile in most cases, and in other cases just use build.rs
+5. You still have problems like iterator invalidation that cannot be ALWAYS detected by static code checkers
+6. Concurrency issues are still nearly impossible to detect statically in C++, you have to break out the debugger and hope you trigger it while testing
+7. Templates are duck-typed instead of nominally typed. They give long error messages because they're checked at expansion site instead of call site."
+370,matthieum,1520966418.0,9.0,"I'll take the counter-point to /u/iopq's argument.
+
+Yes, of course, if you were foregoing backward compatibility and completely reworking C++ you could get Rust instead. But it wouldn't be C++ any longer, would it?
+
+Backward compatibility is essential to C++ past, current and I would argue future success. At the very least, the Standard Committtee certainly thinks so, and is extremely skittish about any deprecation. It took years to boot trigraphs out of the Standard, even though only IBM mainframes (using EBCDIC) really need them, and they are otherwise totally irrelevant in today's world."
+371,Zigo,1520948934.0,14.0,"Rust's memory safety is pretty irrelevant when comparing it to a managed, GC'd language. It does make it easier to avoid concurrency issues, but it's also probably slower to develop in it than something like C# or Java (although probably not any slower than C++) and it's **definitely** not easier.
+
+I'm a fan of Rust, but it's meant to compete against C and C++, not the C#/Javas or the Python/Ruby/JSes of the world."
+372,fiedzia,1520952566.0,13.0,"> How does Rust ensure programs have less bugs than a statically-typed garbage-collected language like Java or C#?
+
+For a start, having option/result types and proper support for it in the language from day one ensures you will not have NullPointerExceptions. Pattern matching forces you to handle every case.
+Generally Rust places much greater emphasis on being correct, and that shows in the language and stdlib design. This language forces you to be aware of every thing that could go wrong, and I was really surprised how many supposedly trivial things return Result and could fail in some rare circumstances. Traits allow you to avoid various pitfalls inherent to OOP. Macros provide a way to verify far more things at compile time.
+
+> And how does it make things easier than those languages?
+
+The tooling is superb. Dependency management is flawless. Algebraic data types and pattern matching come in standard, so does testing, benchmarks, build tools and many other things.
+Traits allow anyone to add useful methods to types in a safe way.
+
+Not to say that everything is perfect, but there are good reasons to learn and use Rust for anyone coming from Java/C#."
+373,tom-dixon,1520984470.0,2.0,"> How does Rust ensure programs have less bugs than ...
+
+Simple, before compilation it runs a bug removal tool. ^^/s
+
+I actually think he meant it has different classes of bugs. As long as people will be writing the code, there will be bugs."
+374,hu6Bi5To,1520976998.0,1.0,"It's very nearly impossible to mutate a data-structure at a distance, by accident, in Rust.  It's only possible by either: a) passing a mutable reference, but the compiler ensures only one such reference exists at any one time; or b) using a structure like a Mutex.  Entire sub-classes of race-conditions are gone at a stroke.
+
+It's also very difficult to accidentally ignore errors in Rust.  The code to ignore such things is longer than handling them properly, and longer than promoting the error to a full `panic!`."
+375,malicious_turtle,1520933516.0,45.0,What Facebook uses Rust for was posted just yesterday as well https://github.com/facebookexperimental/mononoke
+376,mentalorigami,1520947772.0,26.0,"Canonical doesn't use that much Rust. LXD and Juju are written in Go, MAAS is python, and Ubuntu is largely C and C++. I only know a few developers (some of whom have moved to other companies) who've done serious work in Rust on the engineering teams.
+
+Source: Software engineer at Canonical"
+377,rcoacci,1520933549.0,7.0,Nice to hear that.
+378,_georgesim_,1520958717.0,1.0,"How is Dropbox ""outside of tech circles""?"
+379,dm319,1521030958.0,1.0,Great thanks for clarifying.
+380,Lucretia9,1520962964.0,-3.0,He was pointing something out.
+381,Lucretia9,1520956724.0,-9.0,Nope. It’s not even a great language.
+382,Overunderrated,1520960692.0,8.0,"> At the ""top tier"" of companies, you should get at least 200 nowadays, I'd think.
+
+Yeah that would be a massive pay cut when adjusted for cost of living. You'd be hard pressed to convince someone making 100k in a low cost of living area to take 200k in NYC unless they absolutely wanted to live there. "
+383,gwillicoder,1520976170.0,3.0,"I think the problem is that at those types of firms a huge amount of your salary can come from bonuses, which isn't reflected in the base salary people often see when looking it up on sites like glassdoor."
+384,alcalde,1520976560.0,3.0,"> but this is typical at the ""top tier"" of firms, for a relatively junior dev. 
+
+Please, please, please provide a source to back that up. Who is handing out 300K paychecks to junior devs who know a popular language like C++?"
+385,quicknir,1520954603.0,2.0,"Java is big at a couple of major shops (most famously 2Sigma) but C++ combined with python is much more popular on the street IME. C++ is both faster but tends to be easier to interop with python, which has tons of quant tools."
+386,mansplaner,1520958255.0,11.0,"Last time I compared the game dev salary survey vs the dr dobbs industry-wide one I concluded that gamedev salaries start out lower but catch up after 4-5 years of experience.
+
+It'd be nice to see up-to-date statistics instead of just circlejerking though."
+387,lelanthran,1520977145.0,1.0,"> ""Will work for equity"" of course pays off if you worked at Snapchat or Instagram as a webdev
+> 
+> So it's not fair to say that it's not a good compensation, on AVERAGE it might be
+
+Outliers are not a good indication of... well... anything, actually. There's a reason that we usually discard outliers when analysing data - you can learn nothng useful from them.
+
+""Working for equity that turned into $UNICORN"" has a lower probability of happening than winning a jackpot, because there are more jackpot winners than there are ""worked for equity"" winners.
+
+You can't base your conclusions on the performance of outliers.
+"
+388,watchme3,1520959700.0,10.0,"> Or I could always ask a colleague
+
+ouch"
+389,appropriateinside,1520980536.0,2.0,">the documentation is usually enough
+
+I'm not sure what you work with regularly, but for me I periodically find myself in situations here there is no documentation. And where goolging the class, function, error...etc results in `Your search - [insert terms here] - did not match any documents.`
+
+Turning to SO in cases like this is a mixed bag, because you will either get a troll latched onto it, trying to close it, or a subject matter expert will show up and answer. The former is much more common since the later can take days or weeks, while the former can happen in minutes."
+390,appropriateinside,1521002832.0,1.0,"I mean the toxic power users, the very active low-medium (5000-20000? )rep users that go around and be toxic and unhelpful in comments, and close clearly valid questions, and mark unrelated questions as duplicates without being able to say why.
+
+There are a few I see every day, consistently the same individuals. Being unhelpful to other users questions, and in some cases to my own questions. Close and duplicate votes everywhere
+
+It's a tough problem to solve, I don't have a solution. But it's not a new problem on the internet either, others have solved it."
+391,Neuromante,1520940726.0,39.0,"On one side: You got any source for that numbers?
+
+On the other: How does that denies that there's bias towards younger people? Even if your numbers were real, that has nothing to do with older devs using less StackOverflow."
+392,percykins,1520954273.0,6.0,[Really?](https://fred.stlouisfed.org/graph/fredgraph.png?g=j2fu)
+393,shevegen,1520948577.0,-1.0,"No, it is very much bias.
+
+For example, I am way too old to participate in any such useless surveys. And I am quite sure that many older people also become less willing to waste time doing such pointless surveys."
+394,lukaseder,1520967877.0,2.0,I don't have one. But I still wish I did.
+395,dvdkon,1520949672.0,6.0,"I'm a student and I marked myself as a professional, because programming is my primary source of income. I work remotely and don't dedicate all my time to my programming job, but in my opinion I still qualify as a professional."
+396,lukaseder,1520946271.0,3.0,"Yes that's the bias I had in mind. In the Enterprise, much fewer developers code as a hobby after work, and (from my experience, which is obviously even a less good sample) are more likely to have kids.
+
+In my opinion, that's biased towards a very specific sub-population that is hard to define (and probably not too interesting), but certainly doesn't reflect our industry as a whole.
+
+Just like /r/programming, btw ;-)"
+397,,1520968372.0,1.0,Data can be bias*ed*. Bias is a noun.
+398,,1520949385.0,1.0,"OP posted two images - one showing the percentage of people who code in their own time, and another showing that a near-identical percentage of people don't have kids or dependents. I think it's pretty clear he intended to imply there was a correlation between the two."
+399,HereticKnight,1521018308.0,5.0,"Good points regarding Cassandra. Never ran it myself, but we have some customers who do. Mostly I’ve seen it used in the context of Elasticsearch, which is an entirely different beast. 
+
+And we are in 812% agreement about relational being the go-to default."
+400,Carighan,1520948641.0,17.0,"A very slow one, but yes. But there's a reason N++ is so common, it's tiny, fast for a GUI text editor, and does the bloody job. It's not a whole browser guzzling up memory, just to change a config setting."
+401,ApatheticBeardo,1520969432.0,1.0,"VSCode is a browser, with a text edition web application inside."
+402,AwkwardReply,1520965472.0,-1.0,"A text editor with git integration, code completion and a proper debugger. How the fuck does that not qualify it as an IDE. Fucking reddit... "
+403,,1520964041.0,1.0,[deleted]
+404,s73v3r,1520958643.0,5.0,"I can't get upset at someone for trying to get paid for their work. Especially in such a permissive way as Sublime (where the software will continue to keep working no matter how many times you click ""No Thanks"")"
+405,,1520949683.0,-1.0,"Sublime is about an hour or two's wage for most Western devs. I know a builder who has spent more on hammers in his career than I have on text editors, and I've bought quite a few. I can't really take seriously anyone who differentiates the two tools on price.
+
+For me, sublime starts up just as fast. OK, I haven't rigorously benchmarked, but there is no difference that I can perceive and that's the only metric I care about here. Though, granted, I haven't loaded sublime down with as many plugins as some people. I use sublime as a text editor, VS Code as a semi-IDE, and intellij or Visual Studio when I want a full IDE."
+406,cryptos6,1520948455.0,1.0,"Different user, different habits ;-) I'm using mainly IntelliJ, but there are enough uses cases for me where I prefer to do something outside the IDE, like prototyping a small piece or editing some config file, writing documentation with Markdown ... And for these cases VS Code is way better than Notepad++. If we are only talking about Git support, VS Code is so much better."
+407,,1520946753.0,-8.0,"You peasants are like bald men arguing over a comb. Here's a nickel kid, get yourself a real text editor."
+408,brogrammer9k,1520970431.0,2.0," How much daily use would someone need to go through before you start actually seeing performance gains with vim?  
+
+If I wasn't a PC Gamer/windows dude I'd give it another shot, but some years back I really gave vim for windows an honest go and found it wasn't really worth the hassle. I don't have the hatred for my mouse that some enthusiasts seem to have. :P"
+409,lelanthran,1520978595.0,1.0,"I use Vim and Emacs as GUI applications.
+
+What point-n-click functionality are they missing?"
+410,shuklaswag,1520942296.0,7.0,"I'm not sure why you're being downvoted. Atom and VScode are certainly not as fast as Notepad++ (even though VScode is still my editor of choice). 
+
+And AFAIK Vim and Emacs aren't nearly as pleasant to use on Windows as they are on Linux. I'd love to know if there's a way to make Vim on Windows decent. "
+411,Double_A_92,1521052890.0,5.0,No. Where are you trying to lead this?
+412,0987654231,1521022520.0,5.0,">It's also why the Damore case is so bad. And there are tons and tons of male developers who totally agree with him that women are genetically disposed against STEM; 
+
+I hate to get into this because /r/programming is not the correct forum, but that's not what he said. He said that women are more people focused and then went on to try to list a bunch of ways Google could use this to get more women in stem.
+
+We see that many professions have gender bias so it only makes sense that gender plays a part in career choice. Obviously one could argue that this is societal but if that were the case countries like India that are 'more sexist' would have a higher ratio of male to female graduates when in fact they have a lower one.
+
+
+
+"
+413,dm319,1521030392.0,3.0,"Not to mention a strong history of women in computing - Lovelace, Bletchley park etc..."
+414,nutrecht,1521014911.0,5.0,"> The people there make the choice to go into IT not because they are free and enjoy IT work, it's because the women don't have the freedom to choose a degree they enjoy. They need to make money.
+
+Just because it's not a ""western"" country does not mean women are ""forced"" into a certain trade. And being ""conservative"" and also being ""forced to make money"" really doesn't add up anyway. 
+
+Again; you're oversimplifying and deflecting blame. And that is one of the problems we have to solve.  "
+415,,1520950868.0,39.0,"> It's really easy to not care about identity politics when you're a white dude.
+
+Having this absurdly naive idea that anyone who is a ""white dude"" has a single category experience of life, and similarly that *any other category* on any identity pillar you choose to identify *also* has some single category experience, is the very height of patronising absurdity that has **nothing whatsoever** to do with diversity and everything to do with **your** sexism and racism and whatever-else-ism. People are individuals; there are some ""white dudes"" who are privileged, and there are some ""white dudes"" who have dragged themselves up through a horror-story of an upbringing. There are black disabled women who are privileged, and there are black disabled women who have dragged themselves up through a horror-story of an upbringing.
+
+Stop treating everyone by arbitrary meaningless things like their race and gender: that is the exact **problem** you're presumably raging against, yet you are **typifying** it.
+
+Edit: understanding a *population level* difference is great, but the moment you assume that a population bias applies to individuals, you've messed up."
+416,,1520951072.0,-9.0,"Bingo. This survey's respondents are 93% male, 93% straight, and 74% white. No big surprise that identity politics barely register here."
+417,,1520991722.0,9.0,"I see I'm late to the party, but: no, just no. Trying to compare 1955 America and today's heterogeneous workspace is disingenuous - it is an insult to the shit that happened back then (and those that fought through it), and an insult to anyone who happens to be white today. Sadly, I doubt you'll feel the shame of your gross error. Everyone around me *isn't* a ""lily-white male"". I explained this in another comment - but that doesn't mean that identity politics is high on our minds. We're just people getting things done. It seems to be *you* who cares about the race of the people you work with. I posit that this makes you the problem."
+418,not-much,1520934071.0,1.0,In part. There is some strong overlapping but in most cases you can almost divide the technologies in two groups.
+419,ChrisRR,1520941641.0,2.0,I'm an embedded developer.  Part of the 5% according to the survey
+420,alcalde,1521046018.0,1.0,"I'm 45 and not a web dev... I love Linux, Python, and PostgreSQL. I've never been a Microsoft fan, being old enough to remember the Evil Empire - although I salute Nadella for transforming the company's culture. I've been running desktop Linux full time since the middle of 2010. "
+421,spacejack2114,1520974870.0,0.0,"Sure, but it's the exact same thing over and over. I'm surprised it hasn't been mostly automated by now. Probably mostly due to the unnecessarily large variety of server-side platforms and framework churn."
+422,RuthBaderBelieveIt,1520956318.0,8.0,"20 people, NEXT!!"
+423,2Punx2Furious,1520975234.0,1.0,"Oh, damn ahaah"
+424,,1521271171.0,1.0,[deleted]
+425,admalledd,1520966069.0,3.0,"Here our application is in C# and we are calling or inlining the asm/c/(in future, rust I hope). 
+
+So rust having inline asm doesn't change if we would use it. Since we have tooling to call/nest/inline directly into c# it isn't much use for us. With rust we can't inline the compiled code. 
+
+Useful for others though I would bet. "
+426,snaketacular,1520967875.0,4.0,"Nitpick: You can't download a stable Rust release with inline asm!, only nightly builds.  It's also not part of the 2018 roadmap.
+
+There are workarounds.  libasm is the closest substitute I've seen.  Or you could call out to C, and call inline asm from there.
+"
+427,admalledd,1520964930.0,3.0,"Sadly it's all in house magic/tooling, since we have had internal native c-api interop generators (when using raw asm, things are more interesting) for years. Even if they were open source, they wouldn't be useful to basically anyone. They have horrifically narrow compatibility problems that barely escape being a impossible blocker for us as is. Like not supporting structs...
+
+Some helpful links though:
+
+https://dev.to/living_syn/calling-rust-from-c-6hk
+
+https://doc.rust-lang.org/book/ffi.html#calling-rust-code-from-c
+
+And finally there is some msbuild magic to call the rust tooling on c# compile. That magic though is 95% of our internal tooling, so no real links from me since if you are doing only one external language it is far easier to write a pre-build target exec statement. 
+
+EDIT: first link has more things since I read it.if you are doing rust only check them out, looks great as a start. 
+
+https://dev.to/living_syn/translating-rust-to-other-languages-pt-1--context-free-grammar-4kec
+
+https://github.com/LivingInSyn/Rust_Api_Generator"
+428,lanzaio,1520969061.0,11.0,"> Makefiles are sometimes not written in a portable way - this is a ""developer"" problem, but Rust's cargo allows you to avoid having to write a Makefile in most cases, and in other cases just use build.rs
+
+To expand on this, all build systems suck in the C world. CMake is the standard at this point but it's not loved, it's just common. It has horrifically bad syntax and no debugging tools outside of fancier `print` statements. 
+
+Because of this, many feel like spinning off their own bash/python/makefile build scripts that do a shittier job of what CMake was supposed to do.
+
+You end up having to work on projects where 75% of the difficulty is understanding what drugs the authors were on when they wrote their build system."
+429,doom_Oo7,1520966734.0,-4.0,"> This isn't possible in Rust, since there is no NULL equivalent. 
+
+lolwat https://doc.rust-lang.org/1.22.1/std/ptr/fn.null.html
+
+> You still have problems like iterator invalidation that cannot be ALWAYS detected by static code checkers
+
+that's why standard libraries have debug modes that catch this"
+430,est31,1520934586.0,35.0,And this is GitHub's Rust project: https://github.com/atom/xray
+431,matthieum,1520948152.0,29.0,"> Canonical doesn't use that much Rust.
+
+Neither do any of the other companies listed. It's not really a matter of quantity (at this point):
+
+ - some companies have bet their core business on Rust; for example Dropbox using Rust for their storage layer,
+ - while others are just dabbling/experimenting in Rust.
+
+In any case, it's nice to see such a relatively young language being tried out in so many varied high-profile companies: it bodes well for its future, though of course anything remains uncertain."
+432,est31,1520979370.0,4.0,"With my sentence i've meant that Atlassian, Canonical and npm are only known by people familiar to the technology field, while Dropbox or Samsung are known by people outside of it as well."
+433,quicknir,1520961338.0,8.0,"Like I said, it's only a pay cut if you both have a family and want to live close to work.
+
+If you are single, then it's not a pay-cut. Food/alcohol are more expensive in NYC, but moderately, and this isn't a big % of spending for most people. Consumer goods (TVs, clothes, etc) are roughly the same price in NYC as anywhere thanks to things like Amazon. It's really mostly just rent. A one BR in Manhattan might be around 3K, or a bit more. Expensive, sure, but at the end of the day the difference in rent will probably still be around 30K a year. An extra 100 K gross is much more than 30K net. You also don't need a car in NYC which is a huge savings.
+
+This way of looking at it also doesn't include the benefits of NYC. Better restaurants, more to do, a much (much) larger dating pool if you're single, etc.
+
+I lived in small town USA for 6 years before NYC and I wouldn't go back to make half the money, even with the lower cost of living, even with a family, no question about it."
+434,carrutstick_,1520961690.0,3.0,"It seems like you're really overestimating the COL difference here. You can get a 1BR NYC apartment to yourself, with as little commute as you want, for like 35k/yr. Unless you end up spending 70k/yr on restaurants and alcohol, you're still coming out way ahead with 200k in NY vs 100k anywhere else."
+435,quicknir,1520981887.0,4.0,"Well, define junior. If by junior you mean fresh out of school, then no, that's not common. If by junior you mean 2-5 years of experience, then yeah this is typical. Also I obviously mean total comp (including bonus/RSUs), not salary. A strong C++ developer with a few years of experience would be hired either at T4 or T5: https://www.levels.fyi/#; this site is based on anonymous surveys and it gives 230 and 360 respectively for those two levels. I don't really know too much about the details; when I talked to acquaintances at Google (when I was 2 years into the industry) though they said if I got an offer it would probably be ballpark 300K (I never applied). When I talked to a another acquaintance who worked at a fintech company and told me to apply, I said that I was looking for at least 300K, and he said that was no problem (again, he knew I then had 2 years of experience). Based on friends who have been hired, discussions with managers who make offers, basically every single data point suggests that you should crack the 300K mark somewhere between 2 and 5 years experience (in NYC) (many people end up way past 300K by 5 years).
+
+If you look at any of the ""ask HN"" threads where people ask for numbers, tons of people will quote total comps of 300K and much more. If you look at H1B numbers, which are public but anonymized, and *only* include base salary, at e.g. Facebook, you see averages of 150K: https://h1bpay.com/companies/Facebook/cities/Menlo%20Park-CA/job-titles/Software%20Engineer/salaries. In FB/Google, at this level base is about half your comp, i.e. this means the average H1B applicant at FB (at Menlo Park) probably has total comp of around 300K.
+
+I'm also extremely amused the way you mention ""popular language"", as if that somehow makes it easier to find people. Popular languages aren't just popular for people to know, they're popular to be used on real projects, so the demand tends to scale as well as supply. C++ is a hard language that remains difficult to move away from for many companies, for various reasons (performance, legacy), so there's basically been a perpetual dearth of *good* C++ developers for years.
+
+That said, most developers aren't good. I've seen people on reddit claim there aren't jobs in NYC for C++, because they personally applied to 10 jobs and got no offers. Well, I've been on the interviewing side of that, and I probably recommend less than 10% of the people I interview for hiring. It's just because they're not actually very good (or at least, can't do anything in the interview to show they are good, like basic questions about how C++ works, or basic algorithmic questions)."
+436,delusions-,1520958323.0,3.0,"I'd also like to know if the ""last two months before going gold"" 60 hr weeks push is still a thing, now that CDs don't have to go gold... I guess it's the ""last two months before game becomes unlocked on steam"""
+437,iopq,1520983470.0,1.0,"If there were no outliers, nobody would EVER work for equity
+
+the whole point of equity is the lottery aspect, nobody works for equity because they think it will be worth $10,000"
+438,Jake323021,1520992972.0,6.0,"Is everyone on /r/cscareerquestions so proud they'd rather struggle with a problem than ask to see if a coworker might have an insight you're missing? Everyone needs help now and again, not really a big deal."
+439,justbouncinman,1521016299.0,1.0,"There are 8000 questions asked on Stack Overflow every day and a limited number of us who can't visit every day to monitor such things. Again, it takes five such high-ish rep people to close a question. Even then it can be re-opened though, yes, it's less likely (but it does happen more often than some think). 
+
+Far too often I read complaints about ""valid questions being closed"" and when I see those questions, to me, it's obvious why they were closed. In my case, I always give an asker the reference to the rule why I *will* close their question and I'll stick around a while to give them an opportunity to edit it before it's closed. Far too often the asker will argue with me about the rule as if I were the one who created it. I don't have time to mess with such things.
+
+Worse are the people who then go on and find the very few questions or multitude of answers  I've given in the past and downvote them to get back at me without realizing that won't work. Such serial downvoting is automatically adjusted within 24 hours while also subtracting rep points from their own total.
+
+Here are my top three users with the worst questions (I've noticed over the years). 
+
+* Those from the Middle East and India
+
+* Windows and other Microsoft users
+
+* Hobbyists and other amateurs who are kids and often cross posted the question to here on reddit. "
+440,Ciff_,1520945999.0,17.0,If it still reflects a random sampling of the population developers its fine...? Or perhaps I don't understand your concern.
+441,refactors,1520970155.0,1.0,"Bob Martin mentions this in a few of his talks such as: ""The Scribes Oath"""
+442,incraved,1520947975.0,1.0,Your second argument is nonsense. 
+443,Euphoricus,1520954911.0,3.0,"That is quite interesting.
+
+I would like to see how many new students become programmers overlayed over that.
+
+Also, is this only US thing? Or is it same elsewhere?"
+444,,1520952718.0,6.0,"> useless 
+
+It does look biased, but why do you say it is useless ? "
+445,cholantesh,1520950642.0,4.0,What does your age have to do with filling out an online survey?
+446,Edg-R,1520947161.0,13.0,"But this was a Stack Overflow Developer Survey, not a generic developer survey for all developers everywhere."
+447,twiggy99999,1520952031.0,2.0,"> Yes that's the bias I had in mind
+
+It's a fair observation then.
+
+Although my main issue with this SO surveys is the majority of the time they don't attract the ""quiet majority"" of developers, a category I put myself in.
+
+By this quiet majority I mean developers with over 5 years experience. I've always found SO to be mostly a place of hobbyist developers or new developers (under 2 maybe upto 5 years experience). I myself often end up on SO when researching a question, I can do this because I have a general understanding of what it is I'm looking for, I'm just not sure of specifics on how to do it. So I get my information and leave with little interaction with the site. 
+
+Whereas newer developers are more likely to have an account and spend longer on the site interacting with it and more likely to fill in surveys. "
+448,,1520953838.0,1.0,[deleted]
+449,lukaseder,1520976248.0,1.0,"No, I didn't mean to imply any correlation between the two images, although the assumption might be an interesting one worth validating. I just found both data points quite unlikely - and my perceived unlikelihood worth mentioning."
+450,alonest,1520954038.0,6.0,"I don't know why you're getting downvoted, but VSCode is actually slow, you don't really notice it if you're using it all the time, but I tried to make the switch from ST3 and the delay between key press and action on the screen put me off.
++ it's slow to startup where as something like N++ starts almost instantly."
+451,,1521110351.0,1.0,[deleted]
+452,spartanatreyu,1520988544.0,0.0,Well it depends what you're working on and how you set it up. No one uses just sublime text or vs code without extensions.
+453,fuckin_ziggurats,1520962903.0,3.0,I'm not upset at the developers though. They're making a great product and should be compensated. I just found the popups annoying so I've went for the free option.
+454,brogrammer9k,1520970084.0,2.0,"I have a number of extensions enabled in N++, and it launches *instantly*. Updating is a simple prompt, I don't have to dig for versions and as a (now solo) dude doing dev ops for my organization I very much appreciate how braindead-simple n++ is. Sometimes I just need an application to have straightforward features and not a million bells and whistles. 
+
+I suppose N++ occupies that same category for me as paint.net. A simple, open source and free tool that is truly lightweight and has saved me a lot of time.
+
+I haven't spent much time with Sublime (I think I tried Sublime 2 when it launched) but it felt clunky in comparison."
+455,fuckin_ziggurats,1520947018.0,2.0,What's a real text editor according to you?
+456,Zigo,1520943070.0,6.0,"gVim on Windows. Trying to use it in a terminal isn't great, but the GUI version is exactly the same as it is everywhere else and runs flawlessly. I don't use Emacs but as far as I know it's a similar story with them."
+457,,1521053160.0,-2.0,[deleted]
+458,nutrecht,1521023033.0,4.0,"> Obviously one could argue that this is societal but if that were the case countries like India that are 'more sexist' would have a higher ratio of male to female graduates when in fact they have a lower one.
+
+I don't want to open up that can of works again but that's an extreme simplification of sexism. There is a ton of institutional sexism in western countries too. Damore quoted (or well, cherry picked) one main paper on the topic as 'proof' that there was an inherent trait in women to not go into tech and even the author of that paper responsed saying he completely misinterpreted the findings.
+
+The problem is that in the nature vs nurture debate it's almost impossible to create hard scientific proof without doing Nazi germany level experiments where you expose half of a twin to tech and another half you don't. But in most research there is a strong indication that a large component of the 'preference' of women against for example technical functions is nurture far more than nature. 
+
+It is in fact completely possible that the preference of women against tech functions is 100% nurture. And this is not ""men keeping women down"" or anything; our entire education system supports this too: girls are not exposed to good role models at all. 
+
+What I do **strongly** object to is people who claim that women are not into tech because they are women. Because this is actually strongly reinforcing the actual problem. 
+
+What I find so difficult in this debate is that so many male developers don't even want to start considering that we're just getting it wrong. What if we are? What if women are just as good as men in tech? What if the reason they don't ""want"" to be in tech is because they've been told since they're born that tech is a boy's business? What if all the role models all of their lives reinforce that idea? If someone wants to at least entertain this notion and take is seriously then we can talk. But unfortunately most devs I know don't want to. 
+
+For me personally teaching young girls as a volunteer for Devoxx4Kids really opened my eyes. If anything girls do better than boys at the assignments we gave them. And I think that whole concept is, to a lot of males, really scary. "
+459,,1521015453.0,4.0,[deleted]
+460,Annabellish,1520952745.0,4.0,"I don't think this is a fair criticism of that post. They weren't saying that all white people face the same problems, they were saying that the problems white developers face in the countries mostly represented in the developer survey probably don't have race or gender as a primary cause.
+
+Which is to say, when talking about problems unique to minorities, the majority typically doesn't have experience. They have their own problems, but who says we're not allowed to work on any problem until all problems have been solved? There's a bootstrapping issue there."
+461,Annabellish,1520952806.0,0.0,"I don't think this is a fair criticism of that post. They weren't saying that all white people face the same problems, they were saying that the problems white developers face in the countries mostly represented in the developer survey probably don't have race or gender as a primary cause.
+
+Which is to say, when talking about problems unique to minorities, the majority typically doesn't have experience. They have their own problems, but who says we're not allowed to work on any problem until all problems have been solved? There's a bootstrapping issue there."
+462,fuckin_ziggurats,1520954854.0,8.0,Did you even read the survey? [Only ~4% of female respondents cared about diversity](https://insights.stackoverflow.com/survey/2018/#work-differences-in-assessing-jobs-by-gender).
+463,alcalde,1520993627.0,-1.0,"> Everyone around me isn't a ""lily-white male"".
+
+If you work in tech - yes, they are. 
+
+>We're just people getting things done. 
+
+Who all just *happen* to be identical. You have no idea how that happened, it must be a coincidence, but you're not going to bother to stop and think about it. 
+
+>It seems to be you who cares about the race of the people you work with. I 
+>posit that this makes you the problem.
+
+No, that makes me part of the *answer*.  I'm not the one ignoring reality. Scientists have done tests creating identical resumes and sending them to companies - half with WASP-sounding names like Warren Worthington III and half with ""ethic"" names like Dwayne and Laquisha. Those with WASP names got twice as many requests for interviews as the ethic names.
+
+There's a widely publicized story of a man named Kim who couldn't get a job interview in the tech field. He changed his first name on his resume and suddenly interview requests came flooding in.
+
+An experiment was done in the science field where scientists were asked to critique a paper. Again, the papers were identical, but half had a man's name and half listed a woman as the author. Scientists graded the paper with the woman's name on it lower. Worse, this apparently so subconscious and ingrained that even *women* scientists graded the female-authored paper lower!
+
+Remember, Steven Colbert's joke that he ""doesn't see color"" was to point out that his character was really racist. You're echoing that conceit in sincerity. :-(
+
+>It seems to be you who cares about the race of the people you work with.
+
+Yup. And I've quit a racist employer before. I've also put together a Martin Luther King Day celebration when an employer decided to hold events for every holiday on the calendar but that one. I got MLK Day cards long after I'd left that job from black employees thanking me and telling me I ""didn't know how much it meant to them"" that I'd done that. But I guess you have to have minority co-workers in the first place to learn how much it means to them. Also, one has to pay attention to one's colleagues as well as ""getting things done"" to notice. I can't say I've ever had a minority colleague tell me I was part of the problem. "
+464,TKirby422,1520947060.0,5.0,"Ah. I see.
+
+Yes, I think there's much less upheaval in the C/C++ embedded space vs. JavaScript/ES6, mobile, and Docker spaces. So I can completely understand why you wouldn't visit Stackoverflow as frequently."
+465,,1521316155.0,1.0,">  I am done justifying my sexuality to strangers
+
+Cool, I don't *care what your sexuality is.*. 
+
+>You can very well be bi or gay even if you've never slept with a person of the same sex as yours. The only requirement is attraction.
+
+That's an extremely loose definition. If you think your friend looks good in a suit are you bi-sexual now? 
+
+
+>Fuck off. When someone tells you who they are, believe them.
+
+I personally don't care or want to know. But I will say we've hired people from CA recently who have told me they have lied about their sexual orientation to get ahead in Silicon Valley because there is a bias against straight males. "
+466,,1520980757.0,2.0,"I never said anything about stable Rust on purpose. If the GP needs inline assembly chances are they are going to need many other unstable features as well. 
+
+BTW shimming out inline assembly to C just to use a stable compiler release makes no sense to me."
+467,Aceeri,1520967660.0,9.0,"`std::ptr::null` is a null pointer that requires use of `unsafe` to dereference (or well, to even use the pointer in most cases, pointers aren't generally exposed in rust.) They meant that you cannot have a ""null"" value in any type because the type system prevents this. You can use the `Option` type to get pseudo-null, but you cannot access its value until you match against what it is: `Some(...)` or `None`. Alternatively you can use `unwrap`, which would panic rather than segfault in the case it isn't existing."
+468,iopq,1520983557.0,2.0,That's for C interop. I've never used it in my life.
+469,Thaxll,1520949554.0,31.0,"Dropbox uses way more Go than Rust.
+
+https://about.sourcegraph.com/go/go-reliability-and-durability-at-dropbox-tammy-butow/
+
+> Today, most Dropbox infrastructure is written in Go. Specifically:
+
+> The Go server repository has 150 unique contributors (out of 500 engineers total)
+
+> 15+ teams build and run Go services at Dropbox
+
+> Company-wide, Dropbox has 1.3 million lines of Go
+
+
+Edit: I'm being down voted by quoting Dropbox engineer, geez this sub would do anything to upvote Rust."
+470,Overunderrated,1520961725.0,1.0,"Yeah, I get it. People in my field seem to get recruited pretty heavily for computational finance stuff so I've given it passing thought.
+
+Comes down to personal preference/circumstances like you said. If I were single, it'd be a much more attractive proposition."
+471,Overunderrated,1520961951.0,3.0,"Eh, pure COL terms are problematic. That 1BR apt for 35k/year is more than my mortgage for a 3000 sq ft house and some land. It's hard to compare such extremes. "
+472,,1521257045.0,1.0,"> If by junior you mean 2-5 years of experience, then yeah this is typical.
+
+2-5 years experience would make you mid-level at lowest, depending on skill. "
+473,mansplaner,1520960246.0,4.0,Some games do still have to create media for console titles.
+474,lelanthran,1521000569.0,1.0,"> If there were no outliers, nobody would EVER work for equity
+
+That's irrelevant to the point I made."
+475,Double_A_92,1521027312.0,2.0,"No but if I know it's some general problem I first type it into google, without having to bother other people..."
+476,fuckin_ziggurats,1520946336.0,11.0,The thing is it's not a random sample. By definition Stack Overflow is used more by younger people so older devs are heavily underrepresented in the survey.
+477,shevegen,1520948599.0,1.0,"But how do you know that this is really ""random""?
+
+On what merit are you stating it is random?"
+478,lukaseder,1520975952.0,1.0,"Sure, I get that. Most corporate surveys with a content marketing goal have the same flaw in that they survey mostly their main target audience. Everything else would incur prohibitive costs.
+
+I'm not criticising this fact, and I don't think the survey tries to hide this fact. But I would find a slightly more scientific survey quite more interesting."
+479,lukaseder,1520967850.0,1.0,I totally agree with the quiet majority bit.
+480,Drisku11,1520957709.0,2.0,"How is that bitter? Why does not coding in their spare time make them tired? They might have things like kids and hobbies that aren't their day job.
+
+Fwiw I visit SO *maybe* once a week or two, but probably less than that. I had no idea they were even doing this survey."
+481,lukaseder,1520967771.0,1.0,"Bitter? Where was I bitter? Cheer up mate (and maybe, don't project) :-)
+
+(and yes, I still think it's not too interesting to have survey data about very specific yet hard to define sub populations. I wish there was a survey that reflected the entire population. It would be much more telling. Including, I'd like to know about the sentiments of old tired enterprise developers, without even adding judgement to my curiosity)"
+482,,1520976898.0,1.0,"Then I stand corrected. Of course correlation does not imply causation, but those two percentages are interestingly similar. "
+483,Carighan,1520954100.0,8.0,"Yeah, I mean comparing other electron editors such as Atom it's quite snappy, but it still falls behind native gui text editors by a fair margin, nevermind something like vi."
+484,Carighan,1521110971.0,1.0,"Yeah it depends on use-case. A very common one I see among fellow developers is that they need a full-blown IDE anyhow, and then use Atom or VS Code but only for text edits / log reading / etc.
+
+In which case that's - IMO - a pretty bad pick, those applications are too slow for the job. Of course, if your workflow uses them as the ""full"" IDE, then they're argueably very fast."
+485,StarPupil,1520961305.0,1.0,"Butterflies, of course /s"
+486,,1520947353.0,-3.0,Emacs or vim.
+487,whisky_pete,1520944790.0,3.0,"Also the new Windows/Linux subsystem thing. Works pretty much the same as vim on Linux natively, and you can browse the windows filesystem using Linux conventions & tools."
+488,shuklaswag,1520950516.0,1.0,"I've tried gVim. It's alright, but if I'm going to open up a new window just for an editor I'd rather use VScode. Sad that there isn't a good terminal Vim on Windows. "
+489,Exepony,1520976211.0,1.0,"gVim had trouble with Unicode paths last time I tried to use it on Windows. Emacs, on the other hand, works great on Windows. They even went to the trouble of supporting PuTTY in TRAMP (Emacs's remote editing subsystem)."
+490,Double_A_92,1521064983.0,4.0,"I don't need experience to know if something is wrong or not. It's literally discrimination against everyone that is not ""diverse""."
+491,0987654231,1521023988.0,2.0,"Thanks for the response. My main issue was actually with the point on Damore. In my opinion he was trying to help. He backed up his opinion with data he found and edited his paper when people pointed out issues. Now maybe his approach was not the best but I'm really not ok with people attacking someone for trying to do the right thing.
+
+From personal experience I've found there's no difference in skill between men and women. I've worked with good and bad developers but gender had nothing to do with it. "
+492,nutrecht,1521015811.0,3.0,"> You're ignoring some realites about general trends in women's desires. 
+
+Which you're an expert on obviously. "
+493,,1520953139.0,6.0,"Btw, your comment posted twice."
+494,,1520955365.0,15.0,"Well, maybe; maybe not. All I know for sure is that my view is that 
+the sex, gender, race, sexuality, etc of my colleagues is the least interesting and relevant thing I can think of - and yet this is somehow dismissed and diminished because ""white dude"". I don't think it becomes OK for someone to judge people by their sex/race/whatever just because the person judging *isn't* ""white dude"".
+
+context: I work for a distributed international team that spans a wide range of continents, countries, primary languages (although we use English for most communication), races, timezones, genders, sexes, etc; it isn't ignorance of a bubble speaking.
+
+"
+495,,1520958833.0,-3.0,"> Did you even read the survey?
+
+Did you? That's the 4% that chose it as their *highest* priority. The rest of the data isn't published - for all we know, literally every woman that replied had 'diversity' as one of their top two priorities, but there's no way for us to tell.
+
+By your logic, compensation and benefits aren't important to women either, because 'only' 14% picked that option."
+496,,1521014013.0,6.0,"> If you work in tech - yes, they are.
+
+You don't know anything about my colleagues. At no point in my career has this been even remotely true.
+
+> Scientists have done tests creating identical resumes
+
+And yet we also see things like the debacle in Australia where removing sex/gender from real resumes had the opposite effect, and the program had to be cancelled - or the same thing [when using voice modulation in tech interviews](http://blog.interviewing.io/we-built-voice-modulation-to-mask-gender-in-technical-interviews-heres-what-happened/). It is almost as though this is a complex topic, and whatever you read in your Twitter bubble isn't giving you the wider context. Funny, eh?
+
+> But I guess you have to have minority co-workers in the first place to learn how much it means to them.
+
+I suspect my team is far far more diverse than any you have ever worked on, and I still don't care for identity politics.
+
+> And I've quit a racist employer before.
+
+Good for you
+
+> I've also put together a Martin Luther King Day celebration
+
+I haven't; because that really isn't a thing in Europe, Asia, India, South America, or any of the other places where colleagues have been. If you think you're ""diverse"" because you're an American who works with other Americans with different skin tones: then you have *no freaking clue* about global diversity.
+
+And yes; yes you are part of a problem. Maybe not the one you're thinking of, but definitely a problem."
+497,doom_Oo7,1520972133.0,-3.0,"> They meant that you cannot have a ""null"" value in any type because the type system prevents this.
+
+what the hell do you mean ? https://godbolt.org/g/tGjizj
+
+And saying ""you need unsafe to do it"" is absolutely not an argument : there are tons and tons and tons of code using unsafe blocks out there: https://github.com/search?utf8=%E2%9C%93&q=unsafe+extension%3Ars+language%3ARust+language%3ARust&type=Code&ref=advsearch&l=Rust&l=Rust"
+498,doom_Oo7,1520983608.0,1.0,"well, that's good for you ; I had to do C interop with almost every language I ever worked in."
+499,est31,1520954124.0,16.0,"> Company-wide, Dropbox has 1.3 million lines of Go
+
+From the May 2017 talk that I've linked above (by a Dropbox engineer as well), Dropbox had about 300k lines of Rust code, and > 20 engineers (around minute 25 in the video).
+
+So comparing the two, it is more than just ""a little bit of Rust"". Especially, Rust is used in really core projects for Dropbox:
+
+* Storage node for magic pocket written in Rust (first half of talk)
+* Magic pocket volume manager got rewritten in Rust, now using 5-10x less memory than the original Go version (starting at 26:27)
+* Nucleus sync engine, uses 10x less memory, 50x faster than the original Python version (starting at 30:05)"
+500,matthieum,1520949844.0,13.0,"Yes, and?
+
+As I said it's not a matter of *quantity*. They use Rust where Go is not suitable, where they would have needed C or C++ but dreaded to use those."
+501,geodel,1520950095.0,5.0,Now you are resorting to facts. This is not gonna be good.
+502,carrutstick_,1520963838.0,2.0,"Sure, you get a different lifestyle in the city than you'd get somewhere else. I'm just saying that if your main goal is to hoard money for a few years, living in NYC definitely makes sense, even accounting for the COL."
+503,delusions-,1520965476.0,4.0,"> Some games do still have to create media for console titles.
+
+Augh. Shit. Didn't even think about consoles. Yeah. I'm 100% sure there's still 60+ hours weeks til' they go gold."
+504,iopq,1521001251.0,1.0,"It's not irrelevant, eliminating outliers is not valid in this example.
+
+Selling insurance would just be free money if not for OUTLIERS. The outliers make insurance companies go bankrupt."
+505,,1521257159.0,1.0,for case specific questions you could spend 3 hours in Google and not find an answer when another developer is next door and probably could have helped you in 20 minutes. I've never got why collaborating to solve a problem is looked down upon by people. 
+506,Neuromante,1520947224.0,12.0,"Exactly this. The survey only represent ""devs who used stackoverflow"", so its far from being ""random."" And given that stackoverflow was opened over 10 years ago, maybe the claim that younger devs need more stackoverflow than older ones hasm some footing."
+507,SgtBlackScorp,1520948573.0,7.0,The point was that there are more younger devs in general so stackoverflow is not a misrepresentation 
+508,Ciff_,1520950047.0,2.0,"I assume stackoverflow assert random sampling as it is standard procedure for conducting surveys. I do not know their sampling strategy, hence I would not know. Since you are asserting it is not random, is it that you think they have not done enough to ensure random sampling? Or that you question random sampling is impossible due to the nature of the survey (in that case I like to know your merit for that assertion)."
+509,lukaseder,1521014180.0,1.0,"> but those two percentages are interestingly similar.
+
+[So are these](https://imgur.com/a/iO7hE)
+
+[Or these ;-)](http://www.tylervigen.com/spurious-correlations)"
+510,Nefari0uss,1520949317.0,7.0,/r/gatekeeping
+511,fuckin_ziggurats,1520947505.0,2.0,Yikes. There's a reason the survey suggested they're only popular to non-programmers.
+512,,1520948553.0,1.0,[deleted]
+513,,1520957453.0,1.0,"I use terminal vim from git bash and it works great. Although I don’t use any fancy configs or packages or anything, just raw vim"
+514,,1521067485.0,1.0,[deleted]
+515,nutrecht,1521024921.0,4.0,"> In my opinion he was trying to help. 
+
+I was giving him the benefit of the doubt when it all came out but with everything he said afterwards I'm perfectly sure he wasn't just trying to help. And even if he wanted to help he should have done it in a way that did not make women at Google feel unwelcome, because that is definitely what it did.
+
+And sure he backed his opinion with 'data'; it was just cherry picked to support his case. And that by itself is completely unscientific; a true scientist will always try to take apart their own argument. He did the opposite. And like I said; a large majority of what he claimed was based on a paper where the actual author of the paper said Damore misinterpreted it. 
+
+I do agree however that many tech companies (and even politicians) are doing the wrong thing to try and fix the problem since they're not fixing the root cause. And if you see bad developers being brought onto your team simply because your company is trying to fill a quota I can imagine that that pisses you off. But writing and spreading a paper that basically claims women are biologically (so nature and not nurture) predisposed against tech is incredibly harmful and that is something I am not okay with at all. "
+516,,1521016070.0,5.0,[deleted]
+517,qkthrv17,1520965176.0,7.0,"It turned into individual blame instead of system blame long ago. Talking about power hierarchies and structures that isolate minorities is good, but a great vocal minority of identity politics is throwing guilt at strangers.
+
+Which is kind of a nonsense since the oppression is systematic and while there are biases nobody is going to respond to such a negative feedback."
+518,IceSentry,1521000083.0,2.0,I believe that it is actually a fair assessment of the situation even in you example. It's been proven many times before that women tend to go towards other things than money compared to men. That's the reality.
+519,Aceeri,1520972506.0,6.0,"That is a type of `*const T` which is a special case on its own. If you have a type of `T` then it cannot be null.
+
+Yes null ""exists"", but you are being pedantic, less than a percent of Rust code touches unsafe blocks, which means a majority of Rust code has static guarantees of non-nullability."
+520,iopq,1520983716.0,2.0,"I personally use libraries where people write bridges FOR me so that I can use a pure Rust interface that cannot contain a NULL.
+
+Of course, the person who wrote the bridge had to deal with C pointers so I don't have to."
+521,Thaxll,1520950470.0,8.0,"To quote you:
+
+> some companies have bet their core business on Rust; for example Dropbox using Rust for their storage layer,
+
+From the article it's clear that Dropbox is betting on Go and not Rust. Yes they have Rust in some places but the language to build Dropbox infrastructure is Go, furthermore from the same article:
+
+> One key data point is that there's no effort at Dropbox to rewrite services from Go to another language, which is a sign that people are generally happy. (Tammy did toss out an intriguing piece of information: there is a little bit of Rust in use at Dropbox. But it's not being considered as a replacement for Go.)
+
+"
+522,lelanthran,1521002958.0,1.0,"In insurance claimants are the norm, not the outliers. It is normal to claim, and close to the majority of insurance holders have made a claim at some point in their life.
+
+In working for equity, paydays are outliers because they are unusual."
+523,Double_A_92,1521283206.0,1.0,I was talking more about simple things. That will be answered literally in the first google result.
+524,ciny,1520952554.0,2.0,"> Exactly this. The survey only represent ""devs who used stackoverflow""
+
+To be overly anal about it it only represents devs who bothered to fill out the survey, I know I didn't. The questions with most responses have 90-100k of them.  I'd be very surprised if it was a large part of the actual users. "
+525,,1520949309.0,1.0,I don’t think need is the right word. It’s more likely that younger devs are just more open about sharing their problems with each other than older developers.  
+526,fuckin_ziggurats,1520949305.0,4.0,"I'm gonna repeat /u/Neuromante and ask, do you have numbers that prove there are more younger devs than older in general? I find that hard to believe."
+527,,1521016994.0,1.0,"Indeed! Though, just because correlation doesn’t *necessarily* imply causation, sometimes it does. That’s why, for the sake of the future of research in our industry, I support mandatory daily playing of Streetfighter 2 in order to increase the number of comp sci graduates. It’s the right thing to do. "
+528,,1520949799.0,-4.0,"Yeah if there was a gate between the programmers that prefer Notepad (++ or not) to emacs I'd volunteer my time to keep it. Don't worry, I'd let you through when you saw the light."
+529,,1520947864.0,3.0,"Heh, definitely popular with programmers, less so with those programmers who make up SO's main audience perhaps."
+530,,1520948689.0,1.0,Old ESR joke about operating systems.
+531,Double_A_92,1521097465.0,8.0,"> the stance that I must tolerate intolerance
+
+What? Is it intolerance if you don't **prefer** minorities?
+How is hiring just based on skill not the most fair thing you could do? Why do you have to involve how people look and/or where they are from into that process?"
+532,HelperBot_,1521067489.0,1.0,"Non-Mobile link: https://en.wikipedia.org/wiki/Paradox_of_tolerance
+***
+^HelperBot ^v1.1 ^/r/HelperBot_ ^I ^am ^a ^bot. ^Please ^message ^/u/swim1929 ^with ^any ^feedback ^and/or ^hate. ^Counter: ^159847"
+533,0987654231,1521025617.0,1.0,"> he should have done it in a way that did not make women at Google feel unwelcome, because that is definitely what it did.
+
+For sure, his approach was not the best. You have to remember this is a guy who was ranked in the top 5% of engineers at google. I wouldn't be shocked if his problem solving skills came at the cost of social awareness. He probably just saw a problem and proposed a solution that he thought was good based on the data he found. A couple people politely explaining to him why he was wrong would have probably changed his mind. Instead he was harassed and insulted, most people just stick to their guns in that situation.
+
+
+
+"
+534,nutrecht,1521016204.0,0.0,"> I'm happy to continue.
+
+I'm not. Which I why I'm quitting :) If you want to believe the huge decline of women in STEM is simply choice than that's your prerogative. I'm sure I'm not going to convince you otherwise so I prefer to not waste your or my time any further :)"
+535,,1520965728.0,2.0,"I'm not *entirely* sure ""systemic"" is 100% right, but that could just be a semantics thing. It is certainly not official, sanctioned, legal, etc - while biases and unfairnesses certainly exist, they are down to individuals and conscious or unconscious failings. The problem is that the ""solution"" people always push for *is* institutional, systemic discrimination - quotas, etc. Conscious, deliberate, system-enforced and sanctioned biases. Which punish innocent people by changing (reducing) their chances based purely on their race, sex, gender, etc - enshrining exactly the problem that proponents of these drives  claim to be solving."
+536,doom_Oo7,1520972918.0,1.0,"> That is a type of *const T which is a special case on its own. If you have a type of T then it cannot be null.
+
+and a type of type `T` in C++ cannot be null either. `std::string` cannot be null  (and I'm pretty sure the proportion of `std::string*` in C++ code is similar to bad uses of unsafe in Rust code). `int` cannot be null, etc etc.
+
+> less than a percent of Rust code touches unsafe blocks,
+
+and only one bad use is enough to cause CVEs. It's entirely pointless to judge a language by ""societal"" metrics such as ""people usually don't do that here"". And it's hypocritical to say that a type system is sound and safe when there are backdoors in the language that allow to enter unsound places fairly easily. 
+When you're in a company with people cranking 9am to 9pm for a few weeks, what the community does or thinks does not matter, if junior decided to put the whole function in an unsafe block at some point for speeding stuff up, no one's going to code review him and you'll get crashes three months later."
+537,doom_Oo7,1520983760.0,1.0,and how much do you trust these persons from not doing any error in their `unsafe {}` code ? 
+538,matthieum,1520965936.0,12.0,"From 2016: https://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/
+
+> But Go's ""memory footprint""—the amount of computer memory it demands while running Magic Pocket—was too high for the massive storage systems the company was trying to build. Dropbox needed a language that would take up less space in memory, because so much memory would be filled with all those files streaming onto the machine. So, in the middle of this two-and-half-year project, they switched to Rust on the Diskotech machines. And that's what Dropbox is now pushing into its data centers.
+
+So, as I said, Dropbox uses Rust to power their storage layer (the Diskotech matchines). Or in short, they trust Rust with their user data.
+
+Sine Dropbox is first and foremost a service to store data online, entrusting Rust with their user data qualifies, for me, as betting their core business on Rust.
+
+Yes, the upper layers are in Go and Python, but as I keep saying *I am not talking about quantity here*^1 : the foundations of their business are in Rust.
+
+^1 *Which I guess is why you were getting downvoted: using lines-of-codes or number-of-engineers as a metric is attempting to qualify quantity, which is NOT the point I am making. Or maybe people are just downvote happy. Meh :x*"
+539,iopq,1521008021.0,1.0,"> In insurance claimants are the norm, not the outliers.
+
+https://en.wikipedia.org/wiki/American_International_Group
+
+AIG didn't think so, and sold credit default swaps without considering that mortgages could all start to default when interest rates go up
+
+> In working for equity, paydays are outliers because they are unusual.
+
+It's the ONLY reason to work for equity, if you eliminate them, you get a value of $0 of equity which is simply not true"
+540,geeky_username,1520971125.0,2.0,"I ""use"" Stack Overflow in the sense that I land there from questions I search for in Google.
+
+I have no account, I don't ask questions, and I don't answer any."
+541,Drisku11,1520957164.0,1.0,"It's more that unless I'm doing some task I rarely do (writing a one-off script or using tools I never have to interact with or whatever), I generally prefer to answer my own questions so that I can learn more. Like if I have some detailed question about the behavior of some library, I just go read the source code."
+542,SgtBlackScorp,1520950239.0,3.0,"I don't, I'm just saying what his line of thinking was. "
+543,thisisshantzz,1520957511.0,1.0,Wouldn't your conclusion also depend on the definition of younger and older? Are devs over the age of 30 considered older or younger?
+544,r3djak,1520958292.0,1.0,">those programmers who make up SO's main audience
+
+So...programmers? Stack Overflow is easily one of the most used programming resources out there. Your zealous views of the ""right"" text editor aside, you seem to care a lot more about *how* someone gets a job done, as opposed to the job getting done. Who gives a shit what editor or websites someone uses to complete a project, as long as the project gets done?
+
+I know you're just going to come back with another useless 1 sentence reply saying something else stupid, but whoever you think your audience is, they aren't here. And the best way to make sure people don't use a tool you find useful is to be a dick about trying to get people to try it."
+545,,1521137526.0,0.0,[deleted]
+546,nutrecht,1521029914.0,1.0,">  I wouldn't be shocked if his problem solving skills came at the cost of social awareness.
+
+That's just another stereotype. 
+
+> A couple people politely explaining to him why he was wrong would have probably changed his mind. Instead he was harassed and insulted, most people just stick to their guns in that situation.
+
+Might have something to do with him sending his ""manifesto"" to quite a few people?"
+547,qkthrv17,1520970347.0,1.0,"> systemic
+ adjective
+1. of or relating to a system.
+
+I was trying to talk about society from a sociopolitical standpoint and how there are structures built around gender and race (amongst others), but I might be translating directly from my mother tongue and in english the idea of systemic could convey something different. Nevertheless, I think you understood what I was trying to say.
+
+There isn't much to disagree in ""society shouldn't seek legal instrumentation of positively discriminatory quotas"", but, at the same time, trying to enforce equity without tools is hard. It's a hard issue that gets too emotional too fast. Antagonizing and blaming strangers isn't going to do anything but fuel the toxicity, and that's what I wanted to say in my previous message. Not much, I know lol
+
+(btw I've just noticed I wrote systematic by mistake)"
+548,Aceeri,1520973800.0,3.0,"The entire point of Rust is to minimize unsafety. If you never use `unsafe` then you should never have any issues. Using unsafe is rarely going to be faster than just writing safe code anyways, given that Rust does not throw away all type guarantees just by using that keyword.
+
+> no one's going to code review him and you'll get crashes three months later.
+
+That isn't a problem of the language if you refuse to actually review code."
+549,iopq,1520983991.0,1.0,"More than I trust the C program it's bridging to
+
+Most of those `unsafe` blocks are actually trivial
+
+    pub fn as_slice(&self) -> &[f32] {
+        let count: usize = self.len();
+        unsafe {
+            let data = ffi::CaffeBlobCPUData(self.blob.get());
+            slice::from_raw_parts(data, count)
+        }
+    }
+
+That's IT, they're not doing rocket surgery, the actual Caffe library is what's doing the scary things"
+550,fuckin_ziggurats,1520963005.0,1.0,"I guess I'd consider people with 5 or less years of experience to be in the younger crowd. With that said, according to the survey, that's most of StackOverflow's users."
+551,Double_A_92,1521140723.0,2.0,"> Society is working to correct that.
+
+> then prioritize ones who would diversify the company
+
+Chose one.
+"
+552,0987654231,1521045795.0,1.0,"> That's just another stereotype.
+
+is it though? look at how he behaves
+
+> Might have something to do with him sending his ""manifesto"" to quite a few people?
+
+he posted it to the the internal skeptics board and asked for feedback, looking at the skeptics community that's probably appropriate."
+553,,1520970619.0,3.0,"> Antagonizing and blaming strangers isn't going to do anything but fuel the toxicity, and that's what I wanted to say in my previous message. 
+
+Very well said."
+554,,1521142623.0,1.0,[deleted]
+555,Double_A_92,1521145223.0,3.0,"What is even exactly the problem? Your solution sounded more like it would make it worse.
+
+Just because somebody is black, or a woman, or a foreigner, or whatever they are NOT special. What makes them special that you need to prefer them? Just treat everbody equally and the right percentage will settle in automatically."

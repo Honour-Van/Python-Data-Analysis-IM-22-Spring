@@ -1,0 +1,28 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,klorophane,1627497150.0,8.0,"IMO the best way to ""get"" Rust is to toy a bit with it. A colleague told me about Rust back in 2017, but I basically shrugged it off because I was already content with the languages I was using. In 2020 I had work hiatus and decided to look into Rust, just for fun. Safe to say I fell in love with it.
+
+Some of the things I like about Rust : 
+
+1. the ergonomics (method chaining, iterators, match patterns, macros, generics)
+2. the performance (fast)
+3. the safety (strong)
+4. the object model (no inheritance, static and dynamic trait objects)
+5. a sane and useful build tool
+
+That's just the tip of the iceberg though, so I would also encourage you to take a look at the ""the book"" which has been listed in another comment in the thread :)"
+1,TheRealMasonMac,1627491650.0,11.0,https://doc.rust-lang.org/book/foreword.html
+2,,1627545574.0,-13.0,"> Why was it voted the best programming language Onan Stack Overflow survey?
+
+Curious indeed; I'd expect Haskell to be more popular among enthusiasts of mental masturbation."
+3,PrivacyOSx,1627497224.0,1.0,"Ah, thank you!
+
+What kind of projects can you build with Rust compared to JavaScript?"
+4,jerknextdoor,1627498827.0,5.0,"Rust is a general purpose, systems level language and capable of writing most anything you want. You can write something as low-level and complex as an operating system (see the recent RFCs to accept it into the Linux Kernel) or even in the browser by compiling it to Web Assembly.
+
+I recommend checking out the main marketing [website](https://www.rust-lang.org/) to get you started."
+5,PrivacyOSx,1627498997.0,1.0,"Awesome! Thank you. From a Blockchain perspective, how is it useful?
+
+Also, do you by any chance have some learning resources you can send my way?😊"
+6,jerknextdoor,1627501504.0,8.0,"The recommended learning resources can be found on [the website](https://www.rust-lang.org/learn). [The book](https://doc.rust-lang.org/book/) is where most people start.
+
+I'm not a Blockchain dev so I can't really help you too much. I believe Rust is extremely popular with Blockchain because of speed, safety, and security. Rust is able to give the same performance as C/C++ without nearly the same risks of not being memory safe. Rusts first class support of compiling to Web Assembly (wasm) also seems to be a big benefit to Blockchain because of Wasm's built in sandboxing and ability to run just about anywhere."

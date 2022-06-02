@@ -1,0 +1,132 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,GolDDranks,1485090935.0,6.0,"It seems to me that women are especially underrepresented in technical hobbyist/early adopter communities, and that might be something we can do little about.
+
+There might be something we could do better right now, but then again, if there is simply no interest it might be very hard. Not to say that we shouldn't try.
+
+But at least that would mean that there surely is one direction that helps everybody: grow bigger and stop being an ""early adopter"" niche. We're getting there sooner or later!"
+1,pwgen-n1024,1485090943.0,4.0,"While these results look bad they are not surprising.
+
+1. there is a really really high uncertainty for the rust results, so we can not be sure if they carry the message we assume they might carry.
+
+2. rust is not too relevant for hiring (yet). women represent ~20% of employees in tech, but are at around ~1% or less in open source.
+
+3. rust mainly recruits from the C, Haskel (and some python, i think (are there more detailed studies for this?)), which are not very female-dominated, even speaking in tech terms.
+
+i am not just making this up, this is supported by the survey. salesforce, ruby and wordpress are technologies which are useful for a job right now.
+
+matlab, R and hadoop are data science tools, so useful for a job, too, but the job is probably something not primarily computer-sciency.
+
+C, Haskel, and python are all on the male side of the graph.
+
+that is how things are right now, and why they are.
+
+now we can think about how to change them. sadly i am a bit out of ideas for that one, the rust community simply is really non-hostile. i think there is only so much that can be done by an open source community. the main life goal orientation happens in teenage years. 
+
+as its a lot easier to ask people that are with us what brought them here, then to find out what made people that are not here not come, maybe we should do that, and push those things even more.
+
+i personally think that the right way to go about equality is to remove barriers, structural disadvantages and the like and then let things equalize themselves. this is hard to do (see previous paragraph) so contradicting this sentiment **i would like to ask everybody reading this who is a woman to share what makes them be here/use rust**, so that we all can build on that.
+
+i feel like i phrased some of this posting awkwardly, i hope its still understandable, please pm me suggestions for improvement."
+2,nwydo,1485040436.0,23.0,"Well shit. How do we do better?
+
+Edit: I seem to be downvoted, I'm sorry if this seemed glib or unconstructive. It was a genuine question of ""this makes me really sad, any ideas on how we can improve?"". Especially given that we have great people on the community subteam, CoC strict moderation etc."
+3,sanxiyn,1485074217.0,7.0,"This matches my impression.
+
+I was nearly flamed when I said in 2015 (near Rust 1.0) that despite efforts, participation of women as ratio didn't seem to have increased at all compared to 2013 (when I first joined), and suggested that maybe we are doing it wrong.
+
+Many said my impression from the internet may not be representative of actual uses. Well, StackOverflow is also ""from the internet"", so I guess you can say the same. I still think maybe we are doing it wrong."
+4,analogphototaker,1485043341.0,-1.0,"Some thoughts:
+
+1. In general, stack overflow is a competitive environment for the people that answer questions.
+
+2. Low level / close-to-the-metal / speed-obsessed programming has sort of a macho feeling about it. For example, benchmarking and comparing speeds of languages is very similar to racing muscle cars.
+
+3. IT has a very strange culture of needing to be correct. ML type systems are all about being totally correct.
+
+4. The women in tech that I know work in either data analytics or front end web design. 
+
+I'm thinking that men (the male psyche, whatever you want to call it), tends to be attracted to competition, glory, etc.
+
+Thought 4 explains why many people aren't looking at Rust (not just women). But anecdotally, more women work in fields not related to rust. So until it becomes more relevant to those fields, I'd say there's nothing to do."
+5,,1485161287.0,11.0,"Woman who uses Rust checking in :) 
+
+My response may not be helpful, as I tend to be choosing technologies based on what I find interesting or stimulating and what's been recommended to me, rather than by inclusiveness of community. 
+
+So more specifically, the CEO at my workplace suggested last year that we start using Rust for internal projects, which was my first introduction to the language. 
+
+I was quite impressed by the thoroughness of the borrow checker; the speed relative to other languages I had been using (Scala, Java, and Python), but without some of the nitty-gritty management details of C; and the excellent documentation. I now use Rust for personal projects by default.
+
+I have recommended it to a (female) dev friend who has checked it out and I believe is now learning it. The community does strike me as quite non-hostile and encouraging."
+6,carols10cents,1485117487.0,5.0,"I've written/spoken about why I use Rust many times before, [here's one such place](http://www.integer32.com/2016/07/11/why-rust.html). I really can't speak to why other women aren't using Rust."
+7,llogiq,1485114850.0,1.0,"I think the 2016 Rust Survey had a question about main language. You missed Java, JavaScript and Ruby, IIRC.
+
+Apart from that, our outreach so far has been quite humble – other communities (e.g. Ruby) have simply been more active last year, so we may get some easy wins by stepping up our outreach. One should however note that the Rust community is still relatively small, so it hinges on someone taking the lead."
+8,ssokolow,1485041917.0,32.0,"I get the impression Rust is just the biggest victim of the general ""for my job"" skew they observed in female respondents' responses, so it's probably going to be an uphill battle until more Rust job postings open up."
+9,Gyscos,1485040584.0,21.0,"(As a very partial explanation,) I would assume that with a general low representation, noise and errors would have much larger effect (1% of women is ~30 individuals)."
+10,Hobofan94,1485042869.0,12.0,"This might be a bit of a far shot, but I would say by introducing Rust in the workplace. According to the [State of Rust 2016 survey](https://blog.rust-lang.org/2016/06/30/State-of-Rust-Survey-2016.html) most of us here don't use Rust at our jobs. Looking at the technologies doing well (Salesforce, Matlab), those are mostly things you would choose for the available jobs, and are unlikely used outside of it. Rust is also the second youngest technology in the SO survey.
+
+I would also wager that Ruby got its good standing from RailsGirls and similar projects (together with its usage in bigger startups that put effort into diversity like Github), which I think could be a good strategy in the long-term for Rust too."
+11,thiez,1485105201.0,2.0,Looking at the statistics I suppose we'll have to take some inspiration from Salesforce and Matlab in this area :-p
+12,kazagistar,1485111848.0,1.0,"So far, the only proposal that explains the difference has been usefulness at work, but perhaps you habe a more concrete idea about what we are doing wrong?"
+13,thiez,1485107866.0,6.0,"> IT has a very strange culture of needing to be correct. ML type systems are all about being totally correct.
+
+If correctness is something that scares off women, then shouldn't they be *even more* underrepresented in mathematics? Because that [doesn't seem to be the case](https://ngcproject.org/statistics)."
+14,llogiq,1485085224.0,9.0,"We are the ones building our culture, so we share responsibility for the outcome. Denial and blaming women for 'not being interested' will only serve to perpetuate the problem. We can do better. Step one is to accept there's a problem and step two to accept that we can do something about it."
+15,nwydo,1485048131.0,10.0,"> Some thoughts:
+
+> In general, stack overflow is a competitive environment for the people that answer questions.
+
+Yup.
+
+> Low level / close-to-the-metal / speed-obsessed programming has sort of a macho feeling about it. For example, benchmarking and comparing speeds of languages is very similar to racing muscle cars.
+
+I guess... I mean 'macho' might not be what I'd call it, but I get it.
+
+> IT has a very strange culture of needing to be correct. ML type systems are all about being totally correct.
+
+Guess so, but it doesn't... really sound relevant though.
+
+> I'm thinking that men (the male psyche, whatever you want to call it), tends to be attracted to competition, glory, etc.
+
+Wait what? :(
+
+> The women in tech that I know work in either data analytics or front end web design.
+
+> I'm thinking that men (the male psyche, whatever you want to call it), tends to be attracted to competition, glory, etc.
+
+> Thought 4 explains why many people aren't looking at Rust (not just women). But anecdotally, more women work in fields not related to rust. So until it becomes more relevant to those fields, I'd say there's nothing to do.
+
+I assume you didn't mean this, but it sounds a heck of a lot like ""Rust is suited to fields that women are not suited to"".
+
+Even in the best possible interpretation of this, we should still not just be passive observers, instead striving to be one of the driving forces pushing for the change necessary for women to _be_ part of the areas Rust is good at."
+16,carols10cents,1485117584.0,5.0,[Here's the survey post](https://blog.rust-lang.org/2016/06/30/State-of-Rust-Survey-2016.html); Python is actually the language that the MOST people using Rust are most comfortable with.
+17,nwydo,1485040964.0,8.0,That is a fair point. Looking at the large error bars in the 2nd graphs still doesn't paint a particularly good picture though.
+18,kazagistar,1485111539.0,2.0,"The error bars indicate that the effect might be much smaller or much larger, but that it certainly exists."
+19,thiez,1485108589.0,1.0,"The large error bar goes the other way as well. When you have a measurement of ""it's bad"" and the error bars go all the way from ""an epidemic will kill everyone"" to ""you may stub your toe today"", choosing to believe the latter because it is more in line with what you desire is just sticking your head in the sand."
+20,matthieum,1485098762.0,6.0,"This!
+
+It's very easy to say: ""We're open, they just have to come"". It's also very comforting in a ""Not my fault"" kind of way.
+
+However it's important to put oneself in their shoes (no that I'd be able to walk in heels, that takes skill): why would they come?
+
+To come, they first need to hear about us. It's pretty rare to go somewhere randomly ""just in case there's something interesting"".
+
+Then, they need to find us more interesting than daunting. It's easy when you're (like me) a white young male: everyone around looks the same, everyone got the same references, I feel at ease!
+
+Well, would you feel at ease in a room of old asian women talking Vietnamese (nothing against it, I just don't understand it at all) and referencing Vietnamese culture (nothing against it, I just don't know it at all) which they all seem to find highly amusing but blows right over your head? I wouldn't. And it doesn't help I wouldn't like this bitter beverage they are consuming. I'd probably smile to be polite, endure, and leave at the earliest opportunity. Or actually, if I could, I'd just avoid walking in there in the first place and spare myself the time loss and embarrassment.
+
+And that may very well be what we're observing here: if we appear too daunting, people (in general) will keep their distance and pass their way."
+21,analogphototaker,1485053644.0,5.0,"I was speaking descriptively, not prescriptively. How it is/was, not how it should be, by any means.
+
+I think the rust community is doing a good job at moving beyond old social conventions, though.
+
+>I assume you didn't mean this, but it sounds a heck of a lot like ""Rust is suited to fields that women are not suited to"".
+
+Rather, I was saying that Rust is suited to fields that women don't seem to be interested in, for reasons most likely mentioned above.
+
+You can bring a horse to water, but you can't make it drink. Every woman that I know that is interested in tech, has gotten a job incredibly easily. Tech companies are desperate to hire women. And yet, you can't force people to do jobs they aren't interested in. "
+22,pwgen-n1024,1485118054.0,1.0,"Ok, so not many haskell people, i just defaulted to Haskel/C due to design/intended field of usage.
+
+would it be possible to get the rust survey results, but with the diagrams sorted by value, not by alphabet?"
+23,Hobofan94,1485044242.0,5.0,"How do large error bars paint a bad picture? That just means that there is little input data, in this case few people overall using Rust if I interpret it correctly."
+24,nwydo,1485047553.0,6.0,"I meant ""even accounting for the large error bars"" (i.e looking at the best-case scenarios within the margins) still doesn't paint a particularly good picture."

@@ -1,0 +1,577 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,StandardN00b,1647520856.0,3214.0,Everyone knows that the best answer is the second most upvoted.
+1,TakingItCasual,1647524442.0,941.0,"I've seen informational answers that explain the underlying mechanics, and then just *imply* the answer rather than give it. I mean, it's nice to have, but it always ends up buried under the answer somebody gives that's based on that implication."
+2,barricuda,1647528919.0,263.0,You guys are getting answers??
+3,SnappGamez,1647523083.0,621.0,I usually prefer the one with an explanation. I like knowing what’s going on.
+4,TMiguelT,1647526081.0,72.0,"When I can be bothered I try offer the best of both worlds with my answers and do: 
+
+> Concise Response/TLDR
+> ***
+> Detailed explanation"
+5,bludgeonedcurmudgeon,1647534279.0,19.0,"Asking a question on SO will invariably solicit more of the following than any actual workable answers:
+
+1)Why your question is bad and you should feel bad
+
+2)Answering a question you never asked...like you present the constraints you are working under from the client and they propose all this shit that you can't implement"
+6,clutzyninja,1647527779.0,42.0,The top answer is always the one that uses 1000 lines of code to answer the question they think you SHOULD be asking instead of answering the one you did
+7,_LususNaturae_,1647530461.0,35.0,"If I copy and paste a code that works, I can invest some time into knowing why it works. If I read a detailed explanation that ends up not working, I have just lost time."
+8,RatherBetter,1647520638.0,149.0,"80% of time we just need working code, we don't bother why it works, if it works copy-paste ...cough.. cough."
+9,Deadmirth,1647531745.0,8.0,"The inverse is this:
+
+Question: How do I do {complex thing}?
+
+Best/Only Answer: Based on your data, {simple thing} should work for you!
+
+Me: But I really did need to learn how to do {complex thing}...
+
+Bonus points if you ask the question yourself and it gets flagged as a duplicate."
+10,majorksaksak,1647529975.0,7.0,I once had an issue and the only solution was just instructions with no code or pictures. Spent like 2-3 hours trying to fix it until I did. Few days later I made a video showing how to do what I did so that others wouldn't have to struggle plus so that in the future I could easily replicate the solution.
+11,meOnReddit23,1647549789.0,5.0,Original comics are by Shen Comix..
+12,Piotrek9t,1647523855.0,45.0,"To be honest, why would I bother to learn a solution to a language specific problem, I encounter once a decade. I'll definitely have forgotten how to do that stuff by the time I encounter it again"
+13,MintyMissterious,1647548899.0,4.0,"Yeah, nah, I'm with the Sun on this one. Code that works might be something the Sun explains as having poor performance, strange behavior on edges, requiring 20 different libraries, or just using a library that wasn't maintained since 2003.
+
+Although I will still check if Moon's code works, just in case."
+14,NeuroXc,1647549613.0,5.0,"False, the ""Best Answer"" is usually one that is 10 years old, no longer works, and may or may not have even worked at the time of posting. Usually with about 2 updoots. With a 700 updoot answer right beneath it."
+15,Fisher9001,1647530174.0,15.0,"I like short, concise explanations. I can't stand Quora-like answers where the author performs autofellatio barely related to the problem."
+16,BoBoBearDev,1647537076.0,7.0,"Not gonna lie, I would choose the moon by a lot. Because it actually works. I have seen instructions like the sun, telling to  do something without telling to how to do it. So, I have no idea if I applied the fix correctly or not. I hate those. Just give  me the damn working example instead of some implied trash."
+17,R_HEAD,1647528053.0,3.0,"Really depends on how familiar I am with the language. If I know it well, I read the long version because I can follow the reasoning easily and end up being a tiny bit better afterwards. 
+
+If I am new to the language, and the explanation is really thorough, it would take me ages to completely understand every aspect of it, time I mostly don't have. (Also ties in with the fact that if I don't know the language well in the first place, I probably don't need it all that often.)"
+18,minus_uu_ee,1647531287.0,6.0,virgin problem solver vs Chad copypaster
+19,some_clickhead,1647530386.0,4.0,"90% of the time I'm on Stack Overflow, it's because I have a school assignment due for tomorrow, or I'm at work and I have to get through multiple tasks a day. I ain't got time for explanations most of the time lol"
+20,vbigoof,1647530571.0,2.0,Ain't nobody got time to read
+21,Lunar30,1647533856.0,2.0,"I used to play the stack overflow points game. I would build out detailed solutions with actual code and links to projects fixing things. I hardly got anyone selecting my answer or a response from the poster. Now, I don’t even try."
+22,nooptionleft,1647534350.0,2.0,"My code is put together with spit and chewing gum. Understanding too much would tempt me to make it better.
+
+I can't risk that, that is too dangerous"
+23,MobilePom,1647534647.0,2.0,"Its, not it's"
+24,Superbead,1647535595.0,2.0,"I can see 'a code' becoming a thing in the same way 'we need more compute' has, and it makes me sad."
+25,,1647562018.0,2.0,[deleted]
+26,Bucilooid,1647576931.0,2.0,"Code that works + explanation 🥴
+
+Man I gotta say it’s quite the feeling looking at a solution and losing faith then seeing “EDIT: For those googling -your exact problem- …”
+
+Sweet Jesus"
+27,MAGA_WALL_E,1647582097.0,2.0,"Yeah, but 4 years later all your URLs are dead."
+28,FlamboyantApproval16,1647531013.0,6.0,u/repostsleuthbot Tell these fools that this is a repost my boy.
+29,MirageTF2,1647530837.0,2.0,"this is actually mostly completely untrue tho lol...
+
+on some posts you might see some answers that are literally just code that ""works"" w/o describing anything. in fact, some of them just use standard code to do something even against what the OP intended (some might want to do it a specific way, only for the answer to just use another way because it ""works better""). these are the most annoying because it's clear they just stared at the title and thought ""hmm yeah let me put code somewhat related to it"". these answers are almost always downvoted and shut down w/ comments like ""there's no explanation for why this works or what problem it's fixing"" or ""this wasn't done in the correct way"", and rightfully so"
+30,jodmemkaf,1647525332.0,6.0,I don't give a god damned shit about deadlines No copy paste. I need to know how it works and then write it by myself to be sure I know what I am doing.
+31,philipquarles,1647532884.0,4.0,I'm I the only one who actually makes sure to understand the code I'm copying before I add it to my code base?
+32,TheBrainStone,1647526223.0,3.0,"If you do this I genuinely believe you're an idiot.  
+The only exception to this that i accept is if the code answer was there before the good answer. Luckily that is most often the case"
+33,htmlcoderexe,1647530184.0,1.0,"Eh the checkmark is only worth like what, 2.5 upvotes? Over time it'll even out and in some communities the marked answer doesn't even get pinned (unsure about SO)"
+34,rez_spell,1647530352.0,1.0,Sometimes you just want to get stuff done.
+35,thelittleking,1647531803.0,1.0,"Oh god I'm guilty of this, I'm so sorry"
+36,JN88DN,1647532253.0,1.0,"I prefer things I can copy into eclipse (Including main) and check by myself.
+
+After that I want an explanation.
+
+And than I wan't to know how it is done in perfection."
+37,foggy-sunrise,1647532260.0,1.0,But when the code with no explanation contains some method that is now a known security risk and you gotta go back and read the lengthy explanation 😐
+38,MrHyperion_,1647533107.0,1.0,"I was having a problem with typename and template keywords. SO has one long answer. I don't want it, I want a fix!"
+39,ajdude711,1647533157.0,1.0,I just want a working example
+40,Vitaman02,1647533454.0,1.0,"Wow, everything fixed with a single code."
+41,KeepRedditAnonymous,1647533601.0,1.0,"Great concepts:
+
+""Less Is More""
+
+KISS - keep it simple stupid"
+42,El_Zilcho,1647533885.0,1.0,I find that I take the bit of code and use but then things change and go back to the long answer and code it from scratch and I come out with more understanding and prepared if further changes needed to be made.
+43,double-happiness,1647534134.0,1.0,"I'm just finishing writing my degree dissertation. I'm supposed to write 10,000 words, about 200 lines of code, that doesn't really do what it's supposed to. -_-"
+44,Shahelanthroka,1647534377.0,1.0,"I showed this to my boss and she just shook her head and said
+
+ ""This is why you never showed you work in school huh?""
+
+I came here to make money and laugh, not to be attacked with accuracies."
+45,John_Fx,1647535899.0,1.0,I love that the OP gets to chose the right answer.  The least qualified person to judge.
+46,whitey-ofwgkta,1647536497.0,1.0,"We need a ""most helpful"" and ""most useful"" section on StackOverflow.  here's the raw code for people who need that and here's the principle for people/students specifically who need that"
+47,MisterOnsepatro,1647536651.0,1.0,I prefer answers that explain everything because I have to respect a golden rule which says : I must understand the code before copypasting
+48,Menkdo,1647536889.0,1.0,"When I'm working on a personal project, I'm more interested in the explanation than the code. 
+
+When I'm doing something for work, I'm more interested in the code than the explanation.
+
+But most of the time I'm looking at stackoverflow to figure out how to get some obscure library or package to work because it has little documentation or no examples, so a technical explanation isn't even necessary."
+49,DarkTechnocrat,1647536999.0,1.0,I too choose this guy's code that works
+50,suresh,1647538014.0,1.0,I don't understand what y'all's jobs are that allows you to copy/paste code from SO.
+51,al3x_7788,1647538719.0,1.0,"Always hate it when I search for an answer, find a post related to it, and ends up being someone just explaining it without any actual tangible code"
+52,LummoxJR,1647538729.0,1.0,To be fair the yellow guy can't spell for crap. I'd ding him for that alone.
+53,theif519,1647538733.0,1.0,I like an answer that does both: Gives you the answer and the detailed explanation.
+54,Impeccableme-11,1647539545.0,1.0,We just want code to work and that's it
+55,Logic_Satinn,1647539696.0,1.0,![gif](emote|free_emotes_pack|grin)nothing like an answer from a fed-up dev who can't bare an existence of corporate meetings and waterfall.
+56,makridistaker,1647540526.0,1.0,"If i spent 2 days trying to fix a bug in my code and as last resource i go to stackoverflow, i don't want to spend another hour or two reading more abstract concepts to fix my code, i just want the solution!"
+57,Does_Not-Matter,1647542651.0,1.0,Coincidentally this is how I choose my recipes
+58,Arbiturrrr,1647542767.0,1.0,I always downvote answers with only code and no explanation.
+59,PappaOC,1647542902.0,1.0,"""Nevermind, I figured it out!"""
+60,TamahaganeJidai,1647542912.0,1.0,"I do the yellow thing with my support calls.... Everyone loves the stupid blue answers...
+UpsetKid.gif"
+61,AlterEdward,1647543069.0,1.0,"Missed the person who posted a single line standard library call that does the same thing as the other person's 50 lines of code, and the 11 other responses that ask why the OP can't just install X on the server (which he already explained he can't because of company policy)."
+62,frankthetank5487,1647543242.0,1.0,The best answer is the one where someone asks why the OP has done something that isn’t relevant to the question. And then proceeds to question the OPs intelligence and sometimes parentage.
+63,,1647543947.0,1.0,Sun creates good programmers. Moon makes good paychecks.
+64,PantheraLeo04,1647545237.0,1.0,"yes the yellow is better, but no one is going to stackoverflow for you to flex your comsci degree, we're going there for a easy solution to our problem"
+65,murrrty,1647546045.0,1.0,"I personally like answers that have the code that works, but also explains each step of it so you can deconstruct it line-by-line, and use aspects of it in other places."
+66,ImeniSottoITreni,1647546090.0,1.0,"Makes me laugh thinking that all this is seen as laziness.
+
+Hell no. They force you into it. As everything today you must PRODUCE PRODUCE PRODUCE and always at top quality NO BUGS NOTHING ELSE COMPILE FIRST TIME.
+
+&#x200B;
+
+You have 2 choices when you face a time consuming unknown problem:  
+Find a quick fix and patch the stuff
+
+Study on it and find the best solution
+
+&#x200B;
+
+What you think your boss wants you to do"
+67,ahumanrobot,1647546558.0,1.0,"Yeah I wanna know why it happened, but not right now. I just want it to work right now."
+68,RanibowSprimkle04,1647546633.0,1.0,"There's this obscure program I use with it's own dedicated language but basically no support anywhere
+
+And there's this bit of code that I use all the time that by all means shouldn't work, but it does
+
+I decided yknow it works why bother figuring out why"
+69,ArrrGaming,1647549074.0,1.0,"CLOSED, unrelated."
+70,zirconthecrystal,1647550434.0,1.0,"you see I don't need to learn, I just need the easiest one to ctrl+c ctrl+v"
+71,Pvt_ACE89,1647551374.0,1.0,This is from blue chair right? (You can find him on webtoon)
+72,Shervi,1647552076.0,1.0,Just give me the answer. I can see how it works and understand it. I don’t need the calculated efficiency or some bs.
+73,joyofsnacks,1647554098.0,1.0,The best way to get answers is to find a similar question then post a wrong answer and wait.
+74,WanderThinker,1647556822.0,1.0,I call them thread-enders. Just scroll to the bottom. The last response with no replies is generally the best.
+75,emptyArray_79,1647567366.0,1.0,"What xd. I hate those kind of answers... I want to know whats happening, not understanding whats go8ng wrong drives me crazy... xd."
+76,goatcheese90,1647568948.0,1.0,"You always think you'll choose the sun next time, then, just l8ke every time before, you convince yourself you don't have the time for him in your life right now"
+77,HmMm_memes,1647569067.0,1.0,"I use the first for learning, and the other for fixing"
+78,awesomeawks,1647570030.0,1.0,This is how you copy paste an answer but introduce more problems downstream.
+79,hkfskhsfuhkefshkf,1647570353.0,1.0,"Look, I've got a problem to solve and a project to finish. I don't have time for the intricacies of how the CLR is gonna interpret the thing. Given input X, it makes output Y? Good 'nuff. Ship it."
+80,kromefish,1647579818.0,1.0,And this is why we have white boarding tests…
+81,Nahanoj_Zavizad,1647594236.0,1.0,"I'm not looking for an answer, I'm looking for a solution.
+
+Don't tell me how to make it work, Just make it work"
+82,SpacecraftX,1647624422.0,1.0,If you understand why it does what it does after reading it it’s fair enough.
+83,InVultusSolis,1647869470.0,1.0,"This is interesting, I almost never copy code from SO because it seems like a terrible idea. I usually go there looking for high-level answers and implement my own shit based on what I learn."
+84,Rt237,1647532586.0,0.0,Everyone knows we are not on stack overflow to know why our code doesn't work. We are there to get a code that works from a random hero.
+85,sXakil,1647526048.0,872.0,I just love how we can all relate to the most random thing
+86,NibblyPig,1647531458.0,705.0,"The second best answer is the question itself.
+
+I Google how do I configure a maximum size
+
+SO: I configured a maximum size with this code <code> but I'm having trou...
+
+me: <copies code, closes window>"
+87,yopocho,1647533898.0,58.0,"The first is for learning, the second for getting stuff done."
+88,killeronthecorner,1647534609.0,34.0,"Unless the first answer starts with ""the accepted answer to this is completely wrong"" and has 50k upvotes"
+89,foggy-sunrise,1647532287.0,15.0,"""no one goes there anymore, it's too crowded."""
+90,justAPhoneUsername,1647539133.0,13.0,"Read the first, use the second. That way I can justify the answer but I don't actually have to write any code myself"
+91,shortMEISTERthe3rd,1647526816.0,59.0,![gif](giphy|dXFKDUolyLLi8gq6Cl|downsized)
+92,rob132,1647535778.0,3.0,"is there an internet term for this?  Some ""law"" of ranked responses."
+93,Western-Image7125,1647535887.0,3.0,Because the most upvoted one is like the guy on the right?
+94,OldLadyUnderTheBed,1647542219.0,3.0,"I think it's because the most upvoted is generally older, so the second one came with the best modern solution to the problem."
+95,RenaKunisaki,1647540173.0,1.0,Or it's posted as a comment on one of the answers.
+96,Random_Name_7,1647544988.0,1.0,"1st one is too fucking smart for me, ape brain just needs to see that one line of code using a random ass package that fixed my issue.
+
+I don't want to improve I want to fix"
+97,Groundbreaking_Pea_3,1647546776.0,1.0,Irony
+98,HedTB,1647547417.0,1.0,This is a fact.
+99,Adventurous_Union_85,1647576686.0,1.0,How do we make this the second most upvoted comment?
+100,Perfect_Username69,1647581896.0,1.0,![gif](giphy|q5VgPxwf8gzxyeUJrz)
+101,Esseratecades,1647531017.0,572.0,"These are the worst. The most useful format is
+
+
+<answer including code example>
+
+<reason for answer>
+
+<links of interest>
+
+
+Sometimes you just need operable code, and sometimes you're looking for explanations, but I have never found myself looking for explanations while preferring not to have operable code"
+102,UnderPressureVS,1647527290.0,164.0,"Also when it’s crunch time and I’ve got a project deadline ticking down, I don’t have *time* to read your entire explanation and work out your implied answers.
+
+I appreciate the attention to detail and the commitment to pedagogy, but you better also give me a god damn block of code I can copy-paste and tweak."
+103,BoBoBearDev,1647537481.0,18.0,"Because explicit >>>>> implicit. Not just for answers, for tutorials, for variable names, for comments, and more.
+
+
+Implicit solution would be like teaching math without actually showing the explicit rules and input and output. Just all concepts. That would be impossible to learn."
+104,MegaDeth6666,1647529154.0,0.0,Chekov's gun?
+105,Shervi,1647552134.0,1.0,Those people are assholes. They want to feel better and want to feel elite and make you „work for it“
+106,hkfskhsfuhkefshkf,1647570394.0,1.0,"The answer is ""left as an exercise for the reader""."
+107,ROGER_SHREDERER,1647531675.0,210.0,"*Closed as duplicate*
+
+Here's a solution to your issue in a completely different language that's not a solution to your issue at all"
+108,PlasmaEnergyGaming,1647530295.0,37.0,"Came here to post this. All my posts have -1 votes and have people upset that I didn't put more code in my question. Like, if I had the code, I wouldn't be here! XD"
+109,itissafedownstairs,1647534184.0,12.0,I get a comment once in a while by people who are scared to write it as an answer but want to help.
+110,Colorado_odaroloC,1647535442.0,6.0,Here's how you do it *link to long ago removed web page*
+111,ghostsharkbear,1647547059.0,2.0,"My work uses a terrible Unity knock-off called Cocos.. made in China, all documentation is in Chinese, all google search results for issues are in Chinese. Oh there's a problem? ""Umm, could not reproduce?"""
+112,PM_ME_A_WEBSITE_IDEA,1647523834.0,269.0,"*An intellectual, I see*"
+113,RolyPoly1320,1647524988.0,136.0,Same. It's not always enough to know what the solution is. Sometimes you need to know why that solution works in the first place.
+114,derfl007,1647525058.0,21.0,I sometimes start reading the one with an explanation and then decide I'll just try the one and if it doesn't work I'll go back to the other one lol
+115,The_Mad_Duck_,1647526574.0,39.0,So you're paid by the hour I see
+116,Salanmander,1647529204.0,11.0,"I've taught intro CS off and on over the years, and one of my subreddits is /r/processing. Because Processing is a language aimed mostly at *teaching* programming, we get a lot of ""how do I do this?"" questions. It is the *hardest thing* to keep people from posting ""just replace that line with this"" answers. It's actually against subreddit rules to post complete solutions, and it still happens all the freaking time."
+117,suvlub,1647527220.0,9.0,"SULPT: when answering questions, include an explanation that is wrong so the scrubs don't know what hit them when they copy-paste your code"
+118,KickMeElmo,1647535195.0,5.0,Depends on whether I'm working in a language I know or patching up broken code in a language I'm unfamiliar with.
+119,astral_crow,1647527094.0,3.0,I find myself playing with the working code to try and figure out what’s going on.
+120,The_sad_zebra,1647534388.0,3.0,"Yeah, I used to blindly copy-paste code with the slimmest understanding of what exactly it does, but these days I find the explanation super valuable. If I know what the problem is, I can code the fix myself."
+121,Dont_Mind_Me3,1647529800.0,2.0,Witch! Charlatan! Benedict Arnold!
+122,SomeDudeFromOnline,1647544051.0,2.0,Some people don't learn well by reading so they likely would be better off plugging at it until they understand it well enough to write a long explanation that another person won't read.
+123,hahahahastayingalive,1647534431.0,1.0,"> I like knowing what’s going on.
+
+Fabulous words uttered right before copy/pasting from Stack Overflow."
+124,woo545,1647534771.0,1.0,Depends on the amount of time I have.
+125,dadmda,1647535447.0,1.0,"I mean if I have the time I will usually read that answer, if not give me some code and I’ll adapt it"
+126,pekingdeagle,1647537942.0,1.0,Everyone’s an intellectual until they get a deadline on their backs.
+127,Quinhos,1647538156.0,1.0,For me it depends on much of a fuck a give about the problem in the first place
+128,Random_Name_7,1647545097.0,1.0,"Look at Mr. Programmer over here with them fancy codes
+
+*Slams things into a for loop*"
+129,cloudywindydays,1647603054.0,1.0,"Well, well, well, looks like we've got ourselves a reader"
+130,lucifer_1002123123,1647528468.0,0.0,well lookie mister smarty pants over here
+131,blenman,1647530112.0,0.0,[Ain't nobody got time for that](https://tenor.com/begg5.gif)
+132,kb4000,1647534862.0,0.0,"I feel like 70% of this subreddit and its posts are students or amateur developers.
+
+Most developers who have been around for a while won't mind the explanation because they can understand it quickly. Or they're coming back to something they've looked up before to grab a snippet.
+
+I'd you're brand new the one the explanation may not be something you can understand so you just copy paste and blindly hope it solves your problem."
+133,gabtotal,1647537047.0,0.0,Nerd
+134,Cl0udSurfer,1647527819.0,23.0,This is the way
+135,Ronnocerman,1647537527.0,38.0,"I think that the people who act like there's an [XY Problem](https://en.wikipedia.org/wiki/XY_problem) in almost every question cause more harm than good.
+
+Me: I don't understand how to (feature) in (library).
+
+Response: (Library) isn't really the best way to accomplish (feature). You should really use (other library) to accomplish (feature). Here's a code example using (other library).
+
+Me: Well, that's damned great and all, but (other library) isn't present in my company's project's third-party libs, and would require a full security audit before adding. Meanwhile, I found the solution to doing (feature) in (library) and it works just fine and is only slightly more verbose/slow/ugly than your solution, so I'm going that way.
+
+Even better when someone is asking how to accomplish a task in the native version of a programming language and someone suggests installing a third-party package to accomplish it, without giving the native solution. Oh, great. Now my project requires either redistribution of someone else's code (potential license issues) OR it requires a dependency installation every time someone tries to use my project. I really wanted to have to manage dependencies on this 100-line project. /s
+
+People need to learn to answer the question **first**, and *then* ask the person if it was really the question they meant to ask."
+136,CreaZyp154,1647525620.0,50.0,"Most of the times the question isn't 100% the same issue than mine, so a well explained answer is welcome"
+137,John_Fx,1647535831.0,10.0,The site is intended to be a wiki.  Detailed answers are better.
+138,helpimlonely5,1647522637.0,56.0,"I don't need to understand the code in 100% detail when my boss is pulling the deadline towards the present, the new guy is overwhelmed with his piece and half the jira tickets are fountains of fire and napalm.
+
+I just need solutions or a plan b for a job."
+139,canalswimmer,1647538589.0,5.0,"Most of the code-only answers are wrong though (barring answers to posts like ""which standard library function does X"", but that's why we have docs), and copied from elsewhere. 
+
+The code, when used as-is, _will_ fail spectacularly sooner or later for a not so rare edge case, but by that time you forgot from which answer you copied it so you can't undo your upvote nor add a comment to complain. Rinse and repeat for the next visitor of said post.
+
+And if you comment about that, the answer is ""but OP didn't mention that case, it works for their example"".
+
+This site (particularly the power users and copy-paste-answerers who actually don't know what they're doing) is its own downfall, they just don't know it yet.
+
+Use its answers and code as inspiration, never to literally copy and paste into your own project."
+140,TheKMAP,1647532748.0,7.0,Oh is that what you want? Because that's how you get ~~ants~~ security vulnerabilities.
+141,Random_Name_7,1647545125.0,2.0,OUR code
+142,faloop1,1647552296.0,1.0,Sometimes reading the code is a better explanation than the actual explanation.
+143,TerrariaGaming004,1647571188.0,3.0,"Yeah, I saw this one post that was like how do I use lists inside a list for Python, and the most liked answer was just “a string should work for this”"
+144,WJMazepas,1647528729.0,29.0,"Yeah If im searching for something like ""Python how to reverse a list"" I just want the code. 
+
+If I'm searching for something like ""How to deal with multiple Async calls"" then I will want the detailed answer because I need to properly learn how to implement that"
+145,greenSixx,1647552527.0,-2.0,"If you are using stack overflow to solve a problem that can only be solved using libraries then you are approaching coding wrong.
+
+Sure, libraries are often posted and rated as good answers.  But don't use those answers.  Use the other ones.
+
+And if your problem is too complex, then break it into smaller parts and iterate...
+
+&#x200B;
+
+Edit: sorry, forgot that the last time someone asked programming reddit if they needed to understand recursion most people admitted that they don't understand it and never use it.
+
+So....instead of iterate above, go back up top of my comment to the word if
+
+Do this over and over again until you have solved every piece of every piece of every piece...n   of your problem that you broke apart."
+146,LummoxJR,1647538816.0,2.0,"And detailed, not detail."
+147,mevlix,1647562627.0,1.0,You are the chosen one!
+148,RepostSleuthBot,1647531145.0,6.0,"I didn't find any posts that meet the matching requirements for r/ProgrammerHumor.
+
+It might be OC, it might not. Things such as JPEG artifacts and cropping may impact the results.
+
+I did find [this post](https://redd.it/otk8r3) that is 95.31% similar.  It might be a match but I cannot be certain.
+
+*I'm not perfect, but you can help. Report [ [False Negative](https://www.reddit.com/message/compose/?to=RepostSleuthBot&subject=False%20Negative&message={""post_id"": ""tg7t6a"", ""meme_template"": 90677}) ]*
+
+[View Search On repostsleuth.com](https://www.repostsleuth.com/search?postId=tg7t6a&sameSub=false&filterOnlyOlder=true&memeFilter=true&filterDeadMatches=false&targetImageMatch=100&targetImageMemeMatch=90)
+
+---
+
+**Scope:** Reddit | **Meme Filter:** True | **Target:** 90% | **Check Title:** False | **Max Age:** Unlimited | **Searched Images:** 309,607,115 | **Search Time:** 14.1393s"
+149,Sir_Keee,1647527517.0,8.0,Can't you read code and understand what was done?
+150,FALIX_,1647536966.0,1.0,Stack Ovefflow is technically a blog and any posts on it are under an artistic style Creative Commons License which is incredibly restrictive when it comes to distribution. Anyone making money off directly copied and pasted stack overflow code is at risk of litigation. I don't think this would ever really come to the fore but I am going to piss myself laughing if it ever does because nearly every code base in existence is littered with stack overflow references. If you write the code out by yourself with refactoring or minor changes and no references to the original post I imagine you would be safe though.
+151,MagicalCornFlake,1647539346.0,3.0,Probably
+152,TitoxDboss,1647545275.0,1.0,yes
+153,hexbatch,1647545958.0,1.0,Found the person who does not code for a living !
+154,DynastiesAndDystopia,1647534115.0,117.0,Barnum effect!
+155,C0oK1e_Monsta,1647532477.0,190.0,"Haha I relate to this much more. A lot of the time I Google for a question of a person who has a much more complicated problem than I do, but in their snippet they show how to properly use the service/library/API that my dumbass either didn’t understand from the docs or was too lazy to read"
+156,AATroop,1647532392.0,311.0,This is a level of laziness I didn't know was possible.
+157,Mike,1647540356.0,28.0,"You ever have countless SO tabs open for a question, then realize one of them did work, but you can’t find it in all the tabs, so you reopen a bunch of closed tabs, click back on every one, and silently think of walking off a cliff until you finally find it? Nah, me either."
+158,Fred-U,1647533397.0,43.0,"20 seconds after pasting... ""why is all of this broken now?"""
+159,phobiac,1647546923.0,3.0,You can cut out the middleman with [this python project.](https://github.com/drathier/stack-overflow-import)
+160,SomeRandomSupreme,1647551229.0,1.0,So true it hurts.
+161,potato_green,1647547033.0,8.0,And after a while you return because the second one turned out to have issues and weird edge cases. So you end up spending twice as much time because now you have to read the essay answer.
+162,itissafedownstairs,1647534093.0,19.0,">The first is for reading, the second for getting stuff done.
+
+Ftfy"
+163,PM_ME_YOUR_MASS,1647541456.0,1.0,How I feel about some subreddits
+164,GifsNotJifs,1647530451.0,11.0,"&#x200B;
+
+![gif](giphy|3uUnZQWIMQEoAg3lZy)"
+165,MoffKalast,1647552166.0,1.0,"Is it just me or has stackoverflow weighed recent replies WAY too much than old upvoted ones? Because these days I seem to stumble upon posts that have some utter horseshit as the top reply with like 2 upvotes, with the main answer selected as correct with like 3000 upvotes below it."
+166,MF972,1648104989.0,1.0,or on the question
+167,sphinctaur,1647538130.0,88.0,"Answer: [Solid] 
+
+Me: Awesome, just needs a little tweak to fit. What's the deal here?
+
+Answer:
+
+Me: Three days of troubleshooting. Got it. I'll be back for more cryptic snippets."
+168,piexil,1647541986.0,66.0,"Ugh nothing worse than getting a beautiful explanation but no example and you are confused on syntax or something that's preventing you from taking that explanation and turning it into code. 
+
+Happens surprisingly often, but I am also very much a ""learn by example"" kinda person."
+169,thatwasntababyruth,1647542892.0,32.0,"I don't completely disagree with the idea, but this is a lot of anger to be directing at people who are literally helping strangers on the internet, for free, with no recognition, out of the goodness of their heart, so that you can get your job done."
+170,QuestionableSarcasm,1647541280.0,5.0,you missed the fact that you haven't solved the problem
+171,_vec_,1647529326.0,68.0,If you don't have time to understand why the issue is happening then you sure as shit don't have time to debug why the almost-but-not-quite appropriate snippet you also don't fully understand doesn't actually fix it.
+172,KarmaTroll,1647569255.0,2.0,"Engineering teachers sure try, though."
+173,numerousblocks,1647533798.0,1.0,No
+174,Rein215,1647533108.0,65.0,"Ye, fuck stackoverflow (mods) for that. It's like they don't even try to understand the question before marking it as a dupe."
+175,texaswilliam,1647536194.0,30.0,"Closed as duplicate, linked answer is also closed as duplicate and links back to the first answer. Get moderated."
+176,Donghoon,1647563040.0,1.0,My imgur experience
+177,megamanxoxo,1647554233.0,1.0,There are tens of us
+178,Add1ctedToGames,1647585266.0,1.0,"Hey, so I've got this million dollar website idea... it's like Facebook and Twitter and apple and youtube and twitch and Spotify and stackoverflow and reddit and instagram and clubhouse and tiktok and vine and tumblr all combined!!!"
+179,,1647528233.0,36.0,[deleted]
+180,npsimons,1647532888.0,14.0,"> Sometimes you need to know why that solution works in the first place.
+
+Honestly, this is the only way learning takes place. Ideally, you do enough of this, and you come across a novel (to you) problem, go ""huh, I think this is what's wrong, let's try this"" and it works, all without having to open another browser tab."
+181,jcb088,1647531741.0,6.0,"I often don’t even end up using the answer, because the approach is what i had “wrong”. 
+
+I put that in quotes because my approach could have worked, but its leas efficient, harder to write, there’s already a function that does that, etc.
+
+Ive even had times where i didnt finish reading the answer because the first line of it will spark an idea that leads to a better place. Ironically, this kind of incomplete answer taking is preferable because my brain makes more connections and repeats/copies less."
+182,Shervi,1647552207.0,1.0,Some people learn by example and understand the whole logic when they see the solution. People are different.
+183,atomitac,1647530561.0,8.0,"I usually just start with the simplest looking one and work my way out from there. If the simplest answer works with no obvious code smells, and it's self-apparent why it works, then that's good enough for me. If it doesn't work, or it works but feels hacky, or it works but I don't understand why it works, then I'll dig deeper."
+184,SnappGamez,1647526638.0,20.0,Quite the contrary: I’m not paid to code shit!
+185,snow-days,1647531165.0,-3.0,"A LOT of people don't get that programming isn't a vocational discipline. Students, especially."
+186,BananaSplit2,1647555664.0,2.0,"> I feel like 70% of this subreddit and its posts are students or amateur developers.
+
+Absolutely is. 
+
+I could be considered an hypocrite because I'm still a student myself, but even then, I can feel a lot of the posts are made by people who only learned coding superficially, or first year students who hate having to try and understand how things work rather than just code something that works.
+
+That's where the difference between a simple coder and an actual software engineer lies, and the more I go on, the more I can see this."
+187,CouldBeARussianBot,1647548771.0,14.0,"God, that XY thing is my least favourite part of the entire Internet community.
+
+No, pal, I can't go to the CTO of my multi million pound company and tell him we're doing it all wrong. And no, the company isn't awful and my job doesn't suck because we have to sometimes work with what we have.
+
+I do get a perverse satisfaction out of answering my own questions after being told something is impossible, though."
+188,Zeeker,1647550286.0,3.0,"I'm genuinely curious: if those are the constraints you're working in, why aren't you including them in the question?"
+189,RatherBetter,1647539072.0,-2.0,"Yeah, but only when we need to explain it to others or its going to be useful for latter phases or its a part of critical requirement, detailed answers are needed."
+190,NibblyPig,1647543927.0,1.0,"method DoTheThing()
+
+return theCalculatedThing"
+191,RatherBetter,1647539180.0,2.0,"Indeed Copy paste required /working part, modify as per our requirement"
+192,DaeizerTheSecond,1647534793.0,17.0,"`my_list.reverse()` In place.  
+`my_reversed_list = my_list[::-1]`Not in place.  
+(In case google attractes any new python dev to this comment.)"
+193,black_man_online,1647553922.0,1.0,But.. you... uh... you know you can just write your own method to do that
+194,MintyMissterious,1647561857.0,1.0,"Nothing ""can *only* be solved using libraries"". I'm simply results-oriented, instead of wasting time reinventing the wheel-oriented. Good grief."
+195,JusHerForTheComments,1647541981.0,2.0,That is 100% similar though. Good bot though.
+196,jodmemkaf,1647531215.0,1.0,"Yes I do, mostly. But it is like in math. One thing is read the proof and understand how it was done and other thing is try to do it by yourself after that. At least it is like things works in my head. I am strictly separating things I understand and things I deeply understand."
+197,artable_j,1647531267.0,-1.0,"Yep reading code is incredibly easy for me, It's just so plain english. I definitely don't have to do a bench check to get what's going on."
+198,suresh,1647548834.0,1.0,"... I'm a team lead.
+
+If you need some generic code, say for like sorting, just use a package or a lib. Anything more specific and you can't make it into a generic question.
+
+I can't remember the last time I've needed something from SO. Give me an example? Are you guys googling ""how to iterate through nested objects"" or something?"
+199,,1647535526.0,34.0,[removed]
+200,ShadowPengyn,1647621470.0,2.0,https://en.wikipedia.org/wiki/Barnum_effect
+201,swierdo,1647535059.0,102.0,"> I'm trying to get [the service I want to use] to get to do [whatever] but it keeps doing [what I want it to do], here's my code: [code] 
+> 
+> Can anyone...
+
+Me: <copy>"
+202,Sad_send_nudes_,1647542322.0,25.0,I’m new to programming and I thought I was a sham for doing this
+203,ThisIsMyCouchAccount,1647552629.0,5.0,"This is how it feels doing anything related to GCP/AWS.
+
+You have to smash together various sections of their documentation, random articles, and this."
+204,chefhj,1647553071.0,3.0,lmao shouts out to the kind folks who were stuck on a much more esoteric a-frame problem than I was and got my shit over the finish line.
+205,kelub,1647534403.0,198.0,"It's called ""senior"" level."
+206,MrD3a7h,1647537439.0,24.0,This is 10xer sigma grindset levels of lazy.
+207,TheKnownLazyGuy,1647539133.0,0.0,Thats nothing
+208,NibblyPig,1647543564.0,6.0,I'm in this picture and I don't like it haha
+209,llagerlof,1647554298.0,1.0,At this point I just hit CTRL+H and check the usual suspects.
+210,Bomberlt,1647556748.0,1.0,That's exactly the reason why I have SO account and upvote answers
+211,blahehblah,1647534210.0,73.0,"Then you Google the issue and end up back at the same stack overflow post ""ah so that's what they were having trouble with, strange coincidence, me too"""
+212,rabidhamster,1647543651.0,31.0,"Same here.  Like I'll go through an explanation as to why the object is an instantiated snozzberry, and how the grundle punch reciprocates as a variable the socket abstaction linking the service Ouroboros to the to the containerized snack factory, and all I'm wondering is, ""so... I put the commas where?"""
+213,agarwaen163,1647624477.0,1.0,this is an even worse problem and to a much higher degree when doing physics haha
+214,whymauri,1647529718.0,85.0,"Sometimes I'd rather pass tests and CI, and *then* read the explanation, than spend an hour reading a dissertation on stuff I neither care about nor will use again. The alternative is reading everything, internalizing the info, pulling up a language reference doc, understanding some accompanying library, and then having the snippet still break."
+215,SuspiciouslyElven,1647535944.0,7.0,"Yes, I sure as shit don't have time to debug why the almost-but-not-quite appropriate snippet I also don't fully understand doesn't actually fix it.
+
+*That's why I'm pasting almost-but-not-quite appropriate snippets.*"
+216,rainbowWar,1647538646.0,0.0,"Yea but no. Plenty of times you don’t have time to actually understand the issue. And most of the times solutions will work it can be quickly tested. 
+
+If you genuinely followed your advice here then you would never get anything done."
+217,QuestionableSarcasm,1647541476.0,14.0,"the day that i can't solve a problem without going to shitoverflow
+
+is the day i set my computer on fire and take up knitting"
+218,llagerlof,1647554506.0,2.0,"Make a completely relevant question.
+
+<Your question is irrelevant. You are irrelevant. Closed.>"
+219,jaber24,1647530292.0,31.0,Do you mean the modulo? It just gives you the remainder of the division of a and b in a/b. 4 % 2 == 0 since 2 divides 4 without any  remainder. But 5 % 2 == 1 since the remainder of 5/2 is 1. It's very useful if you want to find even/odd numbers for example.
+220,natek53,1647530507.0,16.0,"% as in modulo or % as in the old formatting mini-language? If the latter, I believe it has been deprecated in favor of `str.format` and `f''` constructs, which are more powerful, because they allow specifying the variable name/order.
+
+For the full explanation of the formatting mini-language in Python 3, see [here](https://docs.python.org/3.8/library/string.html#formatspec) (with a decent tutorial [here](https://docs.python.org/3.8/tutorial/inputoutput.html#fancier-output-formatting)), but if you actually just want to understand the older method, personally I like [this](https://www.cplusplus.com/reference/cstdio/printf/) reference the best. It's written for C, but the syntax is basically identical."
+221,RolyPoly1320,1647533444.0,6.0,"Exactly.
+
+The number of times I've had to search for things and have to read through blogs and SO just to grasp what I was doing wrong anyway is insane.
+
+For example, one time I was doing a code challenge to do array filtering that also mutated the original. This is extremely bad practice but after I completed it is when I saw the real reason for it in the first place. It was to help learn about specific built-in functions being less efficient than others.
+
+It's not always something that is considered when writing code the first time but it's something worth knowing in case performance issues come up later."
+222,RolyPoly1320,1647533175.0,2.0,I've had this before too.
+223,RolyPoly1320,1647561058.0,1.0,I know. Not the point at all.
+224,naruto_022,1647531011.0,8.0,"Yeah no one should be paid to code shit, people should be paid to write good code"
+225,,1647531836.0,12.0,[deleted]
+226,tradersam,1647533480.0,3.0,"I have engineers on my team who have trouble understanding this.
+
+> But nobody showed me how to do X
+
+Is a complaint I hear far too often. Most of the team who wrote X no longer work for us so I'm not sure what they're expecting.
+
+
+These folks are often looking for explicit steps to follow, and lists of rules to dictate every step of the process."
+227,ThisIsMyCouchAccount,1647554130.0,4.0,And most times I don't need to be told the situation is shitty. I know. I'm living it.
+228,Ronnocerman,1647550750.0,8.0,"Because I don't want to have to preemptively write every possible constraint that might be relevant to a solution for a question I didn't ask.
+
+For instance, someone might unnecessarily propose a Linux-only library when I'm working on Windows, or a library with the wrong licensing, or I might be working in an environment where I can't install a library, or their suggestion would require a rearchitecture of existing code, or their suggestion doesn't map to the existing interfaces, etc.
+
+If I ask ""What's the best way to accomplish (result)?"", then it's fine to suggest alternate approaches. If I ask ""How can I use (feature) to accomplish (result)?"", then please don't waste my time by suggesting that I'm asking the wrong question if there does exist an answer to the question I gave."
+229,thebigbadben,1647545645.0,4.0,"Another method to keep in mind is `my_reversed = reversed(my_list)`. `my_reversed` is a generator object, which is a bit more efficient for looping."
+230,ghostsharkbear,1647547543.0,1.0,"Can you tell me why in php:
+
+    strpos($string, $findme) == true
+is false if findme exists, but
+
+    strpos(string, $findme) === true
+
+returns true ?
+
+* edit also using 1 instead of true had the same results"
+231,WJMazepas,1647554557.0,1.0,But Python always have the Pythonic way to do something
+232,hexbatch,1647549384.0,0.0,"I have numerous certificates,  not to mention university degrees. I’ve read perhaps over 20,000 pages of technical material in decades of coding and have coded over 2 million lines of code ( including white space). I program in 13 languages 
+
+And you know what my biggest go-to reference is each week? Not the over 100 books I have near my desk
+
+I copy and paste stack overflow"
+233,Everstudent,1647537745.0,8.0,You make a great point
+234,badpolimath,1647538997.0,1.0,Bad bot
+235,TheMostMagicMan,1647551934.0,48.0,A man's bug is another man's feature
+236,NibblyPig,1647543334.0,53.0,"If you want a hole drilling, a developer knows they need a drill bit. A senior developer knows they need a 7mm drill bit. A software architect knows to buy two. A senior software architect knows to put them in a fancy box to show the client. A consultant tells them it's a special 0.276 inch drill part that costs four times the price and that you'll need to get certified to use it."
+237,PappaOC,1647543326.0,34.0,"Instead of copying the code, have it open and write it yourself. Even if to just write it word for word. As you do you'll hopefully learn what it does along the way and may even recognize code you don't really need for your particular project and adjust it accordingly.
+
+You do not need to do this for everything, but since you're learning I highly recommend doing it this way and you'll have an easier time later on.... probably"
+238,C0oK1e_Monsta,1647542637.0,6.0,Haha nah. There is a little bit of engineering/deduction in this. Being able to determine context and how different problems are related to yours is a skill that helps in engineering
+239,killeronthecorner,1647534685.0,77.0,"Seniors have to live with these pains.
+
+This is called _consultancy_."
+240,dnswblzo,1647532979.0,8.0,"The third option is to skim. Sometimes the explanation will go into different scenarios that might lead to issues, so skimming at least gives you an idea of whether the explanation is just there for general informational purposes, or if they are highlighting things to watch out for which might apply to your scenario."
+241,,1647532114.0,34.0,[deleted]
+242,1_21-gigawatts,1647539389.0,1.0,"Yeah, the old “I’ll go back and read it later” but somehow later never comes."
+243,Necessary-Ad8113,1647540423.0,1.0,I also question whether you actually need to understand the issue fully? Like there is so much stuff that you work on for a few weeks or whatever and after implementation don't go back to it until something breaks a year+ later. Even if I read all the docs and understood everything perfectly I'm not going to retain that knowledge 24 months later so fuck it.
+244,MCRusher,1647544864.0,25.0,"Want to comment on an incorrect answer and explain why
+
+> You need 99999999999 Chucky Cheese Tokens to post a comment."
+245,MyVeryUniqueUsername,1647532766.0,21.0,Disagree. r/ProgrammerHumor has way better code than modulo for even/odd.
+246,npsimons,1647534277.0,7.0,"It's what separates the good from the bad programmers. Asking the ""how"" and ""why"", instead of just slinging code. I know, not everyone has the luxury of slowing down for deep contemplation, but I've never been happier coding as when I've slotted into that flow of just **knowing** how it all works.
+
+That said, it's hard to maintain that level of competence, and different for every language. Used to be I could glance at gcc C++ template errors and know what was wrong. Nowadays, I'm still picking up different idioms of Common Lisp and half the time have little understanding of what exactly is doing what. The level of abstraction is insane."
+247,SnappGamez,1647532210.0,2.0,"I meant shit as in stuff, not shit as in bad."
+248,Lv_InSaNe_vL,1647532309.0,7.0,"I'm not super sure either, I went through a ""proper"" vocational program (Machining) before I moved into software and there are not very many differences in how you learn the two."
+249,leg4li2ati0n,1647533414.0,7.0,"Yeah idk about this guy because here's the definition of vocation:
+
+a person's employment or main occupation, especially regarded as particularly worthy and requiring great dedication."
+250,snow-days,1647533554.0,5.0,"Sort of like how a plumber doesn't need to know fluid dynamics. Plumbing is a vocational skill. You learn ""how"" to do it, essentially. If you see this, do that. That is certainly not the same as ""unskilled"". (I don't even believe in ""unskilled jobs""). Rather, it's a job where, doing the job is essentially a matter of learning skills and using them.     
+
+Non-vocational skills or fields are ones where you learn theories or concepts, in addition to skills, and you have to apply creativity and critical thinking to solve problems that don't have a known solution.      
+
+So, learning to program is NOT learning syntax--which is what a lot of students mistakenly believe. If it were, however, then it would be a vocational skill."
+251,Zeeker,1647551499.0,2.0,"You could include the tidbit that ""due to constraints outside of the scope of this question other approaches are not possible"". I've done that.
+
+From where I'm standing it seems as if you're angry that people don't give you the answers you need while not giving them the full picture. If someone asked me ""How do I hammer in a nail with a screwdriver?"" I'd for sure question if they are aware that hammers exist."
+252,DaeizerTheSecond,1647594055.0,1.0,"That is because strpos will returns either:  
+  \- The position of $findme in $string, an int, if $string contains $findme.  
+  \- The Boolean false, if $string does not contains $findme.  
+So let's look at a few cases:  
+`strpos(""Hello World"", ""Hello"")` Will returns 0 (the index of the first letter) this will evaluate to false but not to === false (as it is not a Boolean).  
+`strpos(""Hello World"", ""World"")` Will return 6, this will evalute to true but not === true.  
+`strpos(""Hello World"", ""42"")` Will return the Boolean false, this will evalute to false and ===  false.  
+
+
+Though to be honest I barely touched PHP at all and I may be talking out of my ass. It looks like a fucking mess though."
+253,DeltaTheGenerous,1647546422.0,12.0,"Don't know why you got downvoted. It's got all the hallmarks of a bot: generic ""I agree"" type of replies, truncated post history, seemingly randomly generated username, and what *might* be a post of them trying to sell knockoff artwork on a meme subreddit.
+
+I'm going to agree with you: bad bot."
+254,Durr1313,1647586411.0,3.0,What do you call the guy who uses an axe instead of a drill bit?
+255,Sad_send_nudes_,1647545620.0,18.0,I am doing it this way actually. If I had more time I would def take my time learning. But I have three kids and trying to change professions saying it’s a bit tough is an understatement.
+256,ThisIsMyCouchAccount,1647552777.0,5.0,"Meh.
+
+Jokes aside - I've found that most stuff you can't actually copy and paste anyway. Personally, I learn more from running the code. Seeing where errors are. Step debugging. Etc."
+257,FluidIdea,1647563808.0,4.0,>writes code word to word as on SO - code doesn't work. Code is exactly the same. Copy/pastes the code - code works.
+258,Durr1313,1647586796.0,1.0,"That's what I do. I can usually figure out how it works when I read it, but I often struggle to figure out how to write it from scratch. I guess just repetition would help with that?
+
+I've written a few desktop apps for personal use and some tools for work, so I know a fair bit of C#, but I'm taking a class on Coursera about C# and Unity and the Unity stuff is quite challenging to me."
+259,ThisIsMyCouchAccount,1647552522.0,1.0,What if you're a senior at a consultancy?
+260,1_21-gigawatts,1647539457.0,16.0,Think it’s a coincidence you keep going to stack overflow for questions about how to drive Git?
+261,CEDFTW,1647542006.0,1.0,"Yea, if the problem is some idiosyncrasy in the implementation of a third party resource, I don't need the why or how I just need that little config tweak or extra arg I'm missing the rest is purely academic."
+262,QuestionableSarcasm,1647557860.0,5.0,"There are some spectacular answers there
+
+but it's like looking for truffles in a cat's litterbox"
+263,jaber24,1647532826.0,4.0,True xD
+264,RolyPoly1320,1647534686.0,7.0,"Everyone wants to be a good dev but not everyone wants to put the work into being a good dev. Being a good dev is more than slinging code. It's knowing when you don't know something, researching it, and basing your next action off those findings.
+
+Another one I had once was when I was trying to make something respawn in a game I'm making. Everything I saw pointed to using a coroutine. So I researched them and implemented one in the controller for what I wanted to respawn. It still didn't work. Eventually I figured out why.
+
+If you thought to yourself that it's because I was destroying the instance of the object calling the routine you'd be correct. By having it in the same class controlling the existence of the object, including the destruction of it, I was calling the routine but as soon as I called destroy on the object I also destroyed the coroutine.
+
+Without researching to understand what I was doing I wouldn't have figured that out."
+265,ThisIsMyCouchAccount,1647553324.0,1.0,"As always, nuance is key.
+
+Sometimes you just need the thing. It's not important. You haven't touched it months and you probably won't again. Just give me the three lines I need.
+
+Sometimes you just need the thing and you find there is not thing to fix your problem so now you have to learn. Had this recently. It was just a config. Should have been easy. Tried all the various example and nothing gave me what I needed. Now I'm going to have to take a deep dive.
+
+I'm annoyed because it's really not that important but it needs to get done. I'm also not annoyed because I know I'll come out the other side knowing more about this little thing that I should."
+266,naruto_022,1647533361.0,3.0,"No shit
+That was the joke XD"
+267,DracoLunaris,1647536898.0,8.0,"Counterpoint is that as a programmer you don't actually need to know how exactly a processor works either, just how to use a high level language to do stuff with it."
+268,CouldBeARussianBot,1647594191.0,2.0,"> If someone asked me ""How do I hammer in a nail with a screwdriver?"" I'd for sure question if they are aware that hammers exist.
+
+Yes, but that's an obvious case of wrong tool for the job. It's more like somebody asking for tips on using a hand saw, and being told to go out and buy an electric one"
+269,4b-65-76-69-6e,1647562378.0,6.0,"https://reddit.com/r/u_Impossible-Cod-3946/comments/s4nyst/how_to_recognize_these_accounts/
+
+Something to help with bot hunting"
+270,NibblyPig,1647596991.0,4.0,Project Manager who 'Used to do a bit of programming 20 years ago and can totally take a stab at it'
+271,TheRidgeAndTheLadder,1647562186.0,1.0,Exit to industry!
+272,,1647540285.0,16.0,[deleted]
+273,npsimons,1647535043.0,3.0,"> ""Perilous to all of us are the devices of an art deeper than we ourselves possess."" -Gandalf
+
+It's funny how often I find going back to wizards and magic to be apt metaphors, but it fits. Every time you use an abstraction, you gain power, but at the cost of trusting it does what you think. The cost is learning, but as you point out, not everyone is willing to pay it.
+
+ETA: And crap, I just realized I'm TL;DRing [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)."
+274,thatwasntababyruth,1647543675.0,2.0,"That really depends. You don't NEED to know it, but you'll to be a lot more effective if you have a mental model of what a CPU does, particularly as it relates to caches, threading, and interrupts. Those concerns underpin why things work the way they do and what limitations they have, and it echoes through the whole stack, no matter how high in abstraction that stack goes.
+
+But regardless, every programmer should at least understand things one level of abstraction under the one they work at. Maybe that's not hardware, and it's the JVM instead, but there's always a thing underneath that is responsible for most of the behavior at your level."
+275,ywBBxNqW,1647541985.0,1.0,"> Counterpoint is that as a programmer you don't actually need to know how exactly a processor works either, just how to use a high level language to do stuff with it.
+
+For sure. You don't necessarily need to know how much time it takes to access storage or poll a device or deal with network latency or how different data structures or algorithms work but I would say it certainly helps to write good code."
+276,Ronnocerman,1648074505.0,2.0,"> It's more like somebody asking for tips on using a hand saw, and being told to go out and buy an electric one
+
+Exactly. It's basically situations like:
+
+""How do I clamp this piece of wood into a vice firmly enough so that I can cut it with my hacksaw, but without leaving marks on the wood.""
+
+and getting the response
+
+""If you're concerned about marks, you should really be using a power saw, since there's less force transferred to the wood, so you don't need to clamp it as hard.""
+
+...Great. I'm not buying a power saw, though. How in the heck do I clamp it to cut it with my hand saw? Sure, maybe 5% of the time someone goes ""Oh, I really should get a power saw"" and goes out and buys one, but 95% of the time it's just not useful. Even in that 5% of the time, they'd have to come back and ask that same exact question, but asking about a power saw instead!"
+277,fukdapoleece,1647545724.0,4.0,Wait until you learn about documentation.  Your mind will be blown!
+278,DracoLunaris,1647544076.0,1.0,"fair enough
+
+Actually If i am being even more fair I, as a web dev, am considerably more vocational than someone working in something like C"
+279,thatwasntababyruth,1647544888.0,2.0,"Web development is definitely more on the vocational side, as defined by GP. I think the ""understand your platform"" idea still stands though, a php dev will be drastically better if they know how php works under the hood, a python dev will benefit greatly from knowing how the interpeter works (including the GIL and C bindings), and JavaScript devs will do well to know how the various VMs do what they tell it to. A micro-optimization becomes a macro-optimization when wielded in correct situations."

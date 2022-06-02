@@ -1,0 +1,55 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,naroqu,1601554895.0,13.0,"Hey there!
+
+TL;DR C++ is always a safe bet, rust is likely good to know but maybe not for robotics (yet)
+
+I'm currently working in robotics software and basically using c++ for everything. That said, our lead Software guy is a bit of a rust wizard so some of our systems are using rust. 
+
+It's always difficult to predict 5-10 years out... But C++ is likely going to be a safe bet for robotics as it has been one of the standards forever now. That means lots of people will use it purely because ""everyone uses it"". I think rust is a very exciting language that could potentially take over... But there are so many excellent libraries that already exist in C++ that it would make the migration a rather lengthy process.
+
+Hope that helps a bit!"
+1,qTHqq,1601560933.0,2.0,"> *I have seen rust rising in popularity on the stack overflow survey over the past years, however, it seems to be rarely used?* 
+
+I really like the idea of Rust but the problem for something like robotics is that the library ecosystem is in its infancy.
+
+Take a look here, for example:
+
+[http://www.arewelearningyet.com/](http://www.arewelearningyet.com/)
+
+[http://www.arewelearningyet.com/scientific-computing/](http://www.arewelearningyet.com/scientific-computing/)
+
+There's a good chance that if you wanted to use Rust in robotics, you'd be calling a lot of C++ libraries anyway and you might need to know both, and/or a lot of your code would not actually benefit from some of Rust's safety features.
+
+I haven't tried to do anything recently in Rust so maybe I'm being a little too pessimistic if you're interested in doing low-level robotics, like writing your own control algorithms. 
+
+But I'd suggest learning C++ for practical robotics."
+2,the_poope,1601560921.0,1.0,"Rust and C++ are so similar that once you know one of them you'll be able to learn the other in less time than it takes to figure out how to report holidays in the whatever horrible intranet your future employer uses. As long as you know a systems level language and how a computer and the hardware works on a qualitative level most employers look no further, the rest is how much experience you have and how well your personality fit into the team. Of course, for robotics you need some domain knowledge, but specialized knowledge of the tools you need to use, including programming language, versioning system and build tools, will be filled out by the employers onboarding program.
+
+Robotics covers a lot of topics, from hardware to software, and very much depends on what the robot is supposed to do. If you want to work in robotics I suggest you to work towards studying electrical engineering at a university: they typically have specialized robotics focused programs. If you only care about the software part, then maybe software engineering instead."
+3,eliminate1337,1601563055.0,-2.0,"Rust is a much better language than C++. If backwards compatibility isn't a concern, I'd pick Rust every time. Unfortunately the industry is almost completely C++ now, so most real work gets done in C++."
+4,hate_commenter,1601556555.0,-1.0,"Nothing is stopling you from learning both. You could start with c++ and learn rust in a couple of weeks. If you want to get involve in robotics, I suggest that you start to fool around with an arduino. It's a good opportunity to learn how to programm a robot in c++."
+5,SecretNinjaGameDev,1601555662.0,1.0,Thanks for the reply.
+6,eliminate1337,1601562820.0,3.0,There are definitely similarities but Rust is substantially different from C++. Syntax is ML/Haskell inspired. Ownership model is more complex and mandatory unlike C++. It would take a few weeks for a C++ programmer to become productive in Rust.
+7,SecretNinjaGameDev,1601564711.0,1.0,Thanks for the response. Do you have any suggestions for courses/books that I can look into outside of a university? (just so that I can start getting my feet wet lol)
+8,hardware4ursoftware,1601569597.0,1.0,"Uhh, cpp is definitely a better language. Even if you said that they were equal on all thing optimization. (Rust uses ‘safe’) cpp still has 30 years of open source libraries. An even if the growth rate of new library’s decrees to a stand still, it will take rust 20+ years just to catch up. C++ is here to stay for 5-10 years no problem."
+9,SecretNinjaGameDev,1601558991.0,1.0,"Okay, thanks for the response. I think I'll be ordering an Arduino in the next couple of weeks."
+10,the_poope,1601564779.0,2.0,"Sure, but a few weeks is a small price to pay for an employer. It takes way more time to get accustomed to their (legacy) codebase.
+
+My point is really that if you are a good programmer and software developer, the language doesn't matter much. Programming languages are a tool, just like a screw driver is to a carpenter. Learning a new type of screw driver is easy and quick, learning how to build a solid roof structure that won't fly off in a storm in an efficient manner is the difficult part."
+11,the_poope,1601565202.0,1.0,"I don't do robotics and didn't study it. I did a little googling and found these sites:
+
+https://www.learnrobotics.org/blog/learn-robotics-online/
+
+https://github.com/kiloreux/awesome-robotics
+
+I have no idea if their suggestions are good, the last one is maybe also a bit overwhelming for a beginner, so I suggest you find some advise from others that were in your situtation. There is likely a robotics/arduino subreddit where you can seek help. Be sure to read their side bar info and sticky post - they often contain a FAQ that will answer questions like yours."
+12,eliminate1337,1601571591.0,1.0,"I'm a robotics engineer. Here are some good things you can study now:
+
+* Programming; doesn't matter what language. A good software engineer can learn any language as needed. 
+
+* Linear algebra. You'll take this as a first-year in college; if you have access to community college dual enrollment that would be great. Linear algebra is the basis for lots of the control theory used in robotics.
+
+* Hobby electronics if you're interested. My company rarely makes our own electronics but some companies do. But if you don't like electronics it's not a prerequisite for working in robotics."
+13,SecretNinjaGameDev,1601570586.0,1.0,"> I don't do robotics and didn't study it. I did a little googling and found these sites: 
+
+Thanks for the advice anyways :)"

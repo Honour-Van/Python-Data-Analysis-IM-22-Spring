@@ -1,0 +1,71 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,healydorf,1554828879.0,68.0,"> We asked respondents to evaluate their own competence, for the specific work they do and years of experience they have, and almost 70% of respondents say they are above average while less than 10% think they are below average. ***This is statistically unlikely with a sample of over 70,000 developers who answered this question, to put it mildly.***
+
+I'm the best"
+1,Staks,1554849911.0,32.0,"I want to meet the 16% that go to stack overflow to ""relax"""
+2,Freonr2,1554833420.0,13.0,"Python and Tensorflow seem to be exploding.  Very surprised to see such large numbers for them.  
+
+TF seems to be the clear and dominant future of ML, and it seems Python is the dominant language for it, but I imagine Python is gaining elsewhere as I'm not sure ML is enough to push it so broadly."
+3,,1554841538.0,12.0,[deleted]
+4,,1554830084.0,10.0,"> The related roles and disciplines of site reliability engineering and DevOps are somewhat new, but the people working in this field are highly experienced.
+
+This is probably the biggest factor in being content. Those filling DevOps roles are highly experienced, long time tech professionals and probably have a lot of leeway and a hefty salary to boot. Having to answer a phone call a week during off hours for that level of stability and benefits is something a senior is willing to do."
+5,HPCPHD,1554850789.0,6.0,"Stack overflow surveys are a statistical joke.
+
+There are 3.9 million tech workers in the US and they surveyed 25k which would be okay except.... The sample is 100% not at random. Every statistic from the survey is biased then.
+
+Who honestly thinks ""rust"" is the top ""loved"" language!
+
+And 66% of people are ""above average"" skills which is statistically impossible."
+6,,1554838573.0,4.0,Holy cow salaries are so overwhelming bad from a global perspective vs USA...
+7,nutrecht,1554879470.0,1.0,Interesting to see how inexperienced the average responder to this survey is.
+8,Frodolas,1554830310.0,50.0,"> This is statistically unlikely
+
+I'm surprised Stack Overflow doesn't have a basic understanding of statistics. This would only be statistically unlikely if the sample was random, as it would then approximate a normal distribution. In this case, an online survey is basically a convenience sample, that too with tons of non-response and selection bias.
+
+It is very possible that the developers that use Stack Overflow and response to this survey are all above average, since there are 4 *million* developers in the US alone."
+9,Freonr2,1554833461.0,9.0,So much for impostor syndrome.  More like Dunning-Kruger.
+10,,1554865420.0,21.0,[deleted]
+11,ACuriousBidet,1554875419.0,4.0,"Clicking the trending questions in SO can be a fun alternative to reddit or HN. You get some interesting/funny questions and discussions. 
+
+Ex. 
+https://english.stackexchange.com/questions/493010/my-colleagues-body-is-amazing"
+12,,1554834560.0,0.0,[deleted]
+13,KSF_WHSPhysics,1554865365.0,5.0,Probably not. It's marketed as a hip tech company way of doing work but in practice it's a way to fit more people into a smaller office
+14,,1554908025.0,1.0,I hate open offices...can’t work efficient in a open offices
+15,,1554859798.0,2.0,[deleted]
+16,Rymasq,1554916499.0,1.0,interesting cause I've worked in two different roles now dealing with production up time and site reliability and honestly a lot of companies are willing to let more junior folks handle this sort of role. Especially with the rise of cloud because it makes it so easy to troubleshoot machines and reboot and perform administrative tasks.
+17,TimeWaitsFNM,1554949321.0,1.0,"DevOps is definitely paying well and very hard to find people capable. You really need to understand not only dev but how to handle infrastructure as well. In my experience it rare for someone to have both passions. 
+
+Source: hiring a lot of devops engineers."
+18,Dr_Jabberwock,1554870005.0,2.0,"\~70% of people **think** they're above average, which honestly isn't that surprising."
+19,niclis,1554870720.0,1.0,Wtf is rust? I've only been a  professional developer for a few years but I think I would have at least heard of it.
+20,darexinfinity,1554843130.0,3.0,That happens when you live in a country with no social safety net.
+21,,1554868575.0,1.0,QE1 QE2 QE3
+22,PuppySlayer,1554832312.0,31.0,"80% saying they code as a hobby is quite telling, imho. 
+
+Depending on how strict we are about the definition of coding as a hobby, I would argue pretty much none of the people I know actually do that."
+23,Vok250,1554837173.0,19.0,"That statement also completely ignores the *Competence and Experience* graph right below, which partially explains the results. Even when you tell people to account for their experience, most people will not be able to ignore that factor. Experienced devs consider themselves above-average because they are. Compared to a peer with equally experience, they may not be, but most humans don't respond to surveys that way.
+
+Also, the age curve of people who responded centers around 25 years old, yet the average experience in western countries is 13-15 years. Either we all start developing professionally in our early teens or their data has some wild sampling biases and outliers.
+
+Data is hard. Human surveys and basic averages are pretty much useless in the academic world. They make great blog posts though."
+24,healydorf,1554851888.0,5.0,"I suspect they were making a pithy comment to spice up the article, though I agree that is a pretty irresponsible statement to make on SO's part."
+25,celesti0n,1554835540.0,24.0,"Nah, the nature of this opt-in survey means the samples aren’t representative of the general population. Answers are likely skewed to only the most distinguished neckbeards."
+26,sponge_bob_,1554845838.0,2.0, ¿Porque No Los Dos?
+27,birdsonstrings,1554866177.0,5.0,It’s so annoying when they close your questions.
+28,snowe2010,1554849202.0,1.0,What
+29,KSF_WHSPhysics,1554865313.0,2.0,"I think at most orgs the salary band for SRE and SE are the same, but SRE tend to fall in the higher end of the band because, as the survey suggests, they are unlikely to leave and therefore unlikely to appear on the market. They are also more likely to be given retention incentives because they are so difficult to replace"
+30,TimeWaitsFNM,1554949219.0,1.0,"From my experience, no SRE is being adopted heavily, including legacy banks."
+31,senseios,1554876769.0,5.0,Language from Mozilla Foundation for systems/low-level programming.
+32,nutrecht,1554879422.0,2.0,It's impossible not to have heard of it if you frequent /r/programming though.
+33,,1554847255.0,2.0,"That really depends... I mean there are areas in the world where the social net is just flat out bad but then that means you're reaching countries that have no formal laws on employment in general. I don't like the view that a lot of people have on IT within reddit that it's always highly paid and cozy. There is are some super big asterisk on to that in terms of talent, location, demand and etc... Pay should also be a big factor because with the internet and all it seems at big cities we have local wages but other assets are treated with an international value..."
+34,JohnnyGuitarFNV,1554900166.0,1.0,"You cannot tell me with a straight face that salaries in the Netherlands and the USA are comparable even if you account for healthcare or whatever costs they all seem to use as excuse.
+
+That would mean telling me the average US developer saves as much money per year than I do. Laughable. Insane."
+35,senseios,1554876722.0,1.0,"I would trade my country's ""free"" healthcare for the American healthcare any time. I pay not that little money for it and I get bad quality healthcare (one of the worst that exists in the developed world)."
+36,pgdevhd,1554844946.0,-9.0,"No social safety net? LMAO do you see how much the U.S. spends on social security and medicare/medicaid?
+
+It's more like wasteful resource management and greedy politicians."
+37,OddaJosh,1554919069.0,2.0,what country if you don't mind me asking?
+38,senseios,1554920068.0,1.0,Poland.

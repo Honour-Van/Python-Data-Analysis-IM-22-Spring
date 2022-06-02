@@ -1,0 +1,24 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,,1628701556.0,4.0,Ruby on Rails is still higher in demand than I'd have ever guessed. I remember maybe around 2005 or so everyone I knew was jumping on RoR. Don't know anyone who still works with it now. I know more people working with CFML than RoR.
+1,przemo_li,1628676467.0,9.0,"TL;DR:
+
+PHP is less popular with programmers doing programming on their spare time, and more with programmers doing programming on paid time.
+
+PHP is not stacking well against newest and shiniest languages. With \~40 vs 60 in loved vs dreaded metric."
+2,muglug,1628717005.0,3.0,"It's interesting to compare the results from the JetBrains developer survey.
+
+It looks like PHP and Java are overrepresented in the JetBrains survey (which makes sense, as JetBrains makes best-in-class IDEs for both) while TypeScript is underrepresented (VS Code's TypeScript support is, for obvious reasons, very good)."
+3,sinnerou,1629833299.0,1.0,"I've been using python for 10 years and it was my primary language for 6 of those years.  I have never used a language I like less than python.  I have no idea why it is so popular and so loved while php is ""dreaded""."
+4,,1628768307.0,1.0,It's also less dreaded than PHP so...
+5,carlos_vini,1628888331.0,1.0,I thought the same... and here I am working with RoR for 1 month now
+6,przemo_li,1628676581.0,12.0,"Opinion:
+
+With Typescript at \~!70 vs 30 in loved and dreaded metric, direction modern PHP established is validated. Programmers want richer type systems (see TS) or richer metaprogramming capabilities (see Clojure) then ""old"" PHP provided, and richer type system is easier to deliver."
+7,krileon,1628714779.0,5.0,"I sincerely hope no one is actually looking at these surveys for anything but a bit of fun. Almost 83k respondents for ""Loved vs Dreaded"" isn't even worth considering as relevant. [I suggest reviewing actual metrics instead](https://w3techs.com/technologies/overview/programming_language). The primary purpose of the survey is for StackOverflow to adjust its marketing and offerings based off who is actually using the platform."
+8,sproingie,1628701547.0,1.0,"Gotta admit I'd put PHP in the ""dread"" column, but just barely: I'm enjoying the new features, but it's still down on my list of languages to start a new project with.  
+
+Mind you I wouldn't start a new project in perl either, and I love that language, warts and all.  PHP doesn't reach that level for me, but I'm comfortable making a living with it (plus a lot of Vue+TS).  And if I had one decent metaprogramming extension to make something like Moose happen..."
+9,brendt_gd,1628678456.0,5.0,"I agree, a better type system is the way forward."
+10,przemo_li,1628753416.0,0.0,"Your statistic is irrelevant in any imaginable way.
+
+Only current and possible future development (understood broadly as any programming activity) is relevant to developers ;)"

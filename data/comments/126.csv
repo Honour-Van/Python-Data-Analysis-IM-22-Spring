@@ -1,0 +1,92 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,neachdainn_,1601556389.0,58.0,"Here are my thoughts as a PhD candidate in robotics:
+
+C++ without a doubt. It is here and it is the language of robotics - Rust basically does not exist in the field. That will hopefully change in the next 5-10 years but Rust becoming more welcome does not mean that C++ will go away.
+
+That being said, other languages will be better depending on which aspect of robotics you want to work on. If you're looking into the higher-level fields, such as machine learning, it could easily be argued that you should be looking more into Python than C++.  If you want to be working directly with the hardware, you'll probably want to be more familiar with C.
+
+The best thing you could probably do at this point is to set up a [ROS] installation, boot up [Gazebo], and start doing some of the [tutorials]. Not everyone uses ROS (I personally hate it) but no one in the field will ever fault you for being familiar with it - it is strictly a plus.
+
+[ROS]: https://www.ros.org/
+[Gazebo]: http://gazebosim.org/tutorials?tut=ros_overview
+[tutorials]: http://wiki.ros.org/ROS/Tutorials"
+1,Shadow0133,1601555323.0,31.0,"If you can, you should learn both. C++ is more widespread, so it will give you more job opportunities, while Rust's complier will teach you good practices in both of them.
+
+Both languages are very complex and somewhat hard to learn (even when knowing other languages), but in Rust this difficulty is upfront, while in C++ it is more hidden."
+2,kennethuil,1601560445.0,19.0,5-10 years?  Plenty of time to learn both well enough to know what to learn next.
+3,leathalpancake,1601563387.0,8.0,"Being someone that is learning C++ after Rust, I think to a degree Rust does help you with understanding why certain ways of handling memory are considered unsafe.  I'm no expert in either language but having coded in Rust for the last year and a half, learning C++, I often find myself saying ""oh that's something The rust compiler would prevent me from doing"" often with good reason.
+Rust has some really nice ""short cuts"" for getting functionality out of a program that you would have to so manually in C++. (Derives are dope) 
+Overall I'd say learn them both, if you haven't coded in a Non-Garbage Collected Language before it's going to take a little bit of patience to get things right, but your reward is going to be that you can write fast programs and do things that you wouldn't easily be able to do (for the most part) in GC languages like Java or Python."
+4,Noisetorm_,1601563605.0,9.0,"Why not learn both? You should learn C++ for employment purposes, but learning Rust can help you catch some common C++ memory errors. Also given that Rust can promise memory safety with similar, if not greater speed than C++, Rust is going to be the future of development since it's simply way easier to debug. You'll probably see some robotics companies use both Rust and C++ (Rust for new code, C++ for maintaining old code) in the future and knowing both will certainly help you."
+5,schungx,1601608804.0,5.0,"As an old-timer who started off with C, moved on to C++, then recently to Rust, I can give this bit of advice: learning Rust first will make you avoid all the bad habits when you learn C++ later.
+
+In other words, Rust should make you a better C++ programmer in the future, because dangerous and hard-to-debug spaghetti code is much more difficult to write in Rust, so you'll get into the habit of not writing them."
+6,sasik520,1601564308.0,7.0,I would say: learn programming and learn robotics. Do not focus on any particular language.
+7,StyMaar,1601566638.0,4.0,"Anecdotal argument: I did get my first robotic job in Rust (I was formerly working as a web developer). I'm convinced Rust is the future for robotics, especially because it's way easier to learn and to onboard new team members in complex projects.
+
+That being said, you should probably also learn C++ because it's definitely the present! (I don't know C++ at all, but many people here are C++ devs and I've more than once seen people saying learning Rust made them better C++ developers, so you would probably better learning both :)"
+8,matu3ba,1601555810.0,3.0,"Robotics is kinda huge/not very exact, can you give more information?"
+9,voider1,1601595711.0,3.0,"C++ is ubiquitous and will be for a while in the industry. However, Rust is upcoming and has lots of potential. Given the fact this is not your first language, it would be better not to focus on learning a ""language"" mainly, but rather learning about how the computer works. Rust and C++ fundamentally have to take care of the same sets of problems. One example of this is memory management. It's a problem every language has to take care of in some form. One of Rust's strong points is how it attempts to solve this problem. 
+
+I think learning about these problems would be more valuable than just learning Rust or C++. How I would go about it is learn about assembly and C, which is a bit simpler. When you're comfortable with that add in C++. After you understand all those things, learn Rust. It will seem more intuitive having that knowledge when learning Rust."
+10,GunpowderGuy,1601602839.0,3.0,"If you are already modestly good at programing then I would recommend you to learn rust and then c++. If not, learn python or another beginner friendly language first"
+11,ritobanrc,1601577683.0,2.0,"Fellow 16 year old, I have some minimal C++ experience. I'm not immediately looking for a job, and I know that I'll eventually have to learn C++ anyway, so I decided to spend my time now learning Rust. Learning Rust will make a better C++ programmer, and unless you're immediately looking for a job right now, or want to work on robotics right now, Rust will help you a lot when you eventually do decide to learn C++."
+12,ids2048,1601700732.0,2.0,">I have seen rust rising in popularity on the stack overflow survey over the past years, however, it seems to be rarely used?
+
+Basically. Rust is used relatively rarely (at least compared to languages like C++), but it's becoming more common.
+
+I might speculate that Rust will be the top programming language for robotics, at least for new projects, by some year X... but that's just speculation. No one can really say for sure what the future will be like for things like that.
+
+But I think one of the top skill for a developer is being able to learn new technologies, including new languages. So basically start with whatever you want. If you haven't done any programming, you might find Python easier than C++ or Rust, though it's likely not really used for robotics. Then you can try learning something like C++ or Rust. And Python is still a useful skill to have as well.
+
+Learning new programming languages because a lot easier once you've worked with various programming languages of different kinds. (Same thing for human languages, probably, but those are overall more complicated and harder to learn.)"
+13,,1601559041.0,2.0,"I'd recommend Rust first because it's a better and more modern language. It is a better language, more fun to work with, and has better tooling. It will also teach you more about computer science than C++ would.
+
+You have enough time to easily learn 3-4 languages before you graduate and have to look for a job; plenty of time to pick up C++ afterwards if you need it for employment."
+14,,1601555264.0,-1.0,[deleted]
+15,SecretNinjaGameDev,1601559192.0,3.0,Thanks for the reply :)
+16,SecretNinjaGameDev,1601555856.0,3.0,Thanks for the insight.
+17,Luroalive,1601578908.0,3.0,You could easily become an expert
+18,SecretNinjaGameDev,1601564412.0,1.0,How are you learning c++? Is it from a course...book? I am thinking about learning rust until can get my hands on an Arduino.
+19,SecretNinjaGameDev,1601564499.0,1.0,Are there any courses or books that you would recommend to go about learning robotics?
+20,SecretNinjaGameDev,1601556363.0,1.0,"I am not very sure at the moment, but I was considering getting started in the field with something like the Arduino. There only seems to be things like that for c++ though :/"
+21,Tilakchad,1601566935.0,1.0,I strongly disagree about 'teach more about computer science than C++' part. C++ teaches you those things better 'the hard way'.
+22,neachdainn_,1601556551.0,6.0,"> For robotics, you'll be dealing with embedded environments.
+
+Not strictly true. The field is rather large and ""robotics"" can mean running simulations in Python, dealing with embedded systems, or anything in between."
+23,SecretNinjaGameDev,1601555829.0,1.0,"Hi, thanks for the reply. Do you know of anything similar to the Arduino that can be used with Rust?"
+24,tinco,1601569298.0,17.0,"As someone who sometimes has to hire C++ devs, I see Rust as a big plus, as I'd like to see as much new code be Rust instead of C++ as possible. But, without C++ on your resume it's simply a no go. Many libraries don't exist in Rust (yet), and C++ is not easy enough to work in to learn on the job even if you're a Rust expert I think."
+25,leathalpancake,1601574003.0,3.0,"A good C++ tutorial:
+
+[https://www.learncpp.com/](https://www.learncpp.com/)  
+And honestly, if I can make one solid recommendation, find a project that interests you.  
+And chip away at it whilst you learn,"
+26,vadixidav,1601668574.0,2.0,"That is a pretty broad statement, but you might want to find a small project you can do that involves talking to peripherals using a microcontroller. While I was introduced in a more academic setting, many people started out with Arduino boards, for which resources are readily available online. Once you get more comfortable, you may be able to work with a microcontroller board you can find off the shelf and industry IDEs for using it.
+
+If you want to use Rust in robotics, which I don't have much experience with yet myself, it seems that you should make sure to pick a device well-supported by Rust. Look at what platforms Tock works on for realtime, and also embedded-hal in general. Often specific microcontrollers and/or boards are used and well supported. Unfortunately, the vast majority of microcontrollers and boards will have no tooling and libraries to support Rust development, so if you try to start learning with an unsupported device then the learning curve is going to be enormous because you will have to learn both Rust, microcontrollers, and how to read microcontroller manuals all at the same time. That would burn you out quick. So if you go the Rust route, use a board someone already has working, and you should be able to make some fun projects.
+
+That being said, if you go to a university or into industry, its more likely you will encounter C/C++ for years to come. I think most of us expect Rust to become common in embedded development eventually, but the embedded community is technologically years behind the rest of the industry, so keep in mind that these kinds of transitions are very long. C++ is half a century old, but it was only recently used in embedded computing, as C was the dominant language there. Not all robotics is embedded, but you will see that a lot of this is intrinsically linked."
+27,its_that_dude_,1601693154.0,2.0,"Check out the robotics specialization by northwestern on Coursera...it's based on their actual college course and has programming, hands on projects.  Covers path planning, kinematics, all that stuff.  Also I think MIT has some robotics courses on their OCW site"
+28,neachdainn_,1601557000.0,4.0,"I would start with a Raspberry Pi (or similar) while you're trying to figure out what part of robotics you want to do. The GPIO pins will be sufficient for most hardware aspects and the fact that it's a full-blown computer means you can learn in basically any language you want. Plus, it has enough compute that you can also do higher-level things.
+
+Something like [ROSberry Pi][1] would be a good start.
+
+[1]: http://wiki.ros.org/ROSberryPi"
+29,,1601568273.0,2.0,"I learned both and honestly Rust gave me a better understanding of memory layouts and UB.
+
+C++ is inherently unsafe, and there isn't anything in it's structure that teaches you why some things are dangerous. Rust actually teaches you at a low level why pointers are dangerous and the many pitfalls of C++.
+
+I'm definitely a better C++ programmer after learning Rust"
+30,SecretNinjaGameDev,1601559104.0,2.0,"Sorry, I assumed robotics refers to embedded systems."
+31,veryusedrname,1601560153.0,3.0,"Rust does run on Arduino for a few months now. The libraries are quite bleeding edge, but the compiler is capable of doing the heavy lift, check the avr-rust project"
+32,Eadword,1601601107.0,9.0,"I'm just an engineer, but it's my opinion that anyone with a firm understanding of Rust will succeed in any language. I didn't learn rust first so I don't know if it's a good starting place, but it's definitely something every good coder should learn at some point. You learn so much about language design and it helps explain some of the weird parts of C++ like move constructors and rvalue references."
+33,SecretNinjaGameDev,1601649120.0,1.0,Thanks for the recommendation.
+34,SecretNinjaGameDev,1601744466.0,1.0,Thank you. I am going to check it out.
+35,SecretNinjaGameDev,1601559141.0,2.0,Okay thanks for the insight
+36,lordwuwu,1601590211.0,1.0,Agreed. But would you appreciate rusts safety if you have never programmed in C++ before?
+37,Tilakchad,1601622044.0,0.0,Whats up with 'inherently unsafe' thing? Its only unsafe if you use it the wrong way or jump straight right into writing programs. You might want to learn C and computers better if you think everything written in C/C++ is inherently unsafe.
+38,neachdainn_,1601560769.0,4.0,"That's not an uncommon assumption! As an example of robots in non-embedded space, [one of my works][1] actually ran on a cluster of 48-core machines - definitely not embedded. It was also almost pure Rust.
+
+[1]: https://ieeexplore.ieee.org/abstract/document/9196957?casa_token=sdrJHysFGcEAAAAA:MQJz6WljzeO4gkIAyA5XRJfY1vlflayaqF71Mk5I5A4YasHSGaY-A9oNdesPLpOOu23w1HGR"
+39,SecretNinjaGameDev,1601564097.0,2.0,"Okay, thank you :)"
+40,GunpowderGuy,1601603231.0,1.0,"I appreciated learning rust even though I had only written complex programs in python by then. Rust not only has memory safety, but also other kinds of type safety. Both allow you to implement cs concepts more seamlessly"

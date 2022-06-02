@@ -1,0 +1,13 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,insertAlias,1637187739.0,3.0,">I'm hoping for answers from people who have some knowledge about both languages, not people who know C and just say it's better without any Rust experience.
+
+Well, that's not me, so maybe my advice is less valuable here. But everything I've read suggests that you should have a background in C to understand and appreciate some of the features of Rust. It's not that you _need_ to know C to learn Rust, but some of the decisions and design of the Rust language will make more sense when you see how things work in the de facto standard systems programming language."
+1,scirc,1637187769.0,3.0,"As someone who's dabbled in both: learn C first. Get an idea of what it's like to work with, and why it's got its pain points. Then consider learning Rust, so you have the background knowledge of what's actually going on under the hood, and are able to see where Rust's differences leave it better off than C."
+2,donvliet,1637188422.0,3.0,"I work with both. I would definitely recommend that you learn C first. It will help you understand things on a fundamental level and it is more explicit than Rust. Once you have learnt C it might be good to learn Rust to understand alternative ways of doing things. But that will be easier to understand if you first know C. (Assembly might be even better in some ways, but might be a bit too much work.)"
+3,HashDefTrueFalse,1637188604.0,1.0,"I've written a lot of C and a bit of Rust from time to time. If you're not used to working at the bits and bytes level I'd go with C first. It's a simpler language, less features etc. and will get you used to managing things on your own. Rust is more complicated to get started with (IMO, I suppose). Also a lot more resources and existing software written in C. Rust is nice once you get into the swing of it, so definitely give it a go after picking up some C."
+4,bergjensen33,1637188676.0,1.0,"Both sides will have extremely good arguments. In the end it's all about convincing. Maybe there's an objective answer, but we'll never know it. In the end, everything is all about convincing. C though."
+5,wizardlyrobot,1637189502.0,1.0,"C
+
+Rust is more like cpp."
+6,plastikmissile,1637190331.0,1.0,I would go with C. It's simpler and it has a lot (and I mean *a lot*) more learning resources.
+7,ernst_liebermann,1637265495.0,1.0,"C is the language that  is old and will never be old it is reliable, you can pick up rust later."

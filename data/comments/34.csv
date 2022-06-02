@@ -1,0 +1,72 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,ghost-in-a-shell,1490181862.0,32.0,I'm genuinely surprised to see notepad++ so popular across the board.
+1,CommandLionInterface,1490182674.0,5.0,What language are the web developers using visual studio using? Surely it can't be the best environment for JavaScript. Is C# more popular server side than I realize?
+2,alasdairgray,1490184878.0,4.0,"It was almost the same in 2016, and it also looked rather similar in 2015.
+
+Having that in mind, would be nice also to include all those Vim-like plugins for all the other editors, it could change the overall picture a bit (like, using Xcode -- and using Xcode with XVim are two completely different workflows, dare I say)."
+3,ninjaaron,1490198387.0,4.0,"\#1 with sysmins. Not surprising, I guess.
+
+also note that, while emacs doesn't have a huge slice of the market by any measure, It's got its biggest share among data scientists and engineers. Sort of interesting and semi-predictable. I'm in data, and I'm swinging more emacs + evil these days."
+4,-romainl-,1490194366.0,3.0,"Vim is always at or near the top in those surveys. Now, to conclude anything from those numbers…"
+5,,1490228220.0,2.0,[deleted]
+6,skyleach,1490191157.0,-1.0,"Don't believe visualizations that don't have the data, [this result is completely misleading...](http://imgur.com/gallery/2Jp3x)
+
+In truth, most of those languages are being played with by senior devs.  I've had to deal with this though my career as a contractor more than I can possibly convey in a reddit comment.  Senior devs get enamored with the latest thing and then say they're getting payed a ton to code in it.  No, they get paid a ton because of knowledge and experience and anyone who knows to tell them to stop playing is junior to them so keeps their mouth shut.  Everyone else that could tell them to stop being a retard and get back to work is too ignorant to know better.
+
+"
+7,thomas_stringer,1490185746.0,8.0,"Yeah, but we surround ourselves (here) with probably the creme of the crop for developers. There are *a lot* of developers out there, but those of us that visit places like this and write blog posts and interact, and contribute to OSS, etc. are the ones that are not only the loudest, but also that use the more advanced tooling (like Vim).
+
+So who we see at the ""majority of developers"", is still probably just the tip of the iceberg."
+8,thomas_stringer,1490185580.0,12.0,"> Is C# more popular server side than I realize?
+
+Not necessarily. But think about it like this. I can only imagine 99% of C#/.NET developers use Visual Studio. Whereas other leading languages (Java, C/C++, Python, etc.) we are all spread out over a few popular choices for IDE/editor. So we don't have that ""everyone who programs in *x* uses *y* IDE""."
+9,Skaarj,1490186630.0,5.0,"> What language are the web developers using visual studio using? Surely it can't be the best environment for JavaScript. Is C# more popular server side than I realize?
+
+Isn't TypeScript a language that was Invente4d my Microsoft and that compiles to Javascript?"
+10,cincodenada,1490195668.0,5.0,">Is C# more popular server side than I realize? 
+
+Yes, ASP.NET is still quite popular, especially in the corporate world. You can see right there in the previous question that 38% of web developers use C#, which matches pretty nicely with the VS number.
+ "
+11,lastthursdayism,1490189565.0,2.0,and how many of them use vim as their editor or use the vs plugin? :)
+12,alexbarrett,1490196439.0,2.0,It actually handles JavaScript well. With that and ASP.NET I'm not surprised it ranks highly.
+13,somebodddy,1490204760.0,2.0,Wonder how many of them picked Visual Studio because they missed the Visual Studio Code option...
+14,,1490205147.0,2.0,"I'd be willing to bet that outside of ""internet"" companies, C# is more popular than JS for server side development times 100. C++ is probably 10x as popular.
+
+Source: Software Architect for Large IT Services company 
+
+Number of Node.js installs I've seen outside of pet projects: 0
+
+C#, C++, Java, Ruby and PHP installs: 1000s"
+15,Zigo,1490282824.0,1.0,"My day job is in .NET/C# development, and yeah, it's massively popular. Especially in the corporate sphere, but a fair few small companies and startups use it too since MS offers some really nice free options for those guys. C# is a lovely language for web development if you're looking for something stable and compiled instead of the usual Ruby/Python/Javascript dynamic options.
+
+And of course everyone who uses C# on the back end will keep using VS for JS on the front end."
+16,yoshi314,1490188273.0,2.0,"it's quite a pleasant thing seeing vim stay relevant across the years, instead of being supplanted by whatever new cool text editor (sublime, atom, you name it) of a given time.
+
+"
+17,drunken_thor,1490274468.0,2.0,2edgy5me
+18,,1490191746.0,10.0,"Used by many, recommended by none."
+19,,1490191922.0,1.0,"Yes, but Visual Studio Code still has better support for TypeScript for now. Although they are trying to change that if they haven't already done so."
+20,TankorSmash,1490458949.0,1.0,"Yeah outside the web, you're pretty limited to stuff. Node is almost entirely for the web."
+21,,1490189700.0,4.0,"I wanted to jokingly comment:
+
+> I don't know. Nano is more than enough for me.
+
+Then I realised people do say that and my joke would have been taken seriously."
+22,Hitife80,1490202709.0,5.0,"It is frequently installed (or easy to install) as an alternative to standard notepad. Since it is quite capable, once you start using it for odd bits and ends -- it eventually becomes a part of your workflow and is a good answer to ever increasing demands and complexity. Before long, you start seeing people running wine with the sole purpose of having notepad++ on (!) Linux. I'd call it a case of ""promotion by attrition"". :-)"
+23,NoahTheDuke,1490196567.0,6.0,"I don't know, I see Notepad++ talked about *a lot* as a non-IDE editor for pretty much anyone new to programming. It's also a very nice tool, and one I use frequently, so I get why it's recommended."
+24,Dartht33bagger,1490205452.0,3.0,Professors at my college always recommended it as the editor of choice for Windows users in my 100 level and 200 level courses for computer engineering. I even used it once for a project my freshman year in a Verilog course. It was nothing special but it got the job done.
+25,NameIsNotDavid,1490200510.0,3.0,"I mean, I've had that exact conversation on /r/MechanicalKeyboards with a sysadmin who said he was fine with Nano. Cue three or four very confused people asking him what he was thinking. "
+26,yoshi314,1490196901.0,2.0,"speaking of which, vim's got them covered
+
+http://git.exherbo.org/e4r.git/"
+27,,1490198814.0,4.0,"I guess it makes sense to recommend it for someone who primarily uses an IDE but also wants to sometimes just double click files and have them open in some default editor without having to learn Vim or Emacs. But I don't see why someone would recommend using it as a primary development environment, unless they are just recommending what they know and they don't know very much."
+28,WIldefyr,1490457863.0,1.0,gvim on windows sucks really hard. Even using msys2 I will usually load windows files up in notepad++ and I am a diehard vimmer.
+29,TankorSmash,1490458868.0,1.0,"I've been using gvim on windows for close for *years* and it's identical to my Ubuntu setup in almost all ways. I don't use the command line tools that you get from linux so maybe that's the difference you're talking about?
+
+Some minor differences are path completion and *maybe* font support. Not sure, I don't even think about the differences."
+30,WIldefyr,1490466613.0,1.0,"To lots of people, vim is best on the command line because of integration with other command line tools, using [Unix as an IDE](https://sanctum.geek.nz/arabesque/series/unix-as-ide/). Take that away you're left with an /okay/ modal editor, that in a graphical environment is rather lacklustre. "
+31,TankorSmash,1490470235.0,1.0,"Plugins help or leverage a lot of the tools out there. I'm pretty proficient with vim already, hard to imagine it getting better, but I believe it. I'll check that out, but do you have any more?"
+32,WIldefyr,1490471966.0,1.0,"It really comes down to how you want to use Linux, I am part of a community who generally prefers very minimal setups with lots of people writing their own [\(like me\)](https://github.com/wildefyr/fyre) and highly customising their workflow. There's no right answer and it takes a curious mind to find out things for yourself rather than the now common ""I'll just read a blog post and steal his config""."
+33,TankorSmash,1490482626.0,1.0,"Wow that's a ton of stuff. Some next level usage I'm pretty sure. 
+
+How does that integrate into vim? It's a bit of a huge project so I can't really pinpoint one specific thing to learn from"

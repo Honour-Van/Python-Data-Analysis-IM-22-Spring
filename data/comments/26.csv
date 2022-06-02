@@ -1,0 +1,102 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,Rizens,1520948244.0,21.0,"Indeed it's a bit sad , but the future is more promising.
+
+According to [this survey](https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa) a lot of JS devs have heard of Vue and would like to [try](https://imgur.com/zvzac4R) the framework.
+
+Also it's important to keep in mind that a lof the community of Vue is based in [Asia](https://imgur.com/eWKwMjO) , which is not at all represented is the Survey ( less that 2% to be exact with China , Korea and Japan) while India and US are overly represented (more than 30%) which doesn't reflect the reality in some countries. "
+1,raublekick,1520984626.0,19.0,"I've been using Vue for about a week in an exploratory capacity. I don't think I've used Stack Overflow once to find an answer to something. Official docs have probably answered 90% of my questions. 
+
+Compare that to my time using AngularJS where the docs rarely help with a real-world understanding. "
+2,xaksis,1520947347.0,36.0,"Heh, I believe it is because we were all busy creating amazing things and missed the survey. "
+3,Kaidawei,1520962058.0,11.0,"Why would you be sad? Could it be that Vue has a better support and documentation ecosystem that warrants or allows not to be on StackOverflow? 
+
+It’s popularity and lack of StackOverflow “on the radar juice” can mean one of two (or more things): 1. One the ecosystem is awesome and stackoverflow is not as needed, 2. The coders that use Vue aren’t... nevermind.
+
+Vue is definitely on the radar. StackOverflow is somewhat of an indicator of relevance in the tech world but like Vue, Rasa.ai can hardly be found on SO and it’s an amazing growing and popular OS project as well.
+
+"
+4,not_very_creative,1520949797.0,7.0,"On a separate topic, why do people love react so much?
+
+I know it might not affect my projects, but I stay away from it because of the licensing issues I've seen.
+
+I have been working with Angular at work, and Vue on my personal projects, I like them both, but have been curious on why react gets so much attention."
+5,,1521117018.0,2.0,That doesn't make since considering it was the most liked js framework on Github last year. 
+6,FatFingerHelperBot,1520948260.0,4.0,"It seems that your comment contains 1 or more links that are hard to tap for mobile users. 
+I will extend those so they're easier for our sausage fingers to click!
+
+
+[Here is link number 1](https://imgur.com/a/fBlFJ) - Previous text ""try""
+
+
+
+----
+^Please ^PM ^/u/eganwall ^with ^issues ^or ^feedback! ^| ^[Delete](https://reddit.com/message/compose/?to=FatFingerHelperBot&subject=delete&message=delete%20dvmllu7)
+"
+7,VIM_GT_EMACS,1521144622.0,1.0,"Our team has picked Vue as its main framework, and a personal favorite of mine is Nuxt which makes vue *even* easier"
+8,higherlogic,1520986256.0,6.0,"Been using Vue since alpha. I’ve found stuff on SO, but it’s always irrelevant and just end up using to docs."
+9,NotFromReddit,1520988565.0,3.0,"Come to think of it, me neither. And I've been using it for almost a year. 
+
+It's just so simple, and the docs are great. The two or three times I needed community input I got on the Vue forums. "
+10,Rizens,1520950391.0,22.0,"The license issue has been solved , almost every open source project of Facebook is now MIT (GraphQL , React etc.. ).
+
+I think it's timing , react was introduce very early compared to Vue and the community immediately picked it up because it was backed by Facebook and solved many issue that AngularJS had made ( which are now solved in Angular ). 
+
+Then Redux and React Native were introduced and I think people pretty much stick with it since then.
+"
+11,eloc49,1520956906.0,5.0,"React native, redux, JS as a first class citizen rather than HTML, modular/incrementally adoptable (like Vue) I think Angular is irrelevant in the face of Vue and React. Vue and React are much smaller than Angular. Vue is coming to native with Weex. Next.js and Nuxt.js (0 configuration static site/server side rendering frameworks for Vue and React) Angular just cant compete."
+12,DukeBerith,1520994277.0,5.0,"Fellow earlybird. For the most part vue felt more intuitive than the other frameworks, and the times I've been stuck I just went to the documentation and had it answered. "
+13,Rizens,1520958981.0,8.0,">I think Angular is irrelevant in the face of Vue and React
+
+Actually it's very much the opposite , Angular offers a very structured and professional framework . Entreprise that needs to scale ( due to turn over in companies and tech evolving ) will always pick Angular . It has typescript built in , strong typing for absolutely everything built in scaffolding etc... It's perfectly designed for large scale apps.
+
+>Vue is coming to native with Weex
+
+Weex was released long time ago , and the project is pretty much dead for the western community.
+
+Evan You himself admitted the issue with i18n of weex which has basically killed the project outside of china.
+
+If you are waiting for Weex to be ready , you are going to wait a long time. You better turn yourself to Nativescript."
+14,i_ate_god,1520961139.0,6.0,"> JS as a first class citizen rather than HTML
+
+this is the main reason why I picked Vue over react heh."
+15,,1520962909.0,2.0,"`Enterprise that needs to scale will always pick Angular`
+
+citation needed, that's a pretty brazen (and clearly wrong) assumption.
+
+`It has typescript built in`
+
+So does Vue.
+
+`built in scaffolding`
+
+So does Vue.
+
+These things does not an enterprise framework make."
+16,elmo61,1521014264.0,1.0,Agreed
+17,eloc49,1521029296.0,1.0,"Vue does a good job, but things like `v-if` and `v-for` are just `if()` and `forEach()` in React/JSX. Vue still has logic in HTML. Not bad though since Vue is all vanilla HTML and JS."
+18,Rizens,1520966731.0,-1.0,">>It has typescript built in
+
+>So does Vue.
+
+You aware this is bullshit ? Vue added Typescript support just recently with 2.5 , Angular was written in Typescript entirely and all the modules are written in Typescript.
+80% of the Vue community stuff is written in JS with very poor integration for Typescript .
+
+This is completely different.
+
+Entreprise pick angular because it's backed up by Google and it has way more feature built in that Vue. Forms in Vue ? You make an event and get the data from the event , pretty much magic , or you install another module. Angular has ""@Input"" built in and dedicated for this. Passing data between components ? ""$refs"" or ""$options"" or ""$emit"". Angular has something dedicated for this. Dependency Injection ? Magic with ""this."" Angular as built in ""@Injectable"" etc...
+
+If you are not familiar with Angular it's likely that haven't had experience in entreprise environment ( in my case it was banking ) where you need things to be very very squared and not based on developers desire or preferences but based on the vendor documentation and recommendation .
+
+This makes Angular a great standard for entreprise environement and company that needs to scale.
+
+I would really recommend to follow the [Hero Tutorial](https://angular.io/tutorial) for Angular."
+19,lildoggydogg,1520998098.0,2.0,"i work w/fortune 500 companies in ecom...ng is not a good fit for lightweight applications, esp PWAs. for this reason we transitioned to vue, and some react on other pages. it also doesn't help the cause that things that are pretty basic in js need a special angular way to do things. for ex event bubbling does not involve a special angular decorator in vanilla js (or react/vue). ts is cool and all but if ur using jsdoc and a decent editor yet still have a sizeable amount of  type errors, lack of static typing is prob not ur biggest problem :). as for ""Enterprise that needs to scale will always pick Angular,"" in our case roughly 70% of internal facing UIs are in ng, perhaps for the reasons u gave, but 0% of customer facing UI are...for the reasons i gave"
+20,,1520977093.0,-2.0,"so much ignorance here, i really don't know how to respond."
+21,Rizens,1520979242.0,-5.0,"Just give me a list of list of large traffics apps you have been involved that are in productions for Fortune 500 companies , that uses Vue that should do I guess.
+
+But I doubt you have at least one."
+22,higherlogic,1520986188.0,3.0,"Work for a Fortune 100 company. We use Vue. I’m not giving the company name because it’ll definitely give away who I am, but it’s in the health industry."
+23,,1520980008.0,5.0,"how about alibaba, the largest e-commerce site in the world, powered by vue?
+
+you're a joke, go fanboy somewhere else."
+24,marinespl,1521015539.0,1.0,lmao

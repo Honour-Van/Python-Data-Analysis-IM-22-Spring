@@ -1,0 +1,726 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,,1463193793.0,49.0,"Yeah, I've been seeing these, too, and wondering where they've been coming from.
+
+I, too, much prefer working in a Linux environment, but I'm always perplexed when I see these ""XYZ is going to own the market!"" posts, because they always are based on some technology, in this case Linux, completely taking over the market in a space where that technology isn't really very hot, in this case (based on the posts lately) corporate desktops and internal application hosts.
+
+But that completely ignores the scope of the technological world and where these things get used.  Personally I don't see many posts from Windows people asserting that nobody uses Linux, although I've been told they're out there.  To believe such a thing, a person would have to be completely ignorant of all the places where Linux is used.  Similarly, when /r/Linux is going on about how Linux is going to Take Over The World just as soon as ""M$"" agrees to support Skype on it, it kind of betrays a misunderstanding that Linux on the desktop, while certainly *possible*, is pretty much entirely beside the point.
+
+As for Microsoft's porting tech to Linux... it seems pretty clear to me that they're going to start trying to position Windows as a platform that's just as available and performant as Linux.  This is a push *into* realms where Linux has dominated.  Now when some startup Dockerizes their whole platform of microservices and starts pushing into the Cloud, Microsoft can come in and say, ""Hey, for pennies more per instance, you can migrate your entire platform -- without modification! -- to Windows, and it'll work just as well except you'll have a multibillion-dollar company behind it.""  That's not ""we're giving up on Windows,"" it's completely the opposite.
+
+Which is all to say that I pretty much agree.  Windows is being maneuvered away from the admin experience it used to be, which looks to a lot of people like ""Windows is dying,"" but I think this is because it's being positioned to become more competitive in an area of IT with which they aren't really cognizant of because it's not what they do.  Which is fine, but it's leading them to the wrong conclusion."
+1,,1463222069.0,69.0,"Honestly I think that the 'platform W is better than platform X' and 'company Y is going to die and get overtaken by company Z' arguments are pretty petulant and show some level of inexperience in the industry today. Anyone with an ounce of sense knows that the big hitters aren't going away anytime soon, and that open, platform neutral and interoperable products are the way forward.
+
+In my opinion, a good engineer should know that most products have their place and that a 'right tool for the right job' approach is best. Sometimes it's Linux, sometimes it's Windows and sometimes it's something else."
+2,,1463229425.0,16.0,[deleted]
+3,,1463232386.0,9.0,"The register had an article a few weeks ago that summed up my feelings for Microsoft pretty well. Now this is knowing full well who delivered my email, authenticated my account, and operates the majority of the servers and desktops in my company.
+
+http://www.theregister.co.uk/2016/05/06/thoughts_on_the_new_microsoft/"
+4,Makasuro,1463235758.0,7.0,"Obviously MS isn't going to die out anytime soon.
+
+MS has its place, Linux has its place, even Mac has its place."
+5,bakonpie,1463206006.0,10.0,"Well said. I for one am thankful that Microsoft is contributing to the open source community and embracing it. They really do have some awesome technologies now. Nano server, .NET Core, and PowerShell DSC have won over all of the Linux guys I've worked with. Even they all admit things are changing for the better.
+
+Windows Server ain't as shitty as it once was. "
+6,thekarmabum,1463233164.0,6.0,"You are 100% right on AD and Exchange, they are almost the standard at this point."
+7,archiekane,1463213761.0,12.0,"I've just finished a weeks course on Azure. What MS are doing there is damned amazing. You can pretty much run your whole infrastructure up there. Yes, it costs a fortune, but you pay for the speed and ease. 
+
+You can run everything templated, you can run everything custom builds. You want private subnets with your own shit and it routed to on-prem, no probs. You want PaaS? Sure. Want to mix 'em all up? Okay then. 
+
+It's ridiculously flexible and I'm a Linux guy through and through. They have dedicated spin up dev VMs that you can shut down automagically at X time to save cash and you can choose which power of server with which OS or upload your own VHDs. 
+
+I was on the training with some infrastructure guys from HSBC who said they were already starting to use it and it's knocked months off of their development and infrastructure build times. 
+
+MS aren't going anywhere, they're just changing with the times... finally."
+8,meorah,1463193149.0,18.0,"I perused instead of reading every single little word.
+
+I don't have a problem with Microsoft's strategy to adapt.  I have a problem with them thinking they can execute their strategy without missing any development milestones, without adding any significant technical headcount, and by replacing a bunch of middle managers in redmond with a bunch of developers in india.
+
+it's too many moving parts to juggle at one time, and now most of their new products feel like fucking beta products or some half-assed attempt from Mac to break into the enterprise... whiz-bang features to market, patches that constantly break shit and are released whenever the fuck they want to break your shit instead of only breaking your shit once a month, features that don't work properly, product timelines that don't make any fucking sense, and the general sense that ballmer was barely holding the empire that gates built together and now some comp sci grad student in stanford was gifted the microsoft name to leverage his new tech startup.
+
+I'm not saying they're going bankrupt or anything, but everything in the news right now in MS-land is a short-term reaction.  react to AWS, react to Apple, react to Linux, react to the fucking missing Skype Mac client for more than a year that is getting pushed out in 3 phases?  what in the holy fuck bullshit is that?"
+9,macjunkie,1463199352.0,8.0,Depends on the company.. My company is MS-Free no windows anywhere in non workstation environment and 0 chance of that changing 
+10,ProtoDong,1463233781.0,6.0,"You are right but for the wrong reasons.
+
+**Microsoft won't die out because they still offer the best productivity tools and management infrastructure for those tools.**
+
+I'm a hacker that makes my living both attacking and securing Windows networks 90% of the time.  (Occasionally I have pen-tested data centers that run mostly virtualized Linux instances and they tend to pass with flying colors [although minor fuckups in this space have much greater impact... in general])
+
+**Microsoft has entrenched itself in business culture.**  At this point, vendor lock-in is ubiquitous in almost every medium to large business.
+
+I love Linux... and I love to hate Microsoft.  However, I really don't think anyone on /r/sysadmin is fucking naive enough to think that Microsoft is in any danger of being replaced.  Nobody offers anything even remotely close to a drop-in replacement.... not Linux and certainly not Apple. (but they might consider getting on that)"
+11,,1463231764.0,4.0,"Die? No, probably never.
+
+The way I read some of the recent posts that may have come off that way more emphasized that one cannot ignore Linux et al, and sysadmins that do will lose ground. The prevailing attitude I've seen is that non-Microsoft solutions are second rate at best.
+
+This, in spite of the fact that almost every (maybe every?) vendor appliance we run, physical or virtual, runs Linux, and in my vertical (k12), clients are rushing en masse to Chromebooks, Gmail and iOS. In many cases students won't touch Windows/Office again for a long time.
+
+The long prevailing MS monoculture is dying without a doubt. Admins locked in to MS mindshare need to embrace a plural ecosystem. But MS won't die any time soon, for reasons OP stated"
+12,bugalou,1463240034.0,2.0,"Well said.  Companies have a lot of Microsoft solutions in their datcenters and things are only going to get better.  I think people take MS's drop in influence in the consumer space with the rise of mobile much too  far and just think Windows is the only measure of success.  MS has some awesome enterprise solutions if your company needs them.  Each industry varies, but mine has a large Microsoft presence as well as Linux, and even some old big iron AS400 solutions kicking.  The mixed environment can be a pain, but it has also made me appreciate and see various strengths of paltforms and to not be a rabid fan boy of any particular solution."
+13,Loushius,1463245951.0,2.0,"As someone in the MS world, I am pretty excited. Over the past year and a half I've learned so much about continuous integration and configure management. I've learnt some ruby and used chef, and did a lot of work with Team City and Azure. My powershell skills have also grown greatly because of this. It's really fun times."
+14,chipsharp0,1463249169.0,2.0,"Seems like Linux guys have come out of the woodwork this week. Makes me wonder how many legitimately cut their teeth on a pile of floppy disks with a+n packages and how many just read a Wikipedia page and came to play dress-up. 
+
+That said, it's worth looking into, it's an option worth exploring, but it's not the universal cure-all. Moreover, in many cases, it's more hassle than its worth for anything beyond very pedestrian network services. It makes for a good IP PBX in some use cases, and makes for a viable enterprise mail system, but in this, as in all things, there's an evaluation process that should not be taken lightly.  "
+15,boot20,1463263769.0,2.0,Anyone in the medical world know that Windows isn't going anywhere and the move the cloud is going to be SLOW and amazingly painful.  
+16,,1463293528.0,2.0,"One could only hope.
+
+
+I believe competition is good for everyone involved. I would never want any os to dominate in the way microsoft has in the past, even linux. I would definitely like to see microsoft kept in check. I can't count how many times they have impeded the growth of linux. 
+
+
+If karma were to suddenly turn into a real thing i'm willing to bet their offices would spontaneously burst into flames. Microsoft can die in the firey pits of hell for all I care."
+17,,1463196410.0,5.0,[deleted]
+18,,1463240404.0,2.0,"I don't normally agree with what you say but in this case, I do. If anything I respect you more now for this, personally I love Windows Server, I love it more than the client actually, I use Server 2012 R2 on my laptop and desktop as a workstation OS, it could be a distortion field but they feel faster than when they ran Win10 and 8.1.
+
+I've also recently really focused on expanding my know how outside of just the basics of Windows Admin like right click New > User in AD and shite like that to actually putting time into work on PowerShell to figure out how to automate stuff.
+
+On my VMs I set it so that whether its a Server Core or Full Install the VM will start PowerShell up instead of Explorer and I am loving every single minute of it.
+
+Even submitted an idea to the Uservoice forum to have DFS Replication be available in Nano Server the other week, I should probably check up on that to see if someone has responded.
+
+>AD and Exchange aren't going anywhere, they are flagship products, and super widely used in the Enterprise.
+
+Amen to that, my university used a combination of CentOS and Windows workstations and the backend used Windows servers running AD and Exchange and it just seemed to work perfectly."
+19,jimicus,1463258907.0,2.0,"The MS haters invariably miss one very big point.
+
+It really is the elephant in the room, and it's never addressed:
+
+There are places where Linux is better suited.  There are places where it is behind the times - and ""behind the times"" can very easily mean 10-15 years behind the times. 
+
+Many F/OSS advocates refuse to admit these areas exist; whether that's through ignorance (""I don't need to look at SQL Server to know it's inferior!!11oneone"") or denial (""Why would you care about SSRS anyway?!"")."
+20,dmikalova,1463243266.0,1.0,Yeah how anyone today could see MS as dying just don't see that they've turned the ship around. It brings me so much internal conflict wanting to see them burn vs seeing them come out with some good stuff nowadays.
+21,CalBearFan,1463244001.0,1.0,"Technically Windows, when you add up all the flavors (though I question any Dev on Vista..blech!) is over 50% on those charts you listed. Though Mac+Linux is really surging and getting close to 50% as well."
+22,Fridge-Largemeat,1463248411.0,1.0,"So as someone who is working towards the MCSA at this time, and never wants to go back within ten feet of desktop support, what would you recommend as far as educational direction? I've had my eye on a python book, and I've got some reading on powershell to do as well. "
+23,kanzenryu,1463292606.0,1.0,So that just leaves the billions of dollars of criminal convictions.
+24,,1463354553.0,1.0,"> Native Linux/bash support.
+
+Personally, I believe that this is less about providing something for developers, and more of a way to ultimately provide support for Linux-based Docker packages to run on Windows Server (and in Azure). Having developers test it in a development environment while it is labeled as beta is a great way for them to flush out all of the problems without the fallout of something not working in Server or on Azure. Microsoft has been putting a lot of money into providing support for Docker in Windows for Windows-based packages.
+
+They've been putting more effort into having their products used at multiple levels instead of being forced to use their entire top-down infrastructure. With things like the ""Windows Subsystem for Linux"" (its not *just* bash on Windows, afterall), open-sourcing of .net components, SQL Server being released for Linux, etc, they're moving in a direction of using their applications regardless of platform or their platform regardless of applications.
+
+I'd predict that we'll eventually see more server application products be released for non-Windows platforms. They're starting with SQL Server--which makes more money than their Server OS line. I'd be surprised if Exchange and Active Directory aren't far behind.
+
+The reality is that Microsoft will make more money off of selling CALs or per-user costs for AD in Azure than the initial cost of a Windows Server license. How much of the cost of a Server license is the OS and how much are the services that come with it? They'll just sell the services as services for an appropriate amount.
+
+The bigger move would be if the .net stuff for Linux starts being used by Microsoft to allow UWP applications to run on Linux. They're positioning themselves to be a market for their platform, their applications, their cloud services, their development environment, or any combination of those.
+
+Nadella seems to have accepted the fact that the idea of them holding onto a vertical market is long gone."
+25,Windows-Sucks,1477451189.0,1.0,I ditched my craptop and switched to an Android tablet because Windows ruined the hardware.
+26,iheartrms,1463203353.0,-3.0,People used to say IBM would never die out and it was inconceivable that Big Blue would ever disappear. And they haven't. They are still around. Those people have been right so far. But IBM has become pretty much irrelevant to anything. Some day Microsoft will be also. They already have noticeably less impact on my life than 10 years ago and much less than they did 20 years ago.
+27,,1463240513.0,-1.0,[deleted]
+28,dm18,1463244252.0,0.0,"For allot of companies there no good reason to store their directory service locally. Or self host email. While there may be some things that still require local storage; there is no reason that storage can't be just an instance syncing to the cloud. 
+
+For allot of companies AD is no longer the center of their domain. It tend to be some thing in the cloud. It could still be an AD, but allot of the time it isn't. And much of it is being stitched together by SSO and 2-step LDAP. 
+
+They need to catch up and surpass their competitors. "
+29,UptownDonkey,1463212702.0,-3.0,Most of what you mention here are examples of Microsoft changing their business model to catch up to where their main competitors were at 5+ years ago. If they can somehow pull it off good for them but it will be difficult when the rest of the industry continues to move forward at a rapid pace. 
+30,DoesNotTalkMuch,1463239138.0,-2.0,I always hated bash.  I'd rather see powershell on linux.
+31,what-the-hack,1463197538.0,-9.0,"Why the hell is trash like this allowed in this sub? 
+
+What crack pipe do you guys smoke that you think microsoft is somehow how going to die out to warrant a reply with ""Microsoft isn't going to die out"". 
+
+You should try looking outside your RDF.  
+"
+32,amazeballs_sf,1463240363.0,-4.0,"M$ said that Linux is a ""cancer,"" and they'll do everything in their power to rid the world of this disease."
+33,thatrandomaussie,1463242336.0,0.0,this is fantastic new.. my hatred for windows in one reason i stopped learning it.. just in time for me to decide to get back into IT.
+34,,1463252591.0,0.0,"I do appreciate and credit you for trying ti moderate your opinion. So I didn't downvote.
+
+Hating on a platform is going to bias your perception of it. As soon as someone says that they ""hate"" something I discredit their opinion.
+
+There is so much to the product line that there is plenty to like and dislike.
+
+Even defending the opinion that MS is gonna die is crediting that opinion as plausible which is silly."
+35,itsteve,1463276048.0,0.0,No shit 
+36,keftes,1463229967.0,-6.0,No startup uses Microsoft products. And that is the future. Nobody cares whatever large legacy enterprises are using. They are the past of the industry.
+37,GNU_Troll,1463230144.0,-8.0,Write about it in your diary. Way too many opinionated meta threads on this sub that don't really identify or solve problems. 
+38,MCMXChris,1463242964.0,-1.0,"But...but year of the Linux desktop!
+
+MS isn't going to implode but they may fuck up their image even more at the rate they're going with 10"
+39,immerc,1463218158.0,-7.0,"The question is whether they're going to stay in the OS game.  I doubt it, at least when it comes to servers.
+
+The fact that you can run Linux servers on Microsoft's cloud service tells me that it's just a matter of time before they get out of the server business.
+
+They'll probably stick around for a long time in desktops, tablets and maybe phones, switching to something like the Apple model, but for sysadmins, I think it's a matter of time before Windows is no longer a relevant OS for servers.  Still, that matter of time could be another decade or more."
+40,Zaphod_B,1463194664.0,14.0,"> As for Microsoft's porting tech to Linux... it seems pretty clear to me that they're going to start trying to position Windows as a platform that's just as available and performant as Linux. This is a push into realms where Linux has dominated. Now when some startup Dockerizes their whole platform of microservices and starts pushing into the Cloud, Microsoft can come in and say, ""Hey, for pennies more per instance, you can migrate your entire platform -- without modification! -- to Windows, and it'll work just as well except you'll have a multibillion-dollar company behind it."" That's not ""we're giving up on Windows,"" it's completely the opposite.
+
+Oh I totally agree.  When MS adapts the open source scaleability and robust automation Linux has matured to, and if their app platform is insanely awesome, they will most definitely find a market in that.  Also it buys them time to improve their back end and rework their business model to offer the migration to the Windows platform like you just wrote.
+
+> Which is all to say that I pretty much agree. Windows is being maneuvered away from the admin experience it used to be, which looks to a lot of people like ""Windows is dying,"" but I think this is because it's being positioned to become more competitive in an area of IT with which they aren't really cognizant of because it's not what they do. Which is fine, but it's leading them to the wrong conclusion.
+
+I know right?  I mean being able to use a CM tool and state machine models to maximize your Windows deployment, scale it, and use PowerShell, Python, hell maybe some of that native bash/Linux support they are tossing in there to automate both server and client side solutions is uncharted territory.   It is going to allow MS admins to do some really cool stuff.  Instead of complaining and denying the change, windows admins should be prepping for this market shift.  
+
+
+Like I stated, if MS wasn't making these huge shifts we should be worried, the fact that they are is a good sign, or at least a better sign of MS ignoring it.  Novell ignored MS in the 90s and look at where it got Novell."
+41,StrangeWill,1463208962.0,5.0,"> Yeah, I've been seeing these, too, and wondering where they've been coming from.
+
+Apparently people that don't run piles of Windows servers to support bullshit software that doesn't support ""da cloud"" or *nix.
+
+The ability to wrangle management away from flashy demos for software that only runs on Windows must be god-tier for some people here."
+42,blacksd,1463233005.0,14.0,"I love you. From a sysadmin point of view, but still it's a strong feeling."
+43,RevLoveJoy,1463238312.0,8.0,It's a tool. Use the right one for the job.
+44,escher123,1463242755.0,3.0,"Exactly, thank you for saying what I was going to say."
+45,ISBUchild,1463242907.0,12.0,"I can't accept the ""they're both tools"" thinking when one of those toolchains is wholly owned by one company that has engaged in anti-competitive behavior, costs us more in licensing than the hardware it runs on, and meaningfully restricts customer freedom."
+46,,1463246173.0,6.0,"That's right! People said the same things about SGI, Sun, BeOS, Novell... Oh, wait :("
+47,girlgerms,1463441326.0,2.0,"I'm against any form of ""religious bias"" in an admin. Use the best tool for the job. Sometimes that's going to be Windows. Sometimes that's going to be a *nix variant. Sometimes it's going to be an appliance or a hosted application.
+
+I'm a Windows admin because that's what I look after - but I am well aware of it's limitations and what it's uses are. I understand that there are things that I would **never** put on a Windows box."
+48,,1463234526.0,-16.0,">  show some level of inexperience in the industry today
+
+I've been seeing it for 20 years. 
+
+I've also been saying it for 20 years.
+
+You need just look at the nightmare that is Microsoft licensing to see that it's inferior to Linux. If you don't care about vendor lock-in, if you don't care about being raped in the ass by fucking licensing audits because you're cuck enough to be an Oracle client anyway, then it's not. 
+
+But for the rest of us at large, it's inferior in that respect, and that's a big respect. 
+
+"
+49,DonutCopShitLord,1463241934.0,-1.0,"The OP is just happy that MS is porting things over to Linux as if there is always something wrong with Windows if you have to consider it. 
+
+Linux and Windows are just tools. Either you pick the right one or become a tool yourself by making these kinds of posts"
+50,andygates2323,1463229704.0,13.0,"Traditionally, you trade off licensing expense against lots more support people customizing stuff.  Which is fine as far as it goes, but in healthcare we're very, *very* conservative about things going wrong because the consequences are worse than just a bad business call."
+51,mrjlennon,1463246284.0,4.0,"I don't think you'll get a response. I'm in the same boat - 50,000+ users. There's no way in hell my organization would even consider a full switch to Linux, especially for any user facing system. Linux does have it's place in our environment, but it makes up maybe 5-10%. "
+52,,1463236026.0,5.0,"> pants-on-head retarded
+
+That made me laugh. I'll have to remember that saying."
+53,Zaphod_B,1463251462.0,2.0,"My Org is over 100k+ employees and we don't run any Windows servers.  Size of your org doesn't matter, what matters is what you invest into tech.  It really starts with replacing Windows tech for cheaper services that are web based, or you might dev some stuff in house (still cheaper than buying mass MS licenses) and once you get away from thick apps, and build solutions that are platform agnostic all of it naturally just runs on Linux.
+
+Is this the right answer for you and your org?  I have no idea, but you do, since you work there and know the Org.  
+
+As for end user platform, that doesn't matter anymore.  In my opinion it can be Mac, Linux or Windows - let the user decide."
+54,Sajem,1463230263.0,2.0,Hamburg I think it is has moved completely over to Linux.  I believe it took them in the region of 10 years to complete the project
+55,dm18,1463253284.0,1.0,it helps if all your services are web based. Really at that point it becomes a question of what web browser do you want. And what OS your going to run the web browser on. 
+56,Primal_Thrak,1463253984.0,4.0,"Ha! Trevor is a buddy of mine, we went to collage together. He's a great guy with some interesting views on how the tech world works.  Awesome to see his work getting a mention.  
+
+If you get a chance check out [his blog](http://webreaktech.com/). Note I am not affiliated with his company or anything I just like to give props to friends."
+57,Zaphod_B,1463251885.0,2.0,Interesting read
+58,,1463246668.0,1.0,"Fuck migrations, fuck riots about linux v windows, fuck licensing fees, give me Powershell on Linux. We have .NET, we have the technology. At that single point and only then, will we see the true beauty of MS. Everything that I can get out of their greedy licensing grabbing hands, I will. Everything is there for Windows already, and Linux is just a step away."
+59,theducks,1463244155.0,5.0,"I think the change will be Exchange going to the cloud first - I mean, why run your own Exchange environment now? (Except rare compliance requirements)"
+60,sofixa11,1463232965.0,12.0,Uuuuh have you ever heard of AWS? They've been doing that for more than a few years now.
+61,,1463197139.0,6.0,"> perused
+
+(This means to read carefully.)"
+62,Zaphod_B,1463194132.0,7.0,"I see you got downvoted for expressing your opinion so I upvoted you to balance that out...
+
+> ...and now most of their new products feel like fucking beta products 
+
+I feel the same way about Google Apps. They are super innovative and great, but they feel unpolished, like they just made a beta app and then said okay it is mostly bug free, ship it!
+
+> some half-assed attempt from Mac to break into the enterprise
+
+Apple doesn't really even play the Enterprise game.  They just happen to make both a very solid OS and laptop and iOS is very secure and great for business to adapt.  I mean at one point we all thought Blackberry was going to rule the Enterprise.   The thing about the Mac platform is all the big enterprise tools are third party - Casper, , Munki, Chef/Puppet, Deploy Studio, AutoPKG, AutoDMG, Airwatch, etc.  Apple just gives third parties APIs and says here are the tools, now you can make enterprise solutions.  As far as enterprise features OS X is just as solid as any other OS you would deploy, and Macbook Pros compared to our top of the line Lenovos we deploy that match spec for spec are about the same price.
+
+
+> I'm not saying they're going bankrupt or anything, but everything in the news right now in MS-land is a short-term reaction. react to AWS, react to Apple, react to Linux, react to the fucking missing Skype Mac client for more than a year that is getting pushed out in 3 phases? what in the holy fuck bullshit is that?
+
+Yeah all very valid points.  I will say though that Microsoft has always been very smart at business.  Any Org going through a huge shift is gonna have hiccups and gonna ship some bugs.   I don't think any Org can do a giant shift like this perfectly.  Sure it may hurt them, but I think they can bounce back.  They have the capital to hire top talent and as long as the vision isn't ridiculous they could pull it off.  
+
+I am just saying if I was in the MS world I would be embracing the hell outta this and try to do things no one has done before and try to make the best of it.  I guess you can look at it one of two ways, or one of several ways.  
+
+* embrace the change, adapt and learn to code and automate and make the MS stack just as viable as the other sides
+
+* go about your business and complain about it
+
+* invoke change and stop using MS (which I am willing to bet is the hardest one for most Orgs)
+
+"
+63,tvtb,1463231765.0,4.0,"My company is completely MS free on servers, and desktops the only MS product is Office. I'd have is switch to LibreOffice but there are concerns about how those files would inter operate with external people using Office."
+64,,1463209844.0,9.0,Hiring?
+65,Zaphod_B,1463199663.0,5.0,"My Silo of the Org is also MS free, and so is all of our infrastructure as far as I know, but we do have Windows clients.   My last job was 100% Mac/Linux and my job before that was 50% Mac/Linux and 50% MS.
+
+"
+66,John_Barlycorn,1463232730.0,2.0,"It'd take us 10+ yrs of hiring and working weekends to get off Microsoft. And a lot of our use-cases have no Linux alternatives so... yea. 
+
+
+And no, I do not like MSFT or Closed source, but it's the world we live in. "
+67,Zaphod_B,1463251774.0,3.0,"> Microsoft won't die out because they still offer the best productivity tools and management infrastructure for those tools.
+
+I would disagree on the infrastructure tools/model.  MS is extremely lacking in that regard.  
+
+> Microsoft has entrenched itself in business culture. At this point, vendor lock-in is ubiquitous in almost every medium to large business.
+
+And so many Orgs are trying to get very far away from vendor lock in."
+68,sesstreets,1463242616.0,5.0,"(Fellow K12 sysadmin)
+
+Chromebooks blew up. Cheap, reliable, foss-ish, GAFE, the management console. All of it, it's amazing, and it's cheap and it works exactly how it should, get a student on a task, fast, and get me their work so I can check how they're doing."
+69,Zaphod_B,1463297013.0,1.0,So you will be one of the ones that maybe lands a bad ass Windows DevOps/tooling job if that becomes a thing.  Keep up the good work!
+70,Zaphod_B,1463252553.0,3.0,"Honestly, I think it is a lot of junior IT/admin Microsoft people who are freaking out calling this bluff of MS is going to die.   Any really good Windows admin can already automate with code, is already doing DevOps type stuff and this change is really awesome to them.
+
+The IT people who ignored change, are the ones freaking out, in my opinion.  I think the Linux community is more curious about what is going to happen with the changes more so than they are making claims MS is going to die."
+71,Zaphod_B,1463264156.0,2.0,I have heard of big Pharma/Medical Orgs that still pay for windows 98 support because of a few legacy things they cannot get rid of.
+72,Zaphod_B,1463295718.0,2.0,"I agree, I think the market will eventually balance out.  Which is good for all parties, healthy competition is good."
+73,Zaphod_B,1463196588.0,5.0,"> You must be new to the internet.
+> 
+> 
+> 
+> I've been hearing that MS has been dead since 1995.
+
+Thanks!  but nope I am not new to the Internet, been in IT closing in on 2 decades.   This was a post in regards to a lot of comments that went down in this sub today is all."
+74,ghost_admin,1463208595.0,1.0,"THIS.
+
+I've been doing some form of computer work for 2 decades as well, and, every few years, there is another rash of surveys or studies or random-ass articles declaring MS dead.
+
+Only trouble is, me and everyone I know still finds gainful employment building and supporting MS systems.
+
+I only responded to one of the posts this week because the person seemed like they were honestly concerned. Anyone who's been around for a while knows that MS is a cockroach in this respect - good luck killing it, no matter how great your hate may be."
+75,dm18,1463251202.0,4.0,"Just for contrast. 
+
+gMail, chrome books
+
+ * No UPSs to maintain or manage. 
+ * No Servers to maintain or manage or patch or secure or harden. 
+ * No local server backups to maintain, verify, test, troubleshoot or pay for.
+ * No client management system to push out patches.
+ * No manually downloading and configuring patch management.
+ * No client backup or migration.
+ * No need to customize apps or printers or installing additional software. 
+
+No working on the weekend to troubleshoot/fix an issue. 
+No Running Exchange repair tasks. "
+76,Zaphod_B,1463250991.0,3.0,"That is fine, you should work in your preferred platform.  My opinion is I hate windows server and would choose Linux over it 10 times out of 10.   However, I know that Windows servers can easily work with Linux servers these days, so if it were truly the best option, it would be the best option and I'd deal with it."
+77,Zaphod_B,1463250794.0,1.0,"Look at the trend, Windows has been declining a ton and at a very fast rate."
+78,Zaphod_B,1463250705.0,1.0,"Personally I would go Linux, but that is me."
+79,Zaphod_B,1463355850.0,1.0,"> Nadella seems to have accepted the fact that the idea of them holding onto a vertical market is long gone.
+
+Oh I agree with you there.  I think their fist attempt is to make themselves remain relevant in the app market, from there I dunno.  Maybe containers, maybe not.
+
+I will say this, we looked at a Microsoft product recently and they were going to require that we have it in their cloud (Azure) and that was a deal breaker for us.  I am not sure what the product was as I am not on the Windows team, but even when we were considering for once a MS product we didn't have our pick of cloud provider or on prem, it has to be MS Azure.  "
+80,jhxetc,1463209081.0,21.0,">But IBM has become pretty much irrelevant to anything.
+
+
+You mean they are irrelevant to the small-medium business crowd that dominates this sub. IBM is quite entrenched in large enterprise. I'd bet you couldn't find a large public or private sector organization without an IBM product that is critical to their landscape."
+81,bidaum92,1463217715.0,7.0,"> But IBM has become pretty much irrelevant to anything.
+
+That's a bit of a gross overstatement. 
+
+Just in the beginning of this year IBM has developed both a quantum CPU and a 9nm transistor based CPU, Also they've released a new z13s mainframe etc etc the list goes on..
+
+IBM are not irrelevant to anything, instead they are focusing on different markets.
+"
+82,,1463231625.0,3.0,"Company I work for just deployed new I and P series systems. They have massive Z series mainframes spread across the country and I guarantee your data has probably traveled through some of them. 
+
+They're out there and they're not going anywhere. The x86 microcomputer took the bulk of the mainframe's work. But the core compute needs remain and they work really really well. "
+83,meorah,1463244078.0,3.0,the people on r/devops think they're doing something new that's never been done before.  that lack of perspective should be weighed against the value of their opinion.
+84,Zaphod_B,1463297369.0,1.0,"You are forgetting one thing though, there are many laggards in the many behind the times IT shops that will adopt these changes.  I mean how many people actually split their IT staff into roles where one team is focusing on operations, projects, integration, etc, and another team answers calls and tickets?   
+
+Lots of Orgs don't invest in tech intelligently so there are plenty of IT shops that are 5+ years behind."
+85,Harkonnen,1463239712.0,3.0,"Powershell is verbose... so, so verbose"
+86,Zaphod_B,1463251504.0,1.0,"uh no thanks, shell works because how it is designed and it is embedded into the OS."
+87,efranor,1463245664.0,-4.0,"Then switch to a different shell...
+
+There are tons and tons of shells."
+88,Zaphod_B,1463197776.0,8.0,Have you been actively following this sub?  There is a lot of alarmists making such claims.  I don't even like or use the MS stack and I know it isn't dying out anytime soon
+89,Zaphod_B,1463251009.0,1.0,Who said this at MS?
+90,,1463231935.0,5.0,"I'm not a Redmond fanboy but a blanket statement like this is just irresponsible and uninformed. 
+
+If your idea of a startup is a bunch of hipsters in an expensive San Francisco loft office with ikea desks and MacBook's laying around on overstuffed couches, I guess that's one narrow view of a startup. 
+
+Industrial and commercial incubators that let entrepreneurs start small businesses are everywhere decently education people and investment capital exists. They use what they know - including Microsoft. "
+91,Win_Sys,1463230830.0,9.0,This is 1000% not true. There's plenty of startups that develop Windows applications and use their OS in house. You can get just about every Microsoft product for free for 3 years if you're a startup through BizSpark. I know 2 different people with startups that use Windows and Windows Server for their in house computers. They certainly have some Mac's they use for graphic design and a bunch of servers running Linux but what you said is simply not true. 
+92,thecatgoesmoo,1463247836.0,2.0,You're absolutely right.  Zero startups in the Bay Area would even admit they use Windows or develop with it; engineers would literally laugh and hang up the phone.  
+93,Zaphod_B,1463297525.0,2.0,For the most part you are right.
+94,Zaphod_B,1463251944.0,1.0,"This entire sub is filled with knee jerk reaction posts, trolling, or plain willful ignorance at times."
+95,Zaphod_B,1463250840.0,1.0,"Linux desktop is in fact on the rise with devs.  You see most reports published track desktop OS by sales, and well Linux is free."
+96,CalvinTheBold,1463223858.0,8.0,"This is basically the opposite of the true situation. With server 2016, MS is doing amazing things on the server side. Their software defined storage and networking are surprisingly good, and the upcoming shielded VMs / Host Guardian Service are a security game changer. What I've seen so far of JIT/JEA looks fantastic. Rather than being replaced by Linux, I could see them becoming the best platform for running Linux VMs.
+
+Source: used to work in a 90% Linux/ESXi environment, now working in a 90% Microsoft environment. I was floored by how far Microsoft has come with powershell and automation in general."
+97,Win_Sys,1463231612.0,2.0,"You're out of your mind. Their OS and Server platform are their biggest money makers. I love Linux and all but if you think they are on par with Windows in the enterprise desktop world you're sorely mistaken. You don't think large businesses would love to drop the hundreds of thousands to millions of dollars a year they spend on MS licensing? If they were even close to equivalent they would have switched. Don't get me wrong Linux belongs in the enterprise server realm, it does a lot of things really great but large/enterprise scale desktops isn't one of them. They both have their markets they're great at and you should use whatever is best for the job. Sometimes that's Linux sometimes that's Windows. "
+98,plasticsaint,1463202834.0,13.0,"The Ubuntu packages they've demo'd cannot interact with windows programs or services. They're intended for developers to use. There is almost no scenario in which bash would be better than powershell for managing windows.
+
+Also python has and does run fine on windows... Nothing they're doing now will make it any better of an experience than it already was."
+99,ProtoDong,1463235104.0,-3.0,"> When MS adapts the open source scaleability and robust automation Linux has matured to, and if their app platform is insanely awesome, they will most definitely find a market in that.
+
+Yes Willie Wonka would be proud... but no, they are not going to bother competing when they can co-opt Linux.  I was not shocked to learn that the majority of Azure instances are Linux instances.
+
+> and use PowerShell, Python, hell maybe some of that native bash/Linux support they are tossing in there to automate both server and client side solutions is uncharted territory. 
+
+So much facepalm.  Where to begin?  PowerShell... this was Microsoft's answer to bash... and it's pretty fucking nice... in theory.  But actually using it is a horrible nightmare.  Why?  Because engineers are terrible sysops and don't understand that it's very hard to remember commands that are all derivative... especially when they are verbose as fuck. Their treatment of environmental variables alone should be enough to come to the conclusion that they didn't know what the fuck they were doing.
+
+Python should not even be in the mix here.  It is not only a cross platform interpreted programming language but it doubles as a lazy scripting platform.  I say lazy because most devs I know would rather write a 60 line python script than learn to write a proper system shell script in either bash or PS.  Python is great but it's still a tertiary tool.
+
+**Bringing bash to Windows is an attempt to take back some of the Web developer market**.  Most web devs are developing on Linux or OSX and have native ssh support among other things.  MS realizes that most of these people still use Windows and they are hoping that adding ssh support and some native bash functionality will keep people on their flagship platform.
+
+I've used tools like cmdr (git-bash) and putty for a long time.  They are not ideal but they work.  **Native Windows support for Linux would certainly make me happier in some ways but mainly as having a system shell that doesn't suck donkey dicks.**
+"
+100,,1463230881.0,0.0,Wait... Oh you're being sarcastic.
+101,,1463236466.0,6.0,"I think there's a lot of historic bad blood on the subject. If you look at the state of the landscape only 5 years ago, platforms have moved on light years from what they were.
+
+To put it bluntly I think there are some people that need to put their bias preconceptions aside and take the state of the landscape for what it is, not what it was."
+102,lousylittleegos,1463240316.0,1.0,I also share this love.
+103,iminalotoftrouble,1463249882.0,6.0,"[deleted]  
+ ^^^^^^^^^^^^^^^^0.9530 
+ >"
+104,,1463262473.0,2.0,"To be fair I expect most, if not all vendors have engaged in anti-competitive behaviour at some point."
+105,Jeffbx,1463361968.0,1.0,"Wait, are you talking about Oracle?  IBM?  SAP?  Siemens?  Microsoft?
+
+All large enterprise platforms have exactly that as a business model - tie you into their products so thoroughly and extensively that it would be actually more expensive to switch to a different (even cheaper) product.
+
+That's just something that IT has to deal with sometimes - enterprise software is controlled by corporate interests that want to maximize profit."
+106,MrDogers,1463249144.0,3.0,"Well, BeOS never became popular enough to survive, unfortunately. SGI didn't manage to move beyond their special hardware, Sun is now part of Oracle and Novell didn't move their software forwards with the times.. :/"
+107,Zaphod_B,1463251251.0,2.0,"Yup and Apple and IBM almost went out of business as well in the late 90s, but both have bounced back and are fortune 50 companies."
+108,,1463235794.0,9.0,I think we'll have to agree to disagree.
+109,Tantric75,1463242323.0,6.0,">cuck
+
+Go back to 4 chan. "
+110,Zaphod_B,1463252000.0,3.0,100K+ users and Linux is the way we went.
+111,cryohazard,1463251833.0,6.0,"Me too. Shared with my wife and she said, you're going to use that phrase now aren't you?!"
+112,MrDogers,1463249462.0,2.0,"Don't know where it comes from, but it always conjures up this Blackadder scene for me..
+
+https://www.youtube.com/watch?v=G2DCExerOsA"
+113,Zaphod_B,1463280252.0,2.0,"The French Police moved over to Linux, the NYSE did, London Stock Exchange did, many faucets of the DoD and NSA are ran by Linux, really it is a huge market.
+
+The problem is not all of it is paid for, so there is no sales, license, dollar amount to track units shipped.  Thus why I don't think we ever see real numbers of actual Linux footrpint in the world."
+114,mobearsdog,1463233621.0,3.0,It was Munich and supposedly they're still having issues and are considering going back to Windows. 
+115,,1463282290.0,1.0,"Smart guy and an interesting writer, I'll be checking out his blog - thanks for the recommendation. Pass along my appreciation for his work if you do keep in touch."
+116,,1463292126.0,1.0,"There's no way i'd allow my exchance server to be transferred to someone elses computer. But then again, i'm not a corporation."
+117,Zaphod_B,1463254537.0,1.0,"Honestly, yeah why even run your own on prem email server?  Hosted just makes so much more sense."
+118,juaquin,1463245746.0,8.0,"Shhh he's just learning of the magic of the Cloud. 
+
+Azure is ok but beyond a few cool features and windows-specific stuff, it seems like they're always going to be playing catchup with AWS."
+119,archiekane,1463233567.0,9.0,"And so have Google. 
+
+Now go and compare all three for functionality. 
+
+And, er, I'll stay onprem."
+120,Ashmedai,1463252194.0,3.0,"Miriam Webster says:
+
+    a :  to examine or consider with attention and in detail :  study
+    b :  to look over or through in a casual or cursory manner
+
+So: fuck.
+
+If that bothers you, as it turns out MW also defines _literally_ like this:
+
+    1 :  in a literal sense or manner :  actually <took the remark literally> <was literally insane>
+    2 :  in effect :  virtually <will literally turn the world upside down to combat cruelty or injustice — Norman Cousins>
+
+So: double fuck. 
+
+
+;-P"
+121,meorah,1463197454.0,7.0,it also means leisurely.
+122,meorah,1463195485.0,20.0,"MS existing has been a pre-req to my paycheck for at least the past 16 years.  I choose to go about my business and complain about it.
+
+adapting on my side isn't the problem.  the problem is MS keeps telling the IT admin audience ""be prepared to adapt or find a new job"" but they never said shit about preparing for my users to come ask me why they can't do ABC in Win10 or why there isn't a Skype for Biz client for Mac or why their Skype 2016 windows client keeps freezing all the time during screen sharing.  it's like, ""hey MS, can you go back to the slide that explained how you can suppress EWS autodiscover warnings in Lync 2013 server but removed that functionality from Skype 2015 server? oh, that guidance wasn't provided on that slide? my bad. let me just adapt some more to getting used to shit products.""
+
+as for stop using MS, ugh... lotus notes and cisco jabber? oracle DBs? no, I'd have to go live off the land in Montana or some shit before that happened."
+123,Yangoose,1463229190.0,3.0,"> I feel the same way about Google Apps. 
+
+Man, I absolutely love google apps. The office suite seems so bloated and clunky in comparison. It is exceedingly rare that I actually find feature missing in apps that pushes me to Office.
+
+>Apple doesn't really even play the Enterprise game.
+
+So true! The tools for managing Macs and IOS are terrible unless you want to spent a LOT of money on 3rd party solutions.
+
+>They just happen to make both a very solid OS
+
+Yeah, it's fine, but I don't find it superior to Windows from a feature or stability standpoint, certainly not enough to make up for the significantly inferior app and driver support."
+124,Zaphod_B,1463280417.0,1.0,Would it really take that long?  Proprietary data/apps?
+125,ProtoDong,1463252509.0,2.0,">I would disagree on the infrastructure tools/model.
+
+lolwtf?  Literally the main selling points of Microsoft products are granularity of centralized control and extensibility across vast and disparate physical locations.
+
+>And so many Orgs are trying to get very far away from vendor lock in.
+
+Say Hello to the hacker generation.  30 somethings are finally getting to take control of the shit they grew up doing."
+126,,1463250078.0,3.0,"It's really hard to argue with something that works so well, takes away so much headache, gives the end-users what they want, etc.
+
+I have nightmarish recollections of managing frozen XP kiosks that would find every reason in the world *not* to process GPOs correctly—a rabbit hole of insanity, it was."
+127,Loushius,1463341004.0,2.0,"I transitioned to DevOps in January :), but I'm still learning the dev side of things"
+128,,1463255098.0,1.0,"Yeah but in that instance, what would be the point of employing any kind of IT related guy? Chromebooks can be managed by a central Google Apps for Business account which means a simple point and click interface for an MBA.
+
+If the world was like that I'd be lining up with everyone else hoping for a job at McDonalds or at the unemployment line."
+129,Fridge-Largemeat,1463253708.0,2.0,"I've actually flagged a course on pluralsight named ""Linux tools for Windows admins""  or something. I keep meaning to dive in to it "
+130,Win_Sys,1463226727.0,8.0,Their mainframe side of the business is huge as well.  They make a ton of money on it.  
+131,Zaphod_B,1463253255.0,1.0,Cognitive computing is going to be super huge
+132,thecatgoesmoo,1463247698.0,0.0,"Many of the things are brand new ways or ideas especially when you consider the scale and speed.  If you just lump it all in with ""automation, pfft we've done that for decades, I have a script..."" then you are clearly not paying attention.  
+
+Hell, by your logic we've all just been ""doing computers"" for the last 40 years."
+133,DoesNotTalkMuch,1463241623.0,2.0,"It's also consistent, and there are shortcuts.
+
+More importantly, Powershell is readable.  It may take longer to make changes while you're working with code, but in my experience a powershell scripter will parse code faster than a bash scripter of similar experience.
+
+Mind, linux scripters are usually *really* experienced since *you can't do anything without the shell*, but powershell is easier to get into and it's more obvious *why* things don't work when they don't, which simplifies troubleshooting.
+
+It's also a wrapper for .net, and can be used as an interpreter for c#.  You can add those kinds of functionality on to bash, but they're not centralized, which just brings us back to the ""consistency"" issue.  Powershell cmdlets are very consistent in terms of input-output styles when compared to linux commands."
+134,DoesNotTalkMuch,1463258113.0,0.0,">No thanks, shell works because I have Stockholm syndrome."
+135,DoesNotTalkMuch,1463246188.0,1.0,"My comment is a contextual response to the original post.
+
+Specifically, it references the mention of native linux/bash support.  And personally, rather than supporting bash on the windows platform I'd rather see the .net/linux support expanded to include powershell, which I prefer.
+
+Saying ""use a different shell"" (in the addition to making the woefully ignorant assumption that I haven't, and that the environments I manage don't rely on existing bash scripts) ignores the *purpose* of these developments.  In the post, it's assumed that microsoft will be including these frameworks to attract a wide variety of developers to their platform.  (""Developers have now chosen Mac OS X and Linux as their preferred development platform over Windows"") 
+
+
+Bash has the overwhelmingly large majority of script development and deployment share, so its inclusion serves the greatest benefit to the windows platform.
+
+Nevertheless, I've always hated bash, and would prefer to see the opposite.
+
+Mind, I still *use* bash, because it's the default terminal for most distributions, is feature complete and relatively consistent, and changing doesn't offer me any benefits but does introduce a number of hurdles."
+136,what-the-hack,1463198060.0,-2.0,"What next we are going to start taking cranky seriously? I mostly respond to posts that either 1. require help and someone is willing to listen 2. someone fucked up and posted some stupid shit. The endless parade of non-sense about IT being outsourced to india and x,y,z products dying. I am just saying, exactly this is what is feeding into the slush of bullshit. "
+137,Zaphod_B,1463298010.0,1.0,"There is some perspective to put on this though.  The most VC money is put into tech and Silicon Valley has more VC than the rest of the US combined.  However, it is now on a decline, because markets and technology are again shifting. So, while SV doesn't represent the entire start up culture or model in the USA it does represent a giant chunk of it.
+
+Austin and Seattle are also blowing up in the start up markets as well.  However, saying zero of them use MS products is false.  They may use some, so a better more accurate statement is most if not all starts don't fully buy into vendor lock in from MS anymore.  They may have a dev stack for their Windows App, they may have AD and Exchange, and they may have some Windows clients, but they mostly have a majority of Linux and Mac systems.  
+
+That is because building your own tools is a big thing now and the best platform to build your own tools is Linux.  With how many options you have in the Linux world you can basically build whatever you want.
+
+The next 5 years will be the most interesting out here in Silicon Valley since VC money is on the decline.   We will have to wait and see how it pans out."
+138,keftes,1463231038.0,-6.0,Name one startup that used MS products and then successfully had an IPO.
+139,Zaphod_B,1463298166.0,1.0,"They do have them though, if they provide a Windows App.  Even companies like Apple and Google have some Windows systems so they can develop their Windows Apps on them.  
+
+I would agree with you though that my experience in the bay area is almost all companies are mostly Mac/Linux but Windows does exist, it just isn't the majority and companies aren't buying into Microsoft's vendor lock in anymore."
+140,GNU_Troll,1463260795.0,1.0,"Cool, thanks for adding to the problem."
+141,Zaphod_B,1463253549.0,1.0,"Sure they are also just now doing things Linux has been doing for nearly 20 years.   So, while it is maybe amazing, it also playing a lot of catch up."
+142,immerc,1463229542.0,-5.0,"If the best you can say about them is ""they're the best platform at running Linux VMs"" that's pretty damning."
+143,thecatgoesmoo,1463248188.0,2.0,"The desktop env is pretty easily surpassed by OSX these days, which is why every SV startup uses macs for their desktop and Linux for their infra.  
+
+I could see non tech places needing Windows on the desktop though."
+144,immerc,1463244320.0,1.0,"> Their OS and Server platform are their biggest money makers.
+
+In other words, they're very expensive for anybody running them compared to Linux which is free.
+
+> if you think they are on par with Windows in the enterprise desktop world you're sorely mistaken
+
+What do you consider ""the enterprise world""?  I'm pretty sure Google and AWS don't run Windows servers.
+
+> You don't think large businesses would love to drop the hundreds of thousands to millions of dollars a year they spend on MS licensing?
+
+How much of that is servers vs. desktops?"
+145,Zaphod_B,1463253632.0,0.0,"So they give their OS away for free now - ie no money is being made from Window 10.  Just like Apple and Linux.   Also, the Windows desktop is easily replaced with Linux or OS X as we are vastly seeing in the dev world right now."
+146,,1463227669.0,6.0,"Write the output of your bash prompt to a file on a ram disk, use powershell to parse it from there. It's how I've been doing it"
+147,VexingRaven,1463243930.0,3.0,"> So much facepalm. Where to begin?
+
+With your own post, perhaps.
+
+> PowerShell... this was Microsoft's answer to bash... and it's pretty fucking nice... in theory. But actually using it is a horrible nightmare. Why? Because engineers are terrible sysops and don't understand that it's very hard to remember commands that are all derivative... especially when they are verbose as fuck. Their treatment of environmental variables alone should be enough to come to the conclusion that they didn't know what the fuck they were doing.
+
+None of that has resembled my experience at all.
+
+>Python should not even be in the mix here. It is not only a cross platform interpreted programming language but it doubles as a lazy scripting platform. I say lazy because most devs I know would rather write a 60 line python script than learn to write a proper system shell script in either bash or PS. Python is great but it's still a tertiary tool.
+
+TIL the only real scripting is done in Bash (or PS which you just said is unusable) and everything else is lazy. However, I agree it shouldn't be brought up here because it's not a Microsoft tool. It's like bringing up how Apache has a Windows port.
+
+> Bringing bash to Windows is an attempt to take back some of the Web developer market. Most web devs are developing on Linux or OSX and have native ssh support among other things. MS realizes that most of these people still use Windows and they are hoping that adding ssh support and some native bash functionality will keep people on their flagship platform.
+
+Um... Yes? I'm pretty sure that's called competing, the same thing you said in your first paragraph that they weren't doing. It also makes it much easier to have mixed environments as well.
+
+> I've used tools like cmdr (git-bash) and putty for a long time. They are not ideal but they work. Native Windows support for Linux would certainly make me happier in some ways but mainly as having a system shell that doesn't suck donkey dicks.
+
+If you seriously think the linux subsystem is a replacement for Powershell you're delusional. Windows is built around objects. Why would you manage it with a string-based shell?"
+148,Zaphod_B,1463251139.0,1.0,"> Python should not even be in the mix here. 
+
+Going to completely disagree with your post, but especially the Python."
+149,ISBUchild,1463259060.0,4.0,"I support Microsoft products every day, and I authorized the spending on the licenses, so I've clearly voted with my money.
+
+My complaint is that it's not quite an equal choice. I can choose between a Milwaukee or Makita reciprocating saw, or a jigsaw, or a hand saw, because they all operate on the same underlying material and use the same electrical standard. I didn't have the choice to use something that's not Microsoft in our business; That choice was made for us two decades ago when Microsoft was in the right place at the right time for our medical database software to be built on it. The nature of the platform is to lock you into it, and that it has. SQL Server on Linux is a step in the right direction, however."
+150,ISBUchild,1463262834.0,2.0,"It's a fair point. A complication is that ""activity in restraint of trade"" is defined with respect to market power. Certain behaviors that are ethical/legal at 20% market share are not legal at 90%."
+151,ISBUchild,1463366317.0,1.0,">Wait, are you talking about Oracle? IBM? SAP? Siemens? Microsoft?
+
+Screw 'em all.
+
+I don't mind the *de facto* lock in that comes from vendors offering an all-encompassing, vertical integration sort of solution. Sometimes it's just better to go all-in with one vendor like that. But what I do mind are vendors who sell deliberately inferior products to prevent escape.
+
+In the medical industry, I've seen some of the worst. Each vendor goes all-in on secrecy and proprietary data storage. There's nothing technically special about their databases, they just like them because it means if you want to move to another program, you have to pay another company to reverse-engineer the format and lossily convert you to the new system.
+
+Even though you are responsible for hosting and maintaining the database, you can't access it yourself; The vendor controls the user accounts and API keys, and only authorizes third-party applications that have paid them a fee for access to the customer base. How am I supposed to reconcile these ubiquitous practices with our regulatory obligation to preserve patient data for years? *Even in a disaster recovery scenario*, I've had these companies tell me they wouldn't disclose the file format for me to recover HIPAA-regulated data. It's shameful, and I don't think it should be legal."
+152,,1463263370.0,1.0,"I'm just waiting for Microsoft to get bought out by RedHat, but only for their parents :)"
+153,,1463263455.0,1.0,Those are rare unicorns in the grand scheme of things. IBM only has Power and a few other things keeping it afloat. Their server and laptop lines went to Lenovo.
+154,,1463263413.0,2.0,"You have 100k+ users and you're organization is entirely Linux, including desktop?"
+155,,1463236336.0,6.0,"There was a bigger investigation about whether a switch back to Windows would improve things after the email system crashed on long subject lines, which lead to the result that this was the only technical issue that could possibly be related the usage of Linux, and that it was actually just caused by a bug in the (commercial) spam filter.  
+Oh and, of course, from time to time some people complaining because they're used to Windows and/or can't install Skype on their laptops."
+156,jgillich,1463238700.0,1.0,"No they are not: http://www.theinquirer.net/inquirer/news/2423164/munich-officials-are-sick-of-linux-and-want-windows-back
+
+"
+157,theducks,1463321540.0,1.0,"Large portions of corporate America use Office365, as well as large portions of the US Government.
+
+I don't want to say that you're a curmudgeon who is making decisions for the wrong reasons, so I'll just imply it."
+158,,1463262375.0,3.0,[deleted]
+159,Zaphod_B,1463252302.0,1.0,"hahaha, okay but be nice the guy is just now seeing what it really is behind all the misguided hate, crappy buzzwords, and weird marketing that doesn't make sense to tech people."
+160,sesstreets,1463242499.0,6.0,"AWS is the oldest of the three at 10 years, Azure is 6 years, and Google Cloud is 3 years."
+161,Genesis2001,1463269566.0,1.0,"> 1 :  in a literal sense or manner 
+
+as long as `literal`'s definition doesn't reference 'literally' there shouldn't be a huge issue."
+162,Creshal,1463237762.0,2.0,Isn't English a wonderfully precise language?
+163,DoesNotTalkMuch,1463239328.0,2.0,"It doesn't mean leisurely in opposition to thoroughly, which is what you meant.
+
+"
+164,Zaphod_B,1463195826.0,6.0,"> as for stop using MS, ugh... lotus notes and cisco jabber? oracle DBs? no, I'd have to go live off the land in Montana or some shit before that happened.
+
+HAHAHAHA
+
+To be honest I have used Postgres, MySQL and MongoDB, never really touched DB2 or Oracle, and some very minor MS SQL.   I don't think they are really all that different or better/worse.  I mean all databases suck in my opinion, but hey they are much better than spreadsheets!
+
+We have a very large Mac deployment and we did not pilot skype for obvious reasons.   At my old job (another company 100% Mac) we used Lync and it sucked.  So we have been pushing toward HipChat/Slack and HipChat phone calls are actually not that bad.    "
+165,boot20,1463248330.0,2.0,">Man, I absolutely love google apps. The office suite seems so bloated and clunky in comparison. 
+
+Too true.  My company moved from GApps to O365 and I really miss GApps.  I feel like I've gone back a decade using O365.  It's clunky and slow and One Drive is just a shitty as Sharepoint (I know, because it is)
+
+>It is exceedingly rare that I actually find feature missing in apps that pushes me to Office.
+
+I just wish Sheets would do more with pivot tables and some of the easier features in Excel.  I mean just doing alternating colors in cells is a chore.
+
+Docs is the bees knees and presentations are fine.
+
+
+>So true! The tools for managing Macs and IOS are terrible unless you want to spent a LOT of money on 3rd party solutions.
+
+Casper is a flaming pile of shit.
+
+"
+166,John_Barlycorn,1463282295.0,2.0,"Right, dozens of proprietary apps/systems, written by people long retired in languages no-one uses anymore for business cases that are poorly understood. 
+
+A good example would be like saying... ""We're stuck on microsoft because the control software for the steam engine requires it"" 
+
+and you'd say ""Well can't you find a modern steam engine control software package... oh yea, I guess not"" "
+167,Zaphod_B,1463254263.0,3.0,"Ok so lets break this down.
+
+* SCCM - easily installed and configured in 5,000 easy steps and even then it is a pile of shit compared to every other management tool ever made.   It is the best MS can come up with, but with things like Chef/Puppet getting into the DSC side of Windows you will see better scaled solutions, that work with less servers, and are just in general better.
+
+* Scale - MS is porting both MS SQL and .NET to Linux because Linux just scales better, if Linux wasn't a threat and MS was so much better they simply would not be doing this.  They want to remain relevant in the App world, and they are dying out because Linux simply scales better.  Don't believe me?  Look at the largest scale anything in IT/Tech, it always has a Linux back end.
+
+* reliability - even MS is copying the state machine model, again late the game but they are copying it.
+
+If MS was so much better at centralized control and scale in the Enterprise why are they making all these changes?  The answer is because they aren't the best at it, but they want to be the best at it again.
+
+"
+168,dm18,1463278412.0,1.0,My experience is companies tend to understaff their technology teams. Your expected to do more with less. Taking stuff off the plate doesn't mean there is a lack of work. 
+169,Zaphod_B,1463254292.0,1.0,"Nice, good luck internet person!"
+170,Zaphod_B,1463252749.0,3.0,"I agree with you.  Things like A to B deployments, cold stack DR, code as infrastructure, horizontal scaling, state machine models, etc.   DevOps is doing some really cool stuff, and it is stuff I want to do.   I don't fully buy into DevOps but I take what I like and roll it into my work, but I also do that from dev work, ops work, engineering work, etc.   I think my team just does that naturally.   We don't really care about labels or what a certain aspect of tech does, we just adopt the best ideas that work for us, regardless of where they come from.
+
+Unfortunately, lots of people think DevOps is CM tools and code.   "
+171,Zaphod_B,1463259033.0,1.0,"So shell just works, zero dependencies and it is standard.  PowerShell has dependencies like .NET.  They aren't totally comparable and almost all of the under-the-hood startup scripts are written in shell.   It might be the most portable language because every version of *nix ships with shell."
+172,Zaphod_B,1463199025.0,4.0,"I am assuming we've never conversed before in this sub, I get it that you think it is mostly shit and want to vent, that is fine.  I also agree the H1B visa conversations are grossly discussed with out any actual data or real world reflection of what is actually going on.   Most of it is entrenched in emotional responses about how everything happens in cycles and do the needful.
+
+I posted this because the conversation by some people just went straight sideways and people were making sweeping claims about MS dying.  I am an advocate of not using Windows Server for anything outside of maybe AD or Exchange.   So I figured I would post this to state even people who work in tech that don't even use or care for MS products don't think they are dying out anytime soon.
+
+If you think it is trash you can choose not to read or respond to it."
+173,Win_Sys,1463233368.0,4.0,"I don't know about you but I don't know where that information would be available. If you can find it anywhere I would love to see it. When it comes to large enterprises Windows is without a doubt the most prevalent. The main reasons are Office, Active Directory and Exchange. There's a reason most large businesses use these products and if they thought they could dump the millions of dollars a year they pay in MS licensing they would.  I am not saying Microsoft is the best, Linux sucks! I love Linux and it does a lot of things great but enterprise desktops isn't one of them. "
+174,mrcoffee83,1463242150.0,2.0,Are you honestly saying that no startup has ever used Office. Ever?
+175,Zaphod_B,1463260931.0,1.0,"Ok GNU Troll, if you think I am adding to the problem then you can choose not to comment and ignore it.   "
+176,CalvinTheBold,1463230014.0,7.0,Why? Linux isn't going anywhere. Why should I switch out my Linux-based server application stack just so I can run it on a Hypervisor that's more secure than ESXi or the Linux alternatives? You're reading too much into my comment.
+177,Win_Sys,1463250980.0,1.0,"Good luck using OSX in a large environment, on a individual level OSX works fantastic but when you need them to work in a domain like fashion they don't have the management capability or granularity Windows does. The reason Apple got out of the server side of things is because they couldn't compete with Windows. "
+178,Win_Sys,1463250687.0,1.0,">In other words, they're very expensive for anybody running them compared to Linux which is free.
+
+You just proved my point. These companies are choosing to pay tons of money because its more efficient for their business and users. 
+
+>What do you consider ""the enterprise world""? I'm pretty sure Google and AWS don't run Windows servers.
+
+I am sure they have built their own server platform, I bet there's some windows machines their internal staff uses though.
+
+>How much of that is servers vs. desktops?
+
+I couldn't tell you, but they I can tell you volume licenses aren't cheap. "
+179,Win_Sys,1463265434.0,1.0,"Thats 100% not true, they're giving away upgrades for free till the end of July. You still pay for a Windows license when you buy a new PC. The Windows desktop OS licensing is a pretty small portion of their revenue. Most of their money comes from CAL's, volume licensing and service agreements. They could give Windows desktop OS away forever and be perfectly fine. Especially now since they have Azure and O365 bringing in a lot of money.  You can get away with giving a dev a Linux machine but you can't do that to a secretary who relies on Office to do her job. I change the location of an icon and they lose their shit, I can't imagine if I changed their OS and word processing tools. "
+180,plasticsaint,1463288989.0,1.0,"What would be the benefit of doing this, when you could just do everything in PowerShell?"
+181,,1463263833.0,1.0,"I dunno, while I see what you're saying I was never sure how I felt about the market share thing.
+
+> costs us more in licensing than the hardware it runs on, and meaningfully restricts customer freedom
+
+That's kinda my point, as I don't think that's the case anymore."
+182,,1463670911.0,1.0,[deleted]
+183,Zaphod_B,1463263540.0,2.0,"* Cognitive Computing
+
+* Internet of Things
+
+* Cloud | Servers 
+
+* Services
+
+Are a few things IBM still has going for them and they still make billions.  PC market is shrinking and mobile is expanding.  Less and less computers get shipped each year."
+184,Zaphod_B,1463263590.0,3.0,"No, sorry should have specified.   Back end is 100% Linux, but client we offer a choice.  You can choose to have Linux, Windows or Mac as your client OS, but we don't use Microsoft on the back end for anything."
+185,Zaphod_B,1463263012.0,2.0,"I was specifically talking about hosted exchange, which we have had great performance with at my past jobs that used Exchange.
+
+"
+186,antb123,1463271889.0,1.0,30K users moving to 0365... use outlook with cached mode
+187,juaquin,1463252824.0,3.0,"I'm honestly just surprised there are still people who haven't used the cloud services to some extent. Two jobs ago at a place with 100 physical racks we still used a little AWS, and at the current job our infrastructure is 100% AWS. I know not everyone is taking the plunge or drinking the kool-aid but being completely surprised by what these services offer is an odd concept."
+188,archiekane,1463245980.0,-1.0,Age is but a number. 
+189,Ashmedai,1463270857.0,2.0,"Look at the second definition... It's the same as acknowledging literally to be ""figuratively..."""
+190,,1463245381.0,6.0,"It's beautifully vague, a pea soup fog in the valley viewed from the ridge line."
+191,meorah,1463242458.0,-1.0,"it certainly does mean opposition to thoroughly.  
+
+oxford might disagree, but common use of peruse includes using it as a summary word that encompasses both scrutinize as well as skim.
+
+the only time it would mean thoroughly would be in context of formal language, which we're definitely not fucking included in. (note how I just ended my sentence with a preposition and nobody cares)"
+192,mrnuknuk,1463236824.0,3.0,Quick aside but slack does voice calls now and they work fine. If they can get scree hero fully integrated for screen sharing they will be pretty unstoppable. I will never launch Skype again
+193,Zaphod_B,1463252213.0,1.0,"> Casper is a flaming pile of shit
+
+Oh? I've used it in a few large scale environments and it was okay.   "
+194,Zaphod_B,1463282634.0,1.0,"There is zero migration path?  I once hacked an old app to try to migrate the data to MySQL (since it was free) and I got it to kind of work, haha.    Yeah I hear ya, those things are bad but eventually Windows will cut off the legacy support and you will be forced one way or another to update those things."
+195,DoesNotTalkMuch,1463262616.0,1.0,"Yeah, I already said that.  Frankly, I don't know why you bothered to respond to me.   Your mind is made up pretty hard, so you're obviously not looking to learn anything.  Your entire argument is just the fundamental knowledge of what the shell is, so you're obviously not looking to teach *me* anything.
+
+You're basically just going all alpha-nerd to defend something that nobody can escape.  
+
+What's the point?  You don't need to defend bash, it's the standard and almost all under-the-hood startup scripts use it.  No point at getting mad at the other hostages just because they don't have stockholm syndrome.  They're not getting away.  They're still tied up and immobile beneath the weight of the billions of dependencies. "
+196,keftes,1463235103.0,-5.0,Come back when you have an answer to back up your previous statement. Nobody becomes successful these days running Microsoft products. There's a reason MS is trying to jam in linux features that have been around for decades.
+197,thecatgoesmoo,1463247937.0,1.0,I think he meant the development stack and server infra.  No one gives a shit about spreadsheets.  
+198,thecatgoesmoo,1463252076.0,3.0,"Eh, we have about 60k employees worldwide using MBPs, managed via chef/munki and enforcing security policy.  
+
+>The reason Apple got out of the server side of things is because they couldn't compete with Windows.  
+
+Not sure what that has to do with desktops, but I agree both OSX and Windows servers don't have much place in large deployments.  We're currently using about 45k linux physical servers worldwide.  "
+199,Zaphod_B,1463253754.0,1.0,"how big is a large environment in your opinion?  Would having more than 50K Macs be large to you?   Trust me, OS X is easily managed and scaled in the Enterprise."
+200,immerc,1463296120.0,1.0,"> You just proved my point. These companies are choosing to pay tons of money because its more efficient for their business and users.
+
+Yes... for now.  For a long time they had no choice because Microsoft was the only game in town.
+
+> I am sure they have built their own server platform, I bet there's some windows machines their internal staff uses though.
+
+A few desktops, we're talking about servers."
+201,Zaphod_B,1463266563.0,1.0,Yeah you're more right in that point.  I agree CALs are huge and how they make their money.
+202,Zaphod_B,1463296185.0,1.0,"Access to the GNU coreutils is my guess, because lots of people already know how to use those over PowerShell.  Just a wild guess is all."
+203,,1463674504.0,1.0,"I can wait, and savor the slow death."
+204,,1463263670.0,2.0,"So for users who choose Windows, how do you support it without AD or group policy?
+
+I assume you're all on Google Docs too?"
+205,Zaphod_B,1463253937.0,1.0,"Most of the people who come here and say the cloud is crap honestly don't have a fucking clue.  That is the reality of it, and a lot of people who frequent this sub are small biz IT, or small biz IT that got a new job and think they are large enterprise.
+
+If the cloud were absolute shit, it wouldn't be a multi-billion dollar industry."
+206,,1463263511.0,0.0,"Zip, zop, zoobidy bop. I agree. - Bill Cosby."
+207,DoesNotTalkMuch,1463243198.0,2.0,"That's cool.  A lot of people here learned English from the dictionary and Oxford, and when you use that word in that manner you take the risk of making them think you're an idiot.
+
+I admit that, argued to the end, I would rather accept your perspective than my own and say that you are right and I am wrong.  
+
+
+Regardless of whether or not your perspective is defensible, (and I'm not saying it's a big deal, or that people really care about it,) a number of people who read that sentence are going to assume that you're some kind of ponce, just trying to sound smarter than you really are. 
+
+If you're okay with leaving that impression (which nobody *really* cares about) in addition to the meaning you intended to communicate, then you've unquestionably chosen the correct words for this situation.
+
+"
+208,John_Barlycorn,1463283546.0,2.0,They make a new migration path and then scrap it every few months. lol
+209,Win_Sys,1463235802.0,2.0,"I don't see any evidence from you saying otherwise.  You made the original claim they don't, where's your evidence? "
+210,anderiv,1463239810.0,1.0,Have you heard of Stack Overflow? :)
+211,BoxerguyT89,1463241173.0,1.0,You really thing using Microsoft over something else is what's keeping startups from becoming successful?
+212,mrcoffee83,1463248602.0,-1.0,"well he didn't say that did he :P
+
+and saying that no one gives a shit about spreadsheets is probably equally as stupid as saying that no startup ever has used MS stuff"
+213,Zaphod_B,1463253822.0,1.0,I think I might know where you work now....
+214,Win_Sys,1463264914.0,1.0,If you have a simple setup sure I can see the being pretty easy to manage but when you need to get down fine grained permissions and granular settings the management just isn't there. There's a reason most enterprise businesses pick Windows for their desktop and as we both know its not because its the cheapest. 
+215,Win_Sys,1463267105.0,1.0,"Don't get me wrong, I love Linux and if I thought I could give my users the same or better desktop experience with Linux I would switch them in a heartbeat. I am not some die hard Microsoft fanboy and will happily give my users and environment the best tools for the job no matter how or who its made by."
+216,plasticsaint,1463353647.0,1.0,"Makes sense. I guess I am suffering from the opposite of most people here, in that I assume everyone else's environment is predominantly Microsoft... So utilizing gnu tools when you could do it better in PowerShell seems silly. 
+
+However if your environment were predominantly *nix, I guess it would make sense."
+217,Zaphod_B,1463264857.0,4.0,"The Windows team uses a third party tool with some custom code.  We don't BIND any devices to LDAP either.  As for productivity we have MS Office (O365/2016), Libre Office, and of course the Mac apps like Pages, Notes, Numbers, etc.  GPO is just a file, you don't need AD to set it, as each computer can have GPO set locally and by other tools.  AD just gives you a GUI for it.  Other third party tools have always been able to set Windows OS System settings and the like.    "
+218,meorah,1463244467.0,0.0,"no, I should've just used ""skim"".  KISS method, and no ambiguous meanings that require people to analyze context, which is apparently fucking impossible nowadays."
+219,Zaphod_B,1463283999.0,1.0,Been there before too...it sucks.
+220,thecatgoesmoo,1463250476.0,1.0,"I meant like, Google sheets, excel, open office, numbers...  They're all fine "
+221,Zaphod_B,1463269033.0,1.0,"> There's a reason most enterprise businesses pick Windows for their desktop and as we both know its not because its the cheapest
+
+It isn't the only option anymore though, and to be honest it hasn't been for about 10 years now.   I mean if you choose the MS/Windows stack because it is the best choice for your Org, that is fine.  You just can't claim it is the only option anymore, because that is not true.   
+
+> ...but when you need to get down fine grained permissions and granular settings the management just isn't there
+
+Statements like this are just 100% not true at all.  Look I get that some Orgs don't want to invest in Linux and that is fine, some Orgs don't invest much into tech anyway.  Leadership may not be aware of any of this if they aren't always actively investing or looking into tech.  The only time you are required to use MS is if you are vendor locked into MS.   Otherwise you can meet all the requirements with non MS tech.
+
+Like I said, if you choose it because it is the best choice that is fine or if it is the only choice your Org can go with because of support or whatever, or that migration away doesn't make sense that is fine.  Saying it is only possible in MS is just wrong."
+222,Zaphod_B,1463270346.0,1.0,"We allowed Macs to be deployed at my work and it shot up immediately.  People are switching right off the bat and when their life cycle is up on their PC laptop we are expecting 50% of our employees will switch.
+
+We've already always allowed Linux.  Lots of people need access to Linux tools to do their job, so we let them.   "
+223,,1463266174.0,2.0,Seems like a lot of extra effort for something that a few Windows servers could reduce.
+224,Win_Sys,1463317566.0,1.0,">It isn't the only option anymore though, and to be honest it hasn't been for about 10 years now. I mean if you choose the MS/Windows stack because it is the best choice for your Org, that is fine. You just can't claim it is the only option anymore, because that is not true.
+
+Of course it's not the only option and it hasn't been for awhile but it does seem to be the option most large organizations go with even though there are cheaper/free options out there. Doesn't that say something about the products worth?
+
+>Statements like this are just 100% not true at all. Look I get that some Orgs don't want to invest in Linux and that is fine, some Orgs don't invest much into tech anyway. Leadership may not be aware of any of this if they aren't always actively investing or looking into tech. The only time you are required to use MS is if you are vendor locked into MS. Otherwise you can meet all the requirements with non MS tech.
+
+I guess that came across wrong. Of course you can set that kind of stuff on a Linux or OSX computer but what would take a few clicks in group policy will probably result in a script needing to be written, tested and pushed out in Linux or OSX.  I have nothing against scripts, I write and use them when needed but MS gives a lot more control that's only a few clicks away compared to Linux or OSX. "
+225,Zaphod_B,1463266490.0,3.0,"Then you would have to BIND and Auth to AD, and when you have more than 100k+ employees then add in business partners, contractors, etc. a few AD servers wouldn't handle that massive amount of authentication.   
+
+Our LDAP cluster is something like 80 servers, I know it is under 100 but close-ish to 100.  So, at our scale to auth to AD we would have to setup probably I am guessing around 80 Windows Servers.  With the license cost + CALs that would be super expensive for not a huge benefit really."

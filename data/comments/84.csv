@@ -1,0 +1,69 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,maerwald,1628054989.0,13.0,"There are many enlightenmening haskell SO threads, such as:
+
+* https://stackoverflow.com/a/17412969
+* https://stackoverflow.com/a/5316690
+
+Edwardk also used to be active there.
+
+So I'm not sure anything is really skewed. Maybe there are less ""how do I do this specific task"" questions and more ""how do I understand this concept"". That's quite typical, given the vast amounts of concepts you get exposed to."
+1,Athas,1628060646.0,13.0,"Haskell is in the unusual position of being a relatively obscure language, but also one where thousands of people are forced to use it every year - namely, students at various universities.  They'll use it for a while, many of them will hate it because it's so unusual compared to what they're used to, and then never use it again.  Some will like it and stick with it.  But the end result is that Haskell will probably have a high number of people who have ""used it"" (in a loose sense) and did not like it.
+
+I don't think this is a new situation, so I wouldn't worry about it."
+2,dnkndnts,1628072460.0,8.0,"Yeah I don’t really use SO for Haskell at all, which is amusing since one of the most prominent complaints is that our libraries don’t have documentation, yet this is the only ecosystem I’ve ever worked in where I don’t have to perpetually Google the incantation for basic functionality because it’s all clear from the function names and types."
+3,CKoenig,1628056152.0,26.0,"Why do you think it did poorly?
+
+I think Haskell did reasonable well there - even the 50/50 split in fun/frustration is fine I think.
+
+IMO there are two people doing Haskell - especially on SO: those who love it and want to share, and those who have to do it (usually for a CS course at university/school).
+
+You can observe the second group year after year on SO - every x month there is a surge in basic Haskell questions - often given the same exercises - same here I think. Those people struggling will probably not give Haskell a 10/10.
+
+Also on SO there is always the ""trendy"" thing - now it's Rust all over the place - a few years back something similar happened with Go, Swift, Scala.
+
+Why do I think Haskell does fine there? Well because it's on the list year after year and more or less in similar spots - it's definitely not hyped and or trendy so I think this is a realistic spot."
+4,,1628056603.0,6.0,[deleted]
+5,jmatsushita,1628086373.0,5.0,If we talk about Haskell and SO it's probably good to remind everyone there is what I consider a little treasure of insights from Conor McBride (@pigworker) which is a book assembled and organised from his answers on SO and is just awesome. https://personal.cis.strath.ac.uk/conor.mcbride/so-pigworker.pdf
+6,maxigit,1628090385.0,3.0,"10 years ago, I would ask all of my questions on SO (and answer lots of them). Then SO police arised and start asking closing every questions and reask to the appropriate ""stack"" (whatever you call it) where nobody answers. At the same time I discover reddit, where people actually helps instead of judging. So I stopped going to SO and ask/answer on reddit instead. I guess lots of people did like me.
+
+This is a shame, because I like the SO format and the fact that you can mark question as answered."
+7,ReddSpark,1628067276.0,3.0,"I agree with others. It didn't look like Haskell did particularly poorly or anything. The survey didn't really focus all that much on programming languages (and I hated the scrolling layout they force upon you).
+
+Haskell is emerging from academia into the mainstream. Functional programming from what I've read, seems to be the way to go. But functional programming will be more painful for people to learn than imperative.
+
+I think if we see substantially fewer bugs in Cardano smart contracts, it will go a long way to making the case for functional programming. 
+
+Edit: Thought I was in the CardanoDeverlopers sub!"
+8,andrybak,1628074686.0,2.0,"If Haskell community is really using Stackoverflow less than general programming populace, then my hypothesis is: for some people using Haskell, most answers can be gotten by asking the right questions to [Hoogle](https://hoogle.haskell.org/)."
+9,yen223,1628077997.0,2.0,"I think the correct reason is the obvious one - not very many people use Haskell, period."
+10,endgamedos,1628127314.0,2.0,"I gave up on SO. Generally, I find it a pile of bad questions, rushed answers and bad mod decisions wrapped up in an interface that incentivises that score-seeking behaviour. And after I stopped posting (years ago), I have somehow floated into the top 3% of users by karma, and keep getting trusted with additional powers."
+11,Anton-Latukha,1636814360.0,2.0,"A lot of things always contribute to statistic skewing.
+
+They can not control their group, so they can not negate a lot of skewing & do not have controlled groups for study.
+
+For example. GNU group & Emacs ELisp programmers use Email lists & different sources more than Stack Overflow.
+
+A copy-paste culture would be overrepresented in Stack Overflow survey.
+
+Or - the most prominent languages in Mountain View California would skew results in their favour, and non-English speaking world would be underrepresented (Chinese people seem to have much lover participation in English IT development per capita, country has a firewall, Chinese projects frequently are in the native language, they have alternate IT reality there).
+
+The only is true: we can not know all the factors that change the results.
+
+But the survey has results.
+
+I personally care more about Haskell having an image of Enterprise-reliable language & Haskell Foundation & care about people taking Haskell Survey 2021 https://haskellweekly.news/survey/2021.html - & those do not depend on Stack Overflow survey.
+
+Like, people wrote a lot of Go software back in a day - it was not because of a survey presence."
+12,enobayram,1628060806.0,1.0,"Oh you're right, my statement wasn't fair probably, I did mean the ""how do I do this specific task"" kind of answers and that's what you google the majority of the time after the initial ramp up into the language."
+13,r0ck0,1628075326.0,1.0,"> Maybe there are less ""how do I do this specific task"" questions and more ""how do I understand this concept"". 
+
+Good point... and often those broader kind of questions get shut down by the mods there."
+14,Anton-Latukha,1636815660.0,1.0,"Edward also used to stream coding on Twitch. Worth a look & archiving. Before Twitch deletes it.
+
+But seems like tech people in Twitch set the account storage to ""store indefinitely"", because no videos were deleted & no deleted in 2 year period, but no one can be sure.
+
+I wish more of the famous Haskellers streamed livecoding, we'd would be able to choose interesting themes & look & listen & chat with a coding authority (despite I do not like argumentation appealing to authority - I am interested to hear people which experience can be evaluated & that are ensured to know something that they talking about) to learn something."
+15,enobayram,1628061126.0,9.0,"Oh right, the CS students! I was wondering what demographic would rate Haskell poorly. After all it's a rather niche language, so you either like it or ignore it, unlike the mainstream languages which you might be forced to use it.
+
+I mostly agree with your assessment of its spot, except that I expected more enthusiasm from the people who actually care about it, but I agree that the CS students that get involved involuntarily (and possibly under very poor circumstances) is probably the answer."
+16,enobayram,1628061411.0,3.0,"I personally also don't think the numbers mean much about Haskell per se, but I do think they might make a negative impact on the heroic effort some people are making to bring Haskell to more people."

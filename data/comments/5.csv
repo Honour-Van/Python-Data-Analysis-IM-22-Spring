@@ -1,0 +1,82 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,grauenwolf,1628347469.0,28.0,Ignore the survey and look at the job openings in the area where you want to live.
+1,xiongchiamiov,1628347785.0,28.0,Go is still largely centered in Silicon Valley tech companies: Google and places where ex-Googlers have gone. The language is not the reason they're making more money.
+2,,1628346470.0,9.0,"Even if we assume that this is actually a good survey...
+
+Do we know the volume of people working in Go? Do we know how they categorize types of work. If very few people are working in Go and a high percentage of those end up being teams of people with decades of experience that someone like Apple is paying to just experiment with the language and recommend if they want to migrate their codebase to Go down the road, that would skew the numbers by a lot
+
+I think if you're trying to use this info to decide what languages you want to put time into for a career move that would be a mistake. Ultimately even if it were true that people are getting paid a lot to program in a language like Go right now, it's extremely unpredictable how things will change down the road."
+3,matthieum,1628358521.0,11.0,"You're looking at it wrong.
+
+Pay-grade is not dictated by technology, but by industry/domain. It may be that one technology is mostly used within an industry/domain, but that's generally _incidental_.
+
+If you are looking for higher pay-grade, you need to look at the industries/domains which pay them, and work to get in.
+
+Higher paying include:
+
+ - Top Internet companies: FAANG (Facebook, Amazon, Apple, Netflix, Google), as well as Microsoft, for examples.
+ - Fin Tech: Banks, Hedge Funds, ...
+ - Big Data.
+ - ...
+
+The reason these companies pay top dollar is dual:
+
+ - They have money.
+ - They seek to employ ""the best"" (they can find).
+
+So in order to qualify, you'll need to figure out what their definition of best is (for FAANG: read Cracking the Code Interview, and exercise), then apply, go through the crucible that is the interview process, and try to come on top.
+
+Be careful that higher pay doesn't necessarily mean ""interesting job"". Large employers have endless supply of not-so-interesting jobs. The good news, though, is that at least said large employers have recognition in the wider market so even if you leave because it doesn't suit you, you'll leave with some nice savings (or repaid debts) and a line on your CV that opens doors.
+
+Also be careful that higher pay doesn't mean much _globally_. In general, you need to weigh the pay vs the cost of living in the area, to actually compute how much you're left with at the end of the month. Also... certain countries have sub-par health-care or pension schemes, and the value of those is hard to factor (health-care is a russian roulette, in particular, do you feel lucky?)."
+4,devraj7,1628357701.0,4.0,"Don't confuse ""highest paying job"" with ""most number of jobs"". Overall, these are mutually exclusive.
+
+You can get a very comfortable salary writing COBOL today but good luck securing one of these few jobs."
+5,DerpageOnline,1628361933.0,3.0,There might be some overlap between golang programmers and programmers working at google to blame...
+6,Carson-Drive,1628350343.0,2.0,Take that survey with a grain of salt.
+7,lanzaio,1628360284.0,2.0,I'm sure if you looked at the average salary of [Hack](https://engineering.fb.com/2014/03/20/developer-tools/hack-a-new-programming-language-for-hhvm/) developers you'll find that they are all incredibly wealthy. Must be a great industry.
+8,FuckFashMods,1628376404.0,2.0,"I wouldn't say it's easy. Go is still not as popular as Java, C++, javascript, or probably even C#/.NET.
+
+Go is a fantastic language to work in however. I much prefer it to Java or C# at my previous jobs."
+9,Fizzelen,1628348194.0,3.0,COBOL looks very low when there is currently a huge demand and the job adds I have seen have huge $ attached. The shortage is mainly because the cool kids don’t want use an outdated language.  So I expect there is some bias in the figures
+10,DevopsIGuess,1628362590.0,1.0,"Maybe all of these comments are from a dev only perspective, but in DevOps I feel like this lines up?
+
+Don’t crucify me, I’m just honestly surprised by all of these comments"
+11,AttackOfTheThumbs,1628360378.0,0.0,"Dude, you need to stop focusing on that money. I would expect you to be making 100k+ after five years, regardless of language. If you're no, quit your job! Dev jobs are relatively easy to find, can be remote, or just relocate. It's really not that hard.
+
+Learn whatever language you like, and don't even focus on it. The language is so fucking unimportant. It's the core concepts that matter. You can use those skills completely independently of the language."
+12,,1628348739.0,6.0,"Data scientists: ""Python, python as far as the eye can see."" 
+
+Special case, though"
+13,CSI_Tech_Dept,1632172420.0,1.0,"I hope so too. The language feels insulting to program in:
+
+- ""no, you can't use generics, that would confuse our programmers""
+- ""no, we won't create logging facade, to standardize logging, here's the builtin logger that has only three logging levels: 'print', 'fatal' and 'panic'"" (last two terminate your program),
+- ""why would someone optional parameters? that's confusing"", 
+- ""function overloading, do you want to shoot yourself in the foot""?
+
+The type system is mediocre, and ironically Python's type annotations are offering much more powerful type system.
+
+If Go was not created by Google, no one would find the language worth using."
+14,danheskett2020,1628396848.0,-1.0,"This is pretty much spot on: high-end high-feature high-reward theoretically rich languages attract extremely skilled, extremely talented people. Companies and employees who use that language, or conversely who have cadres of those people, tend to match with each other.
+
+It's essentially a proxy. These companies have a need for this type of extremely high end work, they go find people who can do it, those people are fluent in Go, ergo they use Go. Then the cycle builds.
+
+The bottom line is that there isn't much demand for low-end Go work, because Go is usually as a proxy for ""we want extremely high-end people""."
+15,jasonleehodges,1628360656.0,2.0,"I was going to comment on this as well. Knowledge of a bespoke language (like COBOL) gives you a higher chance at high pay because there’s not a lot of competition in the labor market for that skill so you can name your price. That said, there may be way less job openings available to you for those bespoke languages. So you have to weigh the pros and cons of both.
+
+Scala, for example, pays relatively high in my area because there’s not a lot of developers who know Scala in my market. But there are only 2 companies here that use it. So they have one opening every 5 years or something like that."
+16,FuckFashMods,1628376191.0,2.0,"Are you sure there's a huge demand? 
+
+I've worked in cobol and it seems like a small demand but a much much smaller pool of devs. 
+
+For instance there's magnitudes more Go jobs in Cali than there is Cobol jobs. But the Go jobs can be filled by c++, C#, Java, Python or Javascript devs after 1-2 month on boarding process. Same cannot be said for Cobol. And I wouldn't even want to work in cobol for more money anyways lol"
+17,IshKebab,1628381542.0,1.0,How huge are we talking? Because non-cobol jobs are paid very well too and I'm skeptical that there really are many high paying cobol jobs (like $250k). Can you link one?
+18,grauenwolf,1628348969.0,4.0,And it's not even because they necessarily like Python. It's just that they were trained on Python libraries and learning anything else would be just as painful and unrewarding and switching from ASP.NET to Node or Spring Boot.
+19,CSI_Tech_Dept,1632172718.0,1.0,"> and it seems like a small demand but a much much smaller pool of devs
+
+Isn't that a definition of a demand? From your comment sounds like there's still not enough developers for the needs."
+20,,1628349045.0,9.0,"Yep, literally all there its to it. There are much better languages for the kind of work they want to do, but all the ecosystem and tooling pretty much exists solely on python (or R and scala too, I guess)."
+21,FuckFashMods,1632173627.0,1.0,"But that could literally be like 5 developers lol
+
+I'm not sure I'd call something like that ""huge demand"""

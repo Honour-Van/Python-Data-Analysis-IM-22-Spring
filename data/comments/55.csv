@@ -1,0 +1,53 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,dazonic,1428590239.0,7.0,"My theory, JavaScript is the most popular language. If these devs run into a CoffeeScript project or example and they aren't fluent, they will be annoyed. 
+
+Also CoffeeScript is a dirty word to most of the JS crowd. It's cool to hate."
+1,m1sta,1428613062.0,6.0,"Because it has a couple of features that allow one developer to create subtly ambiguous code for another developer. One of the most obvious of these is the critical difference between...
+
+    fn() -> stuff
+
+and
+
+    fn () -> stuff
+
+Edit: Missed an operator."
+2,spinlock,1428596922.0,4.0,"It's cool to hate on coffeescript. I have no idea why. I work on an Ember app and one of the big discussions in the Ember community right now is if we should drop IE8 and 9 support in Ember 2.0. One of the big reasons is getters and setters could go away if we don't have to support IE9. But, EmberScript (a CoffeeScript derivative with nice syntactic sugar for Ember) already solves getters and setters without even dropping IE8 support. "
+3,homoiconic,1428586723.0,9.0,"It’s just clickbait. The incredibly easy to overlook (thanks to the deliberate use of grey and italics for the fine print) definition of “Dreaded” is:
+
+> *% of devs who are developing with the language or tech but have not expressed interest in continuing to do so.*
+
+So, if you’re switching jobs, are not “not expressing interest in continuing to use CoffeeScript?” What if you love functional CoffeeScript so much you’re switching to ClojureScript. Do you “dread” CoffeeScript? What about adopting ECMAScript 2015 because you love fat arrows and CoffeeScript’s easy scoping. Do you “dread” CoffeeScript?"
+4,CodeShaman,1428596568.0,4.0,"I can relate. CoffeeScript is one of my favorite languages but it's the one I use the least, mainly because of the way it chokes on its own implicitness when I run into areas of an application which must be written very explicitly. There are instances when the compiler doesn't handle those cases very gracefully and it makes debugging a chore. At the end of the day ""it's just JavaScript"" so I usually just write in JavaScript to avoid the possibility of a headache."
+5,darthtrevino,1428601808.0,2.0,"I really like CS, but a lot of the syntactic sugar you get from CS is now in ES6."
+6,ClickHereForBacardi,1428612626.0,2.0,"If you've finally come to terms with ES5, anything that requires a source map will feel alien and weird. Its the closest I've gotten to a justification from the anti transpiler crowd. ""not js; dr"""
+7,livarot,1428595861.0,2.0,"Crockford was right, devs aren't logował thinkers that they like to think they are. We are all emotional humans easily swayed by rhetorics abd fashions :-) "
+8,virdvip,1430474304.0,1.0,"CoffeeScript.compile(""fn (stuff)"") == CoffeeScript.compile(""fn(stuff)"")
+true
+What am I doing wrong?"
+9,jak4,1428613309.0,1.0,Woa mixins? Why does Coffeescript not support this?
+10,livarot,1428595774.0,2.0,"What I was baffled by was that it's among technologies that I really have heard a lot of bad stuff about (matlab, perl, vb)."
+11,livarot,1428617181.0,2.0,"But then again, I'd bet the majority of your code doesn't need that kind of explicitly and can make use of CoffeeScript's features?"
+12,livarot,1428617877.0,2.0,That is just like feeling superior to other people because you only use C or assembler. I've met people like that. Bunch of jerks. 
+13,m1sta,1430495908.0,1.0,"Sorry, was in a rush and missed the arrow."
+14,spinlock,1428618889.0,2.0,wat?
+15,homoiconic,1428596183.0,7.0,"Well, if you look at it as measuring transition, a lot of current CS users are at least considering migrating to ECMAScript-2015, either transpiled or natively.
+
+That could spike the numbers right now without suggesting they somehow “dread” the prospect of using CoffeeScript."
+16,CodeShaman,1428622083.0,4.0,"Majority of my ECMA is d3 and angular. Trust me, you don't want to play the ""where's the erroneous indent?"" game in a d3js directive where the syntax error pops up miles away from where it actually is.
+
+I used to use CoffeeScript to define some static globals until it even choked when defining Google Maps API style options. It just seems weird that CS chokes on complex JSON, like that's the one thing in the world it should never choke on.
+
+It's just hard to find any instance where CS increases both productivity and readability, it seems like it's always either one or the other for me and I can never get into a ""thinking in pure CS"" mode. Always thinking about what the implications have on the transcompiled JavaScript."
+17,ClickHereForBacardi,1428618782.0,2.0,I honestly get that. There's a purity or simplicity to C and assembler that I'm given to understand is a powerful drug. But something as divided and high level as JS is a weird thing to get uppity about. It's not like there's an agreed upon One True Way within the vanilla JS world but rather thousands of radically different frameworks and implementations.
+18,brotherwayne,1428601751.0,3.0,"This is a damn good point. I suspect CS devs are probably migrating to ES6 and using Babel to get the ES5 version. CS and ES6 are similar enough in features that it makes sense. 
+
+Still, I prefer using CS. No braces! But finding a job that uses it is hard. "
+19,,1428652611.0,3.0,CS chokes on complex JSON?  ... urhm 
+20,livarot,1428617718.0,2.0,"Yay for no braces!
+
+So there are features but still, coffescript is just more readable than pure js is. Or am I biased, considering I've learned python as my first serious language?"
+21,brotherwayne,1428621012.0,4.0,"Have you ever heard the idiom about typed languages being like a straightjacket? Some people say ""oh god, so confining!"" Others say ""oh, so warm and cozy!"" 
+
+I think braces are like that. 
+
+(I learned c# as my first language. Prefer whitespace aware languages.) "

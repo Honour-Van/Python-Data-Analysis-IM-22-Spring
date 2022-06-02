@@ -1,0 +1,193 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,andallthat,1590667450.0,15.0,"also 3rd position in the ""wanted"" ranking (% of developers who are not developing with the language or technology but have expressed interest in developing with it): [https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted) :)"
+1,mcandre,1590669875.0,32.0,"*least hated*
+
+All programming languages are garbage bags. Go just has hints of lavender and sturdier handles."
+2,robberviet,1590666957.0,15.0,"I was expecting something like 2 or 3. And about rust, have just learnt it. it is  cool."
+3,gustavoar,1590665652.0,12.0,"Lol, objective-c is worse than assembly"
+4,lezardbreton,1590663218.0,16.0,"(not go-related) I can't believe how far ruby is. I love ruby, what's so wrong with it?"
+5,ninixgame,1590669659.0,6.0,"The title says it's 4th, the text says it's 5th. I'm confused..."
+6,,1590671016.0,3.0,lol in that survey there were 0.002% responses from North Korea; fake ip?!!
+7,icodl,1590675581.0,3.0,"Also there:
+
+[What do you do when you get stuck](https://insights.stackoverflow.com/survey/2020#technology-what-do-you-do-when-you-get-stuck)
+
+Not surprising they visit Stackoverflow in a survey by Stackoverflow.  
+I visit SO because Google results favor SO, not because it's such a great platform."
+8,Sujan111257,1590663205.0,5.0,i_am_so_proud_of_this_community.jpeg
+9,bartturner,1590664968.0,1.0,Well deserved.
+10,Samuel-e,1590671442.0,1.0,3rd best payed too :)
+11,esimov,1590737396.0,1.0,HTML/CSS is a programming language? ;)
+12,AlexCoventry,1590712767.0,0.0,Are you zero indexing? That looks like 5th position to me.
+13,,1590670904.0,-13.0,HOW THE HELL IS RUST THE MOST LOVED?
+14,redshadow90,1590676701.0,-6.0,but but but .... generics? :(
+15,ajr901,1590669064.0,7.0,"Are you proficient with Rust yet? 
+
+And how hard would you say it is to learn for someone who's decently experienced with Go but by no means an expert?"
+16,croutonaccelerator,1590685472.0,3.0,"I haven't learned Rust yet but I'd like to add it to my ""quiver"". At this point, I mostly do backend/tool development. For me, Go + Python + bash is a winning combo. Rust would fit in nicely for anything that needs to be ultra performant.
+
+tl;dr I'd love to learn Rust someday."
+17,,1590671375.0,10.0,"how come? I wrote code in objective-c for years, once you get over the
+
+    instance.functionCall();
+
+vs
+
+    [instance functionCall];
+
+it's actually a great language"
+18,Meryhathor,1590680358.0,4.0,I don't hate any of the programming languages. Except for Objective-C...
+19,aki237,1590665455.0,28.0,IMO language is like a poem. But libraries that I wanted to use were half baked or too hard wired to rails.
+20,crunchytech413,1590669594.0,10.0,Python knocked it off the pedestal.
+21,,1590677086.0,6.0,Ruby imo doesn't have enough benefits over Python to justify the performance hit.
+22,QuakePhil,1590665854.0,5.0,"I think the problem is with developers (and dev teams especially) and not any particular language.  We get excited about various language features and have a tendency to fail to maintain consistency over a project given a long enough time frame, and by the end of the year it boils down to spaghetti code again, which is very difficult to debug and maintain."
+23,DavidTMarks,1590666785.0,4.0, Loved ruby and rails but  IMHO  both got too  self satisfied. Theres some real  performance issues when you get into some areas and for too long they  said - its good enough. syntax wise I have never found anything I like as much as I liked Ruby.  Thats why I am rooting for Crystallang.
+24,tjholowaychuk,1590679119.0,5.0,"It has a lot of magic, no static typing, module system throws things into scope which is kind of awkward, performance isn’t great, etc. If you enjoy there’s nothing wrong with that though!"
+25,Hero_Of_Shadows,1590664620.0,7.0,"Nothing it's a great language and community just not trendy anymore :(
+
+Awesome to hear about GO rising."
+26,PaluMacil,1590684316.0,3.0,"Ruby was great and I don't think it had any problems at all. I think the fall from glory was more that Python was great in many of the same ways but eventually covered more use cases, so where you could compare Rails and Flask and Django and go all day talking about how both were good for web, the huge strength of Python in ML and the larger presence in devops meant that over time I think people gave up on Ruby and decided that if you wanted that type of language experience, Python made more sense. It is a tale of tragedy for hardcore Ruby fans, I'm sure, because I don't believe the language did anything wrong. That said, people who do use Ruby don't have a particular reason to leave it or migrate away especially quickly."
+27,,1590670320.0,2.0,[deleted]
+28,xaviarrob,1590719330.0,2.0,"I don't think there is anything functionally wrong with Ruby, the main problems I've seen associated with it's decline have been:
+
+It's use believed being tied to rails and the subsequent decline in rails usage, to note on this I know of quite a few companies who use Ruby for internal tools. That said with the decline of rails and uptick in Flask use, companies looking for something like that will tend to push towards python.
+
+In the ops end it's used as Chef's DSL, which has also been falling in popularity on its own (ansible is just plain cleaner / better in most ways, in a full Kubernetes env you don't need much config management if you're doing it right)
+
+I still love using it day to day, it has plenty of libraries for anything I've tried to use it for (even can do game dev through gosu!). I've written a decent amount of python, ruby and a bit of go and writing in ruby just feels cleaner at least to me. That said I wouldn't necessarily compare it to go, since it's a bit lower level than ruby is."
+29,Psypriest,1591431064.0,1.0,"For a long time there was bad support for windows. Think its still popular. We use Chef at work, but might be moving to Ansible soon."
+30,redgrittybrick,1590671443.0,8.0,A sad feature of Reddit is that authors cannot correct errors in titles.
+31,aroslab,1590683811.0,1.0,"The title is supposed to mean it jumped 4 positions, but there’s a typo. 9-> 5"
+32,crabbytag,1590674307.0,9.0,It's a good language Brent.
+33,petermbenjamin,1590736568.0,2.0,"Most loved amongst its users. It's generally easier to achieve for smaller language.
+
+Having said that, they still increased in this category between 2019 and 2020 while increasing their userbase.
+
+As a Gopher for the past 5 years and a budding Rustacean for a few months (and a false start 1 year ago), I can see why it is the most loved for 5th year in a row now."
+34,GopherAtl,1590671638.0,-4.0,"it's an online survey. The same way ""Boaty McBoatface"" won."
+35,icodl,1590675471.0,-8.0,Right? That awful syntax \*shudder\*
+36,yesyoufoundme,1590676990.0,24.0,"Context: Self taught, starting from a bit of C++, then years of Python, NodeJS, and Go professionally for ~5 years.
+
+I tried switching to Rust twice. The first time was a failure. I bit off way too much, obsessed about optimizing lifetimes and generics and did not enjoy the experience at all.
+
+The second time, I said screw it. I wrote Rust like I would write Go. Knowing Go quite well, I knew when patterns in Go would copy data, so I did the same in Rust. I knew how in Go there was a runtime cost in Interfaces, so I did the same in Rust _(Boxed Traits)_. I didn't worry about making perfect, and.. it was joyous. I became in love with the language.
+
+The funny thing I didn't expect to love was some of the pain points of Go for me. Iterators, for example. Much of my Go logic was spread out, in helper functions and loops to convert one data type to another and it was just a bit spread out. Made it hard to keep in my head. Iterators kept that concise, short, easy to reason about in one page of code. While Iterators are implemented with a lot of somewhat complex generics, Rust does a surprisingly good job at just working, so you get to use awesome features without even knowing the complexity behind them.
+
+And as time went on, complex generics and lifetimes became more and more natural. But the key was that I didn't need to learn everything at once, it came organically.
+
+My 2c, hope it helps. :)"
+37,crabbytag,1590674479.0,10.0,"I'm not the other person, but I spent some time learning Rust. 
+
+It took me a week to learn Go and I've made some nice things with it.
+
+It has taken me much longer with Rust. I'm proficient but still not comfortable saying that I am an expert at Rust. Two caveats though - I'm a mediocre developer at best and you would likely learn quicker than me. And second, I'm happy I invested the time to learn it because it feels like a very useful tool in my utility belt."
+38,Floppie7th,1590675971.0,7.0,"Rust has a very steep learning curve up front.  It's very different from Go, so I wouldn't say Go experience makes it any easier or less easy.
+
+It'll take a lot longer at first.  Eventually, once things like the borrow checker and some of the odd syntax become more natural, I've found that it's easier to write in than Go, simply because so many issues that would have taken a manual test run or an explicit unit test to catch are caught by the compiler instead.  Plus, generics, although it sounds like Go's getting them soon.
+
+Fun language, though.  I ported fan controller for AMD GPUs that was written in bash originally (it only had to read a few files, do some basic math, and then write to a couple files) to Rust and it's nice seeing it hum along on my system using 308KB of RAM.  It was super annoying seeing the bash script blip on `top` when I was gaming."
+39,Cyan_Rook,1590680912.0,7.0,"I'm fairly proficient in Rust.
+
+I think the big thing in rust is it punishes 'bad' design. If you follow SOLID principles in your code, you probably won't run into too many issues with Rust. It will take some getting used to and admittedly things like trees/graphs and self referential objects are not easy to write yourself.
+
+If you have a habit of creating data in an inner function and wanting to pass it to the calling function, your going to have a bad time.
+
+There's other things too, I've found it fairly difficult to do a 1-1 reimplement of GC language code into Rust. A fair bit of the time it requires redesigning the logic/code architecture to do it the Rust way."
+40,,1590682423.0,4.0,"They're very different. Rust makes you think about things that most languages don't (which is why it's good). You should try to learn Rust without attempting to apply any of your Go experience IMO.
+
+*edit* To go into more detail - the type system is very different. Writing types in Rust like you would in Go is a huge mistake. Lean heavily into the type system in Rust.
+
+Lifetimes and borrowing are where most people (including me) get tripped up, because it's very different than in other languages. It is also Rust's ""secret sauce"", so learning it well and applying it will probably make you a better programmer in any language."
+41,robberviet,1590682648.0,1.0,"No, not yet. I have just started for 1 week. Pretty much all the basic covered but I am still not used to ownership.
+
+It's quite different so knowing Go does not make it easier or harder."
+42,steadylearner_p,1590715243.0,1.0,"I started with Rust and learning Golang after that. I think that it became much easier to learn and write Rust code than before.
+
+If you need some web relevant examples, you can refer to [this repository](https://github.com/steadylearner/Rust-Full-Stack)."
+43,sparky8251,1590691534.0,7.0,"Rust is also ultra ""stable""
+
+* It doesnt have exceptions (so your code *can't* crash unexpectedly under normal operation)
+
+* It doesnt have `null` (you have `Option<T>` that can be `Some(T)` or `None` and you must explicitly handle both cases)
+
+* It has a built in return type for handling potential errors (`Result<T, E>` that can be `Ok(T)` or `Err(e)` and you must explicitly handle both cases)
+
+Sure, you can replicate this setup in other languages (to varying success), but one of the benefits of this being baked in to the stdlib means all your dependencies follow these same patterns too. That means pulling in a dependency doesn't upset your balance as it were and reintroduce problems you thought you handled.
+
+Rust is a *great* fit for anything that needs a robust error handling story and needs to be able to recover (or handle itself, including exiting the program cleanly) any error that happens during normal execution. It *forces* you to deal with these errors unlike pretty much all other languages. 
+
+All my Rust stuff is scary stable regardless of whatever junk I throw at them. I legit have a matrix bot parsing every message in ~6 active Matrix/IRC rooms and its not crashed once in almost 2 months due to bad input *ON MY FIRST TRY*."
+44,marchsnow,1590679677.0,6.0,"Objective-C goes out of it's way to make everything harder:
+
+```
+msg := ""Hello"" + ""World""
+```
+vs
+```
+NSString *msg = @""Hello"" @""World"";
+```"
+45,ds101,1590699237.0,2.0,"Yeah, I don't really mind it that much, and particularly like the ""sending a message to nil returns nil"" functionality (vs java) - it lets me just call a chain of methods and check for nil at the end.
+
+My biggest pain point with Objective C was the old C/C++ issue of having to write everything twice (header file + source file).  A good IDE would help, but I had XCode. 
+
+Swift I tried early on, but was quickly burned out by ""the language changes every three months"".  Every time I got all the where to put ? straight, it changed.  Still interesting language, I'll take another look soon. (Oh and I had a hell of a time trying to drop down to C from swift, marshaling things into char\* and back was painful.)"
+46,lezardbreton,1590665856.0,6.0,That's fair.
+47,croutonaccelerator,1590685538.0,2.0,It's funny because Ruby clobbered Python a while back when Rails first became popular but Rails is definitely falling out of popularity and thus Ruby as well.
+48,croutonaccelerator,1590685583.0,3.0,"Ruby's like a messier but arguably more fun version of Python with far less industry and library support. With Rails dying off, no one cares as much about Ruby anymore."
+49,stewsters,1590680921.0,4.0,"If you are in a performance critical area, neither will get you where you want to be."
+50,croutonaccelerator,1590685682.0,2.0,"Yep, exactly. And even the Rails community is fragmenting off and trying new languages/frameworks e.g. Elixir/Phoenix."
+51,,1590675742.0,-7.0,Not as nice as go imo
+52,callcifer,1590690111.0,5.0,"> it's an online survey. 
+
+Ah yes, as opposed to those offline, door-to-door programming language surveys."
+53,Ashiketsu,1590676467.0,31.0,You underestimate how mediocre we are
+54,callcifer,1590677841.0,4.0,"> It's very different from Go, so I wouldn't say Go experience makes it any easier or less easy.
+
+I'd say the best thing to speed up learning Rust is a lot of previous C++ experience. After all, it was created to be a viable replacement for it."
+55,marchsnow,1590679811.0,3.0,"> so many issues that would have taken a manual test run or an explicit unit test to catch are caught by the compiler instead
+
+Since this one of the major reasons I switched to Go, sounds like Rust should be next.
+
+I love the second set of eyes a compiler provides."
+56,croutonaccelerator,1590705853.0,2.0,"Dear Lord. . . that all sounds too good to be true. It's funny how you just become accustomed to the particular warts and shortcomings of whatever language(s) you already know.
+
+That being said. . .  in your experience, what are some downsides to Rust?"
+57,,1590682408.0,6.0,"objective-c appeared in 1984, it is allowed to have a few rough edges, I will allow it!"
+58,dtfinch,1590683334.0,3.0,"    NSString *msg = @""Hello"";
+    msg = [msg stringByAppendingString:@"" World""];"
+59,,1590729623.0,1.0,"Swift is .... interesting ....
+
+With objective-c/c/c++ you can write all your code in the header file should you wish, it isn’t elegant, but it works."
+60,Hunterbunter,1590688288.0,3.0,"Probably the libraries. Python got a ridiculous amount of support because it was easy to learn, so easy to teach to the professions who need to know just enough code to be dangerous, like data scientists."
+61,,1590681055.0,4.0,Fair enough. And that's why I like Go :)
+62,0bel1sk,1590677822.0,2.0,overestimate how ochre!
+63,Floppie7th,1590678776.0,2.0,"You're probably right.  My only C++ experience is a Visual C++ class back in high school, and a couple failed pet projects shortly after graduation, so I can't say with confidence :)
+
+A lot of the syntax that would be foreign to developers with backgrounds in a lot of other languages (Go included) is undeniably familiar to C++, though - `::`, `<`/`>`, etc"
+64,Floppie7th,1590681699.0,4.0,"If that idea excites you, it's definitely worth checking out.  I came for the run-time execution speed in one specific project that required it, but 99% of what I write just doesn't require that performance.  Ended up staying for the compile-time checks.
+
+That said, I would say ""switch to"" is a misnomer.  Go is really, really good for I/O bound tasks like APIs.  Goroutines taking greenthreads and simplifying them so that you can just think of them as regular threads is insanely valuable.  You can get greenthreads in Rust with async/.await, but it's way more cognitive load to reason about than just ""go ..."", especially when combined with the ownership rules.
+
+It works, but sometimes it's Hard(TM), and *for the most part* projects that benefit a whole lot from greenthreads tend to not benefit that much from a faster language.  Plenty of exceptions exist, of course, but that's the sort of common rule of thumb that I follow."
+65,sparky8251,1590695581.0,2.0,"> so many issues that would have taken a manual test run or an explicit unit test to catch are caught by the compiler instead
+
+The compiler isn't the only reason this is the case. Rust has no exceptions, no null, and has a result type to indicate that an error can occur inside a function and that the caller must handle it. Sure, the compiler enforces these things when you encounter them, but not being able to shove error handling into a corner and try your best to forget about it helps a lot more ime. 
+
+Rust treats errors the same as regular program logic and it really shows in programs written in it. I've got a little matrix bot that listens to ~6 large and active chat rooms all day every day, using regex to capture bits of text, change them from text to number or validating its a proper url and more. *It hasn't crashed once due to bad input in 2 months.* This was from the point where I was ""prototyping"" it and my ""friends"" in those chats were trying to make more work for me lol
+
+I'm not a professional dev. I'm just a curious sysadmin with too much free time. I *know* it's not this easy to do in other languages as the very first prototype was in Python and it wasn't the easiest to handle bad input there to someone unfamiliar with the language."
+66,sparky8251,1590707630.0,3.0,"So, I'm not exactly fluent in another language, Go or otherwise. Read what I say below with that in mind :)
+
+My big pain points with Rust are
+
+* It's slow to prototype or play around in. Don't assume the worst like some do, you can blatantly `unwrap()`, use `expect()`, `clone()` and `unimplemented!()` your way around all sorts of things to get there faster, but it is *slow*. The compiler is hard to satisfy after all! It won't just run any old program. The benefit of this is that everything you do sloppily is documented if you want to move past the prototyping, but that's about it.
+
+* The borrow checker and typing system is insanely unforgiving. If you aren't OK with *everything* you do being checked and scrutinized, it's going to be hard. This is the worst when you first start using Rust as its liable to be the strictest language you've used so far (even though you can go stricter). Eventually you come to like it, then finally you fear not having it :p
+
+* It's a new language. Going to have trouble finding libs that do what you want. If they exist, great! If not, well... you'll have to make your own. Not much more to say on this.
+
+* The language is purposefully slow to develop. Rust started in 2010, hit 1.0 in 2015, and then last Novemeber it got `async/await` keywords just to give you an idea of what I mean. Some feel this is bad because you end up with a fractured ecosystem of crates that do similar but competing things and crates get built on top of them (like we see now with async-std v tokio) and it can force you into design choices you aren't comfortable with because a dep of yours needs the opposite runtime from what you want. Why not standardize now you might ask? Well... there is no standardized way to do error handling in Rust despite the praises I sang about it. Even now this is true. What has happened however is that a number of competing error handling implementations have sprung up over the years and as they become mainstream Rust standardizes the traits and structs and enums that are at that particular methods core. This is then used to a second wave of error handling crates and eventually one of those win, and so on and so forth. Think we are on the like, 6th wave of error handling strategies right now (async is on pass 3-4 with the keywords being the latest)? The current use of `thiserror` and `anyhow` feels amazing compared to what it was before. Due to this way of handling things, Rust is conservative with its inclusions into the language so as to not discourage experimentation and finding better solutions. Some (like myself) like this as they feel it encourages good designs rather than quick ones, others find it annoying that even error handling requires external deps to do properly this far into the languages life."
+67,ForkPosix2019,1590705201.0,1.0,"wow, nice (no, it is not)"
+68,croutonaccelerator,1590691943.0,1.0,That's definitely part of it.
+69,croutonaccelerator,1590685642.0,3.0,"I mostly do backend/ops development, Go + Python + bash is a winning combo for me. OK, hard to call bash ""winning"" but sometimes you just can't avoid it. :)"

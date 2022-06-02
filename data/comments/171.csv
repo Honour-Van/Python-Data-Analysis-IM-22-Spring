@@ -1,0 +1,25 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,tommy-turtle,1628367126.0,3.0,"""The negative elements for Delphi are in the ""Loved vs. Dreaded"" section (many respondents using Delphi have a negative feeling towards it).""
+
+this doesn't really surprise me, I've been using Delphi since v1 on Windows 3.11 and the very last product built using it in our organisation was retired in March (it was used every day for 15 years so did well!) and some of the frustrations which existed in Delphi a decade or more ago, still exist today.
+
+The truth of the matter is the IDE just isn't fun to use (I'm guessing inline variables is still broken in the editor in the latest release) , code completion doesn't work reliably, using the IDE with multiple monitors is gimped, the licensing system sucks - it has always sucked -  it's a relic from a bygone era and I guess you still have to call support to get additional activations rather than an online self service portal to deactivate seats, upgrades from previous versions are painful, etc, etc, I just can't understand how these problems persist.
+
+&#x200B;
+
+That's not to say there aren't positives, the VCL is a decent framework, and the language is easy for beginners to pick up and learn, and easier to read than c style languages, Delphi programs are performant,  and connecting to and manipulating databases was much easier than other languages back in the day.
+
+&#x200B;
+
+But I think Embacadero made a mistake in moving the database access components out of the Professional SKU and moved one of the biggest advantages of using Delphi out of reach of many developers just to milk a few quid out of existing customers, and it harmed the product in the long run."
+1,bmcgee,1628370746.0,1.0,"> I'm guessing inline variables is still broken in the editor in the latest release
+
+Much better after 10.3
+
+> Embacadero made a mistake in moving the database access components out of the Professional SKU
+
+Professional was always more limited than the Enterprise SKU."
+2,tommy-turtle,1628371767.0,2.0,"I agree there has to be some differentiation between sku tiers, and have absolutely no idealogical objection to their existence for commercial reasons, I just think it was the wrong approach - it would have been much better to have the database and raw SQL / DBSet access in all editions, and what Architect got you was a the ORM, visual modelling tools and - some layer to completely abstract away the boring SQL stuff so you could use native VCL enumerables and C# style linq  expressions and persist VCL objects to a database without caring about the SQL or underlying provider - it could have been a real game changer, it's a shame something like that never got made part of the framework, especially given Delphi was leading the way with it in the beginning, and even more bizarre given how Idera seems to specialise in that field."
+3,bmcgee,1628372248.0,1.0,"The differences between Professional and Enterprise (or C/S) have been there for over 26 years. If anything, features from the higher SKU creep into Professional.
+
+As for new framework features, I'm all for it. Specific QP bugs and feature requests would help."

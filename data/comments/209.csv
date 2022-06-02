@@ -1,0 +1,176 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,imranh,1590668533.0,30.0,"I always find this interesting, unfortunately didn't get to fill it out this year.
+
+* [Obvious that Ansible is completely destroying Chef and Puppet](https://insights.stackoverflow.com/survey/2020#technology-other-frameworks-libraries-and-tools)
+* [Surprised by the high use of MySQL (vs MariaDB)](https://insights.stackoverflow.com/survey/2020#technology-databases)
+* [AWS usage is about double that of Azure](https://insights.stackoverflow.com/survey/2020#technology-platforms)
+* [People **really** hate Chef and Puppet](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-other-frameworks-libraries-and-tools)
+* [Slack is clearly far more loved than Teams](https://insights.stackoverflow.com/survey/2020#technology-collaboration-tools)
+* [Bash/Shell/PowerShell can command a good salary](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide)
+* [SRE and DevOps Eng are high paying, sysadmin not so much. But personally I feel that SRE and sysadmin aren't that dissimilar in terms of skills](https://insights.stackoverflow.com/survey/2020#work-salary-by-developer-type)"
+1,eruffini,1590670878.0,13.0,"> Surprised by the high use of MySQL (vs MariaDB)
+
+Is this because people see them as the same thing? MariaDB is a fork of MySQL for all intents and purposes.
+
+> SRE and DevOps Eng are high paying, sysadmin not so much. But personally I feel that SRE and sysadmin aren't that dissimilar in terms of skills
+
+Wonder if this is because typical SRE jobs tend to be in Silicon Valley, which commands a higher salary due to cost of living."
+2,azjunglist05,1590674761.0,9.0,Super interesting to see that Bash/Shell/PowerShell commands a higher salary than a lot of popular programming languages
+3,uptimefordays,1590675696.0,3.0,"I can't believe Ruby is anywhere near C on ""most dreaded,"" this is an outrage."
+4,theevilsharpie,1590702121.0,1.0,"> Surprised by the high use of MySQL (vs MariaDB)
+
+MariaDB started life as a fork, but has diverged far enough to have some compatibility issues. This combined with many applications still being built for MySQL, developers used to manually downloading and installing MySQL, and managed cloud database services supporting MySQL before Maria (if they even support Maria at all), it's not surprising that MySQL is the more commonly-used option."
+5,samspopguy,1590671486.0,1.0,Why does everyone hate couchbase
+6,commandsupernova,1590671297.0,12.0,">Surprised by the high use of MySQL (vs MariaDB)
+
+Me too! Maybe organizations already using MySQL don't see the need to switch to MariaDB or maybe they like having paid support. For a small personal project, I used MariaDB and really liked it.
+
+&#x200B;
+
+>AWS usage is about double that of Azure
+
+AWS seems really popular with developers. I wonder if corporate IT environments are also tending to use AWS more than Azure. I think Azure makes sense if an organization is already using Microsoft 365 services. (but I don't claim to be an expert on cloud platforms so please don't take offense to this if you prefer AWS)
+
+&#x200B;
+
+>Bash/Shell/PowerShell can command a good salary
+
+I think automation is the future and these are an excellent starting point for getting there!"
+7,croserobin,1590673971.0,4.0,"> AWS usage is about double that of Azure
+
+I'd very much like to see these results by country; last I heard Azure was still more used than AWS in Canada"
+8,meminemy,1590675297.0,3.0,"You can earn a lot with Perl but also most hate it like crazy:
+
+https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-global
+
+https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-dreaded"
+9,wmassingham,1590693138.0,4.0,"> Surprised by the high use of MySQL (vs MariaDB)
+> 
+
+Some people might not even know they're on MariaDB. Last time I installed mysql from the Ubuntu or CentOS repos, it was actually a metapackage that pulled down mariadb."
+10,sobrique,1590676351.0,5.0,"> Bash/Shell/PowerShell can command a good salary
+
+I remember seeing that previous years, but I think it's more because they're ancillary skills in some high paying stuff, like Sysadmin. If you're a good SA and earning big money, chances are you're also good at scripting, but it's not really your 'primary skill'."
+11,TROPiCALRUBi,1590682882.0,3.0,$68k for DevOps is high paying?
+12,,1590698971.0,1.0,Man I moved from Ansible to puppet. Should I go back?
+13,wrtcdevrydy,1590671075.0,6.0,"\>  MariaDB is a fork of MySQL for all intents and purposes. 
+
+I think people in AWS Cloud would use MySQL since you get MySQL Enterprise included in your RDS cost while people self-hosting would use MariaDB since it comes with 1-1 feature parity against MySQL Enterprise without the cost."
+14,,1590677981.0,2.0,[deleted]
+15,sobrique,1590676637.0,10.0,"It's because if you're a sysadmin, chances are you're programming a scripting language, despite otherwise being a highly skilled professional who's not a software-dev."
+16,sobrique,1590677587.0,3.0,It's because a lot of people think Ruby is basically Perl with some of the corners sanded off.
+17,,1590687514.0,1.0,Yeah I was surprised at the Ruby hate.  I blame the Rails bloat.
+18,jturp-sc,1590672608.0,10.0,"I had similar thoughts with respect to Azure. Obviously, there's going to be organizations that test all cloud platforms, but I feel like there's two immediately obvious camps:
+
+* Cloud-native software development companies that are going to be on AWS (or GCP if they want to be trendy and hip)
+* Corporate IT environments that don't really have a software development arm and extending into Azure is a natural extension of their current vendor stack"
+19,sigger_,1590678083.0,6.0,"From what I can tell, AWS is the choice for environments that are tech/dev focused, or if they have internal/home built software that is logically separate from their corporate network. Azure is the choice when you want your network to be moved into cloud. Azure is facilitated by native integration with AD, and Office 365. Azure has AzureAD, device control similar to group policy, etc. - it’s essentially just Windows Server 2016 but dissected into the cloud, for the most part (in the way that most companies use it), plus the added functionality of having some AWS-like tools, which seem to be far less popular, but alright if you’re trying to keep billing/vendors down. 
+
+AWS is used more, in my experience, for technical roles in technical companies. Sure, they both have serverless runtimes (logic apps vs lambda), they both have storage, VMs, VNets/VPCs, etc., but S3 beats Storage Accounts every time, DyanamoDB seems to be beating CosmoDB, AWS has things like BeanStalk and AppMesh and Cognito, which Azure is having a hard time competing with because most of Azure’s use cases aren’t dev related. It’s for sysadmin. And StackOverflow is definitely more commonly used by devs, even though there are ample resources for sysadmins and the like, so that bias is not surprising. 
+
+Just a ramble on my experiences and thoughts working extensively with both. 
+
+Either way, if you search up “azure” and “AWS” on indeed, you will find a hell of a lot more jobs for AWS, at least in my area (big ass east coast city)."
+20,kgbdrop,1590680730.0,5.0,"> I wonder if corporate IT environments are also tending to use AWS more than Azure.
+
+As someone from a software vendor whose customers are transitioning to the cloud, my 2 cents:
+
+If the customer was in the cloud 1.5 years ago, they are in AWS. If the customer is based out of the West Coast of the US, they are likely in AWS. If the customer is East Coast US, or EMEA based, then Azure is rapidly gaining ground. US Fed: AWS for now, but JEDI may change that.
+
+If the customer is building a cloud native stack, AWS or GCP. Azure isn't too terrible for this, but Azure is a Corporate IT play at this point.
+
+Azure adoption is skyrocketing in the US. Microsoft are absolutely savage about getting people onto their platform. While I am not a Microsoft hater by any means, I suspect many companies are going to regret this. Bundling your application layer (Windows, SQL, whatevers) with your infra layer presents synergies, yes, but it also limits your negotiating power down the line when the teaser rates get removed."
+21,meminemy,1590674827.0,2.0,"> Surprised by the high use of MySQL (vs MariaDB)
+
+Mysql is still part of some long term supported Linux Distributions. Probably one of the reasons why."
+22,uptimefordays,1590675836.0,2.0,"Everything I've offloaded to the cloud over the past couple years has gone to AWS. Apparently AWS is a beachhead before I adopt a multicloud model, Forrester, Gartner, and co. tell me, but I'm skeptical."
+23,noOneCaresOnTheWeb,1590687356.0,1.0,"Corporate IT will almost always choose Azure because of Identity and because you don't necessarily need to anything in a command line. (There are a few Azure things that can only be done with a cli but even then it's a run this script to turn on/off and you are done)
+
+I know AWS has reworked some of their identity stuff recently but I'm not familiar."
+24,,1590750725.0,1.0,Automation was always the future. I've never worked a job where automation wasn't an expected part of the role.
+25,SuperQue,1594673019.0,1.0,"As someone who's run MySQL in production, I wouldn't touch MariaDB. I've had a number of interactions with various MySQL community people over the years.
+
+* MariaDB is too focused on developing features that nobody wants, and pushing MaxScale, which is a pile of trash.
+* Oracle is too focused on being Oracle, and trying to extract money from everyone.
+* The rest of the MySQL community is too focused on whatever micro benchmark they're trying to make look good, production use be damned.
+
+The only MySQL I'd use in production is Percona's fork. They focus entirely on real production workloads, and fix bugs that actually matter."
+26,sobrique,1590676556.0,1.0,"I'm a big fan of Perl. I think it's bad reputation is undeserved, and almost entirely down to regular expressions being 'messy'. (And that not being a solvable problem)."
+27,,1590688154.0,1.0,"I guess for an average it is.  I'm just an ""Sr Sys Admin"", and command just north of 100K."
+28,beardless_unix,1590700107.0,1.0,That depends - why did you move from Ansible to Puppet?  There are good reasons to make that switch.  Ansible isn't perfect but it's much easier to bootstrap a working system than Puppet.
+29,eruffini,1590678937.0,6.0,"In my personal opinion the term ""Systems Administrator"" can be a significantly wide description for many jobs/paths. SRE's tend to be more specialized with a heavy focus on programmatic automation and similar tasks, so the pool will definitely be smaller.
+
+With that being said, some of the tasks and responsibilities do overlap - especially when it comes to automation and ""infrastructure as code""-type skillsets. Pet vs. cattle mentality and way of operating I guess."
+30,theevilsharpie,1590701392.0,5.0,"> Totally unrelated comment, but you're bringing up the pay difference between SRE and sysadmin. What's the core difference between the two, to justify such a large pay gap?
+
+SREs typically develop and support production infrastructure for some type of engineering-related organization, whereas System Administrator has essentially come to mean some type of office IT support. There is some overlap in skills (particularly for Linux sysadmins), but the worlds are very different, and you can see this for yourself if you compare /r/sysadmin and /r/devops for a while.
+
+The pay for SREs is probably a bit inflated in the surveys, because there are environmental variables affecting pay that work in SRE's favor (SREs will tend to cluster in established tech companies or later stage startups that can afford to pay higher salaries, since smaller startups can use a managed service and/or task a dev with the Ops work). However, the pay gap is real, and is largely due to office IT not being that valuable."
+31,uptimefordays,1590678192.0,2.0,"I'll admit I'm probably alone here, but I feel like Ruby is a lot closer to Python than it is to Perl. Ruby just offers more syntactic sugar--especially with regex."
+32,uptimefordays,1590688731.0,1.0,There are dozens of Rubyists who've never used Rails! Dozens!
+33,ndarwincorn,1590677233.0,3.0,"From  my view on the frontlines, AWS straddles both bullets. It's the largest single license purchaser of Windows/SQL Server for a reason.
+
+If you look at the history of the platforms, GCP's the only one of the three that really pushed 'cloud-native' principles from day 1 (their first service was app engine--a platform that abstracts away underlying compute vs. AWS's first service being EC2--a platform that abstracts away the hypervisor). It's probably a significant contributor to them being an afterthought for folks. It's a lot easier for a cloud-naive dev/technical founder to just shit their code onto some bespoke EC2 VM than it is to trust some 'app engine' black magic."
+34,commandsupernova,1590761839.0,1.0,"Wow, thanks for sharing this insight! Very interesting points. It's sort of cementing for me that Azure is more of the ""corporate"" cloud platform and Azure/GCP are more popular for cloud native apps, with exceptions of course.
+
+&#x200B;
+
+>Bundling your application layer (Windows, SQL, whatevers) with your infra layer presents synergies, yes, but it also limits your negotiating power down the line when the teaser rates get removed 
+
+Ooh yes, vendor lock in is a scary thing!"
+35,ndarwincorn,1590677862.0,2.0,As you should be.
+36,syshum,1590689386.0,3.0,One of the other motivations from what I see is that Powershell is first class on Azure.  This works well with Onprem Automation Tooling as well
+37,commandsupernova,1590761703.0,1.0,"I've been working in IT, all corporate environments, for the mere five years of my career. I've seen IT as more of a business support than the product itself, and with that, I have yet to see management really push for automation. 
+
+It's been something I push for and implement as much as possible but some people still seem OK with doing things the way they've been doing them for the last 10 years.
+
+Hopefully by focusing on automation and improvement I can continue to maintain and advance my role and let those who are fine with stagnating do their own thing."
+38,commandsupernova,1594728676.0,1.0,"Interesting, I didn't realize Percona had their own fork of MySQL. I heard good things about Percona's backup software for MariaDB but was able to complete my simple project using mysqldump for database backups."
+39,meminemy,1590676862.0,2.0,Maybe also because of the legendary obfuscation. /s
+40,,1590701619.0,1.0,"I use Ansible alot. But I wanted to learn a master/slave tool. I felt I was at the level I would start writing custom Ansible modules and feel puppet/bolt would be better for that.
+
+Edit: you know what, I like puppet and bolt."
+41,sobrique,1590678382.0,2.0,Oh I know the feeling - I'm a big fan of perl :)
+42,pdp10,1590686704.0,1.0,I thought AWS's first service was SQS?
+43,sobrique,1590677018.0,1.0,I've seen 'bad' code in a load of languages. That's far from unique to perl.
+44,beardless_unix,1590707689.0,3.0,"Puppet/bolt is better in my limited opinion for custom modules.  PuppetDB is a great asset as well.  For the reasons you gave I think you made a good choice.  
+
+Puppet+Bolt is a great platform for us.  Bolt makes the down-side of agent based cfg management go away.  Terraform to provision the infrastructure, bolt deploys and does the first puppet applies we need then the agent runs continuously to keep the configuration in spec(when we aren't just blue+green blowing things away).
+
+I really like Puppet too and most of the time people say they don't like it vs Ansible it comes down to ""Ansible is easy"" and ""Puppet is arcane"".  Both are true statements IMO.  And something having a lower barrier to entry is actually a Pro in its favor.  Puppet deserves a chance because there are certain things it does really well.
+
+- It won't do anything unless it can compile the whole catalog without issue(won't deploy half your code and then fail).
+- Puppet iterators and conditionals work more like traditional C style languages(Ruby in this case) and that works better for me.
+- Puppet works most like a traditional programming language while still being declarative.  
+- PuppetDB is super useful.
+
+Either is a fine tool - but I fear Ansible is going to take over so much that Puppet dwindles away.  We'll see.  Nobody should be married to any technology tool because they come and go as fast as the wind."
+45,uptimefordays,1590679216.0,1.0,Still using perl for new stuff?
+46,_dismal_scientist,1590694231.0,1.0,Python has completely replaced it in my world
+47,ndarwincorn,1590690563.0,3.0,"Yeah you're right. Though at official launch EC2 was one of the three services.
+
+More accurate to say that its first compute offering was basically a managed hypervisor, whereas google's was a managed image builder & container engine, and that the two companies have been mostly opposite sides of that coin as they added features (i.e. google's managed hypervisor didn't come until 4 years after GAE, and AWS added a managed image builder & container engine 5 years after EC2).
+
+The whole point being that 'cloud-native' software in their comment was a stretch, assuming we're talking about how the CNCF has come to define the architecture. Nothing about managing your own EC2 VM is cloud-native."
+48,meminemy,1590677320.0,1.0,"Of course, I was rather talking about this: https://en.wikipedia.org/wiki/Obfuscated_Perl_Contest"
+49,sobrique,1590679274.0,0.0,Yup. It's as good as it ever was for the sysadmin toolbox.
+50,sobrique,1590677367.0,1.0,"Oh sure. But C has one of those too as I recall :). 
+
+And I know perl lets you get away with some nasty habits, but ..."
+51,uptimefordays,1590679435.0,2.0,Even as it becomes less common compared to say Python or Ruby?
+52,meminemy,1590677433.0,1.0,"Yes, and it is still active: https://en.wikipedia.org/wiki/International_Obfuscated_C_Code_Contest"
+53,sobrique,1590679624.0,5.0,"Python's taking over, but I just ... well, I just don't _like_ the syntactically significant whitespace thing, or the dependency on an IDE. (Because if you want to create a 'loop' you have to indent a whole block at once, that kind of thing). 
+
+I daresay I'll end up doing mostly Python eventually, but I'm going to hold on to Perl as long as I can.
+
+Ruby doesn't seem to get much of a look in."
+54,uptimefordays,1590679793.0,2.0,Yeah Python definitely seems like the future. Though Chef’s Ruby based DSL should hopefully keep it relevant for sysadmins. Can’t imagine many places tearing out Chef for Ansible just because Ansible is the hot new thang.
+55,Not_Pelle,1590734666.0,1.0,Why do you need an IDE for Python? I've always written Python in editors like Vim. IDEs just really annoy me.
+56,,1590697137.0,1.0,[deleted]
+57,sobrique,1590735151.0,1.0,"Ever needed to wrap a block in a loop, and needed to indent about 8 lines at once? 
+
+Perl I just stick the loop in and perltidy to reformat."
+58,uptimefordays,1590697767.0,1.0,">Do people really think this? It's been stable for eight years.
+
+By that logic Chef has been around 11 and Puppet 9. Ansible only overtook Chef in terms of market share what last year? I'm not disputing Ansible's considerable and still growing popularity, I'm wondering how many organizations already using a mature CM system are switching."
+59,Not_Pelle,1590735711.0,1.0,I just do that by selecting those lines and pressing Ctrl+]  in most graphical editors or with [amount of lines] > > in Vim.

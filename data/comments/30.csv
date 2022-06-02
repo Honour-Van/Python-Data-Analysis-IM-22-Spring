@@ -1,0 +1,124 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,Riimii,1520928607.0,52.0,"> Almost half of bootcamp grads already had a job in programming prior to participating in the bootcamp.
+
+
+This is a great insight that these bootcamps likely don’t share with prospective students when they boast that “90% of graduates were placed within 60 days of graduation”."
+1,GuyWithLag,1520933494.0,16.0,"Well, as you get older
+
+* You get stuck on a tech stack that you know in and out
+* You start to get burnout answering the same bloody questions (apparently search is up there with quantum mechanics in conceptual difficulty)
+* You pivot to leading, which has its own challenges that are not on stackoverflow."
+2,,1520942884.0,9.0,Those salaries aren’t in line with the constant six figure salaries I see posted on here.
+3,GlorifiedPlumber,1520965127.0,5.0,"Non developer here (chemical engineer), I have a question for the masses.
+
+What's do you guys think is going to happen to ya'all's salaries as those demographics ""mature"" in the next 10 years.  Given that a full 57% of respondents have LESS than 5 years experience.
+
+BLS says 24% growth from 2016 to 2026... assuming that is even remotely accurate, that's ~2.17% per year growth.
+
+Assuming those added jobs are filled by new hires, as in the only future 10+ year experience people 10 years in the future are the 0-2 year cohorts now,  won't this cause a MASSIVE shift towards ""mid-level"" or whatever you call 10 year+ experience folks by 2026?
+
+Currently the sum of everyone between 9 and 17 years is 19.1%... yet a full 57% of people CURRENTLY have 0-5 years experience?
+
+Or do people think a full 66% of those folks will ""drop out"" of the labor force creating a vacuum for mid-level/senior people?
+
+If each person employed in this industry is getting 5% year over year in more money, doesn't that imply that the MONEY towards software development has to grow at a pace BEYOND 2.17%?  Is that realistic?
+
+So what say you... will the money continue, or will the industry see a flattening of salaries in the US as the current group of folks matures?  **What am I missing?**
+
+Interestingly, it looks like 9% of people want to be engineering managers in 5 years... no shit, average salary was 153k.  Will the current average engineering manager quit in 5 years?  Nope.  Does the average engineering manager probably have more than 10 reports?  Probably.  Seems mis-aligned with reality and a large percentage of those people will be dissapointed."
+4,,1520939004.0,8.0,"I was shocked that more people were worried about the ""singularity"" than automation. One is much closer and much more realistic than the other "
+5,pentakiller19,1520957383.0,6.0,I think the most shocking stat is 71% of developers dont have kids. Are devs just allergic to children? Lol.
+6,k0rm,1520959370.0,3.0,Are these salaries total comp or just base?
+7,infinitebeam,1520976535.0,2.0,"Seeing that there are many posts on this sub about side projects, coding as a hobby and hobbies in general, this was rather interesting
+
+> Over 80% of our respondents say that they code as a hobby. Other interests or responsibilities outside of software don't seem to reduce developers' interest in coding as a hobby. Those who said they are parents or have other caretaking responsibilities, those who exercise daily, or those who spend the most time outside were slightly more likely to code as a hobby than other groups.
+
+Find the last statement a little counter-intuitive, but fascinating nonetheless. Although I don't fit into any of those groups."
+8,Hothera,1520976888.0,1.0,I'm surprised at how many developers code as a hobby or contribute to open source projects. Most developers I know don't do any coding outside of work.
+9,lauriersux,1520944348.0,1.0,Very interesting read
+10,,1520950321.0,-5.0,"Only 30% of respondents don't care for diversity initiatives.
+
+But le Reddit said nobody but teh SJWs liked it!"
+11,nutrecht,1520929031.0,37.0,"Another thing they don't really want to mention that a lot of these placements are with the bootcamp, as teachers. "
+12,thinksInCode,1520963308.0,2.0,I (somewhat) disagree with your first point. If you want to stay employable you should be learning new stacks from time to time. Otherwise you *will* get stuck
+13,csthrowawayveryfar,1520948651.0,18.0,"This sub gives an unrealistic view of salaries. The average senior software eng total comp is 132k, with 164k being 90 percentile."
+14,Youtoo2,1520953983.0,8.0,"People on here exaggerate compensation levels. I have made 6 figures for over 10 years, but i have 19 years experience. "
+15,SteveCurryAnkles,1520949769.0,5.0,Filter it by the US.  The global figures are much lower.
+16,DiceKnight,1520951984.0,7.0,"I wish people would qualify their location a bit more when discussing salaries. I believe if we were all more upfront about where we are and what experience level we are at going into a job then we could have realistic fair expectations. 
+
+If I say I work in a small town in Utah and make 130k that's a pretty good salary vs me saying I work in downtown Seattle at 130k which while it is a good salary isn't quite as powerful spending wise. "
+17,bad_good_guy,1520945450.0,8.0,"in the US? the most common job titles there are 6 figure though?
+
+this is for average of whole of US too, not BigN SV"
+18,LLJKCicero,1520971362.0,2.0,"The StackOverflow numbers appear to line up with the numbers the BLS puts out: https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm
+
+> 2016 Median Pay: $102,280 per year"
+19,lakesObacon,1520968174.0,5.0,"As a very quick response, yes the industry bubble will continue because what this survey does not capture is CHURN. After 5 years or so, everyone I know pivots. No one wants to be a code monkey for twenty years. No one wants to lose control of their life and just be at the beck and call of a conglomerate. We change. Take this data as a snapshot. A state of the current affairs. Projecting will just lead to frustrating arguments that cannot be resolved. "
+20,yuga_d,1520969844.0,4.0,"The massive influx of junior developers is mostly due to bootcamp grads, higher enrollment in CS programs at large public universities, and self taught people who don't want to go to bootcamp or college. Whether all those people can cut it as developers remains to be seen. A lot of the bootcamp grads and self-taught will end up in non-dev but technical positions such as QA, product mgmt, marketing, Wordpress themes, HTML templating, etc etc.
+
+The senior devs who actually know whats going on will always be in high demand. I don't think people will 5+ yrs experience who are decent at their jobs are too worried about our salaries shrinking. "
+21,100k45h,1520969484.0,3.0,"just one point. If you look at the survey results from previous years, you'll notice, that the ratio of experienced devs vs new devs (less than 5 years of experience) is more or less the same, about 50%. Interestingly enough, couple years back, Robert C. Martin, author of the acclaimed book Clean Code, gave a talk where he said that he's been seeing this trend going on for a few years as well.
+
+So the industry is experiencing this growth for quite some time already, probably well over 2 decades actually (with some dead years in between maybe, I haven't checked)
+
+So far 'the bubble' keeps on inflating. I don't think anybody can predict when the growth is going to stop or significantly slow down. But already we can see some very speculative investments being made into blockchain startups for example and it would not be that surprising, to see those startups fail and investors lose money and who knows if it might lead to situation similar to dotcom bubble bursting."
+22,TheSlimyDog,1520970040.0,2.0,It could just be selection bias. I think a lot of people who are early in their careers would be more likely to answer a survey.
+23,healydorf,1520947958.0,3.0,"In terms of livelihood, automation is a much more tangible threat to the layman than it is to a typical engineer/developer. 
+
+But Skynet man, that shit is just spooky for everyone. "
+24,StrongStorage,1520957593.0,17.0,"No, most are in their early to mid 20s."
+25,LLJKCicero,1520972069.0,3.0,"I have a kid, but strictly speaking, having kids is irrational. They're an 18+ year commitment that sucks down an enormous amount of time, money, and energy, and the potential benefits aren't obviously better than just spending more time with existing family and friends. For the first couple years, it's like having an extra full-time job with the nightmare boss from hell. It's like taking on a volunteer position that demands you pay the charity thousands of dollars a year for the privilege of being woken up at random hours of the night, and you're legally banned from quitting.
+
+The entity that *does* tangibly benefit from people having kids isn't the parents, it's the wider society. Society needs new workers, needs new *humans* just to continue existing. That's why I support western European-style child subsidies; if the economic benefits go to society, then it follows that society should pay the costs. And even if the government covered literally 100% of the cost of raising a child, parents would still come out behind in time commitment and energy expenditure anyway, from a utilitarian standpoint they'd still be losing by having a kid."
+26,yuga_d,1520967920.0,7.0,All of the top tier bootcamps have stopped including that in their metrics and are now explicit about it after getting a lot of backlash about it. 
+27,GuyWithLag,1520963738.0,3.0,"I agree, but as you get older you have less and less time to actually do that (especially when kids come into the picture)."
+28,LLJKCicero,1520971482.0,1.0,"Does that include bonus or stock though? The big numbers you see here generally have a heaping helping of stock, but it sounds like the StackOverflow survey only looked at base salary."
+29,LLJKCicero,1520971509.0,4.0,"They don't actually, it's just that the demographics of the sub itself are biased towards high earners."
+30,LLJKCicero,1520971564.0,1.0,"> I wish people would qualify their location a bit more when discussing salaries.
+
+Pretty much everyone lists a city when posting numbers in the salary sharing threads, at least. If you look at the three different cost-of-living ""tiers"" of the US in them, the difference is indeed quite stark."
+31,GlorifiedPlumber,1520970858.0,1.0,"> ..what this survey does not capture is CHURN.  After 5 years or so, everyone I know pivots.
+
+Could you clarify?  This survey covered people of many experience levels and many jobs beyond ""developer.""  Why would those who pivoted cease to be captured here unless they left the industry completely and like went into Real Estate or something?
+
+When you say pivot, do you mean they drop out of the ""software development"" work force?
+
+When you report that you have 9-11 years of experience on this, it isn't capturing that you were a developer for 2, a PM for 3, a manager for 2, and then a developer again for 2 more... it just says 9-11 years.
+
+Question then, for my own edification... after 10 years, what % of people who start software development would still be in the industry and thus MAY have responded to this survey?  50%?  90%?"
+32,GlorifiedPlumber,1520971288.0,2.0,"So you think a large percentage of them will drop out of the industry and do something else unrelated, e.g. real estate... by 5 years?  Or 10 years?
+
+What percentage do you think?"
+33,GlorifiedPlumber,1520971422.0,1.0,"Very true, I could easily see this.  It was stack overflow visitors who filled out a survey.
+
+Do you think the population of visitors to Stack Overflow in general would be a higher percentage of inexperienced people than the population in general?
+
+Then, do you think the population of visitors to Stack Overflow who filled out they survey would be a higher percentage of inexperienced people than the population people who visit stack overflow AND the overall population?
+
+I could see the former... but I suspect the latter is a pretty solid sample."
+34,shitty-photoshopper,1520957768.0,11.0,And are socially awkward
+35,,1520981169.0,5.0,"What a fuckin' robotic response. Also, I don't think you understand utilitarianism if you somehow concluded that parents are ""losing"" by having kids...wtf. Do you think utility is measured by spreadsheets or something? "
+36,thinksInCode,1520963765.0,1.0,Fair enough. I don't have kids yet so I am used to having a lot of free time.
+37,,1520989936.0,6.0,How many companies do you think give huge stock shares 
+38,lakesObacon,1520972332.0,2.0,"At a pure educational guess, 60% will not respond to this survey again in five years.
+
+Ten years, half it. "
+39,yuga_d,1520975684.0,2.0,"Not unrelated. They will move into other roles  like product management, middle management, business analysts, WordPress devs, support, technical writing, marketing, etc. A few may switch fields.  
+
+There are a lot of mediocre roles for both devs and non devs in large and small companies and lots of shitty companies too. You just don't hear about it one this sub because of demographics. They're not interested in cs career questions. "
+40,fridge3062,1520963280.0,9.0,But more likely just don't want kids so early
+41,LLJKCicero,1520981843.0,4.0,"I wasn't trying to refer to the actual philosophy of utilitarianism, I meant ""from a standpoint devoid of sentimental concerns"".
+
+Although, wikipedia describes the philosophy as ""Utilitarianism is an ethical theory which states that the best action is the one that maximizes utility. ""Utility"" is defined in various ways, usually in terms of the well-being of sentient entities."" and one could argue that the well-being of parents is made worse by having kids, on average.
+
+Anyway I'm guessing more and more people agree with me since across the developed word, birthrates are below replacement rate now. And if you ask people who don't have kids why they're not having any, the cost and responsibility usually seems to be the most common reason (although some just flat-out don't like kids)."
+42,GlorifiedPlumber,1520972439.0,1.0,"Hmmm... you know when I started that post, I would have said no way, 60% will still be working in 5 years... but you are right, it isn't 60% of those working, it is 60% of people who went to stack overflow and responded to the survey.
+
+I could easily see that number."
+43,GlorifiedPlumber,1520979655.0,1.0,"What percentage move away from the role?  Would all those people not still be considered ""in the industry?""
+
+Don't they get similar pay to developers?  Thus... more junior developers means more product management, support, etc. in the future?  E.g. more junior roles means more ""alternative roles people move into"" in the future, and they ALSO would see the downward pressure?
+
+Meaning, I don't see how what I said earlier becomes untrue if lots of junior developers move into ALTERNATIVE but still well paying roles that are usually fed from junior developer ranks.
+
+Genuinely curious... I'm a chem E... and I'd say~80% of the people I started with are still chemical engineers, in various other roles, but still related.  Or had kids and stopped working.  No idea if that is high or low."

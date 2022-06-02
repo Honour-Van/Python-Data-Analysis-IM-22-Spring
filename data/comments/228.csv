@@ -1,0 +1,14 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,ritchie46,1653497001.0,11.0,"Polars is a lightning fast DataFrame library with a very flexible functional API. 
+
+Want to know more after you read OP's post, see: https://github.com/pola-rs/polars"
+1,wdroz,1653555381.0,5.0,"I started to use Polars to replace Pandas this year. I'm impressed with the speed difference, even random operations like saving to CSV on the file system is so much faster with Polars.
+
+IMO Polars is one of the best show-case of how Rust can help Python to be *blazingly fast*."
+2,Helpful_Arachnid8966,1653499316.0,4.0,"You've made an awesome tool for the community, Ritchie.  
+Thank you."
+3,laundmo,1653524518.0,4.0,"oh wow it has connectorx support as its default for sql, thats amazing.
+
+i will definitely be taking a good look at polars."
+4,juanluisback,1653563622.0,3.0,I can totally relate u/wdroz! I have only 1 week of experience with Polars but I loved everything about it. I see myself using it more and more for personal and work projects in the near future.
+5,ritchie46,1653539506.0,3.0,You're welcome!! :)

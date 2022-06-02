@@ -1,0 +1,28 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,shadvyr,1582661924.0,6.0,"You get a head start with WordPress, but every step after that is unreliable and harder.
+
+You start from scratch with the frameworks.
+
+If you need a blog without special features, use WordPress. If you need an application having nothing to do with blogging, don't use WordPress. 
+
+Between the frameworks it's just a matter of taste."
+1,lint_it,1582719743.0,2.0,">I think it also might be interesting to learn more about this ecosystem because the majority of the web is powered by WordPress.
+
+The more you learn the more you gonna probably hate it and it's ecosystem. Tbh you really need to know WordPress to make it great, meaning there are only handful of actual decent plugins that you should use. Probably reasonable to start creating own tools and plugins for some parts.
+
+Like mentioned here if you are not going to make a blog that has no special features go ahead.
+
+WooCommerce is something that I would recommend touching when you are certain you want to deal with it because ecommerce in general is not simple. If you need to add second currency and many languages you are facing tons of optimization problems. Of course there is plugin for everything but like I said, only handful is decent and they are not usually popular ones.
+
+WooCommerce is widely used because like you said, it's free. It offers a lot out of the box, indeed so much that most users won't probably use most of the features that lie in there. Usually small scale clients won't be able to afford custom ecommerce shop so they have to stick with WooCommerce.
+
+Symfony is framework with lots of nice helpers. But it's old. If you are looking already at symphony then I would suggest Laravel that has taken best part of Symphony and some other awesome libraries and tools and created fully fledged framework for it.
+
+And like they advertise themselves, if you like to learn to write easy to read convention centric framework then Laravel is your go to framework. Laravel does not have plugins like WordPress - meaning end user cant simply install them so definitely an option for developer. Instead you can browse packages in [packagist.org](https://packagist.org) . Laravel will work with any package that is meant for vanilla PHP. (very good amount of libraries there are for vanilla PHP or for Laravel, might easily be biggest share)
+
+If you use PHP then PHPs composer and [packagist.org](https://packagist.org) is your ""plugin"" repository."
+2,gobot,1582665342.0,1.0,"It is good that you are starting with an application in mind, but these three options are vastly different. I suggest you back up and start with a programming fundamentals class first, then a database fundamentals class. These are often taught using python these days. Spend two months of weekends, the skills are transferable to any language."
+3,AutoModerator,1582659124.0,0.0,"Sorry, progonkpa. You seem to be a new user. Please participate around reddit before jumping straight to submitting!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/webdev) if you have any questions or concerns.*"
+4,progonkpa,1582723630.0,1.0,"I want to clear the misconception that I'm an inexperienced developer. I have a bachelor in application development, 2 years experience and I played around with all 3 options (though with Symfony the least)."

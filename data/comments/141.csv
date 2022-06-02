@@ -1,0 +1,320 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,football2801,1559184138.0,3.0,".NET is the new craze. From my experience there are a lot of companies moving to it. Java is typically more expensive to hire, so .NET devs can usually be had for less. .NET core runs on Linux so it appeals to those who run Linux servers which are MUCH more common than IIS. 
+
+It’s probably worth learning if you want to do back end work. Then again, you can get a well paying job doing back end development in PHP or Python or Node.js as well. Pick one you like. You’ll find work and pay."
+1,,1559183970.0,3.0,Only study the technology required for your job.
+2,UnnamedPredacon,1559188098.0,1.0,"Is it worth learning? Possibly. It's a fascinating language/framework, and MS is making it very competitive against Java on the enterprise. It has a strong documentation. 
+
+Should you learn it? That's up to you to decide. But don't be a [magpie developer](https://blog.codinghorror.com/the-magpie-developer/). Learn the fundamentals. Once you are confident enough on your base, you can switch languages with less problems. Sure, there will always be a learning curve. But the stronger your foundation, the easier it gets. 
+
+Just as well, languages are a tool. Your job isn't to use the latest framework in the latest trends. Your job is to provide a solution to your client. Whether you use the trending languages, or are using something less fashionable, the end product is all that matters."
+3,Fastbreak99,1559239264.0,1.0,"I have a huge crush on .Net Core, but more importantly don't go into the mindset of setting all your eggs in one tech basket. Everyone is going to have their forte, and that's perfectly fine, but chances are you are going to have to face other stacks, other language, and some of them haven't even been made yet.
+
+So yeah, give it a try. It's an amazing time to be a dev in that tools, language, even hosting can be free. There are no excuses not to at least hello world anything you show interest in! if you don't like it and want to try something else, there is almost certainly a market for almost any mainstream language, and there are a bunch."
+4,,1559184333.0,3.0,"I keep hearing ""there are a lot of companies moving to it"" but I'm not convinced. Can you give me a list of well known tech companies that use ASP.NET Core as of today?
+
+The Home Depot, JP Morgan Chase, Amazon, IBM, Walmart Labs all use Java Spring Boot in my area. I live in a Tech Hub. The only companies that use ASP.NET / ASP.NET Core are Dell, Charles Schwab, Emerson, StackOverflow, Microsoft, and a few no name companies in financial/government/IT consulting sectors already on the Microsoft stack.
+
+What am I missing here?
+
+Also, is it possible to avoid Java / .NET jobs entirely? I work at a well known Tech Company, and no one uses .NET at all. We just use JavaScript and Python and some Go.
+
+I'm just worried there will come a day when ASP.NET Core completely takes over Node.js, Python, and Go?"
+5,bagg889,1559218047.0,2.0,".NET is the new craze?
+
+.NET has been around since at least 2002..."
+6,tapiocasampler909,1560880565.0,1.0,"Java is still way more popular than .NET/.NET Core when it comes to server side programming though, in terms of numbers, right? Is there still a big demand for java developers?"
+7,,1559194899.0,7.0,[deleted]
+8,QuestionsHurt,1559188177.0,3.0,Good way to stay at the bottom and limit your career.
+9,,1559243639.0,-1.0,"The issue I have with .NET Core is that it isn't the ""best"" at everything.
+
+Why would I learn Xamarin when I can learn React Native?
+
+Why would I learn ASP.NET when I can learn Node?
+
+Why would I learn ML.NET when I can learn TensorFlow?"
+10,kivinkujata,1559246811.0,1.0,"I'm sort-of answering a question you didn't ask, but I thought I could add some input.
+
+I'm a senior consultant with a small (about 10-15 employees) IT consulting firm on Toronto, Canada. We specialize in Microsoft products and particularly .NET, Azure and Office 365-based solutions.
+
+At this point, about one third of our development work is now targeting the netcore/netstandard SKUs instead of framework. That being said, the vast majority (99%+) of our clientelle have no idea what the difference is, don't care, and wouldn't understand if we told them. 
+
+Although we don't have a concrete roadmap, and aren't likely to create one, I have a feeling we will have converted over to a ""all new work on netcore"" basis by the end of the year. At this point, when we interview new candidates, netcore falls squarely into the ""nice to have"" category; we're only testing against MVC 5 proficiencies right now. I expect that will change in the future."
+11,football2801,1559185918.0,0.0,"I can’t give a list, no, my comments are made purely on my own observations on LinkedIn and from friends in the industry.  Node, Python and Go all have a very small adoption rate where I am at. We have Java, .NET and PHP here. 
+
+It is entirely possible to avoid Java and .NET. As I mentioned above, PHP is big here and I am a PHP developer. PHP gets a lot of crap thrown at it from other developers, but it’s the most common language and there’s good paying jobs for it. Some of the largest local companies in my area use it."
+12,Fastbreak99,1559239081.0,2.0,".Net core has flipped everything. It's faster, more flexible, and much more dev friendly."
+13,football2801,1559218538.0,1.0,Nobody said it hasn’t been around. I said it’s the new craze. Means that it’s newly taking off in a big way in the job market.
+14,,1559198582.0,1.0,"On the contrary learning specific technologies will not further your career. Good employers(e.g FANG) do not care if you know ASP.NET ot not. But they care about problem solving and the impact you have created. As far as current job is concerned, you can make the highest impact by knowing the relevant technologies."
+15,Fastbreak99,1559246287.0,3.0,I suck at detecting this over the internet... sarcasm?
+16,,1559247296.0,1.0,"Just curious, in your company, are you specifically looking for people with prior C# / ASP.NET experience?
+
+What if I applied, and I've only had JavaScript/Node.js and vanilla Java experience from school?"
+17,,1559186391.0,2.0,"If you don't mind me ask, are you living in a Tech Hub, and what companies do your friends work for?"
+18,bagg889,1559242329.0,1.0,"Yes, I love .NET Core, but it's not a ""new craze"".  
+
+Core is an upgrade path from [ASP.NET](https://ASP.NET) 4.7."
+19,bagg889,1559219726.0,1.0,"What does ""taking off in a big way"" mean to you?  Do you have any data to back this up?
+
+I looked for a .NET job in early 2017 and have recently started looking again and notice no significant change in demand.
+
+C# language usage falling [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/) 
+
+Also, for three consecutive years, there has been a drop in usage of C# and .NET according to  [https://insights.stackoverflow.com/](https://insights.stackoverflow.com/)"
+20,,1559236138.0,1.0,IF you don't understand dependency injection and inversion of control you aren't getting hired by anyone because you are not good at software development.
+21,kivinkujata,1559247672.0,2.0,"My employer tends to seek candidates that already know the technologies that we work with from day to day (ASP.NET, C#, Entity Framework, MVC 5, CSS, HTML, Razor, various jQuery things). They don't allocate a particularly large budget to training people, and prefer candidates that can hit the ground running in the specific tech stack.
+
+Our work is - to be quite frank - quite basic, and we don't put a lot of value in the highly esoteric skills that most Masters CS grads tend to come to us with. Solving complex algorithms actually isn't really a value add here.
+
+edit: I should address Java specifically.
+
+We're currently in the process of onboarding one of our part-time remote contractors into a full-time position. He was brought in for a Java Spring MVC project that we acquired but didn't have the resources to do ourselves. Spring MVC seems to have enough transferrable concepts that we was able to meet our (admittedly fairly low) bar for C# and ASP.NET after a few weeks to a month of study."
+22,,1559247532.0,1.0,Most companies don’t care if you don’t have experience in the specific languages. They will care that you don’t follow any standardized software development practices though.
+23,football2801,1559186916.0,0.0,"I do not live in a Tech Hub, I live in the Midwest. 
+We have large local companies that myself and my friends work for in my city such as 80/20, Lincoln Financial, Sweetwater Sound, and Ruoff Mortgage. 
+
+The smallest of these companies is about a $100 million dollar company, annually. The largest being about $12 billion, annually."
+24,,1559247628.0,2.0,"Core isn’t an upgrade path from 4.7. It’s a complete ground up rewrite. Has nothing to do with .net framework, and won’t until next year when it becomes rebranded as .Net 5"
+25,,1559247962.0,1.0,"So let's say I was primarily a Full-Stack JavaScript Developer.
+
+However, I saw ASP.NET Core as a new framework and did 1 and only 1 Full-Stack ASP.NET Core / C# web app project, posted it to GitHub.
+
+But other than that, I have no tangible C# experience at all, only JavaScript. Would that be sufficient to get through?"
+26,,1559187610.0,0.0,Is it wrong to say that I have no interest to work for any of those companies?
+27,bagg889,1559253506.0,0.0,"Just because something is a complete re-write doesn't mean it isn't an upgrade path.  
+
+The ""has nothing to do with .net framework"" quote is interesting because of .net standard and how that works."
+28,kivinkujata,1559248392.0,2.0,"edit:
+
+To address your question a little more directly: A very strong JS developer with little to know ASP.NET experience probably wouldn't be considered for a position here. My employer is really hoping to sit you down in front of .NET projects on day one and have you up and running by the end of the day with minimal supervision. 
+
+They like hiring ""intermediate"" developers, as they call them. These people are usually inexperienced enough to accept a fairly low rate, but can muddle their way through the problems with some googling. Broadly speaking, I'd say that the normal intermediate takes between 10 and 30 minutes of senior dev time per day for questions - which range from ""what task should I tackle next"" to ""why the hell won't this thing work?""
+
+end edit:
+
+As you can imagine, I can only speak for the interview process at my currenty employer - and other companies I've had a hand in hiring for (three including this one.)
+
+We are a small company and don't frequently hire (one or twice a year, to fill in vacancies). Acquiring a role here basically comes down to the following:
+
+1. An intermediate knowledge of HTML and CSS. Being able to use CSS frameworks like Bootstrap 3 to build simple dashboards, data entry systems, etc.
+
+2. A good understanding of the C# language, including LINQ.
+
+3. A general understanding of the wider Microsoft .NET ecosystem, including WCF (nice to have), Entity Framework (important), SQL Server (more on that later).
+
+4. A moderate level of expertise on database technologies; particularly MS SQL Server. Including modeling tables to reflect customer data/problems, maintaining referential integrity with JOINs/FKs, etc.
+
+5. A strong working knowledge of ASP.NET. Currently we're testing against MVC 4 or 5 (they're so similar as to make little difference). This includes rendering Razor views, understanding controllers, consuming data providers (general concept, this isnt' an ASP.NET thing) from your controllers, using ""real life"" data to render views (like a table of users), using MVC intrinsics like HTML helpers for rendering HTML."
+29,Yithar,1559261811.0,1.0,The guy you're responding works at a small company. Small companies generally don't have the resources to train junior developers so they want senior developers that can hit the ground running.
+30,football2801,1559187982.0,1.0,"Nope! That’s the beauty of development. You can work in just about any industry!
+
+What types of companies interest you?"
+31,,1559254099.0,2.0,.net standard is just an agreed upon api. Mono also uses .net standard but it isn’t .net framework or .net core.
+32,,1559248516.0,1.0,So it seems like I actually need prior ASP.NET experience.
+33,,1559249013.0,1.0,"In that case, it seems like you need to be a .NET Developer to get a .NET job.
+
+It's literally a Black and White situation."
+34,,1559262066.0,1.0,"Here is my current strategy:
+
+My primary tech stack as a Full-Stack Web Developer currently is using React and Node/Express. So Full-Stack JS. This is my go-to stack.
+
+I plan on learning Java Spring Boot AND ASP.NET Core, but only doing 1 strong web app project in each framework so I can put it on my GitHub.
+
+This being said, if I say apply to Walmart Labs for their Full-Stack Software Engineer position, which requires Java Spring Boot and React, will I still be at a disadvantage because I don't have any real-world Spring Boot experience and I only have 1 GitHub project?
+
+Is this a good use of my time with my current situation?"
+35,,1559188189.0,2.0,"So you mentioned that .NET Core is the new craze. What you really meant was .NET Core is the new craze IF you want to work in .NET lol
+
+Let me give you an example: Take Dart/Flutter for instance. EVERYONE wants to be working on it. JavaScript Developers, Java Developers, C# Developers, it doesn't discriminate.
+
+I have never met a single Ruby on Rails Developer who is working for a company doing Ruby on Rails who all of a sudden says, hey I think I wanna learn C#.
+
+My end goal is to work for a trendy Tech Company or Startup. That's it."
+36,kivinkujata,1559248677.0,1.0,I ninja edited on you. Thought you should know since you're replying quite quickly.
+37,kivinkujata,1559249686.0,1.0,"It definitely helps.
+
+I've hired for three employers total. One was an enterpreneur who owned about a half dozen new and used car dealerships/franchises. One was a mid-sized IT/managed services company (100+ employees) with a small development branch, and then the aforementioned one up the chain.
+
+In all cases, they've been looking for someone that can dive into a specific project immediately. They aren't really interested in generalized talent; either you know the skills - or you don't. In that regard, it's pretty black and white.
+
+That having been said, that doesn't preclude you from getting into these sorts of positions without practical work experience, if you're concerned about that.
+
+Four years ago, I was working a minimum wage midnight shift job. I taught myself angularjs (among other things) and pitched myself on the market as an angular specialist. I found a company (the mid-sized IT firm) that had dire need of a very senior angularjs developer. Truth told, I wasn't that great at it (as I discovered by looking at my old code a few months into my job there), but I _sounded_ confident and could speak to all the topics that they were interested in. They hired me off the street, and I grew into a senior tech lead position there over the next six months.
+
+If a hypothetical candidate wanted a position at my current employer, I'd tell them to learn C# inside and out, have a moderate amount of practical experience in ASP.NET, and dabble in EF/SQL Server/WCF just to have some talking points. The bar isn't really set that high; we're not looking for people that can solve Dijkstra's algorithm on a whiteboard. If you can fetch a collection of users out of a DB and render an HTML table off of those users, you're probably good enough.
+
+Be able to confidently speak to things like Razor, MVC, and LINQ, and accomplish task that literally any web dev should be able to do (like basic CSS), and - in my experience - you're hireable."
+38,Yithar,1559262830.0,1.0,"> This being said, if I say apply to Walmart Labs for their Full-Stack Software Engineer position, which requires Java Spring Boot and React, will I still be at a disadvantage because I don't have any real-world Spring Boot experience and I only have 1 GitHub project?
+
+I mean, professional experience is always better than a random side project, but something is better than nothing.  
+
+This is the a lot of hiring managers see side projects:  
+`:blobcatthinking: doesn't have to be anything; if people are looking at a portfolio it's b/c they wanna look at your work. the circumstances of that work are secondary (but certainly bonus points)`  
+
+I think you should either pick .NET Core or Spring Boot depending on the jobs in your area (and I mean only one, not both of them), and do 1 project in that."
+39,,1559235897.0,2.0,"> Take Dart/Flutter for instance. EVERYONE wants to be working on it.
+
+Oh really. EVERYONE wants to work on Dart and Flutter? Lmao step away from the tech blogs and reddit. I would never reach for Dart or Flutter for any development what so ever. 
+
+Sounds to me like you just have a bone to pick with .net and haven't given it a look in the last 10 years. The fact that you are anti dependency injection tells me a lot about your abilities as a developer however."
+40,football2801,1559188435.0,0.0,"When I said .NET core is the new craze, I was referring to companies that are just starting to expand their IT department and startups. Not the developers themselves.
+
+I find it interesting that your goal is to work for a startup. Statically speaking, startups are risky and pay less."
+41,,1559249855.0,1.0,"Which is why I'm asking if we do one and only one Full-Stack Web App project in ASP.NET Core, will that be enough to prove to most hiring managers that we know what we're doing?"
+42,,1559263032.0,1.0,"Am I starting at ground zero compared to New Grads with NO experience at all since I already have Full-Stack JavaScript experience, albeit not exactly in Java Spring Boot?"
+43,,1559238058.0,-1.0,"Why are you treating programming like some kind of pointless competition lol
+
+I have experience in Front End Development in React. I have never touched Dependency Injection. The interviewers for Front End Developer roles are more likely to ask me about Closures, ES6 syntax and prototypical inheritance than how to do Inversion of Control using Angular or Spring Boot.
+
+I will only apply to React jobs. You might say I'm limiting myself but I'm really not...React has enough jobs to keep me busy.
+
+For the record I don't have a bone to pick with just .NET. I wouldn't program in Java either so if anything I'm in favor of Python, Javascript and Go."
+44,,1559188619.0,-1.0,"All those companies you listed above sound boring. Nothing wrong them, but to me they sound boring. I don't think a lot of Developers would willing ""choose"" to work for a random financial / government country if they had a choice to work for Google.
+
+When I say Startup, I don't mean something that just started out, I'm referring to Unicorns like AirBnB, Uber, Lyft, those type of companies that are trendier than larger companies while still being large themselves.
+
+My goals are more leaning towards Tech Hubs with cutting edge tech, not boring enterprise apps. Nothing wrong with them being boring, I'm just stating that now you know my goal, can you honestly say that learning ASP.NET Core will benefit me in any way for my specific situation over learning something like Ruby on Rails?"
+45,kivinkujata,1559249891.0,1.0,I could be.
+46,Yithar,1559263369.0,1.0,What do you mean? I'm not sure what you're asking.
+47,,1559238438.0,2.0,"Dependency injection and Inversion are core parts of software development. Even in react applications. It represents the D in SOLID-C which are fundamental principles agreed upon by most software developers. This is why I said it tells me a lot about you as a software developer. 
+
+https://en.m.wikipedia.org/wiki/SOLID
+
+The -C in SOLID-C (not listed in that article because it’s “newer”) stands for favor Composition over Inheritance"
+48,football2801,1559189073.0,1.0,"Knowing your goals, I’d say no. Specifically.NET core is not the best option while C# would still be beneficial.  .NET core is best for websites/web apps. C# can lend to more variety in programs and apps. Websites, desktop apps, mobile apps, etc. Go would also be a good one if you want to work for google. 
+
+Seriously though, as I mentioned earlier. If you pick a language you really want to use, you’ll easily find work in that language if you are proficient."
+49,,1559264900.0,1.0,Am I on the same level of advantage as New Grads who have no Spring Boot experience or do I have the leg up since I have work experience in web development already?
+50,HelperBot_,1559238443.0,1.0,"Desktop link: https://en.wikipedia.org/wiki/SOLID
+***
+ ^^/r/HelperBot_ ^^Downvote ^^to ^^remove. ^^Counter: ^^260662"
+51,,1559243759.0,0.0,"Your experience in Angular cannot be applied to ALL Front-End roles, let's be completely honest.
+
+I have worked 1.5 years as a React developer, and I can tell you that I have not needed to worry about SOLID, composition, inheritance, dependency injection at all.
+
+I am more worried about Redux, closures, functional JS-oriented concerns."
+52,,1559189392.0,0.0,"I was asking from the perspective of this:
+
+Let's say I agree with what you are saying. I just focus on JavaScript and Python. Nothing else.
+
+Am I less of a Software Developer because I never had experience working with OOP in Statically Typed languages like Java / C#? Do I need to have that experience to be a ""TRUE"" Software Developer?
+
+Also, why do you suggest I learn C# and not ASP.NET Core?
+
+For Mobile, I plan to use React Native, not Xamarin. I don't plan on being a Game Developer or a Desktop Developer. I am happy with doing Web Development in just Full-Stack JavaScript.
+
+If all of my experience is Dynamically Typed scripting languages, what will happen to my career?"
+53,Yithar,1559266721.0,1.0,For a full-stack developer I would think you would have a leg up since front-end development does require Javascript. There isn't very high expectations of junior developers in the first place.
+54,,1559245747.0,2.0,I spent 2 years as a developer not caring about SOLID. I was wrong then. Just like you are today. None of this is Angular specific these are foundational elements of software development and your insistence that these don’t matter is reinforcing to me again and again you are not a good developer. Don’t bother trying to get into the big name tech companies. You aren’t going to make it if you don’t care about things like SOLID.
+55,football2801,1559190126.0,1.0,"If all of your experiences are in dynamically typed languages, and you develop software, you are no more or less a developer than somebody who develops in statically typed OOP languages. 
+
+I have experience in C++, Java, C# and PHP. I don’t use any language other than PHP at my current job. However, your selection in jobs will be limited to the language you choose. 
+
+If uber uses one of those statically typed OOP languages, and you don’t have experience in it, you probably won’t get hired. 
+
+“If all of my experience is Dynamically Typed scripting languages, what will happen to my career?”
+You’ll be fine. You’ll be successful so long as the language you use is still relevant and you maintain proficiency in it. A true software developer is a person who develops software. It’s as simple as that. The language doesn’t matter. The only thing that separates one software developer from another is experience."
+56,,1559246481.0,0.0,"The issue is not the fact about me not caring about SOLID. Let's say I learn it, but my team isn't using it actively in development.
+
+Am I going to shove it in my Team Lead's face: USE SOLID! USE SOLID! WE GOTTA USE DEPENDENCY INJECTION?
+
+My Team Lead will say: We have UX design mockups that I need you to work on implementing. This may require some tweaking with Webpack, Babel, Redux.
+
+Me: But SOLID...
+
+Team Lead: We don't use Angular or Java lol"
+57,,1559190921.0,0.0,"For the record, I have experience in non-framework Java and C# already. I'm just not sure if I need to invest time in learning a Java FRAMEWORK or C# FRAMEWORK."
+58,,1559246720.0,2.0,"Ok just because your team lead is a bad developer doesn’t mean you aren’t also a bad developer. If your team lead tells you “we don’t care about software development” then find a new job. Because your current team is wasting your time. Because again SOLID doesn’t have fucking anything to do with Angular or Java. The fact you think it does just further reinforces to me that you have no fucking clue what you are talking about.
+
+Edit:
+
+Also react has dependency injection built in. So not only are you a bad developer but you don’t even know React correctly. 
+
+https://marmelab.com/blog/2019/03/13/react-dependency-injection.html
+
+Just a hint: figure out your shit before arguing with professionals that you know what you are talking about. Because you don’t."
+59,Yithar,1559261980.0,1.0,"> Am I going to shove it in my Team Lead's face: USE SOLID! USE SOLID! WE GOTTA USE DEPENDENCY INJECTION?
+
+There are also some team leads who don't give a care in the world for technical debt or unit tests or code coverage. That doesn't make them good developers.  
+
+I agree with the other guy about Dependency Injection being important by the way.  
+
+> I'm just saying most React Developers who come from Coding Bootcamps will not know what they don't know, such that they will not know that Dependency Injection or SOLID is even a thing.  
+
+It's called googling. I'm pretty sure my teammate who's a bootcamp graduate knows about Dependency Injection, but we also do happen to use Java here, although she doesn't touch the backend as often as I do."
+60,,1559247221.0,0.0,"For the last fucking time, my point is not to say SOLID or Dependency Injection isn't useful.
+
+I'm saying it's not the IMMEDIATE priority for React Developers the same way it is in Angular or Java. That's it.
+
+In Angular and Java, those principles are more heavily enforced within the nature of the framework itself.
+
+In React, you CAN do SOLID and Dependency Injection, but most React Developers aren't going have the same mindset as most Angular/Java Developers.
+
+React follows more of a vanilla JavaScript approach. Heavy focus on the JAVASCRIPT side of things.
+
+Angular follows more with the nature of Java / C#. That's why Angular is seen as an easier transition from a Java / C# Developer than React or Vue.
+
+React/Vue focus more on ES6/JavaScript syntax.
+
+I'm not saying SOLID is useless. I have never made that claim. I'm just saying most React Developers who come from Coding Bootcamps will not know what they don't know, such that they will not know that Dependency Injection or SOLID is even a thing.
+
+Whereas if you come from a CS degree/university curriculum and have experience working with Java Spring / ASP.NET, you will be more ingrained in those concepts."
+61,,1559247407.0,2.0,"SOLID doesn’t care what languages you use. Neither Java nor C# force you to use it. They are basic principles used across all languages and frameworks. So yes it should be your priority even as a react dev. 
+
+Also as a boot camp dev myself it’s called googling things on your own. If you are bitching about having to learn new things then you are an even more shit developer than I thought and you will absolutely never end up at a cool tech company. Stop being proud of your ignorance."
+62,,1559247798.0,0.0,"I never said SOLID cares or doesn't care about what languages you use.
+
+The point I'm trying to make is the DEGREE in which you can potentially neglect SOLID due to certain frameworks being utilized.
+
+To be frank, the original discussion was more towards Dependency Injection rather than SOLID/DRY/KISS-whatever."
+63,,1559248198.0,2.0,"Dependency injection is part of SOLID. Again nothing about React means SOLID doesn’t apply or isn’t needed. Dependency Injection is built into React. The other principles are more about how you structure your code. 
+
+You should never neglect solid. If you are just so you can go faster than means one thing only: you are a fucking shit developer who has no place trying to criticize technologies and principles that you don’t fucking understand. You are bad at your job. Do better."
+64,,1559248366.0,0.0,"You don't know what my job is or what I do. lol
+
+For all you know, I could be a dog with a keyboard who is secretly a Product Manager posing as a Front-End Developer. In that case, saying I'm bad at my job is kinda...not relevant.
+
+Think of me not as any developer but as a disembodied objective voice that you have to answer."
+65,,1559249033.0,2.0,I mean you already have explained multiple times that you are a front end developer who is terrible at their job.
+66,,1559249339.0,1.0,"I'm curious: What is your job? If you don't mind me asking, what do you do exactly and what company do you work for?
+
+Are you in the SF Bay Area?"
+67,,1559249422.0,2.0,I’m a software architect at a fin tech startup in Seattle.
+68,,1559249532.0,1.0,"Are you Front-End, Back-End, Full-Stack?"
+69,,1559249690.0,2.0,"Software Architecture is more about the overall system rather than on one specific part. But I’m a full stack developer as well. Angular front end with .net core backend, but also utilizing python, and node for work outside the core of the system."
+70,,1559249787.0,1.0,"What's your opinion on the future of Java Spring Boot? Will it get ""killed off"" by ASP.NET Core going forward with .NET5 and all that, or will it survive and still have the dominant market share within enterprises?"
+71,,1559250061.0,2.0,I’m not familiar with Java frameworks at all. I don’t think .net 5 really represents a paradigm shift or anything. It’s just continuation of core. Java has too much momentum behind it to be killed off by Microsoft. It’s not going anywhere.
+72,,1559250290.0,1.0,"I personally want to learn about ASP.NET Core. It seems like an interesting technology.
+
+I'm just honestly confused why it seems like a lot of people follow .NET almost religiously.
+
+It disturbs me to see C# developers being like: oh look Blazor allows you to do everything in C#. You don't need to touch JavaScript. JS sucks. Java sucks. Everything should be in C#.
+
+In my opinion, and this is just my opinion, C# is just one out of many technologies that you COULD use to develop web apps.
+
+What are your thoughts about this?"
+73,,1559251679.0,2.0,"Few reasons: 
+
+1.) Companies who use .Net probably will use .Net for everything. And you can make a successful career around just knowing .net
+
+2.) C# is just a really fucking good language. I use python for auxiliary systems at work, but primarily because my coworkers responsible for those systems (not developers) only know python. I’ve toyed with Node/Rust/C/C++/some Java and there is nothing about those languages that makes me want to switch. I can do everything in .net. Video Games? Mono game/XNA/Unity/Godot. Websites? ASP.Net. Ultra fast caches and Databases? You can do that too. Does it do everything the best or the fastest? Nope. But the developer experience around it is nice enough to make up for it. 
+
+3.) the tooling is fantastic. Visual Studio is my favorite IDE. VSCode is my second. When I focused .net instead of Java when I was first learning the fact that there were no proper dark theme ide’s for windows made it an easy decision. 
+
+4.) the (previously) walled garden of .net keeps developers locked in. When it came to .net framework you were stuck on windows in visual studio. Unless you wanted to fight against Xamarin issues. 
+
+As for Blazor:
+
+That’s less an embrace of .net and more a dissatisfaction with JS. Web Assembly is coming and people are writing compilation targets to get .net/rust/c/etc all running in the browser. 
+
+Personally I don’t see the point for normal web development. I actually love JavaScript and TypeScript. I have yet to hit a problem in the front end space that I thought “wow I wish I had web Assembly for this”. I suspect most of the hype around blazor and web Assembly is largely “holy shit we can run .net in the browser now!” And the hype will eventually die off. Although there is something very appealing about code reuse between front and back end systems allowing for write once validate anywhere business logic etc. 
+
+Also I had mentioned in pms about fable, which does allow for f# front to back. But that just uses Babel to transpire the f# into js. It’s similar to elm in that it makes writing functional front end code easier."
+74,,1559253313.0,1.0,"In an ideal world, do you think every and all companies should be using ASP.NET Core to develop new web apps?
+
+What is ASP.NET Core NOT good for, in your opinion compared to something like Rails, Django, Laravel, or Node/Go?"
+75,,1559255662.0,2.0,"Not at all. Choice is good. I love core, I doubt I’ll ever use anything other than core for the foreseeable future (after this job it’s mini retirement for a few years then I’ll start my own development coop), but competition of ideas is good for the ecosystem. 
+
+I’d definitely recommend developers use core though over rails and Django. I’d use Django if I needed to write a service for a module my non developer coworkers. But not outside of that (although Django was my first mvc framework I learned). Node has the benefit of the same language and is useful for small services, although core is also great for small services. 
+
+I don’t use concurrency very often and the concurrency I do use in c# is pretty straightforward so I can’t really compare it against Go in that regard. Although if Concurrency was that big of a deal I’d probably reach for rust personally, since I’m familiar enough with it."

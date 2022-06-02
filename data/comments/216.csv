@@ -1,0 +1,912 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,QualityVote,1644535004.0,1.0,"Hi! This is our community moderation bot.
+
+---
+
+If this post fits the purpose of /r/ProgrammerHumor, **UPVOTE** this comment!!
+
+If this post does not fit the subreddit, **DOWNVOTE** This comment!
+
+If this post breaks the rules, **DOWNVOTE** this comment and **REPORT** the post!"
+1,__B_O_N_K__,1644535608.0,1604.0,When working with floating numbers you can have problems with hitting an exact number. E.G when addind 0.5
+2,,1644535724.0,1712.0,"Logically, you want it as < 5. 
+Because that's the intent of the code. 
+
+Both are ""right"" but one shows better intent. It suggests the code will be in a range below 5 . 
+
+Also, think about extending the code. 
+You can technically add a part that handles >= 5 
+However you'll need to change the !=5 and not the <5"
+3,Pan4TheSwarm,1644550292.0,760.0,"Hello! I'm an embedded systems developer. This is an example of defensive programming in practice. This is common practice in many embedded systems, but especially so in safety critical systems. 
+
+In these kinds of systems you ask questions like ""what if a hardware malfunction occurs and a bit flips? What it a magnet touches the device and x is now 6 and incrementing?""
+
+It's a simple practice that ensure that if the weird happens, your pace maker still works as expected."
+4,CmdPopenfresh,1644537500.0,90.0,Having the safety net is almost always desired. You never know what the contents of that loop might be changed to 10 years from now.
+5,foresth11,1644535187.0,502.0,While(counter<5) handles in case something funky happens and it skips 5.
+6,mfuentz,1644536052.0,34.0,Maybe there’s some valid case where I’d jump from 4 to 6 and then run forever. Or maybe not.
+7,_IscoATX,1644552893.0,24.0,And then the counter goes above 5 and you’re fucked.
+8,DesecrateUsername,1644544506.0,20.0,Hope your data never has a 6.
+9,Saitpstc,1644535299.0,59.0,Of course I have to see this post at 2 AM
+10,serunati,1644536255.0,69.0,"You are thinking like a human. You have to get all the way down to the machine code level; however, almost always, there are more logic steps in evaluating a negative (!=) than a < or >. So much so that when I programmed on more limited processors (circa 1997) it was more efficient to have “ if x<5 or x>5” than “if x!=5”.  This mattered as I was evaluating against millions of records in a dataset. The time difference at scale was one ran in 4 hours and the other in 9. 
+
+So. Are you writing “hello world” or are you writing twitter livestream analysis?"
+11,zorbacles,1644554182.0,15.0,"if you use != 5 there will be some magic iteration that skips 5 so that counter will hit 6 and keep going indefinitely. 
+
+the only time it wont do this is when you step through the code."
+12,AnonymousAxolotl2,1644552531.0,13.0,"No functional difference except:
+
+1) that’s just begging for a bit to randomly flip and then you have a program chugging along to infinity and 
+
+2) <5 describes the intent of the code (a range) better than !=5 (which would be a Boolean). Keep the code self-descriptive if you can. Plus, it’s one fewer character you need to type."
+13,R_I-T_I-K_A,1644548484.0,36.0,"Other people in this content thread : big statements with substantial reasons supporting their arguement.
+
+Me as an undergrad 1st year student : well (c<5) requires one key less type than (c!=5) so (c<5) it is."
+14,Intelligent-Camp7815,1644550435.0,23.0,"I’m gonna be honest…I made this as a total shitpost, but I’m finding the comments to be pretty insightful. Well done, sub. Well done."
+15,arobie1992,1644544247.0,4.0,"Depends. Do you want to only stop if counter is exactly 5 or are you counting up from some number below 5 and stopping once you hit 5? Former, != is better since 6 is equally valid to continue. Latter, < is better because it confers additional information about what's going on and when iteration should stop. The latter is much more common, so I'm going to hazard a guess and say you want that one."
+16,ShakaUVM,1644550051.0,3.0,"You should always use while (counter < 5), with, ideally, counter being an unsigned integer, simply because your code here can't enforce an invariant that counter begin less than five.
+
+You should never write code that requires someone in another chunk of code to know that your variables have to be in a certain range. Because someone will come in at some point, and change something (easy example is that they use the variable counter *again* in another loop above this one) and now your code infinite loops. 
+
+Better still than both is to have a for loop which scopes a variable to just the loop."
+17,kquizz,1644554462.0,4.0,"don't do  !=5
+
+if you skip over 5 then your loop will go on forever."
+18,RazorBlade9x,1644551561.0,3.0,"i < 5 protects from cases where i can change within a loop and make i increment from say 4 to directly 6 making our loop infinite.
+
+Also, if i instead of integer i is a double then inequality checks can be unreliable.
+
+In collision detection checks, addition of certain delta can also lead to the coordinate overshooting the boundary.
+
+If we aren't doing any of those, != check should be fine."
+19,Marsrover112,1644555215.0,3.0,It will work but it's not very professional and people may or may not murder you over it but yeah it will usually work. I mean as long as you aren't at risk of ivershooting i because then you would have some problems
+20,CreaZyp154,1644561383.0,3.0,What about bit flips?
+21,random-homo_sapien,1644569479.0,3.0,"!=5 can still cause glitches if the code isn't full proof. I once made a small game in which you lost a life everytime you touch a bat (Among other things).
+  
+I put something like:
+If (lives = 0):
+Game ends
+  
+All well and good until this one moment when 2 bats flew at the character at the same time. My lives were 1 and went directly to -1. 
+
+Now since it wasn't 0, the game continued on with my character as immortal.
+
+Using <,> are better than = or !=."
+22,werf_mich_weg,1644535998.0,2.0,QAC usually forbidds != if you want to use any continue structure. So < is preferable if you need to do static tests.
+23,Spartici,1644545728.0,2.0,You didn't account for cosmic rays
+24,Mmiguel6288,1644552452.0,2.0,A cosmic ray could zap the memory holding i and change it to 6
+25,fishbelt,1644553430.0,2.0,If you write != 5 I'm going to change it and then judge you hard.
+26,Hasagine,1644554328.0,2.0,Second one seems unsafe. What if it skips to 6?
+27,recs7168,1644554645.0,2.0,"The only argument for != 5 is that it makes your code feel ""more precise"". Which ultimately is a poor argument.
+
+It's analogous to making a sandwich.
+
+When you make a sandwich, you might try minimize your cost by choosing lower quality ingredients. This optimization might fulfill your OCD. However, you're giving up a beautiful and tasty sandwich (i.e. aesthetic and easily interpretable code). And if you keep cutting corners, you're eventually going to give someone food poisoning (i.e. bugs) due to something beyond your original intent / control.
+
+After all, the number one rule of programming is that you never know what will go wrong.
+
+Don't be a miserly inexperienced sandwich peddler; be a gourmet chef and have higher standards for your code."
+28,UnlicencedAccountant,1644554972.0,2.0,"Came here for the bitflip comments.  Was not disappointed.  But you’re all missing the bigger picture.
+
+*while i is less than ...* will only prevent half of the problems bitflips cause.  I see a lot of people suggesting unsigned integers, but if for some reason that’s not practical, *while i is greater than ...* wrapping a *while i is less than ...* loop handles it nicely.  I know it’s messy and you definitely want to leave a little comment or two letting the next person know why you did this crazy thing ... but it’s worth doing."
+29,Panda_With_Your_Gun,1644557473.0,2.0,"While spam <=4:
+  Egg
+
+All these <5 people are fucking drunk"
+30,Pheonixash1983,1644563791.0,2.0,While loop are very dangerous. I use for loops instead ie for(int counter =0; counter < 5; counter++) this decreases the chance of extra looping due to stack corruption.
+31,just-bair,1644564571.0,2.0,"You never know it’s always better to use <5 than !=5 (especiallly since I see that you’re in a while loop) we never know what could happen
+
+(It also runs faster so it’s even better in that way)"
+32,Odisher7,1644565095.0,2.0,"If you use counter !=5, you better pray counter doesn't jump from 4 to 6 somehow"
+33,rnike879,1644570304.0,2.0,"To summarise others posts on why ```counter < 5``` is better:
+
+1. Because if you're working with floats, the counter may never be evaluated to exactly 5, so it won't become False and keep looping
+2. Because it better conveys the intent of the code 
+3. Because if any random error happens (like a bit flip due to cosmic rays and temperature fluctuations) or your code increments i in function scope, the iteration counter may skip 5 and the loop would continue"
+34,Pauchu_,1644572783.0,2.0,"If by some miraculous occasion (floating point numbers, a glitch, a bug you overlooked or whatever) you ever slide past the 5, you create an infinite loop. You don't gain any benefit from using != over <, it takes the same amount of time, so there is no reason not to stick to convention"
+35,The_Moon_Conure,1644597087.0,2.0,While(counter!=>5) 🥵🥵🥵
+36,SkizerzTheAlmighty,1644600817.0,2.0,"Always use < or >.  Code intent aside, rays of subatomic cosmic particles moving near the speed of light through space can flip bits in cpu memory, and a != could end up out of the loop range and iterate infinitely.
+
+And to those that haven't heard of this, no it isn't a joke, it actually happens.  Look up Cosmic Bit-Flip.  Crazy stuff"
+37,Extra_Organization64,1644602144.0,2.0,Well maybe if a bit fucking flips you'll miss 5
+38,Exciting-Insect8269,1644605428.0,2.0,"If anything happens to increase or decrease that variable by anything other than a whole number, or it gets increased while at 5, you are screwed."
+39,Malonepwn,1644611160.0,2.0,What if the counter goes...  past 5?  ![gif](emote|free_emotes_pack|flushed)
+40,Colifin,1644544512.0,6.0,"!= is easier to write a proof for.
+
+< is generally more idiomatic.
+
+Use whichever conveys intent better."
+41,concequence,1644550727.0,4.0,"Bah...  
+
+For(;;){
+If(counter == 5){ return; }
+
+
+}
+
+Much better."
+42,katadromikos,1644549098.0,2.0,"counter = 6 
+
+
+while( counter != 5) {
+      counter++
+}
+
+
+Hmmmmmmm"
+43,Thathitmann,1644554616.0,2.0,"While True:
+
+All the code here
+
+if counter >=5:
+
+break
+
+This is how I do it."
+44,OldUther,1644535501.0,1.0,"Find a balance. Sometimes it matters, sometimes it doesn't. When it doesn't, don't care which is better. Both work."
+45,B_Dogg2003,1644540582.0,1.0,I use != if it's a sentinel termination and i don't know how many times i need to loop it.
+46,AlexRT410,1644542568.0,1.0,!= might be a better choice if the variable counter is poorly named
+47,StrangePractice,1644546641.0,1.0,Cries in double
+48,1UltimatePower,1644547512.0,1.0,For some reason I am always nervous to user while(counter !=5) because I think the computer might forget to count 5. Am I the only idiot?
+49,qK0FT3,1644549107.0,1.0,To be honest this is not even programming problem. This is fckn simple logic. Easier than elementary math
+50,EdgarDrake,1644549163.0,1.0,"If the iterator counter is atomic integer and there are multithreaded iteration, != may failed to stop for other thread iteration."
+51,p0k3t0,1644550996.0,1.0,"Guys, should I cast malloc()'s return?
+
+And is it okay to make new complex types using typedef structs?"
+52,c2u8n4t8,1644551935.0,1.0,Openmp only compiles with <
+53,Empero6,1644552309.0,1.0,Couldn’t you get an infinite loop with that second scenario if it never hits 5?
+54,Vyxyx,1644552621.0,1.0,"while( counter < i ) {
+     If( i < 5 ) {
+          i++;}
+     }"
+55,OutrageousPudding450,1644552685.0,1.0,"It shouldn't happen, but with my thaught was always : if somehow my loop skips 5, then it becomes an infinite loop.
+
+I wouldn't be able to sleep at night if I wrote this kind of code."
+56,BlazerBanzai,1644552963.0,1.0,XOR wants a word with you lesser beings
+57,xdyldo,1644553228.0,1.0,What if the counter is being incremented by 2?
+58,425_Too_Early,1644553682.0,1.0,"Fitting stackoverflow question:
+
+[https://stackoverflow.com/questions/52935297/should-you-use-instead-of-to-be-extra-safe-when-coding-with-other-type](https://stackoverflow.com/questions/52935297/should-you-use-instead-of-to-be-extra-safe-when-coding-with-other-type)"
+59,-Yare-,1644554766.0,1.0,"This runs forever:
+
+    float i = 0f;
+
+    while (i != 5f) 
+
+        i += 0.1f;
+
+This terminates more or less where expected:
+
+    float i = 0f;
+
+    while (i <= 5f) 
+
+        i += 0.1f;"
+60,Guluten_tag,1644554767.0,1.0,Edge cases tho. What if 6 out nowhere! Keep it bugproof
+61,Competitive-Culture4,1644555201.0,1.0,Counter==5
+62,eddiekoski,1644555586.0,1.0,If counter is an integer you are fine if it is a floating point I'm scared a rocket launch would explode.
+63,NuTsi3,1644556041.0,1.0,Not a programmer or even know what this is about. However I have been that dude a many of nights lol. I feel it.
+64,jask11,1644556248.0,1.0,<=4
+65,bluemayskye,1644556410.0,1.0,"Found the answer in song format!
+
+You and I Both Lose (but 5 wins) by Toehider"
+66,elellelel,1644556602.0,1.0,"It doesn't make a difference if you can trust your assumptions about the code.
+
+Today.
+
+And six months from now.
+
+And six months from then.
+
+....
+
+but I'm sure it's fine.
+
+(tongue-in-cheek response sorry)"
+67,IraqiWalker,1644556796.0,1.0,Always be specific.
+68,rampantunicorn1970,1644556843.0,1.0,"Deciding if a number is less than a given number requires a larger decision tree than !=. Since it seems you’re already in a loop, reducing the comparisons will make the loop tighter; additionally, it could trigger compiler optimizations (assuming you’re using a compiled language)."
+69,sc00pb,1644557000.0,1.0,"At this point it has to do with readability, what expression makes more sense when reading your code."
+70,Yamidamian,1644557337.0,1.0,"Both are wrong.
+
+It should be while (!(counter>=5))"
+71,Zegreedy,1644557577.0,1.0,One is cosmic bit flip proof and the other is not.
+72,Torebbjorn,1644558603.0,1.0,"< shows intent, and is more secure in every sense. If there is a way for it to accidentally be incremented twice, != will fail, and you know... or if it starts up as greater, or somehow gets converted to a float.
+
+It is also possible that < COULD be faster in some implementations. For example if (a != b) is tested as (a < b or b < a). I don't know why it would ever be done like that, but you know... could also be the other way"
+73,Random_Name_7,1644558648.0,1.0,If it works it works
+74,QuantumSupremacy0101,1644558874.0,1.0,"For a tiny CS assignment, you're right. It will not make a difference. For enterprise level programs you can run into a lot of issues. 
+
+Long story short, by accident or by nefarious means it's always possible the program can end up in a state higher than 5, that would create an infinite loop."
+75,bistr-o-math,1644558980.0,1.0,"    function(int startvalue){
+        int counter = startvalue;
+        while (counter != 5) //not what you want
+            { … }
+    }"
+76,PotaytoPrograms,1644559104.0,1.0,if the counter is greater than 5 !=  will not end the loop. this could happen for any number of reasons.
+77,throwaway46295027458,1644559648.0,1.0,I would always choose the symbol that excludes more of the numbers you don't want. That way it's more resistant to other deva changing the increment or bitflips.
+78,jckringer,1644559662.0,1.0,Make it config based and then just use the value you set in the xml. If you plan for it to change in the future
+79,ANSI11,1644560279.0,1.0,"well it makes some difference. Let's say that you wrote while(n!=5) and before that scanf(""%d"",&n) and then user inputted 6, and then the loop increments n as long as it's not 5. What happens? Infinite loop."
+80,AltAccountMfer,1644560411.0,1.0,"I don’t know why you wouldn’t just put in the logic that you intend. Even though it’s probably fine, why would you risk side effects?"
+81,Anno474,1644560460.0,1.0,One professor once said doing it like < 5 provides a small but measurable defense against spontaneous data corruption mid-loop.
+82,Fireye04,1644560605.0,1.0,"Well yes but actually no.
+
+It should technically work, but it doesn't scale/change very well."
+83,freonblood,1644560752.0,1.0,You'll feel really stupid when a cosmic ray or radioactive beef flips a bit and it becomes 6
+84,ExplanationMore6940,1644561304.0,1.0,I do != because I like to live dangerously
+85,Sambro_X,1644561910.0,1.0,Even if there is completely positively absolutely no way the counter doesn’t goes higher than 5 I’ll still write it “counter < 5” because what if the counter goes higher than 5?
+86,JohnTheCoolingFan,1644562136.0,1.0,"Well, the first variant improves readability and less prone to bugs."
+87,2_pug,1644562212.0,1.0,I have an anxiety yhat i could skip 5 and run forever
+88,Wexzuz,1644562620.0,1.0,"Float, decimal, double, or non threadsafe iterations of the number variable could be issues"
+89,chrisnlnz,1644562681.0,1.0,"This is the second time in not too long I've seen this question. Previous one was someone posting on the badcode suggesting that <5 was bad code and you should just use !=5.
+
+A counter could be incremented or decremented by values other than 1 (and so skip over 5), or it could be a float.
+
+Basically it depends on what the loop is trying to accomplish. Should it only run for values under 5? Or should it only run for values that aren't 5? Those are semantically different."
+90,brotatowolf,1644563070.0,1.0,Hope you never ever ever have to increment by more than one
+91,MattPatrick51,1644563149.0,1.0,"The problem with !=5
+
+Is that i can be 0 or -278482 or 37, and i++ or i-- can make the difference between a functional while or an infinite bucle
+
+On the other hand with <5, i can be 0 or -278482 but not a number higher than 5 or it would just iterate forever, but the intent os clear that i should be initialized to a number less than 5"
+92,Accidentallygolden,1644563156.0,1.0,"Cosmic ray memory corrupy
+
+Wikipedia:
+
+>Studies by IBM in the 1990s suggest that computers typically experience about one cosmic-ray-induced error per 256 megabytes of RAM per month.[15]"
+93,yaboiiiuhhhh,1644564054.0,1.0,You don't want it to somehow go past 5 and never stop
+94,Gammabrunta,1644564491.0,1.0,"1 equals 1! Stack overflow! 1 equals 1!
+
+Someone will get that."
+95,oltreil,1644565194.0,1.0,"Discussed here
+ https://www.reddit.com/r/ProgrammerHumor/comments/sbjg7e/it_sounded_funnier_in_my_head_ok/?utm_medium=android_app&utm_source=share"
+96,alrogim,1644565389.0,1.0,"You could argue < describes obviously an interval while != may be a randomly set abort condition. So you are telling the reader more about what's coming. A for loop is another story, because it's designed to do that. Subtle difference."
+97,kronos_lordoftitans,1644565484.0,1.0,If you know it's going to be a specific amount of time before starting the loop you should use for
+98,Kruger_Sheppard,1644565562.0,1.0,≤
+99,das_Keks,1644565594.0,1.0,"Regarding stackoverflow there's this: https://stackoverflow.com/q/18596300/2016386
+
+The question was in regard of performance but there are also answers on best practice."
+100,anselme16,1644565621.0,1.0,"`while ( counter < 5 )` is shorter and more robust.
+
+If you ever have a custom behavior like incrementing twice in the loop to skip entries, it'll still work."
+101,Giocri,1644565680.0,1.0,"Computational speaking != and < are identical for all types that are directly supported by the CPU it just executes a subtraction and checks one of the flags.
+
+For bigger types < is more efficient as often you just need to take into consideration a smaller portion of the number"
+102,,1644565845.0,1.0,"counter < 5 implicitly mean it was incremented
+
+counter != 5 more of a choice (maybe switch case?)
+
+IMHO"
+103,matyklug,1644566485.0,1.0,"Just wanted to say that that code makes me incredibly uneasy. Please, please kill it.
+
+Also should probably be replaced by a for loop if possible."
+104,dough_dracula,1644566503.0,1.0,Incredible how utterly saturated this sub is with non-programmers.
+105,placido_penitente,1644567970.0,1.0,I always think something weird will happen or someone will try to ruin my application once deployed in production. And my counter will skip my limit.
+106,i_wear_green_pants,1644568971.0,1.0,"Well the difference is that do you want to run as long as number is below 5 or run as long as number is not 5. Both have their places depending on what you try to achieve. Even though result might be similar depending what there is inside of the block, they have different logic."
+107,Urbs97,1644569552.0,1.0,"< 5 is safer in case you are incrementing the counter variable not as intended.
+That's also why you should always try a for loop first."
+108,purewhitezebra,1644571173.0,1.0,"Not a programmer, but x<5 is not same as x!=5, it may work but it is wrong.
+
+Additionally due to my laziness i will always use x<5, somehow it is less work."
+109,audigex,1644573166.0,1.0,"The latter will work in the vast majority of cases, nearly all in fact, particularly when using integer arithmetic
+
+But the former will catch more edge cases and is thus slightly more reliable with no downside I’m aware of (the operation is no more expensive)"
+110,GrannyTurtle,1644573480.0,1.0,🤣
+111,lemons_of_doubt,1644574582.0,1.0,"How to have crash your app with an infinite loop. 
+
+It should never happen = it's going to happen."
+112,shizzy0,1644574924.0,1.0,Have to protect against a cosmic ray hitting your memory. Use the <>s.
+113,NaiveIncident1198,1644574924.0,1.0,https://join.displaysocial.com/znrO/roshanjr
+114,RhetoricalCocktail,1644575628.0,1.0,"Even if they'd in theory do the same thing != 5 is just inherently more risky with zero benefits
+
+Plus what you want is for it to run for numbers under 5, you don't want them to run for numbers greater than 5 too right? 
+
+Like != 5 is the same as <= 5 || >= 5 if you think about it, so it's less clear"
+115,Rafcdk,1644575935.0,1.0,"It depends on language, compiler and use case."
+116,Apfelvater,1644576682.0,1.0,"Correct me if I'm wrong, but I think less-than is a better/faster cpu instruction than not-equals."
+117,Feyter,1644576916.0,1.0,This makes a huge difference...
+118,Impossible_Average_1,1644580038.0,1.0,"   
+    counter += 5;"
+119,mattsowa,1644580090.0,1.0,It's not at all the same functionality-wise. `while counter!=5` will be an infinite loop if your counter starts at 6
+120,jimmyw404,1644580474.0,1.0,"When you write it, != 5 will work just fine.
+
+After someone edits the code and manages to double increment somewhere in your loop, < 5 will mitigate the impact of that, for better or worse."
+121,aherontas,1644580626.0,1.0,Why our minds get these obsession when we try to sleep. They can't get out of my head 😂
+122,Lighthuro,1644581023.0,1.0,Aaah yes JavaScript developer concerns.
+123,den2k88,1644582763.0,1.0,"For counters that strictly count from lower than 5 to 5 yes. But with != you can't skip or break the cycle if count gets greater than 5.
+
+If the counter gets up and down and must break exactly at 5 != is the only solution.
+
+Counting from 0 to 5 I 'd prefer < due to improved case coverage (if counter gets to  6 or is unsigned and gets set to -1 the cycle will be executed).
+
+On an assembly I'd use != because it would be the other way around: start from 5, decrement each cycle, Jump if Zero."
+124,Pinguanec,1644582983.0,1.0,"while(counter < 5) is better because:
+
+1. Its 1 character shorter
+
+2. It prevents infinite loops if you for some reason increment by 2. (It might be debatable if in that case  it wouldn't be better for loops to go infinite, because otherwise it could be considered a graceful failure which is generally not desired behavior)
+
+3. < 5 works even for float and != 5 might not work because of rounding errors. Its better to have a habit of using the more universal condition than to be occasionally caught of guard.
+
+4. != Is also sometimes used for comparation of other data types than number (Like boolean, string, object, enum, ...) while < and > is used mostly and almost exclusively for comparing numbers. Therefore (counter < 5) is easier to read in code since it's more obvious that it's a number.
+
+5. < Also informs the reader about from which direction you expect to get to 5 (aka are you counting up or down)"
+125,wallmenis,1644585200.0,1.0,If you are working with integers it can be a bit faster because some processors don't have to do extra instructions to check less/more than
+126,TunaBord,1644585341.0,1.0,Smart gonna trigger 300 redditors to do it for you.
+127,bluelifesacrifice,1644586614.0,1.0,ROFL
+128,Midori_Schaaf,1644587239.0,1.0,"If condition true, counter = 5"
+129,jhlllnd,1644587871.0,1.0,counter += 2
+130,digital_autumn,1644590467.0,1.0,(While =! 5) puts a lot of faith in your program to not randomly jump from 4 to 6.
+131,Revolutionary-Bell38,1644590723.0,1.0,The less than version offers the benefits of cosmic ray protection
+132,creed10,1644590993.0,1.0,"if you're using floats, you might end up in a situation where you have 5.00000000000000001
+
+trust me, i learned that one the hard way"
+133,DemolishunReddit,1644591078.0,1.0,Even if this was an integer <5 is still better.  !=5 assumes a 1 increment.  If you need to double increment for some reason you will have to go back and change to <5.
+134,spidertyler2005,1644593960.0,1.0,Using less than will allow your code to still work properly if the counter somehow goes too high.
+135,Stev_582,1644596112.0,1.0,"I generally prefer less than or greater than just in case something weird happens, so that it will catch it."
+136,Stock_Towel4493,1644596240.0,1.0,Solar radiation can randomly flip bits which could put your counter at above 5 without ever reaching 5.
+137,mcandre,1644597736.0,1.0,"i harbor a bias against inequality (both != and <) as potentially a less optimized operation than equality (==).
+
+obviously if your data type wouldn't make sense to evaluate with straight equality than use a more appropriate operator.
+
+but then overflow is a thing too...."
+138,vuchkovj,1644603397.0,1.0,"NO! Think readability. Someone reading your code some time later (might even be yourself) will have a harder time understanding the logic.
+
+Also, as others have mentioned, it is more dangerous."
+139,niktedig,1644607077.0,1.0,"Theoretically, counter < 5 is way more resilient against bit flips due to cosmic rays, but unless you work for NASA it doesn’t matter at all as far as function goes."
+140,FemboyEngineer,1644607583.0,1.0,Technical correctness does not guarantee maintainability.
+141,,1644609757.0,1.0,It absolutely makes a difference. If for any reason the counter goes over five and never hits exactly five it will never stop. Golden rule in programming is code for the edge cases. while (counter < 5) prevents any issues like that because whether counter is exactly 5 or slightly higher it will break the loop.
+142,movingtreeinc,1644612751.0,1.0,"6 is also technically != 5, and 7 and 8 and 9, and maybe A and B and Zb7$-#... 
+
+Highly unlikely you'll end up with an int value >5 most of the time, but you never know what kinda freak event would jack up your counter and cause an infinite loop on a technicality
+
+i < 5 at least will keep it bounded at least
+
+Source - Me who has totally never spent hours troubleshooting infinite loops that I've caused that look correct on paper. Be better than me friend"
+143,Hypersapien,1644614437.0,1.0,Don't use a negation unless absolutely necessary.
+144,CaitaXD,1644615913.0,1.0,< 5 avoids errors also 5 is a magic number make it in to a constant
+145,January_Rain_Wifi,1644616081.0,1.0,"But if somehow your code misses 5, you're fine as long as you used <"
+146,Fugglymuffin,1644622493.0,1.0,"To me at least, I’ve always found it better to express a range in which I want something to occur rather than a specific point in which I want to stop. That way if something weird happens and the code jumps over that threshold l, it stops no matter what."
+147,armahillo,1644625001.0,1.0,if i did != 5 i would be up all night worried that i may accidentally end up with a bug that skips 5 and it continues infinitely.
+148,seemen4all,1644544397.0,-1.0,"I would never risk a while for a constant number of  iterations, always for, only use while when absolutely necessary"
+149,OmniSonic,1644544792.0,0.0,"Code should only be as long as it needs to be in order to be understood. ""counter < 5"" is shorter than ""counter != 5"", therefore the less than symbol is better."
+150,Bmangaimin,1644604015.0,1.0,"You can overshoot i think? 
+Like if you count 2, 4, 6 you never count 5"
+151,hafblakattak,1644542623.0,890.0,Found the game dev
+152,Coda_Volezki,1644564336.0,51.0,"Also: any function inside the loop that can cause the next counter value to be skipped can cause an infinite loop if it occurs on what should be the last cycle.
+
+i.e.    
+`int i = 0;`    
+`while (i != 5) {`    
+`    if (whatever possibility) {`    
+`        i++;`    
+`    }`    
+`    i++;`    
+`}`    
+`
+would go on forever if that if statement registered as true when i was equal to four."
+153,Shotgun_squirtle,1644557530.0,54.0,0.5 is actually one of the few numbers that doesn’t introduce error in floating point representation since it’s a multiple of a power of two.
+154,esesci,1644571556.0,2.0,or when you work with increments greater than 1.
+155,Poronoun,1644565888.0,1.0,Where is your Reddit avatar from? I see it all over Reddit.
+156,gniziemazity,1644569486.0,1.0,Good point! Thanks.
+157,janovich8,1644592677.0,1.0,I worked at a place with safety critical code and RTOSs and it was explicitly disallowed to use an equality check. You literally had to explain to the change board why you used an equal/!equal sign and not inequality for approvals. Theres always a chance you’ll get out of sync and miss an exact target and especially if you use a float you’ll basically never hit an exact value so I’ll always err on the side of caution.
+158,enjakuro,1644601577.0,1.0,Haha I always say know your data (not data scientist)
+159,ragnor_not_so_casual,1644545767.0,964.0,">Logically, you want it as < 5. Because that's the intent of the code. 
+
+THIS. Please make this the accepted answer...wait wrong platform..."
+160,devnull1232,1644544578.0,303.0,Gotta watch for cosmic rays bit flipping your counter address and skipping past 5 too!
+161,wackywavingarmgumby,1644549095.0,28.0,It also makes the compiler's job easier for loop unrolling etc if it can determine the allowed range.
+162,qubert_lover,1644557749.0,15.0,"Also it protects you from if you change the code to two to the counter as you’ve optimized it and can do two operations at once so that can count twice. 
+
+If your counter was at 4 now it is at 6 and !=5 will never fire meaning an infinite loop."
+163,SplendidPunkinButter,1644586608.0,5.0,"Yeah, != means “the number will jump all over the place, but if it lands on exactly 5, we’re done”"
+164,Afrotom,1644577935.0,3.0,"I think it's right because _yes_ it's the intent of the code, but also, this code only works if the counter is an integer and always ever incremented by 1. If the code ever increments by 2 or 0.5 then this code will break. Which is ultimately why you should write the code with your intention in mind."
+165,Darknety,1644553816.0,2.0,"Depending on the language, it can also be faster this way :)"
+166,cordev,1644579611.0,2.0,"Yep. It’s rare that your intent would be what `!=` signifies and as a dev reading the code I’d immediately think something out of the ordinary was going on if I saw it.
+
+If you were attempting to approach a value from both sides then `!=` could be appropriate, but I’m having a hard time coming up with a scenario where you’d legitimately want to do that.
+
+Example code:
+
+    while (current != target) {
+      int disparity = target - current;
+      int adjustment = floor(random() * disparity) + disparity;
+      current += adjustment;
+      print(current);
+    }
+
+One feasible scenario would be if you were calculating the y-values of two curves that you know intersect and wanted to stop once you found their intersection point. But even that’s a bit contrived … and it would probably make more sense for the loop condition to be something like `abs(y1 - y2) > 0.001`."
+167,deathentry,1644577453.0,1.0,I prefer <= 4 to show intent as you don't actually care about 5...
+168,JuvenileEloquent,1644586425.0,1.0,">Because that's the intent of the code.
+
+Arguing for the sake of arguing, but maybe it's intentional to have an infinite loop that only stops when the counter has an exact value - I mean it's pretty unlikely but honestly you should never assume intent.  I've ""fixed"" way too many bugs where the crappy wrong behavior was what was intended, for not-obvious reasons."
+169,MannyCalaveraIsDead,1644591847.0,1.0,"Also the != is assuming the number doesn’t jump past 5. The fewer assumptions you make, the better really"
+170,ButAFlower,1644553098.0,-7.0,"!= is more efficient though.
+
+Comparison is a more complex operation than an equality check.
+
+If the incrementer is solid, there is no reason to deal with >5. Scaling would work the same as <"
+171,jryser,1644550957.0,281.0,"It also keeps your code sanitary on the software side. There’s always a chance that someone else revisits your code, especially in a professional setting, and changes that +1 into a +2, skipping 5 all together"
+172,ivancea,1644567306.0,14.0,"Not only that, bit it's a semantic approach. What do you want? A numer ""different from 5"", or a number ""lower than 5"". It's absolutely different"
+173,codeIsGood,1644557749.0,16.0,What if the bit flip is in the ROM and it flips the 5 to something else??
+174,Xandy13,1644564932.0,4.0,"Sorry, can the magnet thing actually happen?"
+175,Max_Insanity,1644569376.0,6.0,"You don't even have to think so complicated, one little mistake inside the loop that accidentally increases the counter by 2 or, depending on the programming language, makes it a float that's 5+1^-10 would probably be less rare."
+176,EasywayScissors,1644582511.0,3.0,"*""A good programmer looks both ways before crossing a one-way street.""*"
+177,HearMeSpeakAsIWill,1644573905.0,1.0,"What about 
+
+    while(counter < 5 && counter != 5)
+
+Just to be on the safe side?"
+178,vinvinnocent,1644578008.0,1.0,"How is this with C++ iterators? From my understanding, for each loops are basically while(it != iterable.end()). Is there a better way in C++?"
+179,0uttanames,1644584373.0,1.0,Well thank the lord there's people like you out there asking those questions....cause boi if I was in charge of those pacemakers code.... :)
+180,Intelligent-Camp7815,1644535216.0,25.0,But will it ever happen tho.
+181,Artistic_Yoghurt4754,1644545699.0,-2.0,"I guess it depends. If you skip a value accidentally, you are likely to have missed the processing of one item. If you are tolerant to that kind of failure, then < is OK. Otherwise, != will expose the problem earlier (likely an out of bound access) instead of keep running further down the while with a corrupted state which is way harder to debug. In my experience (where security is not a big issue), stricter checks expose bugs earlier and more dramatically thus making things easier to debug."
+182,BigTechCensorsYou,1644554345.0,4.0,Run forever? What are you running huge loops on on a 64bit machine? I’m in embedded… I might run up to 250 more times or so.
+183,Hydraulic_30,1644560977.0,7.0,Eat your reddit cake at 3 am!
+184,ShakaUVM,1644549911.0,19.0,"> You have to get all the way down to the machine code level; however, almost always, there are more logic steps in evaluating a negative (!=) than a < or >
+
+In ARM32 assembly, there is no difference in running time. CMP does all comparisons at once."
+185,vinnceboi,1644537835.0,29.0,Wouldn’t any barely decent compiler optimize it to be the same?
+186,just-bair,1644564683.0,1.0,That’s just the problem of a bad compiler (I hope they aren’t many like that nowadays but there probably is)
+187,matyklug,1644575782.0,1.0,"On x86, there's an jl instruction to jump if less, and jne instruction to jump if not equal.
+
+Although for some reason gcc uses setle, test and je to else instead of jl for `<`.
+
+I also don't know how many clock cycles each take, but it should be the same.
+
+Do note I know nothing about other architectures and I only recently picked up assembly."
+188,BuriedMeat,1644543140.0,-2.0,Faaaacinating
+189,juantreses,1644553589.0,0.0,Very interesting. Might this pattern be where the <> operator in SQL has come from?
+190,Odisher7,1644565712.0,3.0,"Well 90% of the time it's a more important argument than ""what if a cosmic ray hits it"" xd"
+191,NuclearBurrit0,1644554671.0,15.0,"You can always count on humor subs to give the best completely serious answers and advices to your not even a question.
+
+Meanwhile stack overflow will just link you to an irrelevant post and lock your thread when you are asking a direct simple question with intent to get an answer."
+192,just-bair,1644565005.0,1.0,"Yep we are such good programmers that we even want our code to work in the most extreme edge cases
+
+
+It’s always better to have a bug happen once (because not all iterations were made) than have an almost infinite loop lmao"
+193,just-bair,1644565158.0,1.0,True we always want our code to work for most edge cases
+194,just-bair,1644565629.0,1.0,Yep always use a while loop when a for loop wouldn’t do the job
+195,BothWaysItGoes,1644559214.0,6.0,"> != is easier to write a proof for.
+
+Wat?"
+196,just-bair,1644565106.0,1.0,It’s always better to get used to <5 so you don’t even have to think about it when you do it
+197,just-bair,1644565230.0,1.0,That’s just a bootleg for loop
+198,just-bair,1644565314.0,1.0,"True and as some C programmer once said ""<i technically runs faster than !=i"""
+199,Upside_Down-Bot,1644557590.0,2.0,„˙ʇou sı ɹǝɥʇo ǝɥʇ puɐ ɟooɹd dılɟ ʇıq ɔıɯsoɔ sı ǝuO„
+200,Hurricos_Citizen,1644579770.0,1.0,Not equals is going to probably be just a subtraction of the two variables and a case statement. It should be the faster option. This being said there are issues that can arise from implementing code this way. Mainly input abuse and issues and the easy issues with documentation compared to using the less than operation.  If the variable overshoots 5 in this example it might cause an indefinite loop. The less than operation handles this and makes the code make more sense in the future.
+201,pointprep,1644550826.0,294.0,JS lacks a true integer type - everything is floats. Floats make perfectly fine ints up to some power of 2 though
+202,BigTechCensorsYou,1644554258.0,77.0,"As a complete aside that nobody cares about… embedded engineer here… in 20 years I’ve used a floating point in a real project exactly ZERO times.
+
+My knowledge of floating point issues is by now as low as a first year CS student.
+
+I’ve had to fixed point a dozen or so times. I forget most of the time that decimal points even exist for some people."
+203,MaffinLP,1644572892.0,2.0,Why does this have anything to do with game dev? I have worked for a logistics company and a floating point error once send the guy to the wrong country.
+204,JackoKomm,1644562390.0,5.0,That has nothing todo with game development. Or so you think bools are just used by logic programmers?
+205,FemboyEngineer,1644606030.0,1.0,"Found the R dev. It's all free & open source but to the point that the <, ==, etc built in operators don't work properly due to floating point errors"
+206,KazakhSpy,1644571057.0,19.0,"Not only that, but it also ensures that the loop wouldnt execute if the initial value was bigger than 5. Like if the counter started at 6 for some reason."
+207,DatBoi_BP,1644582115.0,1.0,"Thing is, that might just be an oversight by the programmer. Changing to `while (i < 5){…` will prevent the potential infinite loop issue, sure, but if `i > 5` shouldn’t be true ever, then it seems more likely that the programmer didn’t but proper checks and balances in the loop. So an alternative to `while (i < 5){…` could instead be `while (i != 5){… if (i > 5){error_statement; return} }`. This, maybe combined with breakpoints, will help the programmer see when and why the variable is going so high"
+208,RoboticGreg,1644547630.0,129.0,"Yes! For real! This is coming from someone in middle management trying to figure out how to run a development program on a software stack 13 years old with VERY little commenting and incredibly inconsistent uses of design patterns (if it's not obvious, my background is not programming)"
+209,LordGeneralTimmy,1644560972.0,18.0,"> THIS. Please make this the accepted answer.
+
+Thank you for your submission. But actually helping on our platform instead of making snarky comments is a bannable offence. Good bye!"
+210,porkminer,1644546437.0,31.0,I'll take a Reddit answer over stack any day.
+211,finc,1644567176.0,8.0,✅ SOLVED
+212,Fenor,1644563520.0,2.0,He should have used a different library
+213,5Quad,1644547014.0,88.0,"I've said it before and I'll say it again:
+
+For the cosmic ray contingency, you also need a lower limit so it doesn't run like an extra 1000 times or so"
+214,The-Tea-Kettle,1644559872.0,4.0,"Not particularly, DDR5 and ecc ram should correct any minor bit flips. And if a bit does flip, do you really want your program to continue running? Who knows what other data might be corrupted."
+215,superl2,1644594589.0,1.0,Wouldn't the less than check get optimised to a not equal check though?
+216,,1644553789.0,21.0,[deleted]
+217,angrathias,1644553826.0,2.0,"It should be able to trivially so that with != 5 as well, it knows the start, it knows the increment and it knows the max, exactly the same thing."
+218,Zer0ji,1644562454.0,1.0,"Also, last time I checked the compiler will actually use `i!=n` internally if you're checking `i<n` and only incrementing once per loop."
+219,Not_a_tasty_fish,1644553782.0,13.0,"Outside of incredibly niche fields, the performance impact of these two operations (especially with integers) are negligible. Just write your code in the most readable way you can, without extra fluff. These types of micro optimizations are the beginnings of the downfall of most codebases."
+220,coolpeepz,1644556158.0,53.0,"From a philosophical position, does the loop body function on all ints other than 5, or just those less than five? For example, if you are indexing into a 5-element array, then the loop may be invalid for many numbers which != 5, however it correctly works for all numbers < 5."
+221,1ElectricHaskeller,1644576992.0,3.0,"And also be prepared for jimmy, who sets it to 65535 to skip the loop"
+222,Pan4TheSwarm,1644559750.0,44.0,"Yes, many things can go wrong. You can't account for everything, but it's a simple and free way of accounting some of the bad stuff that can happen."
+223,calcopiritus,1644568118.0,39.0,"    while counter <5 {
+        if counter >= 5 {
+            log(""a bit got flipped, fucking cosmic rays."")
+        break
+        }
+    }"
+224,bragov4ik,1644563554.0,9.0,"You can have some redundant bits to verify integrity of the information, like hamming codes"
+225,heyyy-kiddo,1644567242.0,6.0,In Flash you have ECC and is probably more likely to flip in RAM or inside a register.
+226,audigex,1644573238.0,6.0,"It’s not about catching every edge case, it’s about catching as many as you sensibly can
+
+Using < catches more edge cases than using ="
+227,8sADPygOB7Jqwm7y,1644585069.0,1.0,"against that there is validation of code for bigger applications. Basically stuff like this can happen to pc games as well, so when something breaks in your game for whatever reason, there are HEX codes that are generated from your code and if they change, then they are probably not correct anymore and should be redownloaded. Still not perfect, since hex codes can show two codes as entirely the same (information theory is a bitch I guess) but it still detects lots of errors. 
+
+same practice is also used for downloading stuff btw. Thats why you will sometimes see a ""validation code"" or smth on a download page."
+228,TechHero11,1644566587.0,14.0,Absolutely
+229,MrHyderion,1644568295.0,10.0,"Yes, and depending on the environment other things can flip your bits as well, i.e. cosmic radiation in space."
+230,ovab_cool,1644570584.0,6.0,"That's just me with all my random ass bugs: ""yea {insert boss name} a solar flare happend so I can't really reproduce it"""
+231,Pan4TheSwarm,1644586822.0,3.0,"Yes. I don't have much experience on safety critical embedded systems. But, I do work on radio systems where we are met with unusual amounts of E&M. Shit can happen. Though, if that happened in my area, we'd just power cycle the device, we'd see it work again, and call it good. Other times we'd break the ROM and have to get a new board, which isn't a big deal for us unless it's happening often.
+
+Safety critical design like automotive, aerospace, medical, etc, has far more rigorous standards than I personally need to adhere to."
+232,ClikeX,1644612290.0,2.0,"I actually do look both ways in a one way street. You never know when a QA tester comes barrelling through there. 
+
+Also, bikes don’t adhere to one way streets."
+233,,1644610018.0,1.0,Because that's redundant lol the first expression covers the second 😅
+234,Relevant_Fly_4807,1644539499.0,399.0,Famous last words of a developer.
+235,MrWedge18,1644535930.0,148.0,Cosmic rays would like to introduce themselves.
+236,ExtrastellarMedium,1644535596.0,173.0,"In theory a single bit upset could make ‘counter’ jump past 5 and you’d loop until it wraps around again.  A single bit upset can also negate a value though, so it’s not like you get some magical protection from looping too many times by using the less-than version. You’re just less likely to loop billions of times.
+
+Edit: typo"
+237,sonofslackerboy,1644537956.0,51.0,"Yes, I found a bug in a big name vendor (rhymes with high beam em) software where they did something like this.  The counter wasn't suppose to go past 10 but one time it went to 11 during an edge case and well that was that."
+238,Huesan,1644535480.0,104.0,If it happened you will spend hours finding the bug
+239,omgFWTbear,1644549977.0,27.0,The Junior dev who just pushed some completely unrelated code *he is pretty sure* has entered the chat.
+240,finance_n_fitness,1644545331.0,17.0,"Maybe it will? Hard to say without knowing what exactly happens in the loop. Double incrementing, or conditionally incrementing, in certain situations is pretty common. Will you be the only person ever to touch the code? Why would you do something that could cause a problem even though it most likely won’t?"
+241,Bmitchem,1644552316.0,15.0,"You would be surprised. 
+
+And the last thing you want is some cloud service charging you 50,009 cause you wrote an infinite loop that runs all night"
+242,ElonMuskIsAnAlien_,1644541218.0,8.0,I don’t think these people understood your satire
+243,DonQuixoteReference,1644552844.0,8.0,"No, if you're using only local variables and your code never changes.
+
+
+So just use '<', there's no downside and several upsides."
+244,daeronryuujin,1644551135.0,5.0,Never assume something stupid and insane can't happen. If you can prevent that stupid and insane possibility by using < instead of != you'd be wise to do it.
+245,Blockinite,1644545259.0,5.0,"Realistically? No. 
+
+^(but it might...)"
+246,YouDontKnowZebra,1644550099.0,7.0,Hahaha oh sweet summer child
+247,RazorBlade9x,1644552231.0,4.0,"Happens when you're not the sole author of the code and multiple people are going to work on it. Someone else can add a condition like that and fall into infinite loop, in which case they're anyway gonna change the original condition from != to <."
+248,BoBoBearDev,1644543434.0,3.0,Make counter as static variable and think it is totally fine.
+249,t1me_Man,1644543885.0,5.0,Also if you for whatever reason what to skip a loop by doing ++2 you can
+250,The82ndDoctor,1644549087.0,3.0,"I thought it wouldn't happen, then I got async screwed somehow and crap never fired. Javascript hell trying to find that bug."
+251,Marsrover112,1644555304.0,2.0,It might if you are adding a number to counter that depends on another variable or something and isn't just 1 evert time. Also computers do weird things sometimes
+252,onions_cutting_ninja,1644555375.0,2.0,"Murphy's Law. If it can go wrong, it will go wrong. Or at least you should assume it will. Plan for bad scenarios."
+253,fllr,1644550875.0,1.0,This assumes your present self will be the only one working on this codebase. Ever.
+254,nemith,1644553885.0,1.0,Ah the hubris of a young programmer.
+255,sexytokeburgerz,1644557125.0,1.0,"If someone patches in a decimal iterator, absofuckinglutely."
+256,infablhypop,1644558949.0,1.0,Loops don't always step by one.
+257,atomitac,1644560062.0,1.0,"No. Unless it does. Then it will. And then you'll spend hours trying to figure out what the fuck went wrong. And then you'll finally dig up the weird ass one-in-a-million edge case that made it happen, and slap yourself on the forehead for not thinking about it before, and then end up changing it to `<5` anyway so that this edge case never happens again. 
+
+If the difference between ""the code makes it logically impossible for X to happen"" and ""there's no reason X should ever happen but the code won't logically stop it from happening"" is weeks of work and you're on a deadline, or will make the code annoyingly difficult to read, then go with the faster/more readable approach and deal with the one-in-a-million scenario in the off-chance it happens. But if the difference is a single character of code (and a single character *less* at that), *and* it makes the intention of the code clearer when reading, that's a no-brainer."
+258,Cocogoat_Milk,1644560234.0,1.0,"It could in a multithreaded environment. 
+
+Regardless, one is always going to work and the other may not in odd scenarios or with poor logic."
+259,RumbuncTheRadiant,1644564379.0,1.0,"`int counter = 0;`
+
+`while( counter != 5) {`
+
+`doStuff( &counter);`
+
+`}`
+
+`void doStuff( int * counter) {`
+
+   `*counter += 3; //` [Haha](https://static.wikia.nocookie.net/simpsons/images/e/e9/Nelson_Ha-Ha.jpg)
+
+`}`"
+260,Odisher7,1644565342.0,1.0,Do you want to risk it? A programmer looks both ways before crossing a pedestrian street
+261,matyklug,1644566689.0,1.0,I'd like to recommend you to take a look at the horrors of multithreading my friend.
+262,VladVV,1644567125.0,1.0,"Yes, it’s called ‘side effects’ and could happen in any language unless you’re using Lisp or Haskell"
+263,rotten_dildo69,1644569348.0,1.0,"It happens occasionally in games, where a lot of things can go wrong ( talking about game loops)"
+264,jochem_m,1644574290.0,1.0,"You have no idea how often `print ""this should never happen"";` has saved my ass. Situations change, typos happen."
+265,ze_baco,1644577789.0,1.0,This is a very dangerous question
+266,1731799517,1644579732.0,1.0,"Some fucker could just replaced counter++ by counter+=2
+
+Or somebody edits the code in the loop and accidenitally increments it again due to bad copy/paste."
+267,mrheosuper,1644581908.0,1.0,Murphy make sure it will happen
+268,Vivixian,1644582072.0,1.0,"Obligatory ""but what if it did?"""
+269,SoyTuTocayo69,1644601396.0,1.0,"Well it can, let's say there is a bit flip, or something unpredictable happens... for one reason or another, it skips 5, and your loop never stops because the value never was 5. For that reason, I'd say < 5 is better. It's like asking to land on a tightrope instead of a trampoline."
+270,Sindarin27,1644609709.0,1.0,"Besides bit flipping like many people have already mentioned but is usually not something most developers need to deal with, here's another one: what if you change the code in the future without remembering what you put there? So, you write this now:
+
+```
+while (i != array.length) {
+   // Do some stuff with array[i]
+   i++;
+}
+```
+
+Three months later, you come back and you remember that if the current item in the array is 3, you skip the next item! So you decide to do this:
+
+```
+while (i != array.length) {
+   // Do some stuff with array[i]
+   i++;
+   if (array[i] == 3) i ++;
+}
+```
+
+Everything goes perfect. Well... That is, until another three months later, you get an array that has a 3 at the end. Why does this input give you an OutOfBoundsException? Nothing changed, and last time you checked everything worked... Have fun debugging that code at that point :)"
+271,youridv1,1644614951.0,1.0,Does it matter? < 5 is safer than != 5 and shows the intent of the code.
+272,DrunkenlySober,1644556978.0,4.0,< is more strict of a equality operator than !=
+273,circuit10,1644565346.0,4.0,"Yes, most PCs are 64-bit now, though I imagine you might use a 32-bit data type more often"
+274,Rebol1103,1644566314.0,1.0,"Well, if it skipped 5 first time, what's not to skip 5 again? Valid case where 5 is skipped can also mean flaw(or by design) in code so technically, yes forever.`while (a!=5) a=a==4?6:a;`  runs forever does it not?"
+275,insertpi,1644553575.0,15.0,"can confirm the same in x86/x64, doing “test” or “cmp” sets all relevant status registers in “eflags” which conditional branches just check if the appropriate bits are set"
+276,cfaerber,1644569902.0,4.0,"If you look at some simpler CPUs like the 6502, then … nope, still one CMP that sets all relevant flags."
+277,serunati,1644542112.0,18.0,"More modern ones should. The language I was using was Oracle’s PL/SQL and as a 4g language, nowhere near as optimised as a compiled language.  And I have not verified if the JRE for Java or the interpreter for Python take care of that as well since the portable code is not truly compiled the platform or is running on. So I guess the better answer is “it’s complicated”.  
+
+Like most of our dating lives. Lol"
+278,YogurtUnusual5913,1644545809.0,2.0,"Absolutely yes, as long as you use a proper compiler, flags and such.
+
+ Say this is to iterate 5 times on something, it should come down to substract '1' from a register with initial '5' and keep doing it until the zero Alu flag is triggered.
+Simple as that imo
+
+It appears some people got really triggered with this meme lol (including me jaja)"
+279,1731799517,1644579941.0,1.0,"IIRC, ANY compiler will optimze it to be the same, because on assembly level its the same instruction."
+280,Intelligent-Camp7815,1644554728.0,9.0,"Yooooo that’s true. So in order to get great help, you just need to introduce a little humor into your problem."
+281,Texas_Technician,1644584683.0,3.0,"Stack overflow is a dumpster.
+
+Everytime I ask a question I get:  duplicate
+
+And then they link to a question / answer that is only vaguely like my question.
+
+I've learned more about programming from this sub than any other forum.  Not a specific answer to a question mind you.  Just in general. It's crazy how a simple joke can spark so many different conversations from professionals who explain their positions in such short and easy to digest manner."
+282,Apfelvater,1644580113.0,1.0,"A subtraction takes best case O(N) time, doesn't it? Each bit has to be visited once. A less than takes only worst case (if less than yield wrong) O(N) time.
+
+Dont get me wrong, I know cpu instructions are synchronized, buuut, the code runs better in case this changes in maybe a hundred years ;)
+
+EDIT: I might be wrong about the runtimes"
+283,Pan4TheSwarm,1644559904.0,193.0,Excuse me? Everything is a float... I'm not okay with knowing this.
+284,AlarmingAffect0,1644560472.0,160.0,"We're all floats down here, Georgie."
+285,TheSnaggen,1644563310.0,52.0,"Yes, that is why we cannot have 64bit integers in JavaScript, instead we get 53 bit integers... since that is a nice and round number."
+286,ItsZoner,1644551883.0,41.0,floats start skipping integers at 2 raised by the (mantissa size + 1)
+287,penguin_chacha,1644560133.0,17.0,What the fuck?
+288,the_upholstered_one,1644569574.0,2.0,This is literally the worst thing I'm going to learn this year.
+289,DmitriRussian,1644582857.0,1.0,How does typescript handle that? 🤔
+290,GreenCloakGuy,1644558986.0,50.0,"Eh, working in the financial industry, rounding errors with floating-point numbers are not an uncommon type of bug we come across - to the extent that we have a specific rounding library and all the plan rule documents have to state at each step how they’re rounding and to what level of precision.
+
+All of which uses double-precision floats instead of fixed-point numbers, for reasons that I’m not a hundred percent sure of but probably have to do with compatibility with frameworks and the language the program has been autotranslated from"
+291,ReddityRabbityRobot,1644564430.0,3.0,I think you mean 0.0 times
+292,Drugbird,1644571046.0,1.0,"That depends a lot on what domain you work on. There's lots of embedded processing going on with entirely digital signals, so it's unlikely you'll ever see a float in there. 
+
+I work a lot with all sort of medical data (MRI, CT, ultrasound) an almost all of that gets concerted to floats during processing because of e.g. interpolation."
+293,rksd,1644569160.0,0.0,I worked on climate models and map projections. It was ALL floats.
+294,awesomeusername2w,1644589135.0,2.0,"On the other hand, things may change and I > 5 could be a valid situation in the future. The loop solves it's one task ideally. I < 5 it runs, otherwise it doesn't. The lesser it knows and makes assumptions about it's surroundings the lesser chance of potential regressions when other things changed."
+295,9to5retireat35,1644551432.0,87.0,"I'm sorry to be the one to tell you this, but even we programmers can't keep things consistent. Especially if you just copy code off the internet (or books or other programs for older code) without fully understanding or modifying it. So many different paradigms pop up quick."
+296,FAcup,1644568295.0,1.0,Isn't everywhere like this?
+297,gizmonicus,1644602791.0,1.0,"Everyone on my team has been instructed to do things as simply as possible for this reason. Do not be drawn into fancy design patterns when a simple case statement will do. Is it elegant? No. Is it the best way? Arguably not. Is it easy for some future version of myself to understand when I blow the dust off a 10 year old script trying to add some new feature or fix a bug? Bingo.
+
+Sometimes it necessarily must be complex because the problem itself is complex, but using compact, terse code just to flex on your colleagues doesn't make you a good team member. You just cost me three hours of trying to understand your bullshit code five years from now, asshole. Jokes on you if you're the one staring at it at 3a.m. in a production down incident."
+298,NugetCausesHeadaches,1644548105.0,35.0,"Programmerhumor answers above all other reddit answers, too.  I mean that unironically.  I do find it amusing that it's the truth, though."
+299,MoffKalast,1644619512.0,3.0,You mean closed as duplicate
+300,telemythides,1644547796.0,42.0,Not if you use an unsigned type
+301,blindeenlightz,1644550659.0,35.0,"This is true,  but it will run the wrong n number of times regardless if there's a bit flip. The reason for the cosmic ray contingency isn't to negate it running the wrong number of times,  but to keep it from becoming an infinite loop."
+302,devnull1232,1644547049.0,19.0,"Crap, didn't think of that."
+303,devnull1232,1644619545.0,1.0,"No idea, seems like a dangerous optimization to me."
+304,xADDBx,1644629198.0,1.0,"Last time I checked a specific implementation it just subtracted the numbers and checked the sign bit for the less than implementation. This is pretty fast, but I honestly have no clue whether the compiler would do some optimization in that regard (I highly doubt that though)"
+305,thisischemistry,1644565631.0,7.0,"> Compilers these days do crazy optimization things that it is almost impossible to predict if it's more efficient or not. 
+
+And you really shouldn’t try to predict it either. Code it in a simple and readable way, profile it, find the parts where you consume the most resources. Tweak those parts a little, profile again. Rinse repeat until you’ve had enough. 
+
+Readable, self-documenting code is more likely to be efficient and easily-optimized than trying to optimize from the beginning. In the long run readable and maintainable code is worth far more than a zippy mess."
+306,wackywavingarmgumby,1644554181.0,5.0,"Depends how complex the loop is and if it can satisfy itself that the index doesn't get changed elsewhere (e.g. an extern, threading, etc). If it has the less than then it can ignore all higher values even if it could get manipulated elsewhere.
+
+Similarly there's #pragma's for giving extra information like if it always runs at least once, never more than X, etc that can be useful in highly optimised situations."
+307,ButAFlower,1644553904.0,2.0,"I totally agree that 99.99% of the time it doesn't make a difference but it is a technical improvment and if software is being compared by a potential client, then a simple comparison of runtime can make the difference as to which is chosen."
+308,Joker-Smurf,1644558985.0,23.0,"If you were indexing a 5-element array wouldn't you have it as being `while counter < array.length` or `for index in array` etc. 
+
+This handles the future where you change the size of the array as the index is always going to be within the array range.
+
+If not looking at an array, the `<` protects against what I shall call ""shit happening"" and an infinite loop occurring. All it would take is for a single bit to be flipped, or someone to change the increment to 2, or an action within the loop to increase it twice, for you to never hit 5 and terminate the loop."
+309,Upside_Down-Bot,1644567254.0,-3.0,„˙ɹǝʇsıƃǝɹ ɐ ǝpısuı ɹo W∀ᴚ uı dılɟ oʇ ʎlǝʞıl ǝɹoɯ ʎlqɐqoɹd sı puɐ ↃↃƎ ǝʌɐɥ noʎ ɥsɐlℲ uI„
+310,Upside_Down-Bot,1644568307.0,2.0,„˙ǝɔɐds uı uoıʇɐıpɐɹ ɔıɯsoɔ ˙ǝ˙ı 'llǝʍ sɐ sʇıq ɹnoʎ dılɟ uɐɔ sƃuıɥʇ ɹǝɥʇo ʇuǝɯuoɹıʌuǝ ǝɥʇ uo ƃuıpuǝdǝp puɐ 'sǝ⅄„
+311,mar00n,1644542190.0,59.0,"As a guy doing functional safety (ISO 26262, IEC 61508, UL 1998), we actually do design for some of these strange cases (cosmic rays, microelectronic failures, electromagnetic induced faults, etc). But we handle that with the hardware (lockstep cores, hardware ECC checks on the memory, etc.), as it just can't be handled by the software (example: you can't actually check with software that a variable containing a pointer to a function that must be called has accidently incremented itself...)."
+312,BigTechCensorsYou,1644554070.0,1.0,People actually think you know what you’re talking about when you call them single event upsets.
+313,_Marni_,1644542697.0,48.0,"That's why you should use unsigned integers where appropriate :)
+
+EDIT: just to be clear, using an unsigned loop variable with a ""less than"" limit will prevent cosmic ray issues getting you stuck in a loop. Sanity checks and exception handling should be able to sort out the rest.
+
+I've also never heard of a modern language that doesn't support unsigned integer variables, could you give an example?"
+314,Ambitious_Ad8841,1644559986.0,5.0,"More likely though someone will add code in the loop body that modifies the counter, not knowing what they are doing, and cause it to skip past 5
+
+You could argue though that modifying the loop counter is bad practice, and causing a crash like this will at least draw attention to the larger problem so it can be fixed"
+315,sexytokeburgerz,1644557192.0,2.0,You hear about that mario bug that happened because of solar flares?
+316,kjpmi,1644556233.0,5.0,">high beam em             
+               
+Lol"
+317,Max_Insanity,1644569121.0,1.0,"You can just say ""IBM"", the CIA won't come after you."
+318,tilcica,1644553832.0,6.0,r/suspiciouslyspecific
+319,sonofslackerboy,1644542908.0,6.0,Well most of us are developers 😁
+320,Max_Insanity,1644569178.0,2.0,"What satire? And on an unrelated note, why do you think that Elon Musk is an alien?
+
+Unless that last one isn't satire and you mean he is literally an alien since he immigrated to the U.S. from SA."
+321,Intelligent-Camp7815,1644541802.0,0.0,"LOL yeah but it’s cool, it’s interesting to see what people think about this."
+322,Artistic_Yoghurt4754,1644558616.0,-4.0,Strict in the sense that the range of states that can continue with -no apparent- error is narrower.
+323,ShakaUVM,1644556821.0,3.0,Thanks. x86 is the one assembly language I've always been too scared to learn. I learned pretty much all the other major ones.
+324,vinnceboi,1644591590.0,1.0,"I’m no assembly person, but wouldn’t it be “cmp -> jne” vs “cmp -> jl”?"
+325,Cloudy_Oasis,1644575374.0,6.0,"There's a second way : create a second account, and give yourself a terrible answer. The strongest fundamental force in the universe, nerds correcting each other, will immediately take place and give you a correct answer"
+326,NuclearBurrit0,1644556705.0,2.0,You betcha. I think the results speak for themselves
+327,cordev,1644578184.0,110.0,"No, some things are strings. Fortunately you can add strings and numbers together in JavaScript - with predictable and intuitive results ;-)"
+328,MannyCalaveraIsDead,1644591734.0,7.0,They all float down here
+329,HerissonMignion,1644582316.0,4.0,Javascript has bigint
+330,Chemical-Basis,1644583542.0,3.0,"You'll float too, IT, JS, clowns... it all makes sense :o"
+331,A_Monkey_FFBE,1644587228.0,0.0,"Just remember, parseInt(0.0000005) = 5 in JavaScript."
+332,gabrielesilinic,1644564012.0,29.0,ITscript
+333,WishboneBeautiful875,1644566247.0,5.0,"In the long run, we’re all floats."
+334,Aryae_Sakura,1644586251.0,2.0,"Laughed way harder at this than i should XD
+You made my day with this. Thank you 
+Have a wonderful day :)"
+335,TheEnderChipmunk,1644564359.0,41.0,"53.....?  
+I think I'm going to be sick"
+336,GrannyTurtle,1644573631.0,1.0,"Hey, you need a sign bit, so the best you can do is 63 bits. I’m not sure why it would be 53, though. Unless that’s a typo?"
+337,SnooMaps9383,1644583116.0,1.0,"this is a rabbithole that i dont wanna go into...
+still can believe JS is the standard now"
+338,dedorian,1644559575.0,29.0,"Yep — in finance you'll frequently see a new dev/analyst asking why 3.875 != 3.875, lol"
+339,ANSI11,1644560479.0,8.0,"I've always wondered what's the reason of using BCD and that other day, one of my friends told me that it's necessary for finance as it plays a huge roll in correcting this floating point result. As a system developer, we never even have to face this problem, only time we have to face is when we need to work with interval arithmatic , and don't get me started over how the 4 different type of rounding can literally fuck u up to hell.  
+Edit: system developer, not system designer"
+340,Careful_Ad_9077,1644605680.0,1.0,"my finance anecdote is about a report that had a rounding error so it was off by one. the dev got fed up and told the pm "" here's your dollar"" in a really cool and arrogant way... the pm told him "" i accept your solution, but that report is in millions"""
+341,JollyGreenBoiler,1644556932.0,36.0,Shhhh... don't give away the secret.
+342,gizmonicus,1644585312.0,1.0,"Have you started a project, learned more about the problem, shifted methodology half way through and ended up with two very different ways of doing the same thing? Because I haven't. Ever. At all."
+343,recoveringcanuck,1644587122.0,1.0,"My company has several business units with different style guides or none at all, and my project has code in them from several of them."
+344,RoboticGreg,1644582674.0,1.0,No
+345,RoboticGreg,1644603206.0,1.0,"eeeeeeexxxxxxactly. 
+
+we turned off an idiot light in the code because we wanted to take it off the hardware, and it capped the speed at 30%. Took us over 3 man days to figure out why, and its because theres so much hard coded cross connections that go outside of well defined interfaces."
+346,porkminer,1644548776.0,42.0,That's because the only thing better than programmer humor is correcting programmer humor.
+347,djinn6,1644617118.0,1.0,You just have to imagine who's browsing r/ProgrammerHumor vs. something like r/programming.
+348,5Quad,1644559558.0,2.0,So what you're saying is we need to check if i is out of range and start over if it happens
+349,coffeecofeecoffee,1644571308.0,5.0,"My priority in the code i write has shifted over the years to ""readability over literally everything.""
+
+Its fast enough until proven otherwise"
+350,angrathias,1644554305.0,1.0,"That problem applies equally to <5 though… like if something started decrementing the value.
+
+I haven’t put a vast amount of thought into the various permutations but I remain unconvinced that unrolling will do any substantial analysis"
+351,atomitac,1644558537.0,5.0,"I've never done benchmarking at anywhere near this esoteric of a level before, but I'd bet my next paycheck that outside of screaming bare metal embedded systems, the difference would be so negligible that it wouldn't even produce a consistently reliable difference in a runtime analysis. There's probably a million different things a modern OS could be doing under the hood at any given instant that would affect runtime of your app way more than the difference between `<5` and `!=5`. Unless you're writing an ICBM navigation system for Lockheed Martin or something, no client is walking away from anything over a fraction of a millisecond."
+352,coolpeepz,1644581258.0,7.0,">If you were indexing a 5-element array wouldn't you have it as being while counter < array.length or for index in array etc.
+
+I’d like to introduce you to my good friend C."
+353,MrHyderion,1644569262.0,5.0,What the fuck?
+354,SocraticBliss,1644567505.0,21.0,"You must be on the forefront of hardware exploits impacting software security :)!
+
+I've always found it a truly fascinating field as it paradigm shifts the whole writing secure code. I'm always impressed at the lengths people go to introduce ""noise"" to try and compromise systems in general... 
+
+I wish more software people understood the need for hardening of the hardware its run on, as these bug bounties nowadays tend to only care about software abuses..."
+355,wackywavingarmgumby,1644549404.0,18.0,Java doesn't support unsigned ints.
+356,jclinux504,1644548967.0,4.0,JavaScript?
+357,juantreses,1644553266.0,3.0,Php does not support unsigned ints
+358,ExtrastellarMedium,1644543322.0,7.0,"That actually doesn’t help here. I realize you’re saying it because it sounds funny, but I’m pretty sure its a wash statistically, because the unsigned variable has just as many possible values as the signed one. It would make the argument for using less-than basically 50% stronger though. 
+
+
+Also, the majority of modern code is written in languages with no way to declare unsigned types. But this is /programmerHumor, not/ProgrammerSadness, so moving on, nothing to see here…."
+359,joanthebean,1644548628.0,1.0,Does Python have uint
+360,HalcyonAlps,1644553911.0,1.0,Why not just use ECC memory and don't worry about that at all? At least that's what I am doing. Am I missing something?
+361,Torebbjorn,1644559161.0,1.0,"Python doesn't have unsigned ints, but they aren't exactly signed either, it's just magic with no upper limit other than your memory size
+
+From [wikipedia](https://en.m.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)), these languages don't seem to support unsigned ints:
+
+ALGOL 68, Java (kind of), Visual Basic, Fortran, PHP, and some others, but definitely not very modern"
+362,Odisher7,1644565471.0,1.0,"It wouldn't prevent them entirely, it would go back by one and add an extra loop for example right?"
+363,MrHyderion,1644568652.0,1.0,Why would using an unsigned loop variable prevent these issues?🤔
+364,RaulParson,1644569131.0,1.0,">That's why you should use unsigned integers where appropriate :)
+
+But what difference does that make? If something happens and you skip over 5, you'll still have to loop over exactly as many numbers before you roll back to 5 again - it's exactly as many bits either way, and either way you'll be rolling through all possible 0-1 combinations of them. What does it matter if half of those possibilities represent negative numbers or not? The only distinction that matters is 5 or not 5.
+
+EDIT: Ah, you mean ""what if it flips the sign bit"", also with the addition of <5 instead of =5? Fair enough"
+365,SafeSlut984,1644597715.0,1.0,So If small we than zero on an unsigned int. Am I doing this right?
+366,sonofslackerboy,1644585214.0,1.0,"Lol, I thought it was funnier that way"
+367,ElonMuskIsAnAlien_,1644586213.0,2.0,"The satire in the comment I responded to, and outer space alien, not border hopping alien."
+368,DrunkenlySober,1644558981.0,2.0,"I don’t understand. The set of integers < 5 is a subset of integers != 5
+
+You memeing?"
+369,insertpi,1644558191.0,5.0,"besides the fact that there’s some 6000 instructions, it’s not awful in my opinion. i learned it after learning ARM. if you’re comfortable in other assembly languages i dont think it’s too bad"
+370,Texas_Technician,1644584725.0,3.0,"Oh shit, that might actually work."
+371,0bel1sk,1644579314.0,36.0,that’s numberwang!
+372,tabakista,1644580413.0,15.0,"For a specific definition of ""intuitive"""
+373,ledasll,1644579119.0,4.0,🤣
+374,Rubbing-Suffix-Usher,1644591283.0,1.0,"> No, some things are strings
+
+And literally everything is an object."
+375,Administrative-Cod76,1644597307.0,2.0,But I can count on one finger how many times I have used it... Maybe just me
+376,pointprep,1644632757.0,2.0,"You’re absolutely right - I did think about bigint when I commented, but didn’t mention it for simplicity. 
+
+Bigint is a bit weird in that it doesn’t correlate to a native integer type. The same operations take longer on bigger numbers, and there’s no specced max bigint. You could implement bigint using a string as the storage, but not using an int as the storage, so it's a bit of a grey area.
+
+It looks like there is some support for arrays of real ints, probably for webassembly use? But yeah, also weird."
+377,thuanjinkee,1644586735.0,2.0,"ITscript- where all variables are subject to autovivification, especially the ones you already assigned values to."
+378,Ciskio,1644598884.0,2.0,JavascrIT
+379,AlarmingAffect0,1644618134.0,2.0,There's a reason that book is called IT.
+380,palordrolap,1644574400.0,16.0,"It's a standard IEEE float64 / binary64. C and C++ (maybe other languages too) call it a `double` (or `long float` in some old/odd places).
+
+Why 53 when it's 64 bits? The other 11 bits are for sign (1 bit) and exponent (11 bits). Edit: ""Wait what? That's 65 bits!"" One of the 53 is implicit. Thanks to /u/StereoBucket for jogging my faulty memory.
+
+(Note that all binary numbers, except 0 anyway, have a 1 as the first digit. That leading 1 is assumed / implicit, so the magical 65th bit doesn't actually have to be there. The representation of 0 (and -0) as well as a few other numbers are special cases.)
+
+Somebody somewhere (where that ""body"" may actually be a committee within the IEEE) decided that 1:11:52 was the best way to split up the 64 bits to store floating point numbers.
+
+Other floating point formats are possible, but the 1:11:52 format has been around for a long time. If it's not baked into your processor, it's baked into your mathematics libraries.
+
+Definitely worth looking into."
+381,Smartskaft2,1644569552.0,27.0,My opinion of JS just gets worse and worse for every day on this sub...
+382,thespud_332,1644569985.0,12.0,"> I think I'm going to be sick
+
+Every JS programmer says this at least once per day while reading/writing code."
+383,voxelghost,1644573934.0,1.0,"If you want 64bits just use a BigInt64Array, or BigUint64Array....   The results of logical and mathematical operations are completely predictable.... You know if predictability is your thing.   ... In which case I have to ask, why are using JS? ;-)"
+384,Silly-Freak,1644572136.0,1.0,(if people are wondering: that's the significand precision of [64-bit IEEE 754 floating point numbers](https://en.wikipedia.org/wiki/Double-precision_floating-point_format#IEEE_754_double-precision_binary_floating-point_format:_binary64))
+385,ledasll,1644579292.0,1.0,If you have bigger ints you can just use strings
+386,TheSnaggen,1644576576.0,1.0,"Nope, not a typo 
+https://www.reddit.com/r/programmerhumor/comments/spjkih/_/hwhi2q7"
+387,cfaerber,1644568998.0,3.0,"3.875₁₀ = 11.111₂ exactly, so there should not be rounding errors. Something like 3.2₁₀ = 11.001001…₂ would be an issue."
+388,Honigbrottr,1644563596.0,20.0,Should we tell them that without google most devs are nothing more then a highschool student?
+389,9to5retireat35,1644590425.0,1.0,And I've definitely never had customer requirements shift party way through for any reason whatsoever so i never have to adapt and morph the program.
+390,gizmonicus,1644606485.0,1.0,"Hard coded cross connections, that's my fetish!"
+391,retief1,1644559898.0,7.0,"Woo for [cunningham's law](https://meta.wikimedia.org/wiki/Cunningham%27s_Law#:~:text=Cunningham's%20Law%20states%20%22the%20best,Cunningham%2C%20father%20of%20the%20wiki.)"
+392,thisischemistry,1644589989.0,1.0,"Compilers these days catch a ton of optimizations on their own, it’s not worth trying to predict what will get optimized and how you can “help” the compiler. The biggest waste of resources is programmer time, we need to work on what makes the code difficult to understand rather than wasting time second-guessing the compiler."
+393,wackywavingarmgumby,1644554610.0,1.0,"Yeah, it probably just checks if the index variable has a non-local scope and avoids unrolling if so. Maybe gives warnings, don't know."
+394,thegrayryder,1644592674.0,1.0,array.length… for index in array… bahaha embedded C code cowers from your extra MIPS and denounces your god.
+395,mar00n,1644586139.0,3.0,"I am more in the field on embedded hardware (and also have children, so not so much time to go into hacking as a hobby).
+
+But I do have one interesting anecdote relating to this that I read in a book once. It's about the hacking of the first version of the Xbox. The engineers from Microsoft had really done a good job to prevent people from running custom code on the platform (and I'm saying this hardware-wise, as the guy who wrote the book was sniffing the memory bus and everything was encrypted and booted in a secure way without any possibility to change the boot source). It turns out that the exploit people found was due to the fact that MS had developed the platform on an Intel processor, but had switched to an AMD processor for production (to lower costs). The two processors had compatible architectures, but the AMD one had a different way to handle illegal opcode exceptions which would open a breach (and this had been handled by NS for the Intel processor only). So they used this exploit, combined with using tweaked saved game files on memory sticks."
+396,Ixaire,1644552682.0,11.0,"Java supports treating signed ints as unsigned.
+
+> By default, the int data type is a 32-bit signed two's complement integer, which has a minimum value of -2^31 and a maximum value of 2^31 -1. In Java SE 8 and later, you can use the int data type to represent an unsigned 32-bit integer, which has a minimum value of 0 and a maximum value of 2^32 -1. Use the Integer class to use int data type as an unsigned integer. See the section The Number Classes for more information. Static methods like compareUnsigned, divideUnsigned etc have been added to the Integer class to support the arithmetic operations for unsigned integers.
+
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+
+It's not practical and I'm not sure it helps in the current case. But it exists, in a pretty convoluted way."
+397,_Marni_,1644574140.0,1.0,"You can use byte and char, which are both unsigned in java"
+398,wackywavingarmgumby,1644549245.0,9.0,">Also, the majority of modern code is written in languages with no way to declare unsigned types.
+
+Umm, C family `unsigned`?"
+399,telemythides,1644548194.0,17.0,An unsigned type has way less possible values that are <5. Only 5 compared to 65541 for a 32-bit integer.
+400,tilcica,1644553668.0,5.0,nope. python also doesnt have int limits like many other languages. so in case you skip 5 in !=5 you will have an infinite loop untill you run out of memory
+401,bright_lego,1644562664.0,1.0,Numpy and ctypes
+402,_Marni_,1644574388.0,1.0,"Yep, but these can be handled later with sanity & exception handling. The main thing is to prevent rusk of looping for a very long time!"
+403,Artistic_Yoghurt4754,1644561651.0,1.0,"That’s the condition to stay in the loop. You use the complement to exit the loop (i.e. >= and ==). The condition to exit the loop and propagate potential error to other places is harder to meet, thus is stricter. You either hit what you meant, our you don’t exit the loop.
+
+For example, something that is very common is that out of bound access overrides memory locations next to the place it was supposed to (I am talking about “unsafe” languages where out of bounds is an issue). If that location happens to be your iterator i, it will likely be filled it with garage and make a big number when read as an integer. Using < as a condition will make the loop to abort prematurely and continue to the next section of the program even though you did not even finish your iteration. On the other hand != will trap you on the loop and make the problem obvious."
+404,ShakaUVM,1644561213.0,3.0,"I'll bite the bullet, then. Thanks. =)"
+405,Administrator101,1644583940.0,23.0,`[![]+[]][+[]][++[++[+[]][+[]]][+[]]]+[!![]+[]][+[]][++[++[+[]][+[]]][+[]]]+[![]+[]][+[]][++[++[+[]][+[]]][+[]]]`
+406,RubbelDieKatz94,1646569079.0,1.0,is NaN an object? ಠ_ಠ
+407,StereoBucket,1644583512.0,1.0,"Small correction, exponent is 11 bits.     
+
+53rd bit is implicit, since in IEEE 754 it is always a 1 it can be omitted, saving a bit."
+408,TheEnderChipmunk,1644592915.0,1.0,"I've seen an explanation of this standard in Nemean's video on the Quake 3 fast inverse square root algorithm, definitely cool"
+409,HerissonMignion,1644582418.0,3.0,Javascript was a bad language long ago but i think it's a pretty decent one nowadays. I have that everybody on this sub just keep on saying that javascript is bad
+410,ledasll,1644579449.0,1.0,"No, I have evil laught and send code to juniors"
+411,x5nT2H,1644598747.0,1.0,no
+412,TheEnderChipmunk,1644592763.0,1.0,"Ah I'm not, I'm just playing into the js is bad joke haha."
+413,StereoBucket,1644583669.0,1.0,"Or BigInt, which is int, but big."
+414,JobKlimop,1644570231.0,4.0,Did... did you just assign 11.111₂ to 3.875₁₀ ![gif](emote|free_emotes_pack|scream)
+415,ForkLiftBoi,1644580860.0,9.0,"IN THE PAST THEY JUST FLIPPED THROUGH TEXT BOOKS!!
+
+Phew, that was close."
+416,9to5retireat35,1644590325.0,5.0,Half of my college degree was just learning what to Google for.
+417,Owldev113,1644619722.0,1.0,"Jokes aside, I’m still surprised how little google ends up being used once you get knee deep into a project. It just turns into, where the fuck is the documentation. **Where the fuck are the docs!!**. And then you find the docs at the edge of the known universe in one old web server that doesn’t even show up on fucking google or SearX"
+418,MasterQuest,1644562224.0,5.0,Should have said [Murphy's Law](https://www.quora.com/Murphys-law-states-that-the-best-way-to-get-the-right-answer-on-the-internet-is-not-to-ask-a-question-its-to-post-the-wrong-answer-What-are-some-examples-where-you-applied-this-law) for the meme :v
+419,porkminer,1644561230.0,3.0,"I should know by now that if I think something is witty, someone smarter than me has already said it."
+420,kjpmi,1644555945.0,8.0,2^31 -1   Not 2^(31-1)
+421,wackywavingarmgumby,1644576690.0,1.0,"It's supported in that there's workarounds. One of which is ""just use a larger int (long) instead""."
+422,Leowitz,1644581044.0,1.0,uint32_t
+423,joanthebean,1644553804.0,1.0,"Yea that’s what I though. So Python would be a modern language that doesn’t support unsigned integer variables, right?"
+424,joanthebean,1644563793.0,1.0,So no but kinda?
+425,Ladikn,1644598049.0,3.0,"I...how....
+
+&#x200B;
+
+How does that work?"
+426,pixelbart,1644616782.0,3.0,Is that brainfuck-as-an-easteregg?
+427,Smartskaft2,1644590770.0,2.0,I understand that. JS is certainly a _very_ odd language. But being odd isn't necessarily bad.
+428,LuxurideGaming,1644581369.0,1.0,"It is commented, right?
+
+Right?"
+429,voxelghost,1644592879.0,2.0,Yes we all are I think
+430,chronos_alfa,1644580120.0,3.0,">3.875
+
+Well, he is right, right? https://calculator.name/baseconvert/decimal/binary/3.875"
+431,Altruistic_Item238,1644595373.0,1.0,Was the other half role playing different agile/scrum positions you'd be expected to know?
+432,Max_Insanity,1644568808.0,2.0,"I bet a smarter person than you has voiced that thought before, too.
+
+...and a smarter person than me this one. And this one. And this one. [...] Error: Stack Overflow Limit exceeded"
+433,Max_Insanity,1644568997.0,5.0,"Oh, don't be pedantic, that's only a difference of 1073741823."
+434,Ixaire,1644574387.0,1.0,"Thanks, I had no idea Reddit had formatted it like that."
+435,tilcica,1644553869.0,2.0,yup. python can go from negative infinity to positive infinity. just uses that much ram to store the int
+436,bright_lego,1644586050.0,1.0,If you really want.
+437,WeleaseBwianThrow,1644598872.0,13.0,"    [![]+[]] // ['false']
+
+    [+[]] // [0]
+
+    [++[++[+[]][+[]]][+[]]] // [2]
+
+Therefore:
+
+    [![]+[]][+[]][++[++[+[]][+[]]][+[]]] // ['false'][0][2] === ""l""
+
+etc"
+438,ascriptmaster,1644624860.0,1.0,It's JSfuck
+439,9to5retireat35,1644606002.0,1.0,"No, it was learning what not to google from roommates, lol"
+440,ydoiwantreddit,1644609773.0,7.0,One more question: why?
+441,ConglomerateGolem,1644620997.0,2.0,Yes

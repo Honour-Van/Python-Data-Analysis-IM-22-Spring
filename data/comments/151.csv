@@ -1,0 +1,98 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,SalemBeats,1533828734.0,12.0,"**C#** w/ .NET Core + Typescript is popular amongst Angular developers. IMO, this is the ultimate *""I need VERBOSE AND EXPLICIT STRUCTURE in my life""* stack for SPA development. C# is also a solid choice if you want to dabble in hobbyist game development since [it's the native scripting language for Unity](https://blogs.unity3d.com/2018/03/28/updated-scripting-runtime-in-unity-2018-1-what-does-the-future-hold/). When I was first introduced to C# back around 2007, it felt like a *""better Java""*, which brings me to...  
+  
+**Java** has a ton of history in web development, from Enterprise Java Beans, to Spring, etc. If you decide to spend a bunch of time in Java for web development, you'll likely be more comfortable programming native Android apps using either Java or Kotlin.    
+  
+**Python** w/ Django is popular with the data-science types, due largely to strength of Python's ecosystem in this domain. From what I've seen, it gets a lot of use from people who have taken a programming course or two in college and focused more highly on theoretical math/science courses. They often leverage it as *essentially* a really, really sophisticated TI-84+ calculator, writing a lot of single-use scripts which are used to test hypotheses, etc. Configuring/sharing/deploying Python code seems to reflect this use case -- Python/PIP seems to be much more painful than with Node/NPM.  
+  
+**PHP** w/ WordPress is huge if you ever want to hang up the corporate life and go freelance. Small-to-medium-sized businesses are still *overwhelmingly* using WordPress and are platform-locked by plugins like WooCommerce. There's a lot of love for Vue in the Laravel community as well, so the three of these *(PHP7/Laravel/Vue)* might make sense to learn together.    
+  
+**Rust** aims to be a better **C/C++**, in case you need to run a web server that's bottlenecked by computation rate rather than by I/O throughput. But it doesn't seem to have much of an ecosystem around it yet, so this is unlikely to be a language you're extremely productive in anytime soon. It's in an *""early adopter""* status, and if you encounter the types of problems in your job that it would be well-suited for, you're probably better off just using C/C++.  
+  
+**Go** chases a lot of the same goals that Node does *(speed/scale)* but mixes in a bit more C-like programming style and focus. Google made it with a practical and pragmatic emphasis to actually **do things** *(rather than just stand around sniffing farts while bragging in academese about how ideal the language design is)*. A result of this design emphasis is that it's likely to be more productive than C/C++/Rust for solutions where it would make sense to consider those, while still being much quicker at computation than something like Node."
+1,disymebre,1533815285.0,5.0,How about Rust?
+2,KiNgOfSpEEdOJaCK,1533802881.0,10.0,"I would suggest to learn C#, it classes the fourth/fifth popular programming language in SO survey and l think it's as versatile as Javascript or Python, you can use it for servers, desktop, games(a lot of Xbox games are programmed in C#, I think) and stuff."
+3,morphemass,1533809491.0,4.0,Elm if you want to add something front-end friendly to your skillset. Elixir if you want something from the backend that will be a huge divergence from node. golang if you want something low level. Ada if you want something esoteric ;)  
+4,BasedWebDeveloper,1533805804.0,11.0,PHP .. will be around until the end of time. 
+5,mearkat7,1533802724.0,6.0,"golang
+
+It's compiled so it is legitimately fast and has great tooling. Also very simple to get started but very powerful once you dive deep."
+6,WroteBCPL,1533808275.0,3.0,"IMO there's no point learning Python if you know JavaScript. They're both very developer friendly languages.
+
+Go for something low-level like C. No objects (well you get structs), no package management system (just compilation units that you can link together), learn how the kernel executes your code etc etc.
+
+Then maybe write some C or C++ code that includes the V8 runtime and do something cool with that javascript in your compiled program.
+
+Or if you're feeling less adventurous embed Lua.
+
+It's all fun stuff!"
+7,qilisiang,1533823520.0,3.0,"Learn at least two main languages, one dynamic typing and another static typing.
+
+Since you know JS, maybe it is good to learn another static typing language, e.g. Golang, Rust, C#, or even Java.
+
+If you want learn more about ML/AI, Python is good choice due to popular frameworks such as Scikit learn, Tensorflow, Keras. Panda, Numpy."
+8,tunisia3507,1533827673.0,3.0,"I like rust because it's a different paradigm rather than variations on a theme. It was also designed with webassembly in mind; we're considering replacing some of our frontend stuff with rust (it's a data analysis tool so fast algorithms are important). It'll feel hard but it'll be good to broaden your base.
+
+But if you want to get into machine learning or data science, python is the way to go."
+9,vontwothree,1533862964.0,3.0,"New skills don't necessarily have to be new languages. How good are your DevOps skills? How good are the tests you're writing?
+
+Asking for a language recommendation on this sub is... Well it leads to people suggesting C# and PHP and that's never good."
+10,TQpl0nk,1533811787.0,2.0,Python sounds like a great choice for you.
+11,p_r_m_n_,1533853282.0,2.0,"Checkout Elixir/Phoenix. The community is great and the language is very nice to work with. Phoenix  is awesome for backend api's and has websockets (channels) built in. It's almost too easy.
+
+[https://elixir-lang.org/](https://elixir-lang.org/)"
+12,fuckin_ziggurats,1533801614.0,2.0,"It's difficult to suggest something because if you want to learn a language you can use in your work, and you want one that's already popular then you'd have a ton more stuff to learn along with it, like frameworks, libraries, and tooling. Learning C# opens you doors to enterprise, web, desktop, cloud, game, and more programming fields but learning the language itself will only be 1% of that pie."
+13,Caraes_Naur,1533802123.0,1.0,"Good that you're looking to diversify, because the Javascript bubble will burst eventually.
+
+Python is decent choice.  I'll recommend something a little unconventional in this context: Bash."
+14,the-code-monkey,1533815119.0,1.0,Laravel PHP or golang
+15,Glensarge,1533903552.0,2.0,holy shit imagine thinking C# is as versatile as javascript hahahahahaha
+16,vontwothree,1533862821.0,1.0,"Locale is important -- even regionally. You go to Cleveland, there's C# jobs, you go to Austin there are none. So these SO survey's are to be taken with a grain of salt."
+17,scootstah,1533823880.0,1.0,The only thing preventing me from going ham with C# is the fact that I hate Windows. I use a Linux workstation. Would I be shunned?
+18,allkill,1533823727.0,6.0,My Man
+19,MJomaa,1533821871.0,3.0,"May I ask, but why not Rust instead of Go? I mean if I want to dive deep, why not go bare metal at this point?"
+20,fuckin_ziggurats,1533810276.0,5.0,"> IMO there's no point learning Python if you know JavaScript
+
+But there is, and OP made an example in his post:
+
+>AI is really picking up now and it seems Python is used heavily in that department
+
+There are many areas where JavaScript is far from the first choice. I'm not sure if low-level programming is what he's aiming for either. It looks to me like he wants to stick to web dev."
+21,,1533807680.0,3.0,"It will only burst if something better in every aspect comes along. PHP bubble also didn't really burst, it just shrinks slowly."
+22,KiNgOfSpEEdOJaCK,1533907721.0,0.0,"I'm a javascript developer so I should be biased but I'm not. C# IS as versatile as JS.
+
+Have you ever heard of Blazor project? It uses C# as a Javascript's alternative for client-side. It may not be popular or completed yet but let's be honest, Web Assembly is probably the future of the web.
+
+Also C# is used for programming games/desktop and even mobile with Xamarin. I don't mean this to make Javascript look less valuable but let's be honest here, Javascript is shit when it comes to type checking, it's the reason why Angular choosed a strongly-built/typed language like Typescript instead of pure Javascript. Languages like C# and Python have the most brilliant future at the long term. Javascript has a very brilliant future too but its flaws can lead it to get replaced.
+
+EDIT: I don't believe shit like his comments get upvoted, webdev, seriously?"
+23,A-Grey-World,1533826316.0,3.0,"Increasingly not. .NET is getting more and more cross platform with .NET Core. And VS Code is getting more and more usable with C#.
+
+The full Visual Studio is still probably the easiest way to code C#, and you cant do a lot of the nice desktop stuff like WPF etc - but for the web it's definitely been Microsoft priority these last few years.
+
+Worth giving it a go at least!"
+24,mearkat7,1533822745.0,2.0,"I don't have a great deal of experience with rust but to an outsider it's far more complex.
+
+I'm guessing the ease of using the http library or something makes go more popular for web programming so there's more resources out there and perfectly suited to writing backend APIs or far more complex pieces of software. If you're wanting the fastest though then no doubt rust is the best option."
+25,Glensarge,1533903639.0,1.0,"Go requires such a tiny tiny amount of code to achieve things, you can write a web server in like literally 3 lines of Go and it'll be concurrent and production ready, the stdlib is honestly ridiculously good"
+26,Irythros,1533918818.0,1.0,"Then why Rust and not ASM?  
+
+It's all about what you want/need to accomplish.  Go get's things done relatively easily with enough sanity checks to only shoot you if you ignore an error.  Rust is much safer at the cost of verbosity and build times.
+
+If I was building a site, an API or pretty much anything like that, Go would get me there faster.  If I needed to have better guarantees that it wont crash or code have unintended side effects (such as a router/switch/networking/finance) I would go with Rust."
+27,WroteBCPL,1533811141.0,2.0,Good point!
+28,scootstah,1533824147.0,2.0,">  if something better in every aspect comes along.
+
+There's already plenty."
+29,fuckin_ziggurats,1533810530.0,1.0,"I'm not sure but maybe u/Caraes_Naur is talking about supply and demand, not popularity. JavaScript will definitely continue to be popular for a long time but with the current growth in bootcamps that focus solely on JS the market *will* eventually (if not already) be oversaturated with JS devs and this will affect pay."
+30,Glensarge,1533907900.0,1.0,"javascript can build with very little effort web apps, native ios and android apps, native desktop apps (for all OS), can be ran on a server or on a browser client and all of it can be used for real world production apps"
+31,scootstah,1533826561.0,1.0,"I already play around with Mono and .NET Core on Linux with JetBrains Rider IDE. But, I have not worked on anything in a professional capacity. I imagine teams would be very Windows-oriented."
+32,,1533824265.0,2.0,"* works in backend and frontend
+* low learning curve
+
+with this included? No, there's not. Thats the most obvious without even going in to detail.
+
+Don't confuse your opinion with facts."
+33,scootstah,1533825350.0,1.0,"Given that Javascript is literally the only option for frontend, it obviously isn't going anywhere there. But for everything else, there's already plenty of better options.
+
+Every scripting language has a low learning curve."

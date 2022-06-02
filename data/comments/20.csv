@@ -1,0 +1,432 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,KateWalls,1483958485.0,165.0,"Doh! The chart just looks like macOS is in the lead only because Windows is split into 4 categories. Would be more comparable if they showed Sierra vs Windows 10.
+
+Still, very cool to see the two UNIX systems continuing to trend upwards."
+1,oa__,1483949044.0,42.0,"Also click the headers to compare the data from 2013 to 2016.
+
+.
+
+Here are the values for macOS OS X / Windows:
+
+
+year | macOS/OS X | Windows | Linux+macOS
+---------|----------|----------|----------
+2013| 18,7 | 60,4| 38,6
+2014 | 20,3 | 57,9 | 41,2
+2015| 21,5 | 54,5 | 42,0
+2016 | 26,2 | 51,7 | 47,9
+
+.
+
+I think it's interesting that macOS grew considerably compared to the previous years (1,6 %, 1,2 %, 4,7 %).
+
+edit: added Linux+macOS in the table"
+2,Ultima2876,1483969778.0,14.0,"Probably pretty skewed. There are a LOT of (particularly more senior) developers who don't really use StackOverflow, certainly not enough to see or be included in this survey."
+3,sparkyhodgo,1483974929.0,15.0,Not for long if Apple doesn't get serious about releasing professional products again....
+4,,1483954311.0,19.0,"That's really surprising, I would have guessed the big rush towards Macs would have occurred a couple of years ago among developers. 
+
+Maybe that's because Macs are now more accepted as company-provided machines than years ago? Anyways, someone remind me to check out those stats next year - I'd bet on a reversal considering the 2016 MBP's."
+5,that_90s_guy,1483981624.0,4.0,"Makes sense. As long time windows user that just bought an used early 2015 MBP, I perfectly understand why Mac is so loved by developers (besides it running on Unix). However, I'm sure the recent 2016 MBP's negative response will surely affect this year's MBP developer adoption (unless they buy an used older model like me)"
+6,p7r,1483971923.0,40.0,"I am expecting not a lot of you to like this, but it's important you don't all get too excited by this.
+
+The new MacBook Pro and the seeming abandonment of the Mac Pro in recent times means a _lot_ of developers are considering switching away this year.
+
+I work with about 40 engineers, and all but 4 of them choose macOS as main dev platform both at work, and at home (side projects, etc.). 
+
+Within a day of the new MBP announcement there was a spreadsheet going around showing specs on alternate dev machines from Dell, Razer, etc. and this was organised by a developer who leads our native application development team and has owned at least one machine from every generation of Apple from the original Mac Plus onwards.
+
+The main problems are: the butterfly keyboard, which runs contrary to the main dev fashion for moving to cherry keys and mechanical keyboards, and which many devs don't like; the removal of the Esc key for the touch bar, which impacts devs who prefer to use vi or editors with vi keybindings; the massive price lift, especially in comparison to similar spec machines from other manufacturers; the soldered on SSD and RAM meaning upgradeability/repairability is capped; the hard limit on 16GB of RAM, which for a dev using Docker and running micro-services locally is now starting to look a little low, and so likely will be within 2-3 years; the fact Apple are pitching it for consumers based on chipset choices and timelines.
+
+Apple spent a lot of time and money in the early days of OS X courting developers, particularly Unix developers. They are now chasing the consumer vision hard, and as a consequence, I'm expecting to see these numbers collapse hard in the next couple of years."
+7,rigden33,1483980588.0,6.0,"Just an fyi, this survey is 10 months old.
+https://news.ycombinator.com/item?id=11303511"
+8,Tawse,1483966065.0,11.0,"I'm a developer (mobile, kiosks, video installations, enterprise CMSs, etc), and vastly prefer the Mac as my main machine.  
+
+Unfortunately, they've fallen so ridiculously far behind in technology (speed, RAM, GPU, etc) that I'm giving up on them. I built a dual-processor, 3-GPU Windows machine that can do almost anything, and the Razer Blade Pro makes the Macbook Pro look like an Amiga 500.  
+
+I have an old Mac Mini I can still use to compile iOS stuff.  
+
+I've bought every generation of Mac since the Apple ][e (and still have an SE on my desk), but I'm done with them until they start making quality computers again."
+9,eob2000,1483966408.0,3.0,People still use Vista and 8. Wow. Poor people
+10,stonevil,1484017179.0,1.0,I do not care about haters and all this spec comparison. I'm using macOS and iOS and Apple ecosystem. Not MBP or iPhone. They just devices. So I do prefer MBP and will stay with Apple.
+11,BathLotion,1483979158.0,1.0,gotta laugh at the dissonance this stat is producing in a lot of peoples minds in here
+12,,1483994243.0,1.0,Who needs Dev when we Linux is can be free and open source and power by a community you most of u guys don't know about tech.
+13,XMLHttpWTF,1483971966.0,-2.0,"But wait I heard that Apple is pushing away ""power users""!"
+14,,1483961485.0,-2.0,[removed]
+15,oa__,1483964021.0,18.0,"True. They really should've split up macOS / OS X into their releases (10.12, 10.11, etc.).
+
+See the total percentage of all Windows versions in my comment above. :)"
+16,earf,1483981524.0,1.0,5 categories actually.
+17,,1483967575.0,13.0,[deleted]
+18,Wyelho,1483999119.0,5.0,"I do think SO has a fairly broad audience of developers, and a good share of my colleagues use MBPs. But if I remember the statistics correctly, most SO threads are created about something web dev or mobile dev related, so it probably skews a bit in that direction.  
+I think the growth is accurate, but the macOS share is a bit lower than that."
+19,iRyusa,1483978428.0,10.0,"That's not really true, even senior developers are using SO, senior doesn't mean you'll never encounter weird bugs or problematic code design."
+20,i_spot_ads,1483984170.0,-1.0,everybody is using so
+21,BreakingIntoMe,1484011878.0,2.0,"Agreed, especially with the Mac Pro/iMac/Mac Mini. I noticed with the new MBP, most professionals generally range from happy to satisfied with them, despite the pitchforking Reddit community. "
+22,dccorona,1483971948.0,8.0,"I would bet that the vast majority of machines being developed on are employer-provided. If your employer provides Macs, they're not going to stop providing Macs...they'll either continue getting the older one, or pony up the cash. The developer who wants a Mac isn't going to choose something else just because they have to use an adapter their employer is going to provided them for free anyway to plug in USB. The only deterrent I see is increased cost, and I don't see that as one impacting the majority of users."
+23,LilaLaLina,1483957707.0,19.0,"I doubt there's any reversal. These are work machines. Developers use them to make money. The need for them comes from the market, not the device specifications. "
+24,perfectviking,1483970222.0,8.0,I'm sure IBM has played a big role in the numbers increasing last year. 
+25,bjfie,1483984819.0,3.0,"I don't think we would see a reversal.
+
+If the 2016 doesn't work for a dev they can just get a new 2015 which is still a perfectly capable and modern machine.
+
+It will be more interesting when *all* the capable and modern Macs have things like the new keyboard, touchbar, etc... I use those two aspects because they seem to be the most controversial and or workflow altering.
+
+I know that the USB-C switch is also controversial but I *think* that is *much less* of a big deal for developers specifically compared to say a colorist, photographer or people in other areas of professional work."
+26,riotshieldready,1483985483.0,4.0,"As a developer macOS is the best balance for most. I find Windows is to limiting, and if your doing anything on a server its just a pain due to the OS being so different compared to a UNIX system. The reason I personally like macOS is because it offers me most of the power of a nix system with a much large application library.
+
+If I couldn't use macOS I would use Linux."
+27,stcwhirled,1483990280.0,2.0,I don't know why this is surprising.  One just need to spend 5 seconds in Silicon Valley to see what every engineer is using.  Outside of testing and QA j would be very surprised if you could even find a windows computer at Google or Facebook.
+28,oa__,1483955617.0,3.0,"I'd have expected the same as well. Keep in mind that the survey's numbers only go back until 2013. Maybe we had a big increase in 2012 or 2011.
+
+I can imagine that this has to do with mobile app developers. Android has more users/devices, but iOS users are more willing to pay for apps.
+
+edit:
+Clarification: On a PC you develop for Windows/Android, but on a Mac you develop for Win/Android + macOS/iOS.
+"
+29,Evning,1483956765.0,-7.0,"i would say there might be a reversal, but not because the 2016 mbps are bad, but because of various cross platform developement initiatives by microsoft on their visual studio platform coupled with the percieved superiority of surface studio.
+
+but i do not expect that reversal to persist for more than 2 years. it  would be the once bitten twice shy kind of effect.
+
+you are here, thus you are of the tech savvy demographic. but in actual fact, you, and me, we are a minority. the majority of users including professionals out there are not tech savvy, and to them, the 2016 mbp is fantastic. Even the touchbar will be a god sent to them."
+30,,1483980197.0,13.0,The new Win machine looked interesting but underneath its still Windows. As a developer (Web) I use Mac because of the OS.
+31,DeconstructingCats,1483997137.0,7.0,"I mean, that's a really nice anecdote but it's highly unlikely that we'll see anything like a mass exodus from MacOS in the market of people who do coding of any kind for a living. Maybe the changes on the new MacBook Pros or the delay in a Mac Pro update are problems for your specific workplace but these aren't problems for a majority of comp professionals. "
+32,,1483983416.0,5.0,"I'm one of those. 
+
+Wasn't happy with 2016 models so I bought a refurbished 2015 MBP to replace my non-retina 2012 version. I needed upgraded battery life, graphics power to drive my external monitors, and a high resolution laptop screen when working away from home. 
+
+The moment that the Ubuntu Bash shell on Windows becomes mature enough is the moment I am switching. To be honest, I would have switched sooner if it wasn't for Alfred being so damned ingrained into my workflow. "
+33,,1483979306.0,11.0,[deleted]
+34,Fuzzdump,1483999164.0,5.0,"> I am expecting not a lot of you to like this, but it's important you don't all get too excited by this.
+
+It bothers me when people state their opinion and try to pass it off as fact by prefacing it with ""you guys aren't gonna like this...""
+
+>The main problems are: the butterfly keyboard, which runs contrary to the main dev fashion for moving to cherry keys and mechanical keyboards
+
+What a load. The 2016 MBP butterfly keyboard is closer to a mechanical keyboard in feel than any of the mushy 2012-2015 rMBP keys. I type on cherry MX blues on my PC desktop and this is the first MBP in a while that's been a pleasure to type on.
+
+There are a large number of developers who don't need 32GB of RAM, who don't care about opening up their ultraportable notebook for upgrades, and who don't run a billion VMs. There are developers who benefit greatly from TB3 and USB-C. Don't assume all developers have the same profile as the ones in your bubble."
+35,,1483982666.0,3.0,"If you have devs using vi, why on earth have they not remapped it *before* this laptop using Seil.app? Buying a new computer instead of improving your work seems crazy"
+36,passionpassengers,1483975201.0,5.0,"While I am one case that supports your claims, I agree with you.
+
+I owned and developed on MBPs for seven years. On Cyber Monday I purchased a Dell XPS. Reconfiguring my development environment was daunting at first, but I chose to learn docker for running a linux containers and now I'm loving it.
+
+I saved money and overall I consider the software trade-off even and the hardware an upgrade. I do not like the MBP touchbar, but love my XPS touchscreen.
+
+And, as a bonus, I now have a cool new Docker skills setting me up for future hireability."
+37,BathLotion,1483978544.0,10.0,"I expect you won't like this, but what an absolute load of nonsense. I work with hundreds of engineers using Mac Book pros and absolutely none of them are considering moving to a windows machine."
+38,sruon,1483974588.0,4.0,"Exactly, my last 2 work machines have been MBP but I am seriously considering an alternative for the next one due to reasons you mentioned, and this is is a sentiment widely shared that Microsoft is fully exploiting with their new machines."
+39,er-day,1483994116.0,1.0,He'll be back. They always come back.
+40,redditor1983,1484006061.0,1.0,"As someone in the industry, I've never really understood complaints about laptop keyboards.
+
+Most devs I see have their laptop docked to an external keyboard (and mouse, and monitors). If someone was really concerned about keyboard quality, I don't see why they would be using the built-laptop keyboard in the first place."
+41,trinde,1484016885.0,1.0,"My 2016 MBP arrived today so I've been playing with it for a few hours.
+
+The keyboard is actually pretty nice to type on (compared to my old 2011 MBP at least). For most development I (and I'd think most developers) will just use an external mechanical keyboard anyway. 
+
+The esc key being a touch button isn't a massive issue, you can just double tap it. The touch bar is actually way better and more useful than I was expecting it to be. 
+
+"
+42,do_try_throw_catch,1483989661.0,0.0,Oh noes! It's Nilay Patel on Reddit!
+43,stcwhirled,1483990083.0,0.0,When has the MacPro ever been a developer machine??
+44,,1484003033.0,3.0,"I wonder how things will change for the next one, with Bash on Windows and the whole MacBook Pro 2016 thing going on."
+45,,1483976231.0,8.0,"If people really need that much processing power, why not get a desktop for a quarter of the price and then buy a nice portable laptop? $3700 is insane for base config."
+46,Ultima2876,1483969872.0,19.0,"> I built a dual-processor, 3-GPU Windows machine that can do almost anything, and the Razer Blade Pro makes the Macbook Pro look like an Amiga 500.
+
+Not many developers actually need that sort of power. Generally speaking, something that 'just works' and has a Unix base helps more than having 3 GPUs when you're making webpages and apps (which even a 2012 MacBook Pro has plenty of power to cover). Heck, I'm not even sure if XCode/JetBrains IDEs are optimised to use more than 4 cores when compiling, so your second CPU is probably moot too.
+"
+47,dccorona,1483972102.0,17.0,How have they fallen behind on speed? They offer the fastest available CPU for their class right now. 
+48,DeconstructingCats,1483997632.0,2.0,"> Unfortunately, they've fallen so ridiculously far behind in technology (speed, RAM, GPU, etc) that I'm giving up on them. I built a dual-processor, 3-GPU Windows machine that can do almost anything, and the Razer Blade Pro makes the Macbook Pro look like an Amiga 500.
+
+I don't understand this comment at all. The new MacBook Pros include the fastest CPU, NVME drives, RAM, etc that you can can put into a laptop of this size. The only ""improvements"" they could make would be to move to an Nvidia GPU but that would significantly impact battery life and would pose temp/throttling issues because of how much hotter Nvidia's GPUs run compared to the AMD GPUs chosen for the MacBook Pro. "
+49,Hyperx1313,1483970238.0,0.0,"Yup. I have the previous gen Mac Pro with 128 gigs of ram, and no intentions of buying current gen Mac Pro. Already looking at windows options."
+50,zucchini_asshole,1483971014.0,4.0,"I'll rather take 8 than 10.
+Privacy nightmare.
+"
+51,,1483971710.0,-1.0,[deleted]
+52,DangHunk,1483964303.0,5.0,Try addressing the article instead of pandering to idiots.
+53,pmrr,1483964304.0,4.0,"You joke, but I bet the cost of new MBPs will affect these numbers for next year."
+54,h1h1h1,1483966931.0,4.0,"Yes this current generation of macs suck, 2015 was good. You will see this reflected in next years survey if they take another"
+55,NotLawrence,1483966320.0,-2.0,Clearly you have no idea that Macs have been popular among developers for a while. 
+56,dccorona,1483971772.0,22.0,"I think they should have done it the other way (combined the Windows categories). This isn't a ""what min version should I target for my new app?"" survey, it's a ""what OS do people perfer"" survey. I guess it's interesting to see how many are sticking to Windows 7 vs. who is updating beyond it, but if you want to take the comparison outside different Windows version's and involve other OSes, they should be combined. "
+57,Rediwed,1483982828.0,7.0,"Nah, with Mac OS users don't tend to sit around on their old versions as much as people do (or did, by now?) on Windows. "
+58,PleasureKevin,1483995008.0,3.0,Windows fragmentation is a much bigger issue. Most Mac users upgrade and there's a new version every year. On Windows it's very 3 years and no on want's to do it. 
+59,KirekkusuPT,1483972591.0,12.0,Comparing the # of computers running Windows vs the # of computers running macOS it's still a huge win for macOS.
+60,Ultima2876,1483979894.0,7.0,"While they might use it, they're also far less likely to be involved enough in the StackOverflow community (i.e using it every day) to see this survey. None of my peers really use StackOverflow that much, and when they do it is through links from reddit communities, references or google searches, rather than directly and in such a way that they'd see surveys conducted on SO.
+
+I've _certainly_ seen more junior/student developers using StackOverflow than seniors/experienced engineers."
+61,,1483982247.0,14.0,"The thing is, there's a lot more web-developers and Java-devs and data scientists than iOS developers. None of them are wedded to the Apple ecosystem and if Apple continues to under-deliver, they will switch."
+62,TemporaryBoyfriend,1483977657.0,2.0,"Yup, IBM partnered with Apple a few years back to put a polished face on it's big data systems. I don't know how much has come out of that, but I'm sure there was a big spend on equipment up front as part of that partnership. "
+63,Rediwed,1483997404.0,2.0,"If anything, I think it'll make their lives easier.
+
+I mean, come on, aside from currently having a thousand different types of connectors and cables and having to use dongles (for now) is there any reason NOT to use USB-C? USB-C will make living w/ cables easier. I've currently switched to USB-C for about 40%, and boy do I love it (no tbMBP yet though)."
+64,IsItJustMe93,1483995663.0,3.0,"> I would be very surprised if you could even find a windows computer at Google
+
+Google doesn't want employees to use Windows, they were even talking about actually disallowing Windows for personal devices:
+
+http://bgr.com/2013/11/28/mac-chromebook-google-employees/
+
+http://www.tweaktown.com/news/34189/google-pushes-its-employees-to-use-macs-not-its-own-os-or-windows/index.html
+
+http://googlesystem.blogspot.com/2010/06/google-employees-need-permission-to-use.html
+
+https://www.ft.com/content/d2f3f04e-6ccf-11df-91c8-00144feab49a"
+65,,1483991036.0,2.0,"The surprising thing is ""why now?"" - in the valley, it used to be like that for years now."
+66,sam_rowlands,1483972226.0,1.0,"With an increasing amount of x-plat tools, I wouldn't say that you can't create iOS apps on Windows. I do know of a iOS games studio who switched over to Windows as they claim it's easier to debug touch based games on a Touch device, many Windows machines have detachable screens, making them a tablet.
+
+They still have to use a Mac to submit to Apple.
+
+AFAIK You still need a Mac to create a watchOS or tvOS app, but that might change also."
+67,LilaLaLina,1483957781.0,9.0,"I can see how Surface Studio would be perceived superior for designers and drawers, but how is it perceived superior for the developers? "
+68,p7r,1483982478.0,8.0,"I'm not interested in Windows either. None of the people I mentioned are. Linux my friend, it's the future. Laptop support (particularly on the Dell XPS), is pretty decent."
+69,pwnies,1484014403.0,1.0,"^(Disclaimer: former MS employee, still own some stock with them.) 
+
+For me as soon as the linux subsystem in windows 10 gets more refined, I'll probably be off OSX as my main dev environment. Windows has been embracing linux pretty heavily recently since so much web dev has moved towards unix based systems. MS seems like they're really listening to dev wants now that Balmer is gone, and Apple has just been making moves that have left a sour taste in my mouth. "
+70,p7r,1483999144.0,3.0,"[citation needed]
+
+Go read the dev blogs. Everybody hates the new MBP and the Mac Pro hasn't had a refresh since Noah, or feels like it."
+71,Rediwed,1483997943.0,2.0,"Hey, I'm interested in your Alfred workflow.
+
+I've been using alfred since may 2016, but haven't really gotten past using normal search and file quick search with pressing spacebar. How did you manage to remember all the features it has?"
+72,p7r,1483982362.0,9.0,"OK, out of all the developers I know who use Macs I know _one_ who is getting a new MBP and _everybody else_ is moving away.
+
+Maybe this is localised, maybe this is just a thing that'll pass, but I know I don't want one, and I've been Mac since 2005. If you want to insist that means nothing, then fine, go for it.
+
+But given there are people _in this thread_ saying the same thing, and there have been many dozens of blog articles from influential developers saying the same thing, and I've yet to see one single positive review of the Mac from a developer, well, call it what you want. I don't care."
+73,p7r,1483999724.0,3.0,"So keyboards - as you know if you're into cherry - is about personal preference. Some will like them, sure. The general consensus and straw poll is most devs I've spoken to hate the butterfly keyboard. I type mostly on external Apple keyboards and have a 2015 rMBP that I think is ""OK"", but the butterfly is weird to me.
+
+Your arguments about RAM usage are absurd - nobody will ever need more than 1MB of RAM, right? - and the fact that Apple are still in dongle hell is putting a lot of people off USB-C, and TB3 is a non-starter for many, many people.
+
+Time will tell. I remember calling it when the exodus from commodity hardware into Apple started back in 2002-2005, and I'm calling it in the other direction now. You don't like it, and that's fine.
+
+Apple could fix this - they need to decide to commit to the professional user, as the Pro lineups at the moment seem to be headed towards the consumer with plenty of cash more than genuine power users. But they could fix it, and I hope they do. It's generally good kit.
+
+But if they don't, I think these numbers won't look as good in 12 months time."
+74,p7r,1483999342.0,4.0,"The fact you think vi remapping is done via Seil.app rather than the vimrc is telling.
+
+If you've got in your muscle memory that your Esc is up there to the top left and had it there for a decade, you can't just remap it to caps lock now and be done. A lot of the younger devs have remapped, but plenty who don't want to for various reasons."
+75,,1483990073.0,1.0,Because remapping a button as ubiquitous as 'esc' in VI is hard as hell to do. Whenever I use a non-VI editor I find myself accidentally mashing esc like there is no tomorrow
+76,RollTide09,1483983857.0,10.0,"Yeah, I'm not seeing any of this. Just about every dev in my office has already purchased the new MBP. 
+
+Then again, this is all anecdotal so who knows. "
+77,p7r,1483982407.0,4.0,"I didn't say Windows.
+
+Nobody I know wants to move to Windows.
+
+Linux support is pretty good these days."
+78,jakeryan91,1483979601.0,0.0,Do you and OP work together? Two differing sets of opinions can exist.
+79,nelisan,1483991199.0,4.0,"> this is is a sentiment widely shared that Microsoft is fully exploiting with their new machines.
+
+How so? The Surface Books are similarly priced, don't allow more than 16GB of ram (which is soldered on), and the SSD is also dangerous to upgrade. They also don't include current-gen ports like TB3. I also wouldn't be surprised at all if Windows laptops start including a touchbar instead of function keys."
+80,Grisk13,1483982682.0,3.0,"I just rebuilt my PC and finding that I love using g it again. Since ubuntu for Windows (bash) is stable now, I feel very comfortable. The only thing I really miss is iMessage and Tweetbot. "
+81,,1483984247.0,8.0,[deleted]
+82,p7r,1483999182.0,2.0,"The clue is in the name. It's for ""Pro""fessionals.
+
+What do you think developers do all day?"
+83,,1483982927.0,7.0,"This gets repeated so much and it totally confuses me. All laptop makers are basically using the same small set of parts. If speed doesn't increase, it's across the board nine times out of ten."
+84,RollTide09,1483984087.0,3.0,Also fastest storage speeds if I remember correctly. 
+85,,1483977593.0,9.0,It's a meme that has to be repeated.
+86,Zalbu,1483978373.0,2.0,"Because speed is about more than just the CPU? The 2016 Macbook Pro performs laughably compared to something like the Dell XPS 15 in Premiere.
+
+https://youtu.be/XUY9mZoWv0w"
+87,sleeplessone,1484032212.0,1.0,">How have they fallen behind on speed?
+
+Did you even read his post after that?
+
+>I built a dual-processor, 3-GPU Windows machine that can do almost anything
+
+Dual processor, not dual core.  So he's probably running 8 or 10 cores across 2 CPUs.  Even Apples ""highest end"" system no longer offers a dual CPU option."
+88,Tdlysenko,1483991524.0,8.0,The telemetry features of Windows 10 have been patched into both 8.1 and 7 through service packs. 
+89,eob2000,1483975844.0,1.0,If you know what to turn off then it is fine. Much better than 8 and on par with 7
+90,eob2000,1483975814.0,2.0,7 is fine. 8 and Vista are really bad.
+91,emergentketo,1483965465.0,-1.0,Try cracking a smile? 
+92,zxrax,1483970276.0,2.0,Doubtful. Companies provide these machines. A few hundred extra doesn't matter to them; it's a drop in the bucket compared to the value the developers provide for the companies. 
+93,,1483967662.0,3.0,[deleted]
+94,emergentketo,1483966969.0,2.0,Uhu.
+95,emergentketo,1483966945.0,0.0,"You're not a smart one, are you?  
+  
+Genius, wake up . . . my comment was sarcastic. 
+  
+I was calling out the fools in the sub who make a career out of ripping into Apple."
+96,djellison,1484001954.0,1.0,Why not?  They've combined the OS X versions.
+97,,1483984017.0,7.0,[deleted]
+98,sleeplessone,1484031280.0,1.0,"> On Windows it's very 3 years and no on want's to do it. 
+
+Technically since Windows 10 there have been 3 OS versions.  Release, 1511 and Anniversary Release 1607.  Next version is named the Creators Update.  Like MacOS each of these is a full new OS which is why the update process is different than a standard update, you are actually performing an upgrade install of Windows over your previous version."
+99,iRyusa,1483981309.0,7.0,"Even if you're not involved into it, they used visitors data too :
+
+> Surveys aren’t perfect. While our large sample size helps offset some biases, it’s still biased against devs who don't speak English, or who don't like taking English-language surveys. In some sections we've augmented the results with insights gleaned from the activity of Stack Overflow's 40 million monthly visitors. If you’re an employer, we’d be happy to help you reach those developers. If you're a developer (you're probably a developer), we hope you sign up.
+
+So I don't think this is a matter of experience, people are just googling and most of the time SO is in the firsts results."
+100,streetgoon,1484009263.0,2.0,"If you are a professional software engineer and you don't use stack overflow, you're being irresponsible "
+101,DeconstructingCats,1483996877.0,8.0,"I can't speak for web or java developers, but data scientists are definitely continuing to jump to MacOS away from things like Windows. The benefits of a Unix environment are pretty significant in this field. "
+102,perfectviking,1483977806.0,5.0,I was referring to this: https://www.jamf.com/blog/mac-ibm-zero-to-30000-in-6-months/
+103,bjfie,1484024349.0,1.0,Your reply seems to suggest that I was saying the usb-c connector is a big issue for devs. That's the opposite of what I was saying. 
+104,pyrospade,1483977002.0,1.0,"> you can't create iOS apps on Windows
+
+IIRC JetBrains delevoped an iOS IDE, but I haven't tried it so I can't tell how close it is to xCode"
+105,Evning,1483959451.0,0.0,"Just because it is a desktop, it will be percieved as being more powerful. 
+"
+106,freshwordsalad,1483988070.0,18.0,"Linux has been the future for 20+ years now.
+
+Speaking as a previous Linux user.
+
+macOS has enough Unix to keep me happy while having the best GUI out there and the most solid hardware."
+107,,1483994251.0,4.0,"Oh I use linux too. CentOS, Ubuntu etc for  server stuff and Kali for white hat testing. But day to day is has to be macOS. The Linux OS's are not quite slick enough for me yet. "
+108,redditor1983,1484006226.0,2.0,I think the future is people not caring so much what their personal computer is because they're ssh'ing into a Linux machine anyway. Haha.
+109,DeconstructingCats,1483999619.0,5.0,The plural of anecdote isn't data. Reading a bunch of blogs is not how you determine a trend. 
+110,,1484038730.0,1.0,"Folder/File/App search is a big one for me, as well as ejecting disks, web searches, clipboard manager, some simple terminal commands, and storing some snippets are some of the default functionality that I use daily.
+
+My favorite community made workflow so far is one for Lastpass. I can quickly invoke a command to search through my entire password vault and clip the password to the clipboard. 
+"
+111,,1483984423.0,5.0,[deleted]
+112,,1484000093.0,2.0,"Since caps lock doesn't register as a key press to vim, how would you propose mapping it in .vimrc?"
+113,,1483993545.0,4.0,"I'm not sure what you mean. Hitting esc while using vi is horribly awkward and goes against its philosophy of keeping your fingers on the home row. And this make sense, given that the escape key used to sit where today's caps lock key is now.
+
+https://simplyian.com/2015/01/08/The-real-reason-why-Caps-Lock-and-Escape-are-in-terrible-positions/
+
+A solution that most vim users I know of was to remap esc to capslock, since you really don't use that key nearly enough to justify its prominent position on most keyboards. The program, Seil.app was using to do this until recently. macOS 10.12.2 introduced a preference to do this without a third party program.
+
+That's why most hardcore vim users didn't care at all when they escape key got changed on the new MacBooks. They weren't using it there anyways."
+114,BathLotion,1483984093.0,5.0,"Well, you know, except for the hard evidence presented by the OP "
+115,BathLotion,1483983231.0,10.0,Your devs hardware justifications are complete bunkum. Our devs have been  doing very similar work work on smaller machines for years. As for the keyboard.. what? Get an external keyboard like everybody else if it really isn't to your taste.
+116,,1483984493.0,1.0,[deleted]
+117,sruon,1483985174.0,1.0,"I mentioned Microsoft because of their new hardware and the (seemingly) good feedback they are getting. 
+
+I would never use Windows either, but Debian derivative is definitly on the table.
+
+Just this morning I've been hit again by the kernel_task bug (100% CPU usage with multiple monitors because of shitty ACPI drivers), which has been present for at least 4 iterations of macOS... just sayin'"
+118,glr123,1484000290.0,1.0,"Depending on your needs, the new Linux Subsystem on Win10 is pretty convenient."
+119,er-day,1483994475.0,1.0,"The only possible complaint is about either choosing battery saving ram, which unless you want 7 day non use battery life is a no brainer.  The real complaint is that they should have released it sooner since it has an older chipset or waiting a couple more months for the newer one.  But they'll just come out with an updated model in like 9 months anyways so who cares."
+120,sleeplessone,1484032741.0,1.0,"Nope, just fairly standard NVMe 4x speeds.
+
+I've been running a 950 Pro in my desktop that is just as fast for quite a while and performance matches if not exceeds what reviewers are seeing on the 2016 MBP."
+121,dccorona,1483983391.0,7.0,"If the GPU performance and RAM speed had been the reason for making the ""speed"" claim, then why call them out separately? Yes, speed is about more than just the CPU, but I'm responding to a statement that already deconstructed the various components of ""speed"" into separate points of comparison. "
+122,rttrdm,1483986582.0,7.0,Did you actually watch that video? I don't think it proves the point you are trying to make.
+123,JoelTheSuperior,1483987677.0,4.0,"To be honest how the Mac performs in Premiere is largely irrelevant to most Mac users. What really matters is how it performs in Final Cut Pro, which from what I've seen, is pretty well."
+124,dccorona,1484055424.0,1.0,"Yes, but I was referring to the laptops. They seem to have given up on tower desktops, not fallen behind."
+125,BreakingIntoMe,1484012381.0,2.0,"I don't even know which one I hated more out of Vista and 8... Maybe 8 because it was alienating. Windows 10 is also pretty bad, too. Windows 7 was actually the best."
+126,pmrr,1483970444.0,3.0,"I can only speak for myself as IT buyer for a startup, but particularly in the UK, the price hike makes a difference."
+127,sparkyhodgo,1483975037.0,1.0,= 2012 macs. I still have no reason to upgrade my high-spec 2012 rMBP which is practically identical to what Apple was still offering just 6 months ago.
+128,NotLawrence,1483971387.0,1.0,Sure if you say so. 
+129,dccorona,1484002438.0,4.0,"I'm saying they should also combine the windows versions, not that they should leave it as is"
+130,Rediwed,1483985170.0,5.0,"There are work arounds for that ;) and I said tend to, I'm not claiming that everyone updates instantly. "
+131,PleasureKevin,1484033214.0,1.0,"And the site refers to all Windows 10 as Windows 10, so the naming is consistent. Windows 7 and 8 not being a part of the yearly release, they are separate.
+
+They also tried to do what you described with Windows 8 and failed miserably. They had Windows 8.1 Update 1 lol. "
+132,iRyusa,1484059802.0,1.0,This is a completely nonsense statement. Some few posts on SO are really well written with elegant solutions for common problems you can encounter.
+133,Wyelho,1483998614.0,5.0,"Can confirm, stuff like Theano and Tensorflow is a real PITA on Windows. I do most of my work on an SSH Linux machine anyway, but I'm looking to switch to macOS for my next laptop as well."
+134,Rediwed,1484036395.0,1.0,"Sorry, the 'I mean, come on' wasn't really meant towards you. It was meant against people who bash the new tbMBP. Now I'm not saying it's the perfect machine, but usb-c is great :D"
+135,NeoTr0n,1483981756.0,2.0,AppCode is not cross-platform.  It requires Xcode to function. 
+136,LilaLaLina,1483960077.0,6.0,Aren't we talking about developers? Surely they can move past that. 
+137,rsynnott2,1483986733.0,2.0,"I mean, the iMac is also a desktop. And if you discount the pen screen thingy, which is irrelevant to most developers, you get a fair bit more computer for your money with the iMac than with the Surface Studio. The Surface Studio is _really_ expensive."
+138,Rediwed,1483997745.0,1.0,"The new surface studio sports mobile class hardware, right? Developers must see this and realise it really isn't more powerful?"
+139,simbian,1484012723.0,1.0,"To be honest, I bet a great deal of us back (devs in general) then jumped to Macs due to the laptops being much better than the equivalent Windows laptops and it having an environment similar to Linux."
+140,,1483989904.0,5.0,Technically there are infinite Ubuntu options since you can basically put it on any hardware you want
+141,p7r,1484003681.0,2.0,"Sorry, long day, I meant the tab key.
+
+Full guidance here: http://vim.wikia.com/wiki/Avoid_the_escape_key"
+142,chopsaver,1483985679.0,9.0,"The OP has offered an argument, but nothing close to ""hard evidence."" "
+143,er-day,1483994221.0,5.0,"Lol right, what good laptop comes with a mechanical keyboard built in.  There's a couple gaming laptops with them but nothing really serious.  If you really care about your keyboard then you have to go external."
+144,p7r,1483999427.0,1.0,"Yes, that's right, carry your laptop and an external keyboard everywhere, why not? May as well just not have a keyboard on the laptop at all then, eh?
+
+I actually know a guy who codes regularly with an iPad Pro, ssh and tmux onto a remote VM with a bluetooth mechanical keyboard. That's not a typical setup, though. And it's not the solution that apple should be trying to sell."
+145,p7r,1483999229.0,1.0,I never said devs want to move to Windows.
+146,,1483994875.0,2.0,"Ya that seems reasonable. This is definitely a skippable product for me, but by the comments on reddit you'd think it's the end of the world."
+147,Zalbu,1483988280.0,-2.0,"So what point does it prove? How it performs in Final Cut is irrelevant if you don't use it, which is most industry professionals."
+148,sleeplessone,1484158154.0,1.0,I'd argue that they aren't using a best in class GPU nor have they ever short of the MacPro on initial release.
+149,eob2000,1484032626.0,1.0,I got used to 10 after a while. I personally would not go back to 7 anymore. Although I still love 7
+150,dccorona,1483972243.0,1.0,"Developers care about their OS. If you currently have people who like to use Macs and you stop providing them, I suspect it'll cost you way more in lost talent than it saves you on hardware purchases. "
+151,,1483984821.0,1.0,[deleted]
+152,,1483985539.0,6.0,[deleted]
+153,sleeplessone,1484033682.0,1.0,">And the site refers to all Windows 10 as Windows 10
+
+Yes, the idea being Windows 10 is the last Windows version.  Just like OS X/MacOS has been version 10 forever.
+
+If you want to argue that they aren't separate OS's then neither are Apple's point releases.
+
+>They also tried to do what you described with Windows 8 and failed miserably.
+
+And yet, they are succeeding doing that with Windows 10, in fact they've done it twice now since it's release."
+154,DeconstructingCats,1483999508.0,5.0,Funny coincidence. I just finished building a hackintosh so that I could run Keras + Theano/TensorFlow with CUDA. Could never get the thing running on Windows and got fed up trying. It runs equally well on Ubuntu as on MacOS but I just can't stand working in any of the optional Linux GUIs. 
+155,Evning,1483961008.0,0.0,"well... if you are a tech savvy developer, which i am gonna agree is probably 99.9% of developers, then isnt it more likely for you to compare specs? which makes it more likely to go for a desktop with desktop graphics, thats quite important for 3D programming.
+
+also, your company might be the ones making decisions.
+
+of course, i am of the opinion that osx handles graphics much more elegantly and requires less power. and the portability of a laptop is more important these days as increments to computing power reaps very little more these days compared to the past."
+156,Evning,1483989153.0,1.0,"i wont disagree with you, it is true, but the appeal of the shiny new thing on the market must not be underestimated. "
+157,,1483995992.0,1.0,[deleted]
+158,,1484004156.0,2.0,"Ok, but I never mentioned the tab key"
+159,BathLotion,1483985925.0,5.0,"it's a survey, i.e. empirical evidence. Please, go ahead and explain to us how that's just an 'argument'. This should be interesting "
+160,BathLotion,1484000159.0,5.0,"So which laptop with a full travel mechanical keyboard would you recommend? Oh right, there basically isn't one.
+
+Why are people being so silly about this? The standard practice everywhere I've worked is to have whatever external keyboard you like at your desk. Simple as that "
+161,,1484000738.0,-1.0,[deleted]
+162,nelisan,1483991498.0,6.0,"Most ""industry professionals"" also don't edit on a laptop."
+163,rttrdm,1483991907.0,2.0,"It proves that premiere is better optimized for pc's than for macs. 
+It says nothing about the lack of speed of the new mbp. "
+164,dccorona,1484159907.0,1.0,"That's fair but it's also why I only objected to the claim about speed, and said nothing about the claim about GPU. "
+165,pmrr,1483974039.0,1.0,I'm buying hardware for more than just devs.
+166,sparkyhodgo,1483985634.0,1.0,"Even if you don't care about the chassis. The internals are practically the same too. The 2013, 2014, and 2015 models are all basically speed bumps."
+167,Rediwed,1483991353.0,3.0,"OS X updates have only been free since Mavericks (since three years). I do think the updates, and especially their design, are incremental updates and thus less disruptive.
+
+HOWEVER I do believe snow leopard was the most stable version of them all (when initially released)."
+168,PleasureKevin,1484035247.0,1.0,"I think I was agreeing with you. I was just commenting on how people think it's unfair the site breaks up Windows but not Mac. Actually given the release system you described, it makes sense to not break up either Mac OS or Windows 10. "
+169,barjam,1483973350.0,7.0,Most developers don't do 3D or care about graphics. Development on a desktop machine is mostly dead as developers require laptops for the most part (or that's what they are given anyhow). I have seen a developer issued a desktop since 2004 or so.
+170,LilaLaLina,1483961141.0,9.0,Surface Studio has mobile CPU and mobile graphics. 
+171,RollTide09,1483984016.0,1.0,"How many devs use a desktop? Next to none? 
+
+If they did, why would they want an underpowered Studio? "
+172,Rediwed,1483998191.0,2.0,How come XPS works better with Ubuntu?
+173,Tdlysenko,1484009244.0,2.0,Pretty much anything that uses primarily stock Intel parts will work flawlessly. The primary driver issues in Linux nowadays are with Broadcomm and Nvidia drivers. 
+174,ttmp3,1484036092.0,1.0,">but if you want a setup that doesn't break every once in a while
+
+Do you have such bad experience? I have Fedora Linux on Thinkpad T430 for more than three years. It did not break for a single time."
+175,chopsaver,1483987854.0,5.0,"Oh, I thought you were referencing p7r's comment; on reddit it is not uncommon for ""OP"" to mean the parent of a comment thread. But if you'd like to discuss whether developers are actually fleeing from MacOS, I think oa__ makes it rather clear in [this comment](https://www.reddit.com/r/apple/comments/5mwgfh/macos_used_by_even_more_devs_than_2015_ahead_of/dc6vonm/) that the market share of MacOS among developers is on the rise."
+176,p7r,1484003605.0,1.0,"It's not. It's moving Unix devs to another Unix. You might not remember this, but most of the OS X influx was from the BSD community back in the early 2000s.
+
+The Dell XPS 13 is a pretty solid Linux workstation. The Razer is the same."
+177,sleeplessone,1484160342.0,1.0,GPUs are becoming increasingly important when it comes to the overall speed of a system esepecially one that is supposedly for creative professionals.
+178,dccorona,1483974985.0,2.0,"But we're talking about whether the price will impact the number of developers using macOS. If you decide it's too expensive to provide MBPs to Account Managers or something, that won't really affect those numbers at all"
+179,redditor1983,1484005584.0,1.0,I think before that they were only like $30 though. 
+180,sleeplessone,1484035663.0,1.0,"Totally agree.
+
+Really it depends on what metric you are trying to measure.
+
+If you are trying to determine which overall platform people are using, combine them all.  MacOS, Windows, Linux.
+
+If you are looking for what versions to target for a specific application being developed then it may make more sense to go down to some specific version numbers across all platforms.
+
+I can't think of any reason you would break down some platforms but not others though."
+181,dopkick,1484002189.0,1.0,"I've done development work at least as part of my job since 2009 and have nearly exclusively used desktops. I never had a need for mobility as I don't take my work home with me and usually had 2-4 30"" monitors hooked up to my desktop (plus some 24"" monitors if I had less than 4 30"" monitors). My desktop had 32GB of memory (limited by the chipset, I also built some workstations with substantially more memory), the latest i7 processor, large SSDs, a great mechanical keyboard, etc. 20 times out of 10 I would pick this setup over any laptop. "
+182,Evning,1483985172.0,-1.0,"Neither have i. But, trust me. The world is not all as forward we would like it. Desktop based companies still exist. 
+
+And you are wrong about 3D development. Most games are 3D. 
+"
+183,,1483976140.0,2.0,"In fairness, the i7 6820HQ isn't appreciably slower than desktop class CPUs from similar time period. I feel they should have used a 1080 for the GPU, especially for that price."
+184,Evning,1483967233.0,1.0,Really~ that interesting. Certainly not what i felt was advertised. 
+185,MustBeOCD,1484009994.0,0.0,"Mobile graphics which far outperform the iMac...
+
+And a mobile CPU that performs as well as the 6500 in the base iMac."
+186,Evning,1483985282.0,0.0,"The ones that work in an office and cant bring a desktop out into public still do. What you cant see isnt what isnt. 
+
+It is true the studio is not as souped up as it would first seem, But bad choices based on marketing shill do exists. "
+187,,1484000676.0,2.0,[deleted]
+188,oa__,1484003747.0,1.0,"Yep, at least for the users at Stack Overflow."
+189,pmrr,1483975090.0,2.0,"Doh, you're right!"
+190,Rediwed,1484005616.0,1.0,True!
+191,barjam,1484013391.0,1.0,No arguments there. The simple fact is it isn't an option for most companies to give their developers desktops.
+192,rsynnott2,1483986777.0,5.0,Most developers aren't working on games.
+193,barjam,1483985827.0,1.0,I have actually work in the 3D game business before. Technically all games are 3D now (even 2d looking ones) as the engines are that way. My point is that 3D development is incredibly specialized and a tiny percent of developers actually do that sort of work. I would be surprised if it was even 1%.
+194,LilaLaLina,1484028332.0,0.0,"Not sure how that's relevant? The person was talking about perceived power of desktops.
+
+And yes, the highest end CPU option in Surface Studio performs as well as the lowest end CPU option in iMac. Not sure what your point is. "
+195,Rediwed,1484002250.0,2.0,"Oh, I never knew they had developer editions! They also come in with other distros? "
+196,Evning,1483989070.0,0.0,well true. but that would probably be one of the kinds of programmers that require powerhouse hardware.
+197,Evning,1483986146.0,1.0,"if your engine is 3D, then your system has to cope with that even if you arn't the one writing the engine."
+198,MustBeOCD,1484029078.0,0.0,"Well what does being mobile have to do with specs/power then?
+
+"
+199,barjam,1483986707.0,1.0,I am not even talking about 3D engine development I mean doing 3D work at all. Very few developers do 3D graphics of any kind. It is a niche area.
+200,LilaLaLina,1484033195.0,0.0,Nothing. Read the context of the discussion please. 
+201,Evning,1483989182.0,1.0,thats true. thats true.

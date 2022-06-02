@@ -1,0 +1,259 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,dagmx,1521300432.0,113.0,"Honestly I think it falls in to two camps:
+
+* People coming from something like WordPress and expecting Django to be a similar CMS. Django is a lot lower level than WordPress and I wouldn't categorize them the same, but it is where I see a lot of frustration. They'd be better off using something like wagtail on top of django
+
+* People who are familiar with web frameworks and don't want all of djangos bells and whistles. They'd rather be using something more minimal like flask. 
+
+Django , imho, is probably one of the nicest web frameworks I've used in any language with a good mix of power and ease of use. But it does fall in this space where it draws criticism from either side. "
+1,,1521307880.0,24.0,i find it astonishing that rails is nowhere at all on those lists. it's like it just vanished
+2,unnamedn00b,1521333460.0,24.0,"I mean Tensorflow is at the top of the ""most loved"" list so I don't know what to make of this survey."
+3,Garcon_sauvage,1521312187.0,54.0,Nothing is wrong with Django everyone hates every web framework. 
+4,pydry,1521304269.0,16.0,I think the survey might have been designed poorly. There's way too much overlap between loved and dreaded.
+5,yen223,1521326375.0,9.0,"Django is an opinionated framework. The more you stay within the confines of those opinions, the easier it is to work with. 
+
+However, as soon as you stray from those opinions, you'll find yourself fighting against Django more often than you're working with it. 
+
+Case in point: Django admin is designed around models, and Django models are built around relational databases. If you need to manage data in the admin that isn't easily modelled as Django models - say if they come from an external service - you'll have to hack around Django's limitations to get it working. 
+
+There's also the other problem that Django encourages an object-oriented architecture, which means large Django projects will fall victim to the same complexities that plague other object-oriented software. Won't list them here, there's plenty of literature online about this. "
+6,KitchenDutchDyslexic,1521311123.0,4.0,"I got interested in py due to sqlalchemy. Last time I checked django has a very opinionated ORM.
+
+As for a web framework I adore bottle but use flask professionally. "
+7,panatale1,1521331724.0,5.0,"Short answer: nothing is wrong with Django. It's wonderful. I can't speak for anyone giving it a bad rap, but I love it"
+8,gunthatshootswords,1521323189.0,4.0,"Django feels a lot more... involved? than flask. I've no great experience with either but that's my take on it from what little I've done. It's fairly simple to get a flask app up and running and doing the basics, wheras you've got to set up project/app etc for django.
+
+For personal projects I stick with flask."
+9,i_like_trains_a_lot1,1521452475.0,1.0,"To be honest, if you asked me what I feel about Django a year ago I probably would have said that I hate it and I'll never write a project with it and I'll stick with Flask, Tornado and CherryPy. Nowadays, I just love Django. Once you understand the underlying class structures and learn how to customize them easily, you start to see the true beauty of this framework. This happens only after you spend a few weeks or even months at least using and getting used to the structures it provides (class based views, forms validation and rendering, context processors, etc).
+
+Of course, it has its limitations, but it's not impossible to extend it to cover some use cases that the framework wasn't covering (such as analytics plots in the admin dashboard). But hey, you can't cover 100% of the cases and Django does an amazing job covering the 90% most common cases."
+10,jacdeh,1521795073.0,1.0,"If you use Django the way it's meant, it's quite convenient.
+If you are it bit stubborn (like me) and want to do certain thinks your own way, there's a lot you have to read before you really can bend it to your needs.
+And switching to a much newer version (forced by the hosting company) didn't prove all that easy.
+Nowadays I prefer smaller frameworks, since they're easier to fully comprehend and tweak.
+"
+11,torimus,1521312613.0,-8.0,"From my point of view, the most dreaded attributes of Django are vast incompatibilities even between minor versions and ill-considered extendability.
+
+I took a part on a Django 1.4 based project and the breaking changes upto the last LTS were simply too much, on par with rewriting whole app from scratch.
+
+Subclassing django models is straighforward, however extending with a single field produces *dreaded* N+1 query. Imagine, when you write derived project of an e-commerce framework, you suddenly build up lots of additional N+1 db queries and performance starts to fall down.
+"
+12,c17r,1521303768.0,43.0,"I said in another subreddit about the survey results:
+> If you look at the Experience section I think you’ll find your answers.
+
+Lots of young, in-experienced developers coming in slants towards javascript and in the javascript world something even less than a year old is considered outdated let alone 12 years old.  
+
+Rails isn't even on the list."
+13,twigboy,1521307526.0,17.0,"I hate it when people complain that django is an ""all batteries included"" setup.
+
+Everything is so modularised and optional that if you don't want it, you don't have to load it."
+14,Exodus111,1521367326.0,2.0,"Exactly this. There is nothing wrong with Django. Most web projects are going to need a database and an admin panel. With Django you have that built in. 
+
+Sure it's a bit much if all you want to do is create a landing page. But too many people confuse the minimal approach of something like Flask with freedom. It depends on the project. "
+15,throwaway357632,1521316074.0,32.0,"I worked in finance, rail was the rage about 10 years ago. Now, every shop that use rails are moving to Python or Java. People are starting to realize it's very hard to maintain a framework in a language that doesn't have a large ecosystem.
+
+For example, Java/Python/C++ has massive ecosystem that you can build websites, algo trading, fraud detection, data analysis, etc. Rails+Ruby is basically a one-trick pony. After awhile, people just don't want to maintain a headcount for sake of Rails+/Ruby."
+16,ryeguy,1521334798.0,13.0,All the hipsters moved from rails to node and are now using go.
+17,torimus,1521313069.0,12.0,Same. In our region there is literally 100 Rails jobs on 1 Django job.
+18,,1521341271.0,43.0,I don’t hate every framework just the ones I’ve used. 
+19,Okesa,1521338625.0,5.0,This is the realest answer.
+20,sisyphus,1521334262.0,1.0,+1.  I’m pretty sure it shows up here just by virtue of being the most widely used Python web framework.
+21,xiongchiamiov,1521306445.0,10.0,"The names they use overstate reality I think. There's a section where you list what technologies you're currently using and a section where you list things you want to use in the future. So if you're using Django now and someone asked you ""hey, what are you looking forward to learning and using at a new job?"" and you didn't answer Django, SO would consider you to ""dread"" it.
+
+I suspect a lot of people using Django would be fine using it in the future but also fine doing something new."
+22,,1521332377.0,4.0,[deleted]
+23,attrigh,1521316510.0,1.0,"What extra flexibility does sqlalchemy give you?
+
+One thing I can think of is the primary key requirement."
+24,Garcon_sauvage,1521341370.0,6.0,For me as soon as you need user authentication or more than a very simple database Django is probably easier
+25,naught-me,1521349739.0,2.0,"Flask seems like a replacement for raw PHP, whereas Django is more like a replacement for PHP with a framework."
+26,,1521361332.0,4.0,"This is not a django issue, but a business logic issue. If you have 2 tables and want to do a naive selection of related data you will get n+1 query. This is also why SQL has joins, and nested queries.
+
+Dont see this as a django/django orm issue, but more a developer issue. This is also true in most orms. 
+
+Also, n+1 queries are easily profiled."
+27,fdemmer,1521314154.0,5.0,"adding a field to a properly subclassed model does not add any queries. it is still the same table.
+
+set the parent as an abstract model.
+
+if you cant do that read up on select_related()."
+28,stefantalpalaru,1521324668.0,-11.0,"> the most dreaded attributes of Django are vast incompatibilities even between minor versions
+
+That's the reason. You either budget hundreds of hours each year towards minor upgrades - with no visible changes to the paying customer - or you run a vulnerable system.
+
+All this because those selling professional Django consulting services are also in charge of developing it, and breaking backwards compatibility in horrible ways each and every month is good for their business."
+29,daniels0xff,1521329794.0,8.0,Yeah... it's so easy to remove what you don't need and keep it as lightweight as you want.
+30,fiedzia,1521407169.0,2.0,"Have you ever tried to use it without a database? Its doable, but takes non-trivial amount of work."
+31,btreecat,1521376625.0,1.0,"Tbf, my opinion in Django changed as it evolved. 
+
+I used it back in the 1.4 days first. It was ok. A bit of a kludge in some respects. 
+
+Decided to try it again for a new project now that they hit the 2x branch and i have to say it feels a little tighter. 
+
+Could be a difference in my experience as that first project was over 5 years ago but I felt the newer one was a little less opinionated and a little less bloated.  "
+32,fuzzyinterval,1521402470.0,3.0,">It depends on the project 
+
+Exactly. For my last 3 projects Flask was all I needed. My next project might need an administrator, users, member roles, database...I will take a closer look at Django for that.  
+
+Its similar to Sinatra and Rails in the Ruby camp. If all you have is a couple of pages and maybe a contact form, just use Sinatra.
+ Choosing Rails for that would be like getting your CDL so you can drive to the store in a semitruck to get an ice cream bar."
+33,,1521319011.0,5.0,"yea, i meant considering how large it was just a couple years ago, it's surprising that now it doesn't even seem to be a blip on the radar"
+34,,1521360805.0,6.0,"This. Rails is the best and at the same time the worst thing that happened to Ruby. It once spoke to some devs working in a digital agency and asked whats their goto tech stack. Mostly it was wordpress, but they very proudly announced that they also have a rails app in production. It sounded like they chose rails just and only becuase it was rails, probably because is was so hyped at the time (this was in 2012 iirc). Most users of rails tend to fall in the same category that most ”php developers” they dont really use the language, but the framework / cms. This is probably more common in php space though.
+
+Python is spared from this, as most users know python and use it in a more broad sense than rails/php users. This is a very good thing for python.
+
+Having said that my theory turned out true, becuase of the massive growth of python (in the last few years) in various branches of science, webdev, ml etc etc.
+"
+35,,1521342428.0,6.0,"To them I say, yeah good luck with that. "
+36,Garcon_sauvage,1521342293.0,7.0,"Yep try to implement feature that the current framework doesn’t support built in or is supported poorly. Use different framework that supports that feature,  find out some other feature isn’t supported. Repeat ad nauseam. "
+37,yen223,1521333489.0,3.0,Exactly. A lot of Django is designed for surprisingly narrow use cases. 
+38,KitchenDutchDyslexic,1521318475.0,7.0,"I will be honest and say I have not looked at django in a long time.
+
+But a quick jab at it I like to be specific with my column data types eg [postgres data types](http://docs.sqlalchemy.org/en/latest/dialects/postgresql.html#postgresql-data-types) supported by SQLalchemy. SQLalchemy also seems to have a more powerful [enum type](http://docs.sqlalchemy.org/en/latest/core/type_basics.html#sqlalchemy.types.Enum) then django orm.
+
+But we are comparing a database toolkit against a general web framework. "
+39,sisyphus,1521334079.0,8.0,The list is practically infinite...Django’s ORM is miles behind what SA can do (which is not to say it’s bad—but it’s made to be part of a web framework and not to be a database toolkit for database people).
+40,DasIch,1521376984.0,2.0,"SQLAlchemy gives you a straightforward way of expressing any query. If you can do it in SQL, including database specific stuff, you can do it with SQLAlchemy. That's not at all the case with Django.
+
+Additionally database migrations with alembic are just much more straightforward and faster to execute. 
+
+The Django orm is fine, if you just want to store some data somewhere but if you really want to take full advantage of your relational database, it's just not suitable. 
+
+"
+41,gunthatshootswords,1521357995.0,1.0,"Yeah, I'd definitely agree with that."
+42,torimus,1521383419.0,1.0,"> This is not a django issue, but a business logic issue. 
+
+No, it is not. Other frameworks like Rails have this well known issue solved (AR decorators and squashing migrations), other like Django-based Mezzanine does bit of a [dirty hackery](http://blog.jupo.org/2011/11/10/django-model-field-injection/) but with many caveats esp. db migrations and models initialization ordering.
+
+> Also, n+1 queries are easily profiled.
+
+Haha, it's good to know Django's recommended and only supported way for models extending is the cause of outrageous database traffic .."
+43,torimus,1521315008.0,-28.0,"Read *carefully* what is written before post a reply, please.
+
+> adding a field to a properly subclassed model does not add any queries. it is still the same table.
+
+Subclassing a model for the sake to extend original model with a single (or more) fields creates a *new* table and N+1 db query. Try in REPL convert django query to SQL and see for yourself.
+
+> set the parent as an abstract model.
+
+When you *derive* (extend) project, it is meant you wont touch original 3rd party sources. omg
+
+> if you cant do that read up on select_related().
+
+This is quite unrelated to the topic. We are not talking about optimization of subsequent access but N+1 query problem caused by subclassing. omfg
+
+"
+44,,1521332060.0,7.0,I spend under 10 hour per YEAR keeping my large Django codebase updated to the current release. That is child's play.
+45,torimus,1521383918.0,2.0,"Thanks. Local zealotism feels a bit scary. Downvoting fest without even understanding or enough experience behind. Anything against their faith is enough to blame.
+"
+46,twigboy,1521407535.0,3.0,I've never needed it without a database
+47,ascii,1521325746.0,25.0,"Rails' rate of mutation was just too high, quality of code was just too low. Rails was valuable to the world because it introduced a lot of useful concept to web development, but it also introduced a lot of terrible ideas and it finally collapsed under it's own weight. The world is better because Rails existed, and the world is even better now that it's gone."
+48,YvesSoete,1521326241.0,5.0,"it was mostly large on the USA east coast, the rest of the world didn't really cared so it died"
+49,jcdyer3,1521386309.0,5.0,"You'd probably be interested to know about [django.contrib.postgres](https://docs.djangoproject.com/en/2.0/ref/contrib/postgres/#module-django.contrib.postgres)
+"
+50,attrigh,1521422397.0,2.0,"> But we are comparing a database toolkit against a general web framework. 
+
+I think the django ORM is modular enough that you could say that you are comparing an *ORM in a web framework* with a database toolkit.
+
+"
+51,attrigh,1521422634.0,1.0,"> SQLAlchemy gives you a straightforward way of expressing any query. If you can do it in SQL, including database specific stuff, you can do it with SQLAlchemy. That's not at all the case with Django.
+
+This is kind of close to this: https://docs.djangoproject.com/en/2.0/topics/db/sql/
+
+Although yeah the sql expression dsl in sqlalchemy is more powerful.
+
+> Additionally database migrations with alembic are just much more straightforward and faster to execute. 
+
+Good to know.
+
+> The Django orm is fine, if you just want to store some data somewhere but if you really want to take full advantage of your relational database, it's just not suitable. 
+
+That's the kind of broad normative statement that's difficult to interpret but very useful to be told. I'll feed it into my bayesian priors for decisions about orms ! :)
+"
+52,ascii,1521325573.0,21.0,"fdemmer described how to work around the problem you described, and you reply by throwing a hissy fit because it's super important to you to assert that the stated problem actually exists, even going as far as to repeatedly insult fdemmer because he dared explain to you how to solve your problem. Nice!"
+53,stefantalpalaru,1521336412.0,-10.0,"> I spend under 10 hour per YEAR keeping my large Django codebase updated to the current release. That is child's play.
+
+If you're done lying, how many external Django apps that you have to maintain yourself (because they were discontinued upstream) are you using?"
+54,jadelord,1521362554.0,2.0,"For someone who has never tried Rails, can you list a few those good, bad and ugly concepts that Rails came up with?"
+55,DasIch,1521451177.0,2.0,"Yes, if you use raw SQL and essentially stop using the ORM, you can write any kind of query you want. You don't have to do that with SQLAlchemy, you can just use the expression language SQLAlchemy provides. "
+56,torimus,1521381211.0,1.0,"> fdemmer described how to work around the problem you described
+
+No, he didn't. His response was quite off.
+But I see, attitude is more important the facts for some..
+"
+57,,1521338715.0,6.0,"No lying.
+
+And 3 simple apps. I am careful to not just add apps for no reason. About  10 apps total, 7 of which are well maintained and 3 of which i made forks of. May be 1 of those i can  get off my fork.
+
+Watching  warnings  gives you a good heads up on coming  changes. 
+
+I find if you use apps sparingly your life is a lot easier."
+58,ascii,1521367817.0,10.0,"Good: 
+
+* Support for packaging your app and all your dependencies into a single package so that when you deploy, you will have the exact versions of all dependencies you tested with.
+* An ORM that relieves you from writing your own SQL for trivial queries.
+* You even describe relationships in the ORM, and can trivially walk the dependency tree of your database.
+* Describe your database model using a ruby language extension, and the SQL schema is created for you. When an upgrade changes the db schema, rails notices your SQL database is an older version and upgrades.
+* A separate routing layer to go from URIs to endpoints.
+* For trivial data entry-type objects, simply describe all your fields, and rails will create a simple CRUD-like user interface for you. (Scaffolding)
+
+Bad:
+
+* The scaffolding mentioned above creates code for you that you need to maintain. Django does the same thing much, much better by automatically deriving things from your data model.
+* Rails was so slow, that even small apps often needed a caching layer to not overload the CPU.
+* The ORM was so slow that deserialising the data needed to render a single page could take half a second.
+* Rails leaked so much memory that you often needed to restart your server every few thousand requests.
+* Horrible backwards compatibility. Every minor rails upgrade would break your app in twenty different ways. Because Ruby is dynamically typed, the compiler never helps with any of that, meaning you have to spend stupendous amounts of time writing over-specific tests that break every time you want to do a minor refactoring.
+ 
+Ugly:
+
+In some parts of rails, they decided to go with words in singular, in other parts they use the same name in plural. (You have a Hat-model, and the corresponding controller is named Hats, for example.) This led to problems, because not all english words are pluralised in the same way, e.g. one sheep, two sheep. So the rails devs added a pluralisation engine to rails that handles such exceptions. Unfortunately, English is a huge language, and they didn't cover all words. So they had to make a plug-in API to the pluralisation engine. All this because some moron couldn't decide if classes should be named in the singular or plural. Completely stupendous amounts of complexity for absolutely no benefit what so ever.
+
+"
+59,attrigh,1521492300.0,1.0,"Yeah. The expression language is pretty close to raw sql though.
+
+I appreciate the differences things like:
+
+    if condition:
+        q.where(blah)
+
+This is all a bit of a pain in raw sql."
+60,ascii,1521405998.0,2.0,"His response is factually correct, but instead of admitting that, you insult him and change the topic."
+61,stefantalpalaru,1521341815.0,-4.0,"> And 3 simple apps. I am careful to not just add apps for no reason. About 10 apps total, 7 of which are well maintained and 3 of which i made forks of.
+
+It's cute that you think yours is a ""large Django codebase"". I have about 40 third-party apps for a social network / magazine / video hosting / photo hosting combo.
+
+Add about 50 in-house apps and you'll get a code base of about 150k lines of Python code (besides the framework itself). This is a large codebase and it's stuck on Django 1.6.11."
+62,btreecat,1521377062.0,2.0,"This actually helps to explain why groovy/Grails is such a terrible product. 
+
+So many of the same issues with slowness, broken backwards compatible minor release (xml serializer broke one day), bad scaffolding, etc. 
+
+"
+63,torimus,1521471549.0,0.0,"Can you base your claims on something specific or they are just a personal guess ?
+
+I didn't changed the topic, he was off with the reply.
+
+"
+64,,1521342638.0,5.0,"I have well over 50k lines  of code. It sounds  like you did a bad job of installing too many 3rd party apps and dug yourself into a hole )
+
+50 in house app also sounds  like an anti pattern.  I have two apps and will  be shortly deleting one of them.
+
+For reference i have worked on million plus line apps. This is a large project  but by no means large on the app scale.
+
+Still, sounds  like your head developer screwed the pooch and now you are stuck :) Aint the frameworks fault."
+65,fdemmer,1521573919.0,1.0,">> if you cant do that read up on select_related().
+
+> This is quite unrelated to the topic.
+
+can you explain how using a join to prevent multiple separate queries does not address your issue of ""dreaded n+1 query""?"
+66,stefantalpalaru,1521342783.0,-12.0,"> It sounds like you did a bad job of installing too many 3rd party apps and dug yourself into a hole )
+
+It sounds like you're a moron."
+67,torimus,1521667647.0,0.0,"> can you explain how using a join to prevent multiple separate queries does not address your issue of ""dreaded n+1 query""?
+
+I'm not sure it has to be taken seriously. First it looks like you don't even understand what [`select_related`](https://docs.djangoproject.com/en/1.11/ref/models/querysets/#django.db.models.query.QuerySet.select_related) really does. It's unrelated because related table data prefetch does not remove the original problem, it *may* only lessen impact in some scenarios. Original problem, extending (non-abstract) model by subclassing which always create an additional table
+"
+68,,1521343408.0,6.0,Not me stuck on Django 1.6
+69,stefantalpalaru,1521375163.0,-2.0,"> Not me stuck on Django 1.6
+
+No, but it's you who believes that ""anti"" in ""anti pattern"" means ""bad"". Trust me, buddy, you're a moron."

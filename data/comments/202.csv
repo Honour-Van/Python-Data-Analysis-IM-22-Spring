@@ -1,0 +1,192 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,SneakyRead,1590666083.0,95.0,I have found that I needed Stack overflow much less after moving to Clojure.
+1,yogthos,1590666101.0,49.0,"I also can't remember last time I've used SO for Clojure. Most of the time I've used it for languages like Java was to get an example of how to use the API for a library to do what I wanted.
+
+I find that with OO, it can take a lot of effort to learn how an API works because you have to pass object graphs around, and each object is a unique snowflake in terms of methods and behaviors it has. So, you often have to learn how dozens or even hundreds of objects are intended to be used.
+
+Finding an example of somebody solving a similar problem you have becomes invaluable in this scenario. You follow what they did, see if you get a good result, and then tweak things from there. Having a working starting point saves you a lot of time here.
+
+Meanwhile with Clojure most library APIs are data focused. You call a function, pass it some data, get some data back, and that's all you need to know. Data is both transparent and inert in nature. You don't have any behaviors associated with it, and you don't have to know what methods to call. You can typically figure out the API via the REPL and the docs in minutes. And for cases where I do need help I also find that it's more productive to go to Slack.
+
+So, I can see why Clojure isn't well represented on SO, and that leading to it being excluded from the survey this year. Unfortunately this will likely reinforce the whole Clojure is dying narrative as a lot of people will read it as Clojure not being popular enough to be included. There's already a [comment](https://www.reddit.com/r/programming/comments/grq82i/the_2020_developer_survey_results_are_here/fs1if54/) talking about Clojure dying on /r/programming discussion about the survey."
+2,phunanon,1590670169.0,27.0,"Not expecting riches or success, but the 2019 survey is why I looked into and learned Clojure."
+3,SimonGray,1590668244.0,19.0,"> That's the danger of correlating stackoverflow activity with language community health. I feel the Clojure community is more active and vibrant than ever. Am I missing something?
+
+I don't think so.
+
+And the same can be said for Erlang/Elixir. It's not like that community is dying. On the the contrary, it too is more active and vibrant than ever.
+
+But perhaps the pie of developers is growing faster as a whole than the pieces allotted to various niche languages? That would be my guess. Relatively speaking, niche functional languages would be shrinking despite growing in absolute user count. I'm sure Stack Overflow simply has some percentage cutoff for which languages to feature."
+4,andersmurphy,1590676049.0,15.0,Something else I've realized is we now have [https://ask.clojure.org/](https://ask.clojure.org/) . Which I imagine is getting most of the traditional Clojure stack overflow traffic. Elixir has [https://elixirforum.com/](https://elixirforum.com/) which probably has a similar effect?
+5,didibus,1590694853.0,10.0,"This is really disappointing, but I'm sure it's a marketing move. Their survey is probably mined and sold for their HR recruiting arm which makes them money.
+
+For a developer like me, the only interesting metrics about the survey were those around all these niche/underdog projects. What do I care if Python and Java popularity flip flop between the two? We already know that, no survey needed. It's in the tranches that things were interesting.
+
+I might have to omit from filling up the survey this year, seems their changing their target customer from what used to be developers to now have companies and HR centers as their customer base."
+6,didibus,1590695359.0,11.0,"The thing with Clojure, is it will never have a ""killer app"", because it doesn't need too. Clojure IS the ""killer app"". Nobody in Clojure is building ""killer apps"" because we don't need too, we're just using Clojure to solve business problems directly.
+
+But the developer landscape is moving away from general purpose programming language and developers, into more of a specialized single purpose framework/tooling with operators.
+
+People are now React developers, Vue developers, Apolle developers, or they are Data Scientists, or they are Spark developers, or Hadoop developers, or heck they are Firebase developers, AWS developers, etc."
+7,frompdx,1590689462.0,12.0,"I think StackOverflow has always been an echo chamber for what is popular.  I don't see it as a reflection of the health of community's health.  The top results are also the languages and tools that people tend to use while they are learning how to code.  A lot of people never really progress past the first few tools that they learn in my experience.  I see Clojure as something that the technically curious graduate to.  That was the case for me.
+
+Beyond that, very few businesses use Clojure.  Businesses are generally risk averse. 
+ Adopting Clojure is a risk because:
+
+* There isn't a major commercial backer like Google (golang) or TypeScript (Microsoft), and it isn't ubiquitous like JavaScript, Java, and PHP (to a lesser and waining extent).
+
+* Because of this, there are far fewer developers who use it.
+
+* Businesses don't want to use a language that will be hard to hire for because they want developers to be interchangeable widgets in an assembly line.  Needing to train someone how to use the language tools used internally is a non-starter for most orgs.  They want to run an ad for Java or Node.js devs.  They know that if they run an ad for Clojure devs they will get very few hits, if any.  In my experience this leads to discussions about using any type of alternative languages being shut down by managers.
+
+I think Clojure is also a tough sell for other developers as well.
+
+* Some people are violently allergic to parenthesis and can't see past the syntax so they never get to the point of appreciating the power and flexibility of the tool.  Their souls are lost and there is probably nothing we can do for them.
+
+* Some people fear change.  If you are on a team with people who have just worked with Java for the last decade or so, presenting Clojure is a threat to their future on the team if they are unwilling to learn.  This creates tension and causes these types of individuals to side with managers when things like not being able to hire replacements come up.
+
+* People don't typically start their learning journey with Clojure, Lisp, or any other fringe language.  They start with what is popular.  A lot of people just never branch out from there.  Not long ago a couple of developers on a team that I was on were adamant about sticking to JavaScript even though it was pretty clear that TypeScript was a much better choice.  It was like pulling teeth and TypeScript is just about the smallest mental leap you can make in programming if you already know JS.  Again, I think they saw it as a threat.
+
+I'm sure there are a lot of other factors as well.  To echo what others have said, I basically never use SO for Clojure related questions.  As time goes on I have less and less need for SO in general.  SO is a crutch for beginners as well as it is a crutch for dealing with hot messes like JavaScript where the rules are difficult to remember.  If you think Clojure is a good tool for the task at hand you'll keep using regardless of whether or not it makes the cut for a popular language in the eyes of SO.  Want to make it popular?  Keep writing about it and keep showing off the stuff you build with it."
+8,include007,1590676937.0,3.0,"stack overflow was overrated for some.
+now is overrated for many."
+9,funk_r,1590670209.0,5.0,"I think it has something todo how Clojure Programmers solve their issues. Normal developer just use Google Search and and Google brings them to Stackoverflow, and then the requests are counted. When you go directly to a specific resource, Google dont see it. This would explain also why Clojure fell out of the Tiobe Index as well."
+10,funkie,1590670435.0,5.0,"From stackoverflow and Google trends it's apparent clojure has been on a downward trend for some time now, though clojurescript seems stable enough. Clojure's slip correlates with that of the JVM. Kotlin and other languages are bucking the trend by providing native compilation."
+11,rpompen,1590681545.0,7.0,"What you're missing in my humble opinion:
+
+Institutions are fighting Clojure...
+
+It is not a coincidence, as computers became multi-core between 2005 and 2010, that Lisp has been removed from the curriculum of most universities around the world. Most developers in the market can only create schoolbook parallel solutions .  
+
+
+Clojure is the first virtually syntax free declarative programming language that supports the whole computer, not a quarter of the CPU like most other languages.   
+
+
+Clojure kills the software development market by being the first language of the multi-core generation that allows complex systems to be built easily.
+
+The language is agile, taking away the market of certain consultants. And since fewer developers are required for the same project, it can lead to a drop in the number of developers required per year.
+
+It has been said that the number of programmers doubles every 5 years, e.g. 50% of the developer community has less than 5 years experience. Clojure damages that fragile market.
+
+In the few months it can take for someone to become proficient in Clojure I could gain strong competition.
+
+I personally don't want Clojure to become too popular, as I am self employed and kick butt with this language. :)
+
+So please, everyone just focus on Java :)
+
+&#x200B;
+
+Just my 2 cents..."
+12,,1590687345.0,2.0,"I love the syntax of Clojure, but I think Spark was a huge hit for Clojure. If you want to learn a language built on top of Java, that's immutable, and built for modern infrastructure/data analysis, you're probably going to choose Scala because of Spark."
+13,dustingetz,1590704175.0,2.0,Hard to read into this. There are more Clojure jobs than Haskell jobs. Clojure is upvoted more than ever on HN and showing up in Java twitter. Maybe some outlier stat was skewing something?
+14,namesandfaces,1590678653.0,4.0,"My perception is that Clojure is becoming unhealthy YoY, and I'm surprised every time when I keep hearing people in the sum of their speech suggest otherwise. In an age where programming language rankings are being shaken up (rare!) and mindshare is moving around, and there's a lot of enthusiasm for data infrastructure, Clojure is just not in the picture.
+
+Is Clojure waiting for the next data wave?"
+15,kmyokoyama,1590687311.0,1.0,"Does anyone have updated stats about the number of attendees on Clojure's events (meetings, conferences and so on) around the world or even regionally? It would be great to see how community is engaging and growing (or shrinking)."
+16,agumonkey,1590693218.0,1.0,is the clojure job market really that good ? or was it a special lucky spot ?
+17,flaheadle,1590770351.0,1.0,"The clojure community moved away from SO a while ago, and now they're returning the favor."
+18,kmyokoyama,1590686830.0,5.0,"I simply love how Clojure functions are documented. Its own community provides a wide range of examples making the docs organically comprehensible. Sure it is not particular to Clojure, but it is a great idea anyway."
+19,didibus,1590694963.0,6.0,I barely visit it anymore. That said there's a few old Q/As for Clojure on it that are useful.
+20,jjttjj,1590674557.0,20.0,"Strange, I find sort of the opposite to be true. To me the best part of Java is javadocs, enabled by it's types+OO nature. The times I've had to integrate with big java libraries, it's a relief that I can usually figure stuff out by clicking around long enough in a familiar ugly web interface. 
+
+With clojure, I tend to find myself looking at the library source and tests. It's true that clojure is data focused. This is extremely helpful in inspecting outputs, but understanding what inputs are needed can be tricky.
+
+Of course I'd prefer clojure any day of the week, and reading clojure library source to me isn't really a chore.  And I have no doubt that Java/OO langs appear more on SO due to their inferiority :) I just haven't found the ""typed OOP libraries inherently need more examples than data oriented libraries"" part to be true."
+21,nezda,1590670706.0,12.0,SO seems like the kind of organization we could just ask their rationale for these omissions and get a candid response.
+22,nosoyelonmusk,1590693305.0,4.0,I have not used clj much but in case of elixir it can also be because the whole ecosystem has great focus on docs and most packages are very well documented + it also has a very lisp inspired repl.
+23,dragandj,1590698371.0,3.0,"Good point. They started as a place for developers, built by developers. But they took VC money (if I remember well), and that means that they need to generate, or, better said, extract by whatever means necessary, a ton of money to feed the investors. Well, it goes downhill from there..."
+24,pavelklavik,1590850846.0,4.0,"Exactly, when I am coding in Clojure, I am just focusing on business problems and do not really need to Google anything. But I need to Google frequently when working with Java or JS libraries because I can never remember how to do even simple things there. So my Google/SO searches while working in Clojure are for Java or JS. In other words, these metrics likely reflect nothing: Clojure is so simple that you don't need to search everything."
+25,jglx40,1590702342.0,3.0,"Yeah SpringBoot developer, or even IntelliJ developer.. I have seen junior developers knowing less and less beyond what the tool offers... Specialization.. guess that is how industry or even society evolves"
+26,tropical_sunrise,1591162703.0,1.0,"These points were exactly the problems I ran into 10 years ago, for Common Lisp. I had deja vu while reading them. But I'm certain Clojure has things a lot better."
+27,SimonGray,1590677141.0,7.0,"> From stackoverflow and Google trends it's apparent clojure has been on a downward trend for some time now, though clojurescript seems stable enough. 
+
+JavaScript has also been on steadily declining on Google Trends in the same period as Clojure (since 2015). Is that really an accurate reflection of JavaScript's popularity over time?
+
+And if we are looking at things in the long term then a great many things on Google trends that were present from 2004 and onwards have seen a strong decline in popularity.
+
+So what should we make of this? Google Trends is a fun tool, but I don't think we can derive much meaningful information from it other than make note of certain local peaks and say ""huh, that's interesting"". It's dataset is not reliable over time and the basis of the Y-axis is completely opaque to us."
+28,joinr,1590684938.0,4.0,"What kind of scaling are you seeing in practice with Clojure on multi-core processors?  Very curious, since I've run into unexpected bottlenecks likely related to the allocation-heavy idioms clojure defaults to, which seem to bring in the garbage collector as an implicit synchronization mechanism."
+29,andreyorst,1590682218.0,1.0,"I think Clojure can really be the [secret weapon](http://www.paulgraham.com/avg.html) in Java world. But on the other hand that's a shame, because the end goal is always the good software."
+30,33virtues,1590684771.0,1.0,so you put them up to this! 🕵️‍♂️
+31,didibus,1590695121.0,1.0,"Its a shame that Spark won over Storm. Spark went with a batch approach, not as innovative, but scaled better in practice, and won the mindshare with that practical compromise. I wonder what would have been the other way around had Storm won."
+32,didibus,1590694629.0,3.0,"What do you mean by unhealthy?
+
+Even if the number of devs using Clojure drops to 0 it would still be healthy as long as the core maintainers continue to maintain it.
+
+You actually don't really need much community support when it comes to Clojure, because it just piggy backs on JS and .Net and JVM, etc."
+33,,1590710944.0,9.0,"eh, I disagree. I think the official docs are kinda shit and rely on https://clojuredocs.org/ and the examples there a lot."
+34,andersmurphy,1590675261.0,14.0,"My experience has been the surface area of Clojure libraries tends to be much smaller. Combine that with interactive development and as you mention Clojure being relatively pleasant to read and I find I'm just not googling for things as much.
+
+There just seems to be less complexity and surface area so there's less to discuss.
+
+There's a lot more to take in in Java, every API has its own slightly different implementation of map/filter/reduce etc (an exaggeration, but sometimes it really feels that way).
+
+As a Clojure developer I'm grateful for the amount of heavy lifting the Java/Javascript ecosystems do for us. So by no means am I suggesting they are inferior.
+
+EDIT: I think you're right about Clojure source code. I do find I read a lot more source code in Clojure. A lot more than I ever did in Java. I'm just a lot more comfortable reaching into the code and having a look and coming out with something useful. Maybe that does indicated lack of documentation? Or less support on stackoverflow? Maybe it's a lisp thing? I find I do the same with Elisp."
+35,yogthos,1590675986.0,8.0,"I find the complexity in OO comes from the fact that each class is unique in nature, and knowing how one class works tells you nothing about the next. So, you have all these javadocs, but you have to figure out how to instantiate and use a bunch of objects which can take a significant amount of time."
+36,agumonkey,1590693361.0,5.0,man I must be wired backward because I cannot hate anything more than the javadocs.. to me it's 90% noise. I guess it made me learn OpenNLP to summarize the text into useful informations... so thanks Java.
+37,frompdx,1591201391.0,1.0,"One thing I think that Clojure does much better is docs for Clojure and Libraries in the ecosystem look up to date.  That's not to say the docs for CL are out of date.  They just look out of date and I think that scares people away.  The syntax is also slightly friendlier to the people who prefer C-like syntax.
+
+To your point, I've basically written the same thing about Common Lisp in the past.  You aren't alone there."
+38,funkie,1590685572.0,4.0,"Agreed Google trend's y axis is opaque but we do know it's related to search :) JavaScript has lost 25% over that period and clojure has lost about 65%. It's much more significant. You can explain the js trend by other languages such as typescript taking over the browser.
+
+From the other comments on this post, I gather that experienced clojurists don't hit snags that require googling. I'm one of those moron programmers who Google everything, and so far with Clojure I've been fortunate to find solutions to any problems I've encountered, but if people stop web-searching for solutions, then they'll stop asking for them on stackoverflow and al., and then the clojure community will solidify around a smaller group of experienced users, impressive but opaque."
+39,rpompen,1590912144.0,1.0,"Interesting. I mainly wrote ETL pipelines (I didn't know we called them that) handling TBs of data per day with some heavy decision logic and computations. It ran on an Oracle T5-8 with 128 cores. The implementation was straightforward as I had chopped my design up into parallel reductions. You could say it was mostly log-parsing/-aggregation of machines in the field. So clojure.core.reducers/fold did a lot of the work. It required me to get creative because my initial solution wasn't lean either and heavily relied on pmap, although I don't think that was the problem.
+
+So I basically chopped up the work completely differently the second time. I think I might have done something wrong first time regarding decisions like whether to use deferred computation. lazy-seq can be a great friend. 
+
+I don't believe the second solution worked better because of choosing a different strategy, but more like how you can fix a machine by taking it apart and reassembling it without ever knowing what fixed it. 
+
+But with respect to allocation: I never moved away from persistent to transient or volatile for anything. I was not involved in tuning the JVM, though. They asked a guy from IT clustering dept. for that.
+
+Maybe it helps that I used an Oracle computer running Oracle's Solaris and Oracle's JVM. I had the plan to try and move my solution over to a PC architecture linux machine with OpenJDK) to prove I could reduce costs."
+40,rpompen,1590913283.0,1.0,If so they wired the money to the wrong bank account :)
+41,,1590695651.0,2.0,"Even if it had won, Storm ended up dropping Clojure for Java: [https://www.reddit.com/r/Clojure/comments/bvvnx0/storm\_drops\_clojure\_for\_java/](https://www.reddit.com/r/Clojure/comments/bvvnx0/storm_drops_clojure_for_java/)"
+42,kmyokoyama,1590715187.0,3.0,"Yeah, I meant specifically how examples are provided in [clojuredocs](https://clojuredocs.org). The examples there cover most questions I have. The function documentation per se (the docstring) leaves something to be desired for more complex functions."
+43,SimonGray,1590683565.0,7.0,"This describes so much of my work right now. I have to deal with lots of inherited, overengineered Java code tucked away in old projects, with no handover documentation to speak of. Understanding the endless layers of objects is one thing, but honestly just getting stuff up and running is a challenge too. With Clojure you always have the choice of checking out stuff in isolation in the REPL. Not so with these object pyramids."
+44,SimonGray,1590688383.0,2.0,"You can't really explain anything. You can guess.
+
+I'm fairly confident more people are using Javascript today than in 2015, despite the current popularity of Typescript. According to Google Trends Javascript only saw a relatively mild uptake leading up to 2015 and has fallen drastically since 2004. The percentagewise comparison is also fairly meaningless since we don't really know how any of this is quantified on Google's end - and in any case, javascript has become massively popular in the last decade, so it would just be weird if Clojure (a tiny niche language) trended better than it in a direct comparison.
+
+I think overall there's really no consistent logic to the trendline over time, except perhaps the fact that the user base of Google search has been shifting, with huge amounts of non techie users coming online since 2004. If you want to extrapolate meaning from one data point you should also be able to confidently explain the rest of the graph. If you can't, then the data really isn't very reliable.
+
+Personally, I think the subscriber growth of this subreddit is a better proxy for growing or waning interest in Clojure. Alex Miller also posted stats for monthly clojars downloads recently (I think) which have also been growing steadily through the years."
+45,joinr,1590913091.0,1.0,"Fascinating.  There are definitely a bevy of arcane jvm options and gc settings that I have not explored.  Are you saying you observed nearly 1:1 scaling?  If not,  what did you manage with the resources you mentioned?"
+46,didibus,1590697754.0,1.0,"Ya, but that's after the original maintainers left. Arguably, had Storm won, you can hypothesize they would have stayed around and made a business out of it."
+47,dragandj,1590698032.0,1.0,"Did that change help them? When Storm was Clojure, it was relevant (to a degree). I don't remember hearing lot about Storm for years. So, Java either didn't matter at all, or, worse, it put a nail in the coffin."
+48,rpompen,1591782629.0,1.0,"Roughly a factor 90 on a 128 core system. Machine architecture and the type of work matter a lot. Oracle's T5 + Oracle's Solaris + Oracle's JVM + JVM tuning specialists might have helped. Although I found it funny that I was never in contact with these ""tuning people"".
+
+Being in an enterprise environment at the time, as soon as better performance was achieved than thought possible, the project was left unattended. It's still running I guess, because that company has the problem of putting proofs-of-concept into production by bypassing all bureaucracy and then panic when it fails, because the owners of the project were already fired. (I was fired :) )
+
+I had to bring down expectations on parallelism as, to my great surprise, initial projections violated Amdahl's law. Nobody apparently profiled the previous project, isolating what part of the code could be parallelized and what percentage of execution time that represented; A requirement for using Amdahl's law to compute the theoretical ceiling of performance improvement.
+
+You could say I was competing in a company where several projects had seen reduction in performance after parallelization. Those projects took a lot of time and were bug-ridden as well.
+
+Therefore I can only say that it performed better than the (Amdahl) adjusted expectations. I would love to know if it's still running and how it scaled. I might find out as I intend to address the company's ethical board on how ideas of mine were implemented not a month after I was fired :)
+
+I didn't have any experience with production programming at all when I started, let alone with parallelism, but then, not many people have. I found that certain straightforward experiments indeed led to massive GC actions:
+
+* Holding on to the head
+* Reinventing the wheel when there are optimized libraries
+* Not checking library sources for their design (Lispy, if possible for best composability; compose your functions)
+
+All I can say is I went for small discrete data transformations that I composed while carefully watching what jvisualvm said. Which is quite a thing for me; I used to be a terminal only guy, and now everything I do uses a GUI. I wouldn't be able to explain that to my former self of 10 years ago.
+
+Regarding my technical choices I have to say this: I experimented a lot with scheme and Common Lisp over the years and it could be that especially scheme gave me a different feeling for software design than what I see people do around me. 
+
+I hope this helps."
+49,joinr,1591797641.0,1.0,"Thanks, this is really useful from an experience report point of view.  I think the general knowledge about these things is indeed weak among many programmers (including this community) outside of HPC where they typically have a lot of mechanical sympathy to play with (e.g. numerics stuff).
+
+So, am I correct in summarizing that you added either 128x the resources, or (if the baseline was say a 4 core machine), 32x the resources, and you achieve a 90x reduction in runtime?  So that puts the throughput increase somewhere between [0.78 ... 2.8125] depending on what the baseline for comparison was (unless the baseline was the original 128 core machine, and the measures are total performance tuning, not just parallelism).  If so, this is more in the range of what I have observed (my observed upper bound is currently 14x on a 144 core machine with an embarrassingly parallel, non-numeric, allocation-heavy workload, although 3-4x is the typical upper bound on commodity hardware)."
+50,rpompen,1591821474.0,1.0,"There was performance tuning and such, so it would be irresponsible of me to throw numbers around that make no sense.
+
+Plus difference in both hardware architecture and programming language. I wish I could go back and check.
+
+Enterprise environments don't really allow for decent comparisons in my experience. The network department messing up the routing trees. pings coming back twice from time to time. Horrible things like that.
+
+But if I'm lucky I'll be doing some similar work for a new customer of mine very soon. If that's the case I will measure and document best I can both the old and new situation. That's the cool thing about starting for myself. When you instill confidence you can take over the whole lot :)"
+51,joinr,1591822885.0,1.0,"I understand the external variables you mentioned.  I think the ideal case is one where you have a tuned or at least baseline performance profile, then parallel strategies are applied ex post facto so there's some basis for comparison.  Happy to hear anything you learn going forward."
+52,rpompen,1591977039.0,1.0,"If I get the gig, I'll be doing something that would be quite interesting: It would be a rewrite of a single threaded java program. Couldn't be fairer.
+
+But I didn't get the gig yet..."

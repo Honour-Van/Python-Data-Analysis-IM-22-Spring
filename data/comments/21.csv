@@ -1,0 +1,269 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,simion314,1490183935.0,74.0,"Also is the most loved platform by the developers almost 70%
+Edit: I found the stats for 2015 about distros:
+""Speaking of the Linuxes, Ubuntu is tops among them with 12.3% of the entire OS market for developers. Fedora, Mint, and Debian accounted for 1.4%, 1.7%, and 1.9% of all responses, respectively.""
+Debian/Ubuntu based distributions are prefered by developers.
+The numbers look different from what you normally see on blogs and conferences but it is explained  by the fact that the stats are world wide, and included the ""dark matter developers"" aka the developers that do work and don't attent conferences or write blogs about the new shiny/trendy."
+1,nagvx,1490188842.0,29.0,">Most Popular Languages by Occupation  
+>Sysadmin / DevOps  
+>JavaScript 73.9%
+
+:\^)"
+2,soltesza,1490187680.0,51.0,"This seems like a very good result:
+
+* Windows 41%
+* Linux desktop 32.9%.
+* OSX 18.4%
+
+Although the methodology seems to have changed but last year's results:
+
+* Windows: 52.4%
+* Linux: 21.7%
+* OSX: 26.2%
+
+This seems like a huge change, so I suspect the methodology-change skews the results somewhat.
+
+If we take this as correct, it would signify a fairly strong developer shift to Linux desktop. More than 11.4% lost by Windows, 7.8% lost by macOS and 12.2% gain by Linux desktop. Most of the losses by other desktops are absorbed by Linux."
+3,ilikerackmounts,1490184687.0,38.0,A little weird that windows is number 1 considering how much of a pain it can be to develop on.
+4,burj_al_rlinux,1490190821.0,13.0,"People develop on Android? Or is this the target group?
+
+Seems like the target platform, not the host platform."
+5,,1490187702.0,13.0,"Definitely a sign for where we're heading to and it's a good one at that.
+
+While specific operating systems tend to loose importance for the typical user's need, it's still good to see that those who prefer one system for certain (which is GNU/Linux in that case) earns some more spotlight.
+
+Now companies other than Canonical just need to get us rid of the forced need for a CLI and make everything even more user friendly with good UIs and where are almost there.
+
+Overall GNU/Linux became a great system over the past years - also due to Ubuntu and Mint - which is good to see."
+6,subdiff,1490186767.0,8.0,"That's an impressive growth when compared with last year, where Linux was behind MacOS and Windows usage was at over 50%."
+7,jampola,1490198613.0,6.0,"I would love to see what percentage of OS the 1% of sight impaired devs use. Seeing that amount was really an eye opener for me.
+
+Edit: oh FFS, excuse the pun. I swear that was unintentional!"
+8,s0r00t,1490217459.0,3.0,Dektop Linux? Is that another Debian derivate?
+9,idrumlots,1490219009.0,3.0,"Only clicked bc I thought 'Dektop' was a distro I'd never heard of.
+"
+10,RyanJthegreat,1490185680.0,2.0,"probably a noob question, but why do the percent values they give add up to far greater than 100%? Surely there can't be more than 100% of developers developing?"
+11,mishugashu,1490204859.0,1.0,"macOS is definitely prominent in all the dev companies I've worked in. Something like 70-80%. Linux beats out Windows, though."
+12,,1490221990.0,1.0,Wait. The third is Android? Who the hell is developing on Android?
+13,TwerkingSlothFetus,1490245426.0,1.0,"dektop linux
+kek"
+14,bighi,1490266657.0,1.0,"I don't use Linux, I use GNU/Linux!
+
+No, wait, I use i3wm too. So scratch that, I use GNU/Linux/i3wm.
+
+Wait... I also use Vim, Chrome, Telegram and IRC.
+
+My OS of choice is GNU/Linux/i3wm/Vim/Chrome/Telegram/IRC!
+
+Wait, I forgot about urxvt and tmux. I give up. Whose idea was it to list tools along the name of the OS?
+
+(Sorry, I just had to make fun of some people.)"
+15,blackcain,1490202988.0,0.0,"OK for godsakes, can we fix the spelling in the title?  "
+16,nuephelkystikon,1490201959.0,-1.0,"What exactly did you expect? Lots of companies have contracts with Microsoft, and you can't really develop on OS X or handheld systems."
+17,l_o_l_o_l,1490186252.0,52.0,"> dark matter developers
+
+I like the sound of this"
+18,pfannifrisch,1490188990.0,18.0,">Debian/Ubuntu based distributions are prefered by developers.
+
+Probably because Ubuntu has the strongest support when it comes to third party packages. I really hope flatpack will change this in the future and allow every random distro to be able to compete when it comes to availability of software."
+19,I_AM_GODDAMN_BATMAN,1490230695.0,1.0,TIL I'm a dark matter developers.
+20,sarge1016,1490193939.0,18.0,That...that doesn't even make sense.
+21,,1490202011.0,32.0,[deleted]
+22,soltesza,1490263928.0,1.0,"Apple's relative loss is a shocking 30% in one year. 
+
+Now , that should make them thinking about the next Macbook refresh."
+23,lykwydchykyn,1490196645.0,20.0,"Consider that the survey also showed Visual Studio as the top IDE, and SQL Server and C# among the top databases & languages, respectively.  If this is your target platform, you'd be fighting uphill to use anything else.
+
+Add in corporate desktop policies, commercial software support, and 20+ years of desktop dominance, and it's hardly surprising to see it still hanging out at the top.
+
+The real surprise is how HUGE a difference this is compared to the general public, where windows generally comes in around 85-90%."
+24,burj_al_rlinux,1490190760.0,34.0,"I was quite surprised to find out how many people actually make software on Windows, filter bubble man. Back in the DOS days we all knew that games like Commander Keen and Doom were developed on Unix like NeXTSTEP but just published on DOS.
+
+I live in this interesting filter bubble of programming languages which treat Windows like an afterthought. Python, OCaml, Rust, Haskell, Scheme, their windows support is dismall and they are all like ""Yeh this doesn't work on Windows and we have no intention to fix it because no one uses Windows, tell them to get fork, then we can fix it.""
+
+But apparently shit like .NET is pretty huge as well which was purely designed for Windows and I guess F# is basically  ""OCaml for Windows"""
+25,murtaghj,1490188912.0,6.0,"I work for one of the big US tech companies (Not Microsoft) and yes windows cannot be a real pain to get started with. We mostly use python in house so the windows guys have allot of setting up to do before they can start working. I use Fedora and once I setup my proxy settings I can clone all of the projects im working on and start working right away. Easy 
+
+The main pain for me is Email.... and lync "
+26,simion314,1490185471.0,9.0,"At my job we are 3 devs, we work remote, Web dev PHP&JS, the other 2 use Windows, it works fine for them, I assume ithey have a wizard that installs php/mysql/git/npm .. , they never complain about Windows. I use Linux but my work is inside a Linux VM(Linux inside Linux), so I do not contaminate my main OS with development tools,"
+27,e_ang,1490194128.0,9.0,"Not weird at all, many devs are forced to work on Windows by their employers."
+28,mighty_bandersnatch,1490201970.0,2.0,"If you work for a bank or any such large enterprise, Windows is what you get.  Ask for Linux and they'll poop their pants."
+29,slacka123,1490246383.0,2.0,"Also Linux Kernel(or the way Ubuntu configures it) handles heavy load better than Windows. So under linux, I can do a make -j8, but when I boot to Windows I have to do a make -j7 to have a responsive,  usable system. "
+30,Windyvale,1490197666.0,2.0,"It's because of Visual Studios, which is admittedly an incredible environment to use."
+31,l_o_l_o_l,1490186287.0,1.0,Surprise !
+32,forsubbingonly,1490202972.0,1.0,"I've only encountered pain when using python or trying to develop c++ apps with the visual studios compiler, and those problems are either my fault for stupidly using VS or pythons fault for being incredibly poorly managed. There are going to be other cases sure but it's not like it's a pain for everything. Most of them time it matters not at all."
+33,luxtabula,1490221289.0,1.0,It's getting better. The inclusion of the bash terminal helps immensely.
+34,soltesza,1490261993.0,1.0,It takes time for people to realize that there are better solutions out there so they stick to Windows until somebody clearly demonstrates it for them.
+35,maxm,1490266543.0,1.0,"I use windows for media work, and run ubuntu as a vm. That works very well."
+36,natis1,1490208407.0,6.0,"I think it was supposed to be which platforms people develop on but I think it was poorly worded.
+
+I think it was asked like so: ""Which platforms do you (the developer) use?"" and some people thought use for development and others just thought use in daily life (like Android or iOS)"
+37,ColonelTux,1490234906.0,2.0,"My laptop stopped working, so I was developing on my android using a terminal emulator for a while. Although half of that was on a remote Fedora server"
+38,CalcProgrammer1,1490212469.0,1.0,I installed qtcreator on my phone so I could test a change to my app while on a car ride.  I have a Debian chroot with Xserver XSDL installed so technically I was using Debian though.  Most of the ride was spent figuring out how to make qtcreator recognize ARM compilers.
+39,soltesza,1490193923.0,6.0,"Yes, it is fairly big growth but I think they have changed the methodology compared to last year (different title, probably different question).
+
+In the responses, there are platforms which are clearly not developer desktops like Amazon Web Services, iOS and Android. Who in their right mind would develop on an OS/environment like that? This ""Platform"" question is probably some kind of mix between target-platform and development-platform (would be nice to know the exact question but that is not included in the results)
+
+It is hard to tell why they changed the question from last year, that seemed pretty straightforward. Maybe Microsoft paid them to mask the painful loss of developer market share of Windows (it is probably falling)."
+40,simion314,1490185847.0,9.0,"Maybe the question allowed multiple answers, like if you write web apps under Linux but also maintain or work on a desktop or iOS app under Windows/Mac. "
+41,mr_penguin,1490218452.0,8.0,"That's changing pretty rapidly though with the huge screw up that is the MacBook pro line. Last gen CPU, STILL stuck at max 16GB of ram, still no good GPU option, price hike, dongle Hell, no escape or function keys on touchbar model. 
+
+Apple basically sent a strong message saying the MBP is no longer for pros"
+42,Skaarj,1490221908.0,1.0,"No, I can't as editing titles isn't possible.
+
+But you made me courious? What is incorrect? I can't see the mistake as a nonnative English speaker."
+43,idi0tf0wl,1490255488.0,3.0,"It really chaps me when people who don't know what they're talking about say shit like ""you can't really develop on OS X""."
+44,,1490232407.0,2.0,"macOS is a certified unix. if you get the homebrew package manager, you can do pretty much anything you can do on linux, I use both on the daily"
+45,soltesza,1490263559.0,1.0,"Of course you can develop on OSX/macOS it is a proper full-blown desktop OS (a UNIX one at that).
+
+Only, its desktop is far-less configurable than Linux DEs and has some annoying/missing features (my favorite is the ultra-convoluted way you can register ad-hoc programs into the launcher (needing wrappers): this is a couple of clicks in most Linux DEs ).
+
+Traditionally the main strengths of macOS were:
+1) quality, top-of-the-line hw (although very expensive too) with very good battery life
+2) very good sw availability (like MS Office, Photoshop)
+
+Number 1 is mostly gone. Dell XPS and similar models are now as good or better than Apple hw. The last refresh of the Macbook Air/Macbook and the Macbook Pro lines are widely considered as failures and out-of-line with user expectations.
+
+Number 2 is also eroding rapidly. While MS Office and PS are still not available natively for Linux, Office365 and other multi-platform / web applications are now available and good enough. Also, the native, open-source/free Linux application have come up in sophistication/stability/features so quite often you just start using an alternative (like iMovie --> KDEnlive).
+
+Also, for web development, practically Linux is the native platform (since the deployment platform will also be Linux) one can reduce development/deployment friction by simply moving to a Linux desktop.
+
+These together seem to be the drivers for desktop Linux gaining strength in development circles."
+46,SapientPotato,1490199472.0,14.0,"Well, you should. Who do you think have been keeping galaxies together ?"
+47,Mordiken,1490200221.0,12.0,"AKA the silent majority.
+"
+48,Mordiken,1490190904.0,14.0,"> Probably because Ubuntu has the strongest support when it comes to third party packages.
+
+Not only that, Ubuntu has LTS releases, which ensure you'll have stable base on which to rely on to build stuff.
+
+Not only that, due to it's popularity, if you run into some sort of problem, you can reliably google ""xyz problem Ubuntu 16.04"" and get a credible workaround.
+
+>  I really hope flatpack will change this in the future and allow every random distro to be able to compete when it comes to availability of software.
+
+Yeah, but a developer cares, most of all, about his computer working as intended and as expected. There's more to it that simple software availibility... Like I mentioned previously, popularity is a major factor, as it implies mindshare."
+49,simion314,1490190104.0,5.0,"I think it is more then that,  I do not have a proof but here are my insights:
+1 for Web you need a LAMP stack and maybe node/npm and those are easy to install in all major distros.
+2 the most used distributions Debian,Ubuntu,Mint,Fedora have a corresponding server version so it may be that most web developers will use a distro that matches the server for familiarity sake, 
+If flatpack/snap land that will give same boost to major distro too not only the smaller ones, I imagine it would be possible to install via flatpack/snap s table dev environment, a bleeding edge/experimental one, an older environment if you need it for maintaining older apps(this is possible now too but it would be made easier on all distros) my point is that setting up dev encironment from the distro repository is not a major advantage, usually you setup the environment yourself and grab dependencies with the built in tool of the dev platform(ex npm,composer,cargo...)"
+50,CheriPai,1490196773.0,19.0,"You can select multiple languages, so that's the one that is most common amongst Sysadmins/DevOps. It's not saying that's their primary language. "
+51,Ironfist,1490231010.0,4.0,I haven't touched javascript in over a year now.  This survey seems really skewed in favor of *web* developers.
+52,mr_penguin,1490217893.0,21.0,"The joke of the new MacBook refresh is absolutely driving devs to Linux. 
+
+Apple really dropped the ball on the ""Pro"" line. 
+
+Dongle Hell, last gen CPU, sub par GPUs, STILL 16GB max RAM, no escape or function keys on touchbar model. 
+
+It's clear Apple wants the pro to be for these so called ""prosumers"" now instead of actual professionals. 
+
+It's a shame. I have an older pro, and I love the hardware. Macos is a good enough desktop (love the instant sleep and resume among other features) but I do most dev work on a Ubuntu VM. Dell and other OEMs are finally getting their shit together though and putting out some good, high quality machines. "
+53,soltesza,1490261685.0,3.0,"Definitely, Win10 is a godsend for the Linux desktop.
+
+The new Macbook Pro also helps a lot. If Apple stays as stubborn as they have always been, professionals will have no other choice but the leave for the Linux desktop. Some of them may go back to Win10 and accept the spying+other-unfriendly-things  but this should be minority.
+
+It also helps that the Linux desktops have improved leaps and bounds in recent years. I even find Ubuntu's Unity tolerable on my new XPS 13. My only remaining gripe is the battery life now."
+54,,1490199526.0,16.0,Look at the IDE choice. Visual Studio trumps everything else. That's why people develop on Windows. It's why I dual boot Windows.
+55,Negirno,1490204026.0,1.0,Are you sure that Commander Keen was developed on a *nix system? I thought that from DooM and onward they used that one NEXTStep box...
+56,,1490191686.0,6.0,[deleted]
+57,mr_penguin,1490218258.0,3.0,"Plus Windows is still huge in enterprise. While internet facing servers are likely running a form of *nix, for most enterprises their internal stuff is all windows. So, there's still a high demand for things like SharePoint sites, ASP.net, enterprise windows desktop apps, etc. 
+
+A lot of us in the *nix world can sometimes op live inside a little bubble and forget how huge Windows still is, especially in enterprise roles we don't venture into much. C# and .net are still in the top of most used language/environment and is encroaching on Java as the standard enterprise tech stack. "
+58,subdiff,1490195233.0,2.0,"> Maybe Microsoft paid them to mask the painful loss of developer market share of Windows (it is probably falling).
+
+Sure. ;) But you're right that it's probably not that easy to compare like I did by adding the Windows versions numbers up from last year. Maybe the new ""Platforms"" category means, on which ones they deploy (with selecting multiple being possible). So it doesn't say anything about the desktop OS used by the developer himself."
+59,RyanJthegreat,1490185945.0,1.0,ah. fair enough
+60,mishugashu,1490279467.0,1.0,"Yeah, I do know a few devs at my current job looking to switch. I always encourage them."
+61,blackcain,1490222082.0,1.0,'Dektop Linux' instead of 'Desktop Linux'.. I thought it was some other thing until I went to the link.
+62,,1490203028.0,5.0,"Duct tape, coffee, and krullers."
+63,Kok_Nikol,1490209909.0,4.0,"Ah yes, [here's a great article about that topic](http://prog21.dadgum.com/143.html?)"
+64,RiWo,1490224293.0,4.0,"Also, we have https://wiki.ubuntu.com/Kernel/LTSEnablementStack. Basically if you use Ubuntu 16.04.2 LTS, you will have rolling kernel with new hardware support and features"
+65,,1490247376.0,1.0,"I am using Fedora Desktop, which can be considered as stable as Ubuntu and a (somewhat) similar level of online answers popularity.
+
+In my opinion, the third party packages are the largest divider, and not distro stability, and Flatpak will help A LOT to make other distros viable. 
+
+Even Arch can be stable if you know what you're doing, but having to compile everything because only .deb files are provided is irritating sometimes (that's assuming the source is even available)."
+66,,1490205807.0,4.0,"> 1 for Web you need a LAMP stack
+
+That depends on your development stack. Web development is bigger than PHP. 
+
+Other than that, everything else is pretty easy to set up as well. "
+67,patio_blast,1490252719.0,2.0,That's why I switched.  I'm still on Apple hardware though.  But I did sell the rest of my Apple ecosystem and got back to Linux.
+68,,1490528294.0,2.0,"Apple saw Microsoft's Windows 10 and followed suit... Pro is no longer 'professional' 
+
+It's 'expensive toy that does sweet FA' "
+69,soltesza,1490261894.0,1.0,Agreed. The Dell XPS line with Ubuntu is rapidly approaching Apple levels in overall experience (apart from the sw availability). In many things it already surpasses Apple. If only Dell could get the Ubuntu battery life up to Windows levels it would be a Macbook killer (at least for devs)
+70,xiaomiao_de_belgerac,1490200890.0,17.0,"IDE's are again a thing I was rather surprised at people used.
+
+In my little filter bubble it was always ""Vim or Emacs"", debuggers and compilers aren't integrated if I want to integrate calling them into my text editor I just bind a hotkey to a shell command that does so.
+
+I remember someone on r/programming showing me what you can do with an IDE in easily formatting text or whatever. I was just like ""Oh, okay, I just select the line, pipe it through this simple shell command and it does the same in less menu navigating"", not even a domain specific language, just the good old fashioned shell."
+71,Freyr90,1490255663.0,5.0,"> Visual Studio trumps everything else.
+
+Is it still laggish and single threaded? Cause last time I've tried it It lagged as hell. And Visual Studio Code feels much smoother.
+
+And if ""Visual Studio trumps everything else"" why does it require a huge third party plugin (resharper) to provide good experience for the C#, primary VS language?"
+72,Antic1tizen,1490200451.0,1.0,What kind of product do you develop?
+73,Geruman,1490203421.0,-9.0,Visual Studio is open source and available for Linux
+74,idi0tf0wl,1490255090.0,1.0,NEXTstep is Unix.
+75,simion314,1490193616.0,4.0,"But also check JetBrains IDEs,Intellij,PHPStorm,RubyMine,AndroidStudio ,those are the same IDe with different plugins/SDKs/configs  preloaded. This speaks for the quality of the IDE since is paid(except the community and Android versions)  vs most of the other free ones listed there."
+76,simion314,1490206376.0,1.0,"P in LAMP also stands for Python/Perl, LAMP has more variants, but yes I know you can use node/Rails , I know there are more things then PHP , probably there are Wizard installers for setting things up on Windows. Why a Web developer continue to use Windows even if the targets Linux, probably familiarity, change is hard and you would need to have a significant gain to attempt changing."
+77,pooper-dooper,1490206130.0,12.0,"To me, whether to use an IDE or not depends on a combination of language and project. A large, sprawling Java project needs an IDE - especially with transitive dependency resolution, discovering the class hierarchy (potentially opaque to standard textual searching depending on complexity) and all that good (or, maybe bad) stuff.  I've certainly been guilty of using IDE's discovery features but making edits in vim, just because editing is so much more pleasant.
+
+However, I'm tinkering with Rust at home and I don't see myself needing much more than rust-vim and the documentation for the time being."
+78,Coffeinated,1490209280.0,2.0,But whyyyy.
+79,,1490201343.0,2.0,"I do desktop/web software for large scale data analysis, and we use Visual Basic with .NET"
+80,rombert,1490203809.0,20.0,"That's Visual Studio _Code_, not the full-fledged Visual Studio product."
+81,,1490204663.0,2.0,"Like /u/rombert said, that's VS Code, which is a pretty lightweight, nice looking IDE, but it doesn't even have close to the tools in full VS. "
+82,Negirno,1490263355.0,1.0,"Yes I know. However, I'm sure that Keen was developed on DOS, or at least not on a \*nix system, since buying a Next box was a really big investment, so it only could happened after the great successes of *Commander Keen* and *Wolfenstein 3D*. Not to mention that these were also still real-mode games. "
+83,,1490193735.0,-4.0,[deleted]
+84,MarchewaJP,1490270206.0,1.0,"You don't need Apache or MySQL too. If the only common denominator is Linux, why mention the rest at all?"
+85,amunak,1490214574.0,14.0,"Well code formatting is one of the lesser functions. What I like about IDEs most is static analysis, automatic refactoring of *stuff* in the *whole* project, navigating between classes/methods/interfaces/whatever, context-aware search, etc. It does a lot of ""noise thinking"" for me so that I can concentrate on the actual task instead of having to always think about doing routine stuff."
+86,xiaomiao_de_belgerac,1490208646.0,2.0,"Hmm, is that a function of rust just having proper cli tools like cargo and rustdb to do all that?
+
+I've never worked on Java but now that you mention there seems to be a high correlation between certain languages and an IDE. I wonder if that's because they never bothered to make such tools."
+87,sultry_somnambulist,1490210721.0,2.0,"mainly depends on what ecosystem you're in. My work is 90% Ocaml, Python, C/C++ so I don't really need an IDE and I've customised my emacs config over the years and no IDE really fits. "
+88,uep,1490198782.0,10.0,"Are you sure about that?
+
+https://www.tiobe.com/tiobe-index/
+
+Top 5 languages:
+
+language | rating
+---------|-------
+Java | 16.384%
+C | 7.742%
+C++ | 5.184%
+C# | 4.409%
+Python | 3.919%
+
+Visual Studio doesn't even really support C. I don't have any numbers back this up, but I don't believe most Python development is done on Windows. C++, and C# development are likely to be done in Visual Studio, right?
+
+Except... Jetbrains did some of their own research:
+
+https://blog.jetbrains.com/clion/2015/07/infographics-cpp-facts-before-clion/
+
+and 60% of C++ development is done on non-Windows platforms. So, I'd go so far as to say it's very unlikely that you are correct.
+
+I will point out a counterpoint though. The top 5 programming languages via Jetbrains research seems more realistic from my experience, and that puts C# as the second most popular language. Of these, four *can* be developed on Windows. I'd still bet that most Javascript development isn't done on Windows at all, and Java development definitely isn't in Visual Studio. Anecdotally, I do believe that most PHP development is probably on Windows though.
+
+1. Java
+2. C#
+3. Javascript
+4. PHP
+5. C++"
+89,simion314,1490197115.0,2.0,"I do not know people in enterprise, the devs I know use Windows but not Visual Studio, my coworkers prefer NetBeans(they use Windows), I used Eclipse and switched to Intellij. I am sure that for C#,.NET and Windows native desktop apps VS is one of the best/easy to start with."
+90,simion314,1490271687.0,1.0,"I mentioned that because in my opinion the LAMP stack was/is the simplest way to get started. I know startups are using  latest tech(go,rust,....) and node is getting popular in smaller shops too. But most developers are working on smaller problems, and they do not get the decision what tech to use, usually you get to maintain and improve existing project. There are also small projects, like you have a desktop app, and you want to add a ""report bug/Send feedback"" button,  the company has already a WP blog with PHP/mysql(it could be a mysql alternative) so you the simplest solution is to write 1 php file, get the data posted into it, log the feedback in the db, and email it also to a feedback email, (so 1 file, no framerworks ,dependencies, transpiling/compiling what I meant was that LAMP and now node is used in tons of places that are under the radar, but I did not intended to upset people that use other tools,   I am not in loved with my tools and if a different one including Windows is better I would use it."
+91,pooper-dooper,1490282052.0,1.0,"I imagine it's also a function of my small-time use of Rust. If I were working on a larger, multi-module project, it's possible I'd want something deeper. On the other hand, it's not like Java where you have to create a file for every public type, so refactoring is possible with simple text manipulation. Although I do think it's best to use dedicated-for-purpose tools for refactors, because we've all been in that situation where text search/replace is insufficient or over-eager (and hence a bit tedious)."
+92,simion314,1490202542.0,2.0,"Do you know people that use Visual Studio for PHP?I would not install VS for PHP, if I have to have it install(for some c# projects) then maybe I would use it instead of grabbing other IDE like Netbeans/Eclipse/PHPStorm "
+93,Deviltry1,1490200954.0,0.0,"It's not about popularity or what supports what. Visual Studio (working with C#) + plugins is the best IDE experience in the world. Better than IntelliJ IDEA working with Java, even though Java is of course more popular language."
+94,xiaomiao_de_belgerac,1490289517.0,2.0,"Refactors all exist in Rust, they are just command line tools.
+
+Did you know that internally rustc actually translates the entire crate to a single text file before compilation?"
+95,uep,1490205289.0,1.0,"That's a good point. I made the distinction about Java, but even though I think a lot of PHP development is done on Windows, I doubt it is done in Visual Studio. Anecdotal, but none of the PHP developers I know use it."
+96,simion314,1490203222.0,3.0,"Have you used both? I remember when I did C# I was using Resharper so Essentially I was using Intellij inside VS.  The debugger works similar in both IDEs,Intellij has tons of plugins(I  use git then I can commit, push, create PR,check diffs, revert with a keyboard shortcut, mysql integration is great, it can read your db and it will spot if you use wrong column names(I use SQL statements with bound parameters instead of ORM functions in most places, a gitignore plugin, plugins for other languages like TypeScript,Scala... )
+I respect your opinion that VS is a very good IDE, I am just wondering what do you think is the best thing that VS does it and is missing in IDEA. If you are doing C# then when the new IDE for C# will be ready you could  try the trial, but I am sure it is not easy to change your IDE, and you should not change it if is working good  for you in the end is just a piece of software."
+97,pooper-dooper,1490303228.0,1.0,"I hadn't dug that deep, but I'm unsurprised."
+98,simion314,1490205788.0,1.0,What IDE the Windows PHP devs you know use? The ones I know use NetBeans
+99,Deviltry1,1490204433.0,-2.0,"> The debugger works similar in both IDEs
+
+No. And hell to the no when you install https://www.oz-code.com/"
+100,simion314,1490205157.0,1.0,"Can you tell me what are your favorite features of this debugger? I can't do a comparison with Intellij one for Java since I do not use Java, I used C# and VS a few years ago and I wish to know what useful things this debugger adds(nothing interesting jumps at me from the page). Hovering over vars in IDEA also shows the values, you can add watchers with expressions, but as I said my experience is withJS and PHp Sdebug in latest years, I liked .NET but MS refused to make it crossplatform until it was too late and now we have to use JS"

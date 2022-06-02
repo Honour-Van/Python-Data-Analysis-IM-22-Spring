@@ -1,0 +1,145 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,firefrommoonlight,1599531283.0,27.0,"From Python, I appreciate the static typing, pattern matching, versatile enums, and better builtin tooling and docs. More importantly, it lets me program in new domains: Embedded, standalone executables, and high performance
+
+
+https://www.reddit.com/r/rust/comments/iokv4z/do_i_have_to_be_a_c_programmer_to_truly/"
+1,c_o_r_b_a,1599533013.0,25.0,"As a Python programmer who's forever avoided C++ due to what I consider its hideousness, complexity, and requirement to do a lot of manual bookkeeping, Rust has made me actually enjoy the prospect of low-level programming.
+
+Before, the idea of making something focused around performance and low latency was always something that made me think ""well, that's for other people to work on"". Now I feel like it's something I can actually dip my toe into without hating what I'm doing."
+2,thelights0123,1599533165.0,14.0,"Coming from TS (although I've used C++):
+
+* Binding to C is not the mess that is NAN
+* Zero-cost functional style programming (*why* (ok, I know why) is `.forEach` 2x slower than `for..of` in JS?)
+* **Documentation** not only exists (and not just half the functions documented badly in a README) but is *awesome* and *consistent* ecosystem-wide
+* I just love the syntax 🤷 (even just the *keyword* `fn` feels right to me)
+* Implementing methods via traits on types defined in external crates is nice
+* [`async`/`await` on bare-metal](https://lights0123.com/blog/2020/07/25/async-await-for-avr-with-rust/) is pretty cool, and the fact that it's the only language that offers an ecosystem (i.e. not C++ yet) and runs all code directly as native code
+* Pattern matching is great"
+3,moltonel,1599560405.0,6.0,"There's nothing wrong with not liking Rust.
+
+Don't get me wrong: Rust is a great language, I love it and so do many other people, but that doesn't mean that everybody should, or that it is ""a failure on their part"" if they don't. People and projects have different requirements and sensibilities. Right tool for the right job and for the right craftsman.
+
+Plenty of people have come to like Rust from non-C++ backgrounds, so I don't think this is a requirement. Rust isn't a one-trick pony, you can appreciate (or dislike) it from many angles.
+
+That said, Rust does take a while to fully get used to and appreciate, so get some significant work out before you pass judgement on the language."
+4,seditiousseals,1599544109.0,7.0,"I know there are may who disagree, but I think the answer is yes to some extent. It's harder to understand why Rust's unique features like lifetimes and ownership are so refreshing (and necessary) if you haven't had to deal with horrible segfaults and memory leaks and stuff. Many of Rust's other nice features like strong types, algebraic data types, and functional elements are present in other languages like Swift and Haskell. That being said, I don't really know what it means to ""truly appreciate"" something, and I don't really think it matters. If you like Rust, then keep on using it. If you feel that Rust's safety rules are too restrictive or complicated and you don't have performance requirements that necessitate something like Rust of C++, then there's no need to force yourself to use Rust just because a lot of people like it."
+5,caranatar-dev,1599532499.0,4.0,"There was actually a talk at RustConf this year about this very question!
+
+https://youtu.be/BBvcK_nXUEg"
+6,,1599569516.0,4.0,"\> but I feel like I'm not ""getting"" how great Rust is
+
+So compared to the languages you are used to using, have you done any comparison of runtime performance, and has that been fun to see? For instance a thing I love about Rust is I can chain together iterators and the resulting machine code is as efficient as a hand tuned loop almost every time. Compared to C# or F# where there is overhead.
+
+Compared to Go, do you like that you can't have a null pointer mistake? And that the Result type is a bit more ergonomic than the tuples that Go functions return for errors instead?
+
+Compared to Python, do you like that static typing can help make refactoring easier?
+
+I don't think you have to have been a c++ programmer to appreciate Rust, but if you have no interest in run time performance, then the benefits compared to garbage collected languages are more subtle, and Rust is usually a lot harder."
+7,please_dont_pry,1599536675.0,6.0,"i learned these languages before Rust:
+
+GML -> Python -> PowerPC asm -> tried and disliked C -> Rust.
+
+PPC helped with the low-level stuff, but truthfully it helped more in later understanding C++ than it did with Rust. Rust makes these concepts very easy in its own way. 
+
+you don't have to be a C++ programmer to appreciate Rust, but knowing just a tiny bit about how CPUs work under the hood might help.
+
+you say that you aren't really ""getting"" Rust. how are you learning it? I would recommend a full read through [THE BOOK](https://doc.rust-lang.org/book/). it is very short and very good, and the de-facto learning resource. anything else will be supplemental to this. if you already have read this, may I ask... what exactly are you expecting out of Rust? it is still just a programming language, after all. it will not vacuum your carpet :P
+
+what really sold me on Rust was a few things:
+
+1. i didn't really want to deal with C++ after my experience with C, and it felt like a solid alternative with ideas and some syntax I recognized from Python.
+2. the package management with cargo is wonderful. it's by far the best i've used, even better than Python's. it's simple and it just works.
+3. some of the syntax/flow things intrigued me, e.g. that you can throw in a pattern matching (match) statement anywhere you want, like within function calls, variable declarations etc.
+4. the strong static typing and brilliant compiler made working through problems upfront more attractive than dealing with runtime errors as they crop up like I would in Python. the build system (and additionally the linter in Clippy) is maybe the most user-friendly, productive tool i've ever had for any language, and it's not even built-in to some IDE. almost every compiler message is insanely helpful and even links to further documentation to help you understand a warning, error, etc.
+5. i didn't really understand algebraic datatypes before I learned some Haskell, but simply making use of enums and other basics really made me ache for something similar in Python. dictionaries are nice and all, but python's support for really any data structures feels flimsy in comparison for anything you want to make sure \*works\*.
+6. On that note, if you like Haskell, you'd be happy to learn that Rust makes heavy, heavy use of FP concepts like folding, mapping, etc. its variables are immutable by default, it has really nice closures/anonymous functions, higher-order functions (of course), ""traits"" which are a lot like Haskell typeclasses, and, uh, [monads](https://www.reddit.com/r/rust/comments/9rotq7/proof_of_concept_monadic_io_in_rust/)? ...sure. and, actually, the way \`\`\`Result\`\`\` works with the \`\`\`?\`\`\` operator kind of functions as a pseudo-monad for error handling in terms of program flow.
+7. writing memory-safe multi-threaded applications is just... you \*really\* have to try it. it's a pleasure. nothing really compares except maybe Haskell (haven't tried its threading stuff).
+8. it's really really fast.
+9. to reiterate: it's really, really, really fucking fast 😩😩😩
+
+I should also mention that while I use Rust a lot, I rarely ever use its more ""intermediate"" features, like dealing with references & lifetimes instead of just copying (which usually is fast enough), reference counting, etc. When I need to use them, they are there, but really, the way I use Rust is more like the C that could have been, with Python for more ad-hoc projects I don't need to be particularly fast or safe about writing.
+
+I think that even if you aren't using it because of its memory safety features, Rust brings in countless wonderful concepts from other languages I've used and languages I haven't without making it unreadable or needlessly complicated to use. Really, I think the reason people don't bring up Haskell when talking about Rust more often is that people generally tend to not have used Haskell.
+
+this comment is getting long so let me end my proselytizing tirade. 
+
+tldr: stick with it if you're still interested. don't use it for everything if you don't need to; sometimes a shell or python script will do and they will be quicker to write and shorter. but Rust is fast as hell, things simply don't break without warning, and the language literally \*forces\* you to write GOOD code that you can actually reason about."
+8,andful,1599558445.0,2.0,"Even though it is not obvious there is a class of logical errors caused by having a shared mutable reference (which Rust does not allow) even in higher level languages. For example the following Python code (I know it does not look pythonic):
+
+    elements = [1,2,4,5,6]
+    for e in elements:
+        if e % 2 == 0:
+            elements.remove(e)
+
+You would imagine `elements` to have only odd values but actually it has values `[1, 4, 5]`. This is caused because we iterate over it (immutable reference) and remove the element from `elements` if the element is even (mutable reference). If you write the same program in Java with `ArrayList` and iterators Java throws an exception which in my opinion is better than silently failing but still not optimal.
+
+Another point I want to discuss is the absence of side effects in Rust. If you pass a reference to a function is Rust, it is explicitly defined if the reference is passed as mutable or immutable. Furthermore you know that even if you have passed a mutable reference, all the changes that were made to the object were done while the value was borrowed. Differently from Java and similar programming languages. If you pass a reference to a function in those languages you don't know if the function is going to modify the value during the call of the function or even if it is going to save the reference to the value and modify it further in the execution of the program.
+
+And finally, Rust is the only programming language which has a good support for both multi-threaded and asynchronous programming (for what I know)."
+9,hummingly,1599554130.0,2.0,"I came from JavaScript and learned Rust while learning Java in university too. Any time I see a Null exception or property is undefined error I go crazy.
+
+In my opinion it isn't neccessarily the feature set, otherwise everyone would use Swift. It is more the consistency and relative ease of use (yes Rust is easy if you do not use lifetimes and owned types). No null? Use an Option instead! Don't want to throw an error and handle the error? Use a Result. Especially the lack of Result pains me because I don't want to crash my whole GUI after something only partially succeeded.
+
+Most importantly your code will run fast and not hog all the memory. Especially, web/electron apps are personally hard for me to build because I have to make allocations as infrequent as possible. The garbage collector does not free memory immediately. Plus the binary and memory footprint is several times bigger. It upsets me that my choice of technology could exclude a possible user.
+
+However, if you never run into these kind of problems, it is given that you have no need for Rust."
+10,gilescope,1599566914.0,2.0,"Nope, from an enterprise.net /java developer I _really_ appreciate the static linking. Deployments and dependency management are so much simpler."
+11,FakingItEveryDay,1599566166.0,1.0,"I used Python and Go before diving into rust. I've never programmed in C or C++, but what I appreciate about Rust is it's correctness. This [post](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride) sold me on seriously trying rust and I've agreed with it more and more as I get deeper into rust. Things in go that cause mysterious panics, not checking for nil, or a standard library making some incorrect assumption, or go not stopping you from doing something dangerous like manipulating a map while iterating it. Rust makes those kinds of mistakes impossible and I appreciate that."
+12,HKei,1599566422.0,1.0,"C++ doesn't require any more manual memory management than Rust. What's great about Rust is in terms of memory is that it's automatically tracking reference lifetimes (in a visible way), so we avoid a lot of accidental use-after-free errors and accidental destructive updates while reading (FWIW people rarely realise this but _all_ imperative languages, including Python, JavaScript and what not are affected by the type of error that reference lifetimes protect against – and even Haskell is when you’re dealing with imperative-style code), and to a lesser extent that the standard library in Rust comes with more checks by default (you can get more checks in C++ with some effort as well, but in my experience few people know how to do this and fewer actually do).
+
+For me the main draw though would be that it imports some FP niceties (sum types, pattern matching, type classes, immutable bindings by default) and somewhat better metaprogramming support (generics+macros instead of templates for nearly everything and then preprocessor for a couple of corner cases).
+
+So I’m a C++ programmer by day-trade, but the main things I appreciate about it would be that I get to do some _Haskell_-like things (though Rust is still much worse at being Haskell than Haskell is obviously) while still being an imperative language (Haskell can do imperative things just fine, but it’s just generally less ergonomic than languages where this is the default paradigm)."
+13,sue_me_please,1599590663.0,1.0,"> At my job, I use Scala, Python, and TypeScript, and I also use Go and (badly written) Haskell 
+
+All of those languages have a runtime and garbage collector. If you've ever ran into memory issues with a GC, Rust could alleviate those problems. 
+
+You can't really write software for embedded platforms in those languages, either.
+
+In terms of speed, Rust is faster than all of those languages."
+14,mlevkov,1599622439.0,1.0,"I love monomorphization and flexibility. You really have do dig deep to appreciate some of the choices that ate made. Sometimes it feels like dark magic, but with time you will understand why some of the choices are made and how to utilize them effectively."
+15,,1599539067.0,-2.0,[deleted]
+16,norman784,1599557408.0,0.0,"I think it depends on what you want to build, there are certain areas where Rust isn’t ready to use yet, also most developers (not all of them, some have the luck to use it in their fulltime job) that love Rust uses for their own personal projects, and that’s why they love it, they have all the advantages of a low level programming language with mininal disadvantages (step learning curve, borrow checker, etc, but when you pass those obstacles it’s just very cool)."
+17,gbjcantab,1599562466.0,0.0,"I'm pretty much using Javascript (Typescript) all the time I'm not using Rust, and I love Rust because I'm not a very good engineer and it prevents most of my most common footguns!
+
+* accidental undefined.x and undefined()
+* ""Oh, I'll just throw a try { } in there later""
+* Non-exhaustive pattern matching in switch statements
+* ""Moves"" with JS objects. JS references actually act in fairly similar ways to Rust ones, it's just that the borrow checker will tell you when you're going to do something stupid and Typescript won't.
+
+`const base = { a: ""Test text"", b: 1 };`  
+`const template = base; // oops, should be { ... base }`  
+`// clear out the template object's fields`  
+`template.a = """";`  
+`console.log(base.a); // whoops now this is an empty string`
+
+Yes, it's cool that it compiles to WebAssembly and that's probably the future; yes, it's cool that it compiles to fast native code; but if Rust ran on the browser at the same exact speed that JavaScript does, I'd prefer to use it just to have these benefits."
+18,Zalack,1599590299.0,3.0,I'm in the same boat. Go + Python developer who's picking up Rust as my first system language and I've really enjoyed learning it so far.
+19,noah_nesh,1599549726.0,3.0,">async  
+>  
+>/  
+>  
+>await  
+>  
+>on bare-metal
+
+Reading your bullet points made me—someone who spends half of his dev time on Node (but thank god for TypeScript)—see the appeal of Rust more clearly. (Yeah, when I was creating a C++ addon once,  all those `v8::Isolate` seemed a bit disorienting. Napi seems better tho...?) Anyways, thanks for your reply.
+
+After coming from TS, what were some of the first things you worked in Rust? (I'm trying to find a project that can keep me going, and I'm curious how other people dip their toe into this world.)"
+20,,1599568595.0,3.0,[deleted]
+21,rodrigocfd,1599594094.0,2.0,"> from an enterprise.net /java developer I _really_ appreciate the static linking.
+
+If that's the reason, you also appreciate C, C++ and Go."
+22,,1599568859.0,0.0,[deleted]
+23,thelights0123,1599568996.0,6.0,At least the *structure* of the crate is there. Reading what structs exist in a consistent format is far better than reading the source or d.ts files.
+24,harrison_mccullough,1599581145.0,2.0,"True, but from my experience, I think I've had a better experience with Rust crates than most Python, C++, Ruby, etc. packages out there. It would be interesting to actually get a proper sampling and see if that's actually true 🤷"
+25,ids2048,1599707006.0,2.0,"I'd much rather use an undocumented Rust library than an undocumented Python or C library. The generated API docs will at least communicate the types and lifetimes, and the compiler will enforce them.
+
+In contrast, with Python, it can be quite non-obvious in some cases what types a function takes or returns. Probably use a REPL to just test it. And then if I see it return one type, will it ever return another (like `None`)? You may not find out until your code crashes because it returns something unexpected. And not to mention exceptions...
+
+And then in C, if a function returns, say, `char*`... I assume that's a nul-terminated C string? Should it be freed with `free`? Or with another function? Or is the data pointed to owned by another data structure? Or is it a static global...
+
+(Not to say I *want* to use an undocumented library, or recommend it if there's a better alternative.)"
+26,gilescope,1599827701.0,0.0,"They’re good too, but rust has a few other neat features. I got tired of everything being not threadsafe. The future has a lot of cores in it and I really want to take advantage of that."
+27,,1599577299.0,1.0,[deleted]
+28,shadow31,1599578891.0,1.0,"Yes, expression oriented syntax is more flexible than statement oriented syntax. If that were not true, the C-family of languages would not need the ternary operator."

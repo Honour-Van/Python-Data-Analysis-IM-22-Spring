@@ -1,0 +1,432 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,aenemenate,1539065095.0,7.0,"I think that a very good option is C#. I honestly dont know why python is recommended over this. Most beginners will develop on windows, where c# is vastly superior to develop with. Despite perhaps being harder to learn, I believe it is way easier to continue developing with after the tutorial has been cleared.
+
+There is libtcod and ncurses support (although I haven't used either), and theres also a great, well-supported graphics library called SadConsole. The language has all the object oriented features needed to make a large scale game and it runs relatively fast. It can also be deployed on Linux and Mac.
+
+Another big benefit of the language is that it comes with Visual Studio. The easy to use version management, real time debugging, and the large community behind it has saved me from giving up on multiple occasions.
+
+I honestly cant sing the languages praises enough. My roguelike has come so far and I have this language to thank for making it as easy as possible to achieve."
+1,villiger2,1539089204.0,4.0,"I'd also recommend javascript/typescript. It doesn't see like a super popular choice among roguelike devs but I think it's a fine choice. Browser comes with multiple different rendering engines, you can pick what's appropriate for you from basic html, to canvas, to webgl or a abstraction library. You can share your games very easily. There's a huge community around javascript. You get live reloading if you use the industry standard tooling (I often use create-react-app, remove react, and just use it as a live reloading boilerplate). There is a huge amount of libraries and tooling available if you want to use it.
+
+Though I may be slightly biased as I was a web dev for years :)
+
+Feel free to ask any questions."
+2,MikolajKonarski,1539099106.0,3.0,"In what sense is haxeflixel proprietary? I see MIT licence on github. I haven't used it, but the language itself seems very modern, with an expressive and strong type system, closures, pattern-matching and free from a lot of the cruft C-like and Java-like languages carry to look familiar to older languages (like the archaic mixfix way of writing type signatures for functions)."
+3,Widmo,1539164266.0,5.0,"If you are thinking about Lua I recommend looking at Necklace of the Eye front end. It has its high level control routines in Lua and games using it feature a script in it. There is a pure Lua sample included as well! If you are going to look at internals of NotEye they are written in C++.
+
+Myself I am using D in combination with NotEye. In my opinion Python 3 is also a very good choice to start with."
+4,bixmix,1539207410.0,4.0,"Order of precedence when deciding:
+
+* Use what you know.
+* Use something you want to learn.
+* If you're an absolute beginner, Python was designed to teach people how to program.
+
+Whatever you do, don't analyze it to death.  Pick one and go.  There's no wrong answer."
+5,3fox,1539055113.0,6.0,"You mentioned Lua, and a decent switch from GM would be Lua and Love2D. Pygame is roughly comparable, just it's the Python version of a ""simple games framework"". Very easy to start loading in spritesheets and getting a map displaying.
+
+Upsides of Lua: Dynamic language, so you can fling around a lot of ideas in prototyping without stopping to define the data structures concretely. Compact and flexible language. Performance will be a non-issue for most types of things especially when LuaJIT is used.
+
+Downsides: Can make long-term maintenance challenging for both of the same reasons(too few static checks, language isn't ""batteries included"" and not really geared towards algorithms-heavy coding). These aspects can be patched over by adding a third-party type checking or build system, libraries etc. Lua is popular enough that many folks have worked on this kind of supporting tooling. There is garbage collection at the core which limits what you can do with respect to real-time performance guarantees(i.e., if you need a guarantee of smooth 60hz updates and your main loop does thousands of allocations per frame the churn and resulting pauses might make it hard to hit that target. It's a relatively minor issue when the main gameplay is turn-based and you aren't rendering very complex scenes)
+
+I am using it on current projects. For the design phase, it's just really important to have a thing working quickly, and when you are in a dynamic language you have a lot of power to ignore formal structure(including popular architecture ideas like ECS) and get to the part where you add the feature and see it work."
+6,stolencatkarma,1539037808.0,3.0,"I personally like python. Here's an Atari remake in 200 lines of code using python and pygame.
+
+https://github.com/stolencatkarma/DefenderOfBases
+
+Personally I find picking a simple game then remaking it from scratch to be immensely helpful. 
+
+Although pygame is good for small games I'd go with cocos and variants for anything heavy"
+7,addamsson,1539387511.0,3.0,I don't see Java and/or Kotlin in that list. Why?
+8,red_mike,1539111363.0,2.0,"You can find heaps of language recommendations, pros & cons out there already.
+But if you don't stick with a language long enough, you'll never be able to grok the deeper concepts and become proficient enough to be productive and creative.
+
+You then need to practice implementing what are basically atomic prototypes of features and systems. Break everything down into isolated components so you don't get overwhelmed. In fact, you should forget about the project altogether until you've done this.
+ 
+You say you're sick of writing boilerplate code? Well, turn that boilerplate into a library. That's what programming is all about.
+"
+9,GSnayff,1539078083.0,2.0,"Thank you for sharing your thoughts! 
+
+What do you think makes c# harder to learn? 
+
+Do you use anything other than the IDE? It's a long time since I used only VS for my code, are there any complexities to doing so? 
+
+What do you mean by realtime debugging? What are the advantages of having that capability? 
+
+If you aren't using the libraries does that mean you have implemented everything from scratch? 
+
+Lastly, do you use graphics/sprites and if so how straight forward is it to implement? "
+10,GSnayff,1539106648.0,2.0,"Thank you for throwing something else in to the pot, buddy. 
+
+I was reading about javascript on rogue basin as it seemed like an interesting proposition (being able to use it for something else, like web dev,  seems like great potential) but the tutorial for rot.js seems quite old so I wasn't sure how up to date it is. 
+
+&#x200B;
+
+Why dont you think it is as popular? Is it web browser only? If so, with it being in the web browser are there any limitations? Particularly around things like including graphical assets. How do you distribute programs built in JS? 
+
+&#x200B;
+
+Is live reloading the ability to edit code while it is active? The same as hot swapping, mentioned elsewhere in the thread?
+
+&#x200B;
+
+What's the difference between JS and Typescript? Anything notable?"
+11,GSnayff,1539103696.0,3.0,"It turns out it isn't! I used the word completely incorrectly and will update the post now. :(   
+
+What I meant to say was that it used its own programming language which will, therefore, potentially have less info than more widely used languages.   
+
+Apologies for my ignorance but I don't know those terms, which do you consider to be the most important or stand out? "
+12,GSnayff,1539164401.0,4.0,"Ah, I have seen NotEye used in TOME, it looks like it handles a lot of the heavy lifting for the front end. 
+
+What made you choose D? I don't think I have ever heard anything about it! And why do you think python 3 is a good choice? "
+13,GSnayff,1539208565.0,3.0,"As you can tell, I am at no risk of over analysing. :S 
+
+I appreciate the thought, buddy, and the push to jump in. "
+14,squidpony,1539280307.0,3.0,"As a staunch supporter of a specific language and using my own library.... This is the exact order to asses in.
+
+I've worked in a bunch of different languages and don't use any of the ones I used at first, and that's fine. Starting is more important than choosing the ""perfect"" way to start."
+15,GSnayff,1539078571.0,5.0,"Thank you for the detailed response! 
+
+Do you use love 2d or just Lua? Is LuaJIT particularly different to Lua? Would you recommend anything else with Lua? 
+
+Am I right in thinking dynamic typing is the lack of a requirement to specify data types? If so that's a definite win in my book. 
+
+Sorry for my ignorance;  what do you mean by static checks or a ""batteries included"" language? Really there any hard limits on using algorithm heavy code (path finding and the like)? 
+
+I am not too worried about the long term performance limitations while I am this far out, but I appreciate you sharing them so that I know what I am getting into. 
+
+Can Lua be edited while the code is running? How is it to debug? (Any different to other languages?) "
+16,GSnayff,1539078632.0,3.0,"What do you like about python? What works well for you? And do you use it with any supporting framework, libraries or engines? "
+17,GSnayff,1539389880.0,2.0,Because no one recommended them!
+18,GSnayff,1539112555.0,3.0,"I have been looking around for the last few days but is there anything specific you would suggest I check out? 
+
+I agree mate, you need to give things time, but after nearly two years on GM I think I am about done with it. 
+
+GM doesn't have libraries, though I have reused some of my more agnostic code as importable scripts. I more meant that it feels like a lot of work to get GM doing something that has a lot of starting points in other languages via libraries ( say field of view). "
+19,sheix,1539084228.0,4.0,"Not op, but long time c# Dev. C# is not much harder to learn, it have some curve as a start, but you mentioned you know basics of cpp, so starting with c# will be pieco of cake. It's similar, but (much) easier to grasp.
+
+I can recommend using VS, looks like it's even free now. If you can afford resharper by jetbrains, you should. 
+
+As solo Dev, you'll have to use at least Photoshop/gimp, audacity, and some kind of code and task management system (GitHub? Bitbucket? Whatever you like)
+
+For roguelike development, I can recommend ncurses, and if you want something graphical : sfml.Net. you shouldn't write *all* from scratch.
+
+Graphics sprites usually as easy as creating png files with your favorite editor. Animation, on other hand, can be very complex, depending on what you're trying to achieve.
+
+Real-time debugging is basically a possibility to attach to running app and step into the code, evaluate expressions, see watches, etc. "
+20,aenemenate,1539091373.0,5.0,"I believe C# is harder to learn because you cant use the language seamlessly without understanding object oriented design pretty thoroughly. One can create a small roguelike in Python with global data structures and simple classes, but I believe you're better served with C# if you want to make anything better, despite the language enforcing a steeper learning curve with its design.
+
+No, I stick to VS2017 Community. I like its integration with the coding environment and dont feel a need to switch. I think easy to use. It has built in support for XML (the other language I use for my game), and most engine functionality you dont want to code can be packaged with NuGet. There are also extensions to improve the functionality of the editor in many ways. I use a couple to save time and effort.
+
+When running in Debug mode, you can pause the game and hot swap code. You can also set break points and check variables if you need to. It's helped vastly with finding bugs that dont crash the game, as I can check at all points in a function to see where things are going wrong. I can then edit the function and check if the bug has been squashed without restarting the game.
+
+Yes, I've implemented everything from scratch. Honestly it's not a large time sink. I've spent most of my time working on features that aren't standard, such as the interface and game-specific rpg mechanics.
+
+No, I dont use graphics. I hear Sadconsole supports them, though. I know if you ask the creator (u/ThrakaAndy) nicely, he'll walk you through the entire process of setting up graphics. He's a great guy, and very dedicated to the development of his library. That man is a big reason I recommend C#.
+
+I hope my answers have helped to ease your concerns! Good luck.
+
+P.S. I noticed you said in another comment that you like dynamic types. I couldn't disagree more, although I will say that C# supports this if you'd like to use it. It's something you can use on a case by case basis, or you could use it for your entire project if you'd like!"
+21,villiger2,1539160672.0,3.0,"Haven't used rotjs or anything similar, sorry can't help on that front :) 
+
+Why not that popular? Because gamedevs have never traditionally used javascript. Games were either in native languages (think C++) or web ones used flash/actionscript/java applets. It's only been kinda recent that javascript web games even became a practical option.
+
+Simple answer is Javascript games do require a browser. Though you can bundle a browser with your game into a executable like a regular steam game for example with [electron](https://electronjs.org/).
+
+Technical limitations.. if you have more specific limitations in mind please ask, it's a super broad question. Javascript can't get as fast as native c++ but that's also the case for python. javascript is as fast if not faster than python. Graphical limitation wise I think there's nothing you'd do in a typical roguelike that you'll be held back with in canvas/webgl. Perhaps the maximum performance is lower but that shouldn't be a problem in a roguelike.
+
+If you want to bundle it on something like steam/itchio you can use electron like I mentioned earlier. Otherwise you can just plop it on a website somewhere and people can get to it in their browser. There's tons of free static site hosting out there that you can put your game on to show people (github pages, gitlab pages, netlifly etc).
+
+Well live reloading is as soon as you save the file the code will be recompiled automatically and the window running your game will reload, restarting your game with the newest version of the code. It's not exactly the same as hot swapping. I've not had great experiences with hot-swapping. Often you'll change how information is stored and in that case hot swapping breaks, you'll either not see the change you expect and need to do a full restart anyway or the state will just be broken and you're game will be put into a state it never would normally be able to get to. I generally avoid it. More info here https://stackoverflow.com/questions/41428954/what-is-the-difference-between-hot-reloading-and-live-reloading-in-react-native.
+
+I wrote javascript for years before typescript came out. It's fine, but once your game/app grows it becomes easier to make silly mistakes and harder to change large amounts of code without introducing silly bugs. Typescript (especially on the most ""strict"" mode, which i definitely recommend) prevents tons of silly bugs that plague newbie developers. Also means that your whole project has typeahead/code completion everywhere. It's the small things that add up to make typescript nicer to work with than javascript, though if you haven't run into the issues before typescript may seem like more friction.
+
+Sorry if that was a bit long and some parts may not really make sense if you haven't felt them personally :) "
+22,ThrakaAndy,1539182834.0,2.0,"Typescript is a superscript language that compiles down to pure Javascript. But it adds all sorts of real object typing so you don't introduce bugs (something easy to do in dynamic languages) but these are optional. You don't have to use them, you can use them when you feel it's necessary. Honestly, if you ever do anything javascript, go for typescript. You only get benefits.
+
+Traditionally javascript has been used only in the browser. Node.js is a runtime that you can use to run javascript code directly on a computer, in a sense, like an app. Since typescript IS javascript, you can use typescript to make node.js apps.
+
+There are quite a few ""gamemaker"" type systems built on type/javascript out there.
+
+Along this line, webassembly is becoming the next ""thing"" which lets you run compiled desktop code in the browser on a page. I know people have done some prototyping getting MonoGame (which SadConsole runs on) running there. Once someone really does something with that, I'm going to make sure that SadConsole runs in the browser on a page :D"
+23,MikolajKonarski,1539122175.0,5.0,"Oh, I see, you are right, this language is much less widely used than probably anything else mentioned here (though not sure about Lua used as the main language for a project). OTOH, ti's used mainly for games, so that partially makes up for that.
+
+I'd say the modern type system stands out most. It even has type inference, so that you don't need to write a lot of type information and it still deduces and checks it, catching lots of errors. This only matters later on, when you start refactoring and abstracting the sets of values you use as user-defined types with hidden implementations. 
+
+Over the years C++, Java and C# are extended with more and more similar elements of expressive type system, but they are still behind and there is a lot of warts and compromises that let bugs sneak past. OTOH, Haxe has it all elegantly and cleanly integrated, but tries to resemble the C-like languages when possible and so should have rather tractable learning curve. If not for the learning curve, I'd propose Rust or Haskell, which make even less compromises and are another decade or two ahead of the game. But given that you are already ~~tainted~~ acquainted with mainstream programming languages, Haxe should be much easier to ~~lure you in~~ start with.
+
+Edit; Purescript (or Elm, but I recommend the former) is another example of the steep learning curve bleeding edge languages, this time browser-only languages.
+
+"
+24,Widmo,1539167523.0,6.0,"Yeah, it does a lot. I am poor at graphics stuff and wished to see as much of that handled outside my game. Ended up using NotEye and was not disappointed. On the other hand considering all the stuff gets done for me it can be somewhat constricting at times. Be prepared to override some of default routines to get more control if you try some fancy stuff.
+
+Some time ago I was in similar position to where you are now. PRIME, a variant of ZapM was in C++ with some small additions in other languages. Over time I became familiar with functional paradigm, saw what several other programming languages have to offer. Working in C++ started to drain my motivation rapidly due to how constrained I felt. This was likely to kill development fairly soon. Decided to change the programming language.
+
+Picked D for several things:
+
+* Interoperability or the extern C++ feature. Compile things from my old project into a library and call them with very low foreign function interface overhead.
+* Good portability. Gets me MacOS, Linux and Windows easily.
+* Compiles to native code. Does so fast.
+* Three compilers existing. I will not be tied to single vendor.
+* Long time presence, strong and helpful community, good documentation, literature available.
+* Nice amount of libs and packages for me to choose from. Nowhere as much as for C or C++ but thanks to extern C and extern C++ they all can be used. That is how I link to NotEye.
+* Garbage collector. The end to most of my memory management woes and a productivity boost. Curiously its use is completely optional if one wishes to go the hardcore way.
+* Collection of features I have liked in other languages: contract programming, nested functions, language level support for unit tests, and some others I am probably forgetting right now.
+
+There is lots of good things to be said about Python but I sort of exhausted my free time for today writing about D. My favorite feature is the significant whitespace syntax. I find Python programs easier to read that way and for large code pieces this significantly decreases maintenance costs which for me is a big win."
+25,bixmix,1539214472.0,4.0,"One of the unfortunate side effects of having too many choices is that you could end up in analysis paralysis, which is super common in software development.  The lesson to learn is that its best to pick one (any one) and move on it.
+
+https://softwareengineering.stackexchange.com/a/83125/23203"
+26,Kthanid,1539096985.0,5.0,"I'm currently building a roguelike game engine in Lua with LÖVE, so I can try to answer a few of these questions.  Disclaimer:  I've only made a few small projects/games with LÖVE, and have never personally used Lua in any great capacity prior to this, so I'm far from an expert here.
+
+LÖVE is a great little framework for 2d programming, and I've really enjoyed working with it.  Lua has its downsides, to be sure (some of which are identified by /u/3fox above), but it's pretty easy to get off the ground with and get a working prototype going.  For larger projects, I can see some of its shortcomings being a real problem, because it's trivially easy to make mistakes that aren't going to be immediately obvious.
+
+Anyway, as to your questions:
+
+> Am I right in thinking dynamic typing is the lack of a requirement to specify data types?
+
+Yes, it means the type of a variable is determined at run time.  This may seem like a benefit (and in fact has some upsides, obviously), but it's inevitably going to bite you in the ass in one way or another.
+
+> Really there any hard limits on using algorithm heavy code (path finding and the like)?
+
+Not necessarily (though you're going to get a lot less out of the box than you might want).  Worth noting that there are some (albeit few that I know of) successful projects on Steam today built with LÖVE.  It can be done (and seemingly well), so that alone shouldn't turn you away from this path.
+
+> Can Lua be edited while the code is running?
+
+Yes, this can be done in a number of ways.  One way would be to utilize something like [Lurker](https://github.com/rxi/lurker).  While this looks good on paper, I've struggled to implement this successfully with LÖVE (and others have, too).  In my case, it's because I have my code organized into a number of files and am utilizing [middleclass](https://github.com/kikito/middleclass) for OO and this seems to not play nicely with Lurker.
+
+That said, Lua definitely has a number of ways to reload code while running.  As an example, the way my engine is implementing entity/behavior loading (through individual standalone files that can be dynamically applied or re-applied), I've built it such that these code blocks can easily be reloaded on demand, which will ideally allow for accelerated testing, bug fixes, etc. without having to restart.
+
+> How is it to debug?
+
+I'll defer to Lua experts on ways to debug... I'm not well versed enough yet.  Based on how loose everything is, and how easy it is to bury landmines that compile and run fine (until they don't), I suspect there will be debugging headaches on the horizon.
+
+Hope some of this was helpful.  My short summary would be (speaking as someone with development experience in a number of languages and has built 2d frameworks and light game engines in other languages):  I really enjoy the LÖVE framework, and I don't see anything in my limited experience that should turn you off to using it."
+27,stolencatkarma,1539085581.0,5.0,"You can do in Python what you can do in C with 1/3 the lines of code. 
+
+Currently I've been using pyglet with a new library called glooey for UI stuff and a simple tcpserver called Mastermind.
+
+I hear really great things about cocos though and they have python, c, Java, and other versions to pick from. "
+28,addamsson,1539414298.0,3.0,I do! Kotlin especially!
+29,red_mike,1539175022.0,2.0,"What are your specific learning goals, and how deep do you want to go?
+You could learn C for instance, and spend time learning all sorts of low level things about how computers work. And to make any progress on making a game you would need to learn these things first. But you might not be interested in that stuff whatsoever.  
+
+Many people just use whatever languages they're already using at work. Myself included. But if you're a hobbyist, just stick with a scripting language, unless the technical side interests you as much as the game dev side. Or you have some other motivation, like a potential job etc.
+
+And I've said this before to many others,  but just in case someone tries to tell you otherwise: You simply don't need a low level language like C,C++, etc to build what is effectively a terminal application. It is a ridiculous suggestion that I often run into from people who are biased, and usually aren't programmers.
+
+I haven't looked at Game Maker in about 6 years, so I'm probably wrong. But the problem there is that you're learning someone else's niche software to build a game, instead of learning the craft of building software. If you're not learning about the algorithms and data structures required to make the thing you're interested in, and the software itself impedes on you doing so, then you're probably just wasting your time.
+
+That Stack Overflow post is probably useless to you, since I suspect most of the people voting are hired developers working on business software with completely different constraints and requirements."
+30,GSnayff,1539104766.0,2.0,"Thank you for your input!  Haha, I certainly don't think c# is a piece of cake. :P 
+
+I have heard amazing things about resharper, I will definitely check it out if I go with C#. How easy is it to manage   
+ sprites and animation through the  code? Real time debugging seems like it would be invaluable. "
+31,GSnayff,1539284935.0,2.0,"Thank you for your help mate, I am going to have a go at C#. Are there are guides on getting setup you would recommend? I searched but everything coming up is Unity related and I was planning to avoid that. "
+32,GSnayff,1539105558.0,2.0,"I believe I understand OOP principles so maybe I shouldn't be so worried about c#. Having a standard enforced is probably pretty useful, especially when the dev is feeling particularly lazy. 
+
+Sorry, what do you mean by ""packaged with NuGet""? As in you could get extensions/libraries etc. to provide some code for you?
+
+Hot swapping, that's, the proper term for it!  Being able to edit while the code is running seems like such a big advantage. 
+
+Well played for doing all the code yourself mate. I can see the advantages of doing so, but in the short term I want to lean on something existing to get up and running. But maybe I am just a bit lazy. :P
+
+I have heard good things about SadConsole, though I don't know much about it. I'll bear it in mind, for sure. 
+
+Why do you disagree with dynamic types?  I am surprised to hear c# supports it, I didn't know any language supported dynamic and static(?)!  
+
+&#x200B;
+
+And thank you again mate, that has been really helpful and you (and u/sheix) have convinced me to seriously consider c#."
+33,GSnayff,1539167568.0,2.0,"Type script is StackOverflows 4th most loved language if 2018, for what that's worth. That certainly suggests that people who use it want to continue doing so. JavaScript isn't far behind at 7th so clearly they both have a lot going for them. 
+
+Interesting that JS wasn't thought of in the same vein as ActionScript or similar, and yet is now so popular. As awkward as it was in places I found ActionScript to be pretty easy to get into. 
+
+Re. limitations I was thinking along the lines of handling particle effects or processing larger algorithms, but tbh I don't know enough to know what might be a problem so you gave some very helpful details. 
+
+All that said, it might be the lack of specific libraries that put me off."
+34,anaseto,1539333359.0,2.0,"WebAssembly already starts to work quite smoothly, I use it myself for a browser version by compiling from Go to WebAssembly, and results are way better results than by compiling to pure javascript, even though the feature is still somewhat experimental."
+35,GSnayff,1539157940.0,4.0,"Am I right in assuming that there will be less library support and community knowledge with Haxe than say c#? And is there anything dramatically different about Haxe that I should know before going in? (I've said it before but not having classes in GM is a massive pain and I didn't realise how much of a problem it would be until I was quite far in) 
+
+I took a look at Rust and it looked more intimidating than pretty much all of the others I read into, so I agree about the (apparent) learning curve. I haven't heard of purescript or Elm but I think I should leave the bleeding edge to those more versed. ;) "
+36,ThrakaAndy,1539193203.0,6.0,Have you checked out r/nim it's a C compiled language in line with python but is transpiled into C/C++ i believe. It's been a while since I checked it out. But I enjoyed it.
+37,GSnayff,1539170026.0,4.0,"Thank you for taking the time to share that, buddy. The ability to make use of C languages seems like a fantastic starting point as you don't seem to lose much when making the switch. I just had a quick look and am I right in thinking that D is similar, syntactically, to C languages, especially C++? 
+
+&#x200B;
+
+Another driving reason for my wanting to switch is that GML isn't helping me to learn much about ""proper"" programming; I don't know any of those features you mentioned so it is hard to determine their value to me. I expect not having them will make me wistful in a few years. ;)
+
+&#x200B;
+
+I use a lot of whitespace in my code by default so Python's enforcing of it actually causes me some consternation; being forced to break my habitual indentations may well be worth it for the benefits Python brings. "
+38,GSnayff,1539281884.0,2.0,"You're absolutely right mate, though where is the line between due diligence and analysis paralysis? ;)"
+39,GSnayff,1539119352.0,5.0,"That's all exceptionally helpful, thank you! 
+
+Lua sounds promising, and definitely something worth considering. 
+
+The main reason I am keen to use something with a lot of existing users is so that there is a ready support structure in place. Toiling in isolation is not my idea of fun! 
+
+If I might ask, why do you think so many games use Lua for certain aspects? I believe things like the main data storage but I could be wrong on that. "
+40,GSnayff,1539104083.0,3.0,"Being able to do something in a 1/3 of the lines sounds like a pretty big selling point!  :D
+
+&#x200B;
+
+Edit: Also, am I right in thinking that Python has some challenges with compiling in to a deliverable format? Or have I misunderstood that?"
+41,GSnayff,1539178818.0,2.0,"I did a year at uni on a programming degree a decade ago so I learnt a lot of the very basics then. I remember enough of it that I have a vague-enough grasp on the fundamentals of the underlying systems. I am not nearly so interested in the technical side of the languages as I am in being able to problem solve and create what I had in mind on screen; the lower the barrier to getting to that stage the better for me. That being said, there is an upper limit on that at which point the ability to be creative is hampered by how prescriptive the approach is, just as you mentioned above. The specificity of what I am learning, and the lack of transferable knowledge, is becoming more and more apparent. Coupled with the awkwardness of implementation the benefits I got from the easy introduction are rapidly being lost. 
+
+So, with no aspirations to code for work and no real history to speak of (does VBA count? I am pretty good with VBA. ;) ) I am a free agent and not tied to much at all. I completely agree with you about the level of the language; I want breadth not depth. Being able to manually manage memory doesn't interest me but being able to pull on extensive methods/resources to create something very much does. 
+
+My thinking re. the StackOverflow post was that if someone who is a committed, and likely experienced, developer uses a language and wants to continue using that language then it must be doing something right. Similarly, if people using it regularly want to abandon it then that is also for a reason, though that reason may be less relevant to me, especially if it is based on technical depth. "
+42,sheix,1539521870.0,2.0,"Well, I've just got SFML.NET and got going. (https://www.sfml-dev.org/tutorials/2.5/)
+
+Unity was out of scope for me too. "
+43,aenemenate,1539106248.0,3.0,"Yeah, VS has a package manager called nuget that will install libraries and dependencies for you.
+
+Like I said, it's not too hard to code roguelike features yourself. I taught myself all of this so I think it's possible for anyone to achieve it. I understand why you'd want to use a library, though! I'm sure there are some native solutions available. And c# can interface with c, so the sky is really the limit when it comes to library support.
+
+About dynamic types, I see the appeal in certain scenarios, and I plan to use it myself. However, on the whole, I think most use cases dont benefit from it, and having enforced types makes error handling so much easier.
+
+Like I said before, I hope you find something that works for you! Language choice is a particularly personal thing, and should fit your own mental quirks and preferences."
+44,villiger2,1539171740.0,2.0,"Well while actionscript and flash were in, canvas and webgl didn't exist so... there wasn't a great way to actually render for games, also js performance didn't used to be very good (or if they were they weren't nearly as good), things like requestAnimationFrame didn't exist, lots of standard library and things like classes didn't exist, js has come a long way. Not to mention you can do a version of multithreading in JS now, if you wanted to defer pathfinding/loading etc.
+
+I don't think those things are too bad, you might be able to find some good tutorials here https://www.redblobgames.com/. Yea, don't know if there will be ""roguelike"" libraries, but JS has every other kind of library under the sun."
+45,MikolajKonarski,1539165436.0,4.0,"With the disclaimer that I didn't use Haxe myself, I guess there should not be anything really exotic on the surface, because they are consciously trying to be approachable to people coming from conventional languages. The goodies are packed inside, ready for when you start caring. If you are on Windows, I agree with other posters that C# is a sensible choice and, in particular, it should have more support regarding gamedev, even despite Haxe being designed for gamedev. A somewhat exaggerated comparison: a fast serially manufactured ""sports"" car from a major car company will have more support and cheaper and easier to find parts than a Ferrari or a Formula 1 car. I think even Haskell is closer to a Ferrari than Formula 1 (that would be Idris), so Haxe should be something like a normal car with Ferrari engine under the hood. :)"
+46,Widmo,1539240475.0,5.0,"Funny thing is I learned about Nim from D newsgroup. No, I have not checked it out yet. My aim is to become significantly skilled at D to actually learn the lessons the language has to offer before going on to discover a new one. Right now I consider myself to be advanced beginner.
+
+Nim has so many alluring things. A hybrid of Python and Pascal (I happen to like FreePascal very much) and Oberon just seems too good to pass it up. It is a likely next destination for learning so thank you very much for the reminder!"
+47,Widmo,1539243592.0,5.0,"No problem. Using my past situation as a proxy I guessed you could use additional viewpoint and some encouragement. It is fine you decided not to take D for a spin. Sometimes too much is too much and as /u/bixmix notes analysis paralysis is a very real danger.
+
+Yeah, D is closest to plain C in syntax. Some of my old code compiled right away after being pasted into .d file. However, unlike C++ the compatibility to C on syntax level is not a goal, only familiarity is. Expect things to be incompatible at times. Fortunately you get compiler warnings and when things go bad it is clear why. Also D is evolving quite fast and has tendencies to introduce breaking changes once in a while.
+
+All those mentioned features may lure you away in future, or they may not. Things you have not experienced typically do not have the siren call effect. There is so called Blub Paradox described nicely by Paul Graham in his [essay ""Beating the averages""](http://www.paulgraham.com/avg.html). A long but entertaining read.
+
+Back when I was looking for choices my main contenders were Rust, D, Go. Rust is really cool and quite powerful but as you saw yourself this is a complete paradigm shift, no joke. That kept me from going in - it was simply above my abilities at the time. Go did not have templates which I tend to rely on so it was left out. Briefly looked at C# too but it fell out on portability. Back then I have not heard about any C# roguelike deployed on anything except Windows. Nowadays things are in much better shape but still I have not managed to successfully run any Unity roguelike on my Linux machine leaving me wary. Might be more Unity problem than C# itself though, so do not be discouraged!
+
+I would say your best bets now are Python first, C# second, Haxe third. Keep in mind this is just opinion of someone on the interwebs and in no way should behold you. See things for yourself (from the edit of opening post I see this is the case; go you!!) and decide. Best of luck!"
+48,Kthanid,1539121520.0,3.0,"> The main reason I am keen to use something with a lot of existing users is so that there is a ready support structure in place.
+
+You'll definitely find plenty of support for Lua in general.  My experience with LÖVE, so far, has also been positive in this area.  The support forums are extremely helpful and the folks there seem quite responsive.  The documentation is also extremely straightforward and easy to navigate (which I see as a huge benefit for the framework).
+
+> why do you think so many games use Lua for certain aspects?
+
+There are probably a number of reasons, some of which I'm sure include:
+
+* Lua is a higher level scripting language, so you can write less code to get more done, and the code is generally more readable for others to pick up and work with.
+
+* It's fairly fast.
+
+* It's relatively easy to embed in other applications.
+
+* Since the code is not compiled, it can be changed at/during runtime without needing to restart anything.
+
+Some of those aren't necessarily applicable to your use case here (e.g. embedding in other applications) if you're looking to build the entire project in Lua, but I think they help highlight why it sees more widespread usage."
+49,Zireael07,1539153520.0,5.0,Middle-class for OOP can come with their own problem (I was getting really poor performance and that was the nail in the coffin for Lua for me)
+50,stolencatkarma,1539106087.0,3.0,There's a few choices for compiling. Pyinstaller works well for me
+51,Zireael07,1539266559.0,3.0,"Unfortunately delivering to end users is one of Python's biggest cons. I have been using Python in the job for a year, and making a roguelike in it for roughly the same time. I enjoy the fact that I don't have to wait for compiling, and performance is good, great even if you use numpy. I like the syntax, but packaging never happened so I started looking for alternatives.
+
+&#x200B;
+
+Currently using Godot which has it's own scripting language (and bindings in various stages of progress to various languages)."
+52,red_mike,1539233217.0,3.0,"
+Python is going to be your best bet. It's probably the most versatile and easiest to get started with. 
+
+Because it's so widely used there's a big community with heaps of resources. 
+Even if you give up on your project, the time you spend learning it will be worthwhile regardless.
+
+For learning, take a look at the Head First Humble Bundle before it expires. They're generally good. And tere's a Python
+No Starch Press has some good books, and Zed Shaw's Learn Python the Hard Way is a pretty good place to start as well.
+"
+53,GSnayff,1539119689.0,2.0,"I really appreciate you sharing your thoughts on this mate. Do you have anywhere you would recommend to do some more reading on getting up and running? Or tutorials to use? I noticed the roguesharp one uses rlnet rather than SadConsole. 
+
+Re. Type setting, c# looks daunting to me when I see something like ""private static int"" before we even get to the var. Implicit scope and dynamic typing have spoiled me, I think. ;) 
+
+"
+54,GSnayff,1539177971.0,2.0,"I am going to have a go with TypeScript and see if we gel. Thank you for your support with this, mate. "
+55,GSnayff,1539167097.0,4.0,"That's a super accessible analogy, and given I have always dreamed of a normal looking car with a suprise under the hood, maybe Haxe is the one. :D
+
+If I might ask, how did you choose what to work with? It seems like a big decision to make without clear, objective criteria to support the decision. "
+56,GSnayff,1539285282.0,5.0,"Thank you for clarifying all that mate. It made me smile that quite a few people have recommended Rust whilst in the same breath mentioning how daunting it was. 
+
+&#x200B;
+
+I think C# is the one I am going to go with. Python's issues with compiling to exe put me off. Though I don't want to use Unity, so hopefully if I make anything interesting you can get it on your Linux box.  Unity seemed to make things a chore to learn, though that might have been more me than Unity. 
+
+&#x200B;
+
+Thank you for sharing your thoughts, buddy, and for giving me both the positivity and push to keep going. Crawling back to GML became a valid option after a week of looking at alternatives. ;)"
+57,GSnayff,1539157457.0,3.0,"Less code to do more? That's a big positive. ;) And you're spot on about the Love documentation, it looks really clear and concise. 
+
+Lots of food for thought, thank you buddy. "
+58,GSnayff,1539281084.0,3.0,"Would you mind explaining a bit more about what you mean about the packaging? What are the challenges in delivering Python to end users? Someone elsewhere in the thread mentioned it was fairly straightforward to get out to people. 
+
+And what does numpy do? "
+59,GSnayff,1539282037.0,2.0,"I think you're right. The only other real contender now is c#. 
+
+Thank you for sharing the info on the resources. I actually have quite a few Python books on Humble already (you know, just in case), but I'll check for those. 
+
+Edit: Turns out I have a dozen or more books on Python covering everything from game dev to machine learning. Unfortunately the issues with getting Python to exe has put me off so to C# it is. "
+60,aenemenate,1539121218.0,3.0,"I just searched for c# tutorials on google and clicked links till I found one I liked.
+
+After that, I didnt use a tutorial. I just read about roguelike architecture at roguebasin and implemented everything myself. 
+
+When it comes to SadConsole, I asked u/ThrakaAndy when I needed help. There are also basic tutorials on his website. If he hasn't made any for 7.0 yet, I would stick to version 6 and use the old tutorials.
+
+Idk why, but not having any reference to types in the source code has always irked me! Before I even knew there was another way, I didnt like dynamic types. Though from the perspective of one who uses static types almost exclusively, I can now see the appeal.
+
+For example, if you want to have two classes with the same function, like arrows and creatures both having a TakeAction() function that the scheduler calls. The creature would do whatever while the arrow would follow its path. It would make time based scheduling simple because all data types could be iterated from one list."
+61,ThrakaAndy,1539130407.0,2.0,You can play with C# in the browser by following one of the quickstarts [here](https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/index)
+62,villiger2,1539183070.0,2.0,"No worries, I hope I didn't lead you down a suboptimal path though with my eagerness. Just remember that any javascript tutorials are also valid in typescript, though you might need to add the types to places."
+63,MikolajKonarski,1539171668.0,4.0,"Definitely there was nothing objective about my decision to use Haskell 8 years ago. I was out for an adventure, open to new experiences and challenges and Haskell was the highest mountain I could attempt climbing (and the view from such a mountains is spectacular, as a rule). Soon afterwards, I got a job coding in Haskell, which I still hold and it turned out Haskell is growing and used commercially on larger scale each year (though still a niche). So the libraries and the language get updated, the features I need, the bug reports I file are taken care of. So the gamble worked out for me, but if it didn't, I'd just have a brief learning experience and move on. Today, I'd probably pick Rust, if only for it being a harder to climb mountain (though not higher, but still, it's not arbitrary hardship, but a price for some tangible benefit in the long run)."
+64,Zireael07,1539267031.0,5.0,"Haxe is awesome in that it compiles to many languages, so you could use it to write logic and then compile to e.g. C++ (unfortunately no C#), JS or Python (among others).
+
+I liked Haxe a lot when I used it for the summer code-along. The downside is, I know of no roguelike-specific library for it so I'd have to write everything from scratch.
+
+I keep dreaming of writing Haxe to C++ for use in the current iteration of my roguelike, but I can't figure out how to use cpp bindings for Godot yet."
+65,Zireael07,1539281877.0,3.0,"Python is only straightforward if you assume the end user already has Python installed. If you want an exe, packaging to it is not easy at all. There's at least two ways to do it, if not three (PyInstaller, Nuitka and cxFreeze) and I tried the first two and they got stuck on my fairly straightforward game (libtcod + bearlibterminal + jsonpickle being the only libraries not bundled with Python itself).
+
+Numpy is a library for numerical computations that is basically a big Python wrapper for C. Does stuff lightning fast! That includes, obviously, arrays and vectors - imagine creating maps and changing them REALLY fast."
+66,ThrakaAndy,1539130554.0,3.0,All of the conceptual articles on http://sadconsole.com/docs/ have been updated for 7.0 The roguelike tutorial is incomplete and shouldn't be used. I'm currently working on a helper library that will bridge the [GoRogue](https://github.com/Chris3606/GoRogue) library with SadConsole. I'll use that helper library as the basis for the new roguelike tutorials.
+67,GSnayff,1539156983.0,2.0,"Right then, lots for me to get on with. Thank you buddy. :) "
+68,GSnayff,1539284817.0,2.0,"I think I am going to take the plunge with c#, thank you for your help. 
+
+&#x200B;
+
+If I might ask, what do you search for to find c# game dev info without getting hit by a deluge of Unity-related articles? I was trying to find a guide on getting setup but Unity seems to have swallowed the C# searches. "
+69,GSnayff,1539156861.0,2.0,"I'll give that a go today, thank you! "
+70,GSnayff,1539281202.0,2.0,"Typescript seems pretty friendly, perhaps more so than the others, even. But the lack of game frameworks/libraries/support is what let it down for me. "
+71,GSnayff,1539178219.0,5.0,"I am not sure that an increased challenge always provides an increased reward! But I am glad to hear Haskell did for you. If I weren't such a novice I would better appreciate the learning experience of diving in to something bold and different, but as it is I just want to test out some game design theories. 
+
+&#x200B;
+
+You have convinced me to at least give Rust a go, perhaps the trade off of the difficulty will be worth the innovations. Or it will all be too scary and I will scuttle back to something more familiar. ;)"
+72,GSnayff,1539281361.0,3.0,"It felt nice to have a go with, but, like you said, I am not sure it felt so much nicer than the others to offset against the lack of roguelike specific libraries, or the extensive libraries available for c# and python. 
+
+Also, I am not sure on the benefit of having it compile to other languages so that isn't really a selling point for me. "
+73,GSnayff,1539282564.0,5.0,"Ah, so packaging is turning the code into the end file format, right? In which case not being able to (reliably) get an exe out is a major let down! Surely that's pretty much the minimum expectation of a language, the ability to compile to an exportable file? That's pretty much the nail in that then; I am likely to cause myself enough headaches without any help from the language. 
+
+Numpy sounds invaluable - I don't know about you but in my work so far pretty much everything is in some sort of array that needs a semi-regular update. "
+74,aenemenate,1539285651.0,3.0,"I dont know. If you'd like, I could make a guide. I know enough about this environment to get you started."
+75,villiger2,1539321240.0,2.0,Completely fair :) I wish there were more too !
+76,MikolajKonarski,1539178808.0,5.0,"Heh, increased challenge most of the time provides quick permadeath and starting over. :) Which is still much better than griding. Good luck to you!
+
+"
+77,Zireael07,1539282035.0,3.0,"The benefit of having it compile to various languages is, well, you write it once and deploy multiple times.
+
+Also, I believe you can use e.g. python libraries or C libraries with it by using externs (note you can only use python libraries in python target etc., that's why I said it's best for generic non-library specific logic)"
+78,Zireael07,1539285302.0,5.0,"""Packaging"" is pretty much ""getting your stuff to the players"". In most cases, that means an exe.
+
+For some languages, a zip is a viable option (e.g. javascript, java) but to zip up e.g. Python, you'd have to include the whole compiler/interpreter (around 100 MB zipped if you plan to support only Windows, double that if you want to support Mac/Linux too). If you have big libraries, such as numpy, well, it goes up to 400 MB unzipped..."
+79,GSnayff,1539285846.0,3.0,"That's really kind of you, but are you sure? That seems like a lot to ask. "
+80,GSnayff,1539282239.0,4.0,Forgive me for asking something daft but am I right in inferring that you need different languages to deploy to different locations then? I appreciate some outputs don't work well on other OSs but if you have a choice wouldnt you just compile to the one that works on all?
+81,GSnayff,1539285488.0,2.0,"Python is dead, long live C#! (that is, until C# makes my head hurt too much. ;) )
+
+&#x200B;
+
+Thank you for explaining mate. "
+82,aenemenate,1539285900.0,3.0,I want to do it! I've always wanted to give back to this community somehow. I can get started tonight.
+83,Zireael07,1539285055.0,4.0,"For web, there's only javascript, but for desktop platforms, you have a choice. That's the beauty of Haxe, you can write code once and then if you decide you want to try e.g. Python because your new job wants it or some such, go ahead!
+
+For instance, I've been rewriting the same game in various languages (because e.g. I found a better library), so putting common stuff in Haxe is well, a great idea..."
+84,GSnayff,1539285954.0,3.0,"That's amazing. Thank you very, very much.  
+
+I am excited to get started on the C# train!"
+85,GSnayff,1539285566.0,4.0,"Haha, OK, wanting to move from Haxe to something else makes the idea of compiling to another language pretty darn useful. :P"

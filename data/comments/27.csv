@@ -1,0 +1,80 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,AGooDone,1490205789.0,140.0,What sort of monster uses both?
+1,Germaholic,1490212199.0,45.0,Tabs in an environment where it inserts 4 spaces!
+2,,1490214286.0,24.0,[deleted]
+3,,1490247198.0,8.0,"Before the show, I had no idea anybody used spaces "
+4,ClickHereForBacardi,1490198448.0,13.0,What languages are they writing? I can't remember one outside of Go where the style guide doesn't explicitly say spaces.
+5,buffalolsx,1490205652.0,4.0,There is hope yet for this world.
+6,Porso7,1490252431.0,3.0,Something I've been curious about... No one actually presses the space bar 2 or 4 times right? Everyone just uses the tab key (and let's their editor/IDE do whatever)?
+7,Noctrune,1490208182.0,1.0,"Bro, the only time I use more than one space at a time is when writing seminar papers (nothing quite like ""The  Socio - Economic  Context  of  Taiwan"" with spaces set to half the font size. 
+
+There's just too much hassle involved in making something legible with spaces."
+8,MyAntiAlterEgo,1490207187.0,44.0,The kind of monster that has to do anything advanced with makefiles.
+9,anyonethinkingabout,1490207734.0,18.0,"I think I checked both. Sometimes you have to use spaces to align, and I think most tabs-people still do this with tab
+
+For example in multiline function calls:
+
+    for i in range(n):
+    <tab>foo_function(arg1=0,
+    <tab>_____________arg2=1)
+
+These underscores should all be spaces, whether you prefer spaces or tabs."
+10,oldscotch,1490212799.0,9.0,"I mean, say what you will about the tenets of using spaces exclusively, at least it's an ethos. "
+11,arbitrary-fan,1490218766.0,3.0,"Depends on the language. I use spaces in python, tabs in go. Mostly I just conform to whatever the existing codebases uses. "
+12,mattsidesinger,1490213044.0,3.0,My IDE detects if the file uses tabs or spaces and then uses what the original author used. I do default to spaces since I am not a monster. 
+13,smurph9876,1490238200.0,1.0,"I mean, once it goes through the compiler, it's all the same. "
+14,random314,1490221458.0,1.0,"Go uses both, and it's done beautifully."
+15,WestonP,1490212317.0,13.0,"That's the often forgotten, but frequently used, 3rd option for this. I just hit Tab, and don't really give a shit that most IDE's insert 4 spaces. They make it work just like tabs, so that's great."
+16,sciencehair,1490248787.0,3.0,"I'd like to think everyone uses the tab key to indent, whether or not those translate into spaces."
+17,CartoonCarter,1490214343.0,23.0,Disgusting
+18,daybreaker,1490236838.0,5.0,"That's called Soft tabs, and its all I use and every web dev company I've ever been at uses. "
+19,PointB1ank,1490215220.0,8.0,Wtf?
+20,Treyzania,1490225908.0,2.0,Write an IDE to convert it to tabs on open and back on save.
+21,milky_c,1490233431.0,1.0,So does mine.. It was weird at first but I don't really think about it anymore. 
+22,hazzbo5,1490218344.0,-1.0,"Tabs, fine. Being forced to see them as 2 spaces hmmm, not good. Being told you must use an IDE? WTF. This next one might be a bit presumptuous of me, but being told which IDE you must use?! Just leave.  "
+23,Inetenbr,1490199004.0,9.0,This was just an overall response and not language specific. I think Python too explicitly states that spaces should be used. 
+24,wineheda,1490204876.0,1.0,Are there specific style guides that should be followed? I just started teaching myself python and would like to start out doing it correctly
+25,CanYouDigItHombre,1490636779.0,1.0,"It's not that. People like spaces because in every editor it will be spaced the same (ex: pasting tabs online can lead to 8 spaces and text editors could use 8 or 4 spaces). People like tabs because it's more comfortable to press left once and follow the text icon up/down (rather than 4 times). Also soft tabs (tabs as spaces) are silly because sometimes editors don't suppose tabbing like that and editing code on those editors is annoying while tabs are not.
+
+In short space people are wrong. Use tabs :)"
+26,AGooDone,1490207875.0,6.0,Oh yeah... what if your IDE does it for you? CTRL K + D does that build spaces or tabs?
+27,hanzo765,1490261691.0,1.0,Imagine how many bytes are wasted just to satisfy your OCD
+28,jargoon,1490233409.0,0.0,This is exactly why spaces people are correct
+29,zanidor,1490240998.0,-4.0,"Oh my god. If you work for me and you do this, you're fired."
+30,NotaGordonRamseyfan,1490221137.0,13.0,Thats what I do. Does anyone actually press space 4 times?
+31,zanidor,1490241093.0,6.0,"Wait, so is this poll ""I hit tab"" vs ""I hit space"", or ""I put tabs in my files"" vs ""I put spaces in my files""? There's a huge difference."
+32,bienvenueareddit,1490221159.0,1.0,"When you press backspace/delete, does it delete the entire tab or just one space?"
+33,iObsidian,1490225106.0,1.0,Is you serious?
+34,Evilduck17,1490203469.0,10.0,I thought the standard for python was tabs. 
+35,rpnoonan,1490204933.0,1.0,"I think you're right, but tabs work just as well iirc. I've only done very little with python and it was a while ago so correct me if I'm wrong, but I'm tab guy and don't remember having any problems with it."
+36,RaptorDotCpp,1490207163.0,5.0,The [PEP8](https://www.python.org/dev/peps/pep-0008/) guidelines are (I think) pretty standard.
+37,ClickHereForBacardi,1490210935.0,2.0,"Python is blessed with an actual part of the specification concerning what style to write it in. It's called [PEP-8](https://www.python.org/dev/peps/pep-0008/).
+
+As for this particular question, it's [being addressed](https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces) by that too.
+
+Note, in case you're entirely new to programming, that unlike what goes on in the show, you don't have to use spacebar to indent with spaces. Almost every editor in existence will be able to use the tab key to insert a specified number of spaces."
+38,LennonMOBILE,1490268469.0,2.0,I'm pretty sure there are settings for that. 
+39,anyonethinkingabout,1490270059.0,2.0,Imagine the vast amounts of money you spare by reducing the number of bytes in your source code
+40,jargoon,1490233482.0,5.0,The only time I've ever done that was writing some example code on a system that didn't have a text editor installed
+41,shvelo,1490263474.0,3.0,"Yeah, Richard was right to be annoyed. What kind of monster press space 4 times every time they need to indent."
+42,WestonP,1490227295.0,2.0,"Android Studio is what I happen to have open at the moment, and it deletes the entire tab when I press backspace... Even if I manually hit the space bar 4 times to do the indent, pressing backspace still deletes the entire ""tab"" indent.
+
+But, if I instead get in front of it and press the delete key, it only deletes one space, no matter if it was 4 spaces or a tab. To make it delete an entire tab or 4 spaces, I can press Shift+Tab.
+
+Xcode has the very same behavior, but with a different key combo instead of Shift+Tab.
+
+You can change the editor options if you like, but these defaults for both work well for me. I seem to remember it being less refined / more raw in MS Visual Studio, and I've seen some bitching on this tabs vs spaces topic from one of our Windows-only developers in the past, but I don't have my Windows VM running at the moment to test it."
+43,hazzbo5,1490227573.0,1.0,"About leaving your job over the sake of an IDE? No. Of course not. But being forced to use software that may have no negative effect on the output of the code you produce but a negative effect on your own productivity, yeah. Of course. If you prefer an IDE, go for it. But if it's not necessary and you'd be better off with something else, then do that."
+44,outtokill7,1490204840.0,8.0,"I thought it was 4 spaces for python. If your tab == 4 spaces then they are equal, otherwise you're gonna have a bad time."
+45,Ubuntaur,1490230274.0,1.0,Your indented whitespace just needs to be consistent. I don't think it matters if it's 1 tab or x number of spaces so long as you use the same thing. 
+46,mattgif,1490901985.0,1.0,"Spaces. From the [Python.org style guide:](https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces)
+
+> Spaces are the preferred indentation method.
+
+>Tabs should be used solely to remain consistent with code that is already indented with tabs.
+
+>Python 3 disallows mixing the use of tabs and spaces for indentation.
+
+"
+47,Bazanero256,1490217921.0,-6.0,"If you use tabs in python, the program will not run."
+48,jargoon,1490233547.0,2.0,Only if you also use spaces

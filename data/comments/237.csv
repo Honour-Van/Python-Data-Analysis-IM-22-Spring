@@ -1,0 +1,98 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,SixiS,1590669605.0,11.0,"I wonder what happened from 2019 -> 2020 to lower the Ruby love so much.
+
+Love:
+
+2017: 48.5%
+
+2018: 47.4%
+
+2019: 50.3%
+
+2020: 42.9%
+
+&#x200B;
+
+Rails 6 came out and the version upgrade was super pain?
+
+Ruby doesn't fit in as well as api-only with the newer big boy frontend JS frameworks?
+
+I still <3 Ruby and Rails, I really enjoy dabbling with Go and Javascript - but certainly wouldn't want to switch over to them full time.
+
+It may just be the trend of devs not wanting to be stagnant, so you will obviously always be talking/thinking of the next big thing you want to do to not get left behind.
+
+Which atm seem to be things like Rust, Go, React, Machine Learning.
+
+So possibly just ruby getting more mature and therefore not being the next big thing people are thinking of picking up.
+
+It may just be a bit of a misnomer with the terminology they use for love/dread (which is just users that use it and want to keep using or stop using) - it may not reflect developer happiness in working with it."
+1,petercooper,1590680878.0,7.0,"For the people in the thread about why this sub-Reddit has 10x fewer people than Python's, some of the results here might help illustrate the issue. Ruby is not a particularly desired language amongst the Reddit demographic.  I mean I/we(?) love it, but there's no point pretending Ruby is hugely on the up and up, whereas Python absolutely is (and I say this as someone who hugely prefers Ruby). In terms of obtaining *new* users (i.e. the very demographic likely to subscribe to a sub-Reddit), Python is a runaway success right now."
+2,Havin_A_Tea_Partay,1590677811.0,4.0,"I'm confused about Rubys positioning on the [How Technologies Are Connected](https://insights.stackoverflow.com/survey/2020#technology-how-technologies-are-connected) cluster. Why wouldn't it be connected to HTML/CSS, JS, and SQL through Rails? I understand it's based off respondents answers, but, even if you've only ever used Rails for an API, you're not developing it in total isolation from everything else listed."
+3,theGalation,1590677954.0,5.0,As a mature ruby dev I haven’t been on SO in years. TIOBE Index is a bit more robust in their data https://www.tiobe.com/tiobe-index/ruby/
+4,Ser_Drewseph,1590676329.0,5.0,"“So possibly just ruby getting more mature and therefore not being the next big thing people are thinking of picking up.”
+
+I think it’s hard to say this is the reason. Python is still in 3rd and it’s been around for like 30 years now. And languages like C# and Java are still above Ruby on that list.
+
+I think it’s the limited scope of what Ruby is being used for. I know this isn’t the case but the way Ruby dev communities talk about it, you’d think that the only thing Ruby is good for us Rails.
+And that kind of monolithic MVC architecture is falling out of fashion for things like JAM stack and micro services architecture. That combined with all the big front end frameworks like React/Angular/Vue/Svelte which aren’t the easiest to fit into rails/Ruby. 
+
+Python expanded from web into scientific computing, data science, and machine learning with things like pandas and numpy. C# is used for web, windows, and game dev with Unity. I think Ruby is a great language, but there needs to be more tooling development for uses outside of web dev."
+5,,1590691763.0,2.0,"Naah don't go overboard with conclusions, this is just surveys, and not very good ones at that. There is absolutely no reason for the result to fluctuate like that year after year"
+6,jrochkind,1590894467.0,1.0,"I wonder if at least some of it just sampling error/within the margin of error. There seems to be a downward trend over time, but 2019 could have just been off."
+7,sshaw_,1590695650.0,-1.0,"Have there been any new features added to Ruby over the past year that you liked? Have you seen any ""exciting"" proposals? 
+
+For me they're not too encouraging. 
+
+Plus the strong and/or static typing bandwagoning. Optional typing for Ruby 3 (have you seen this? Optional type files!).
+
+Give me a break!"
+8,,1590670107.0,0.0,[deleted]
+9,jrochkind,1590894724.0,2.0,I am starting to feel like a betamax enthusiast. But... it's just so much better y'all?
+10,,1590693241.0,1.0,"True, Python is so hugely adopted in academia / data, that battle is long lost.
+
+But Rails still has a good chance to stay a pretty dominant framework in the coming decade. Maybe a bit behind Django / Laravel but it will still probably be a framework with major usage and lots of companies using it."
+11,2called_chaos,1590693702.0,1.0,I guess python also gains a lot in the field of machine learning the past few years. Honestly the main reason why I want to dip into python.
+12,zitrusgrape,1590678663.0,8.0,"this is better: https://redmonk.com/sogrady/2020/02/28/language-rankings-1-20/
+tiobe index is garbage."
+13,2called_chaos,1590693378.0,3.0,"What strikes me as odd. It's so easy to put C extensions into gems that I wonder why there aren't more bindings and DSLs for stuff like games, native GUIs (currently working with Electron and god do I miss Ruby rn), etc.
+
+Also working with (admittedly old) curses before and generally rich terminal applications I'm somewhat jealous when looking at things like blessed.js"
+14,tomthecool,1590671213.0,4.0,"> If rails dies, ruby dies.
+
+In Japan, the home of ruby, the language is mostly used outside of rails."
+15,petercooper,1590935256.0,1.0,"C'mon, if we're going to be anything, let's be LaserDisc!"
+16,theGalation,1590685574.0,3.0,Thank you! I'll look into it. I used TIOBE b/c that's what Matz referenced in his RubyConf 2019 keynote.
+17,theGalation,1590709178.0,2.0,I've read through TIOBE and Red Monks explanations and it's not clear why one is better than the other. They just have different methods and context.
+18,zverok_kha,1590679866.0,4.0,"From what I understand (probably wrongly) from some private discussions, it is nowadays mostly a myth told to each other by non-Japanese Rubyists.
+
+I mean, it is evidently true that Ruby is much more probable to be a part of school/university curriculum, so all kind weird and beautiful things definitely being created in Ruby there. But most of the paid work or robust multi-year projects, even there, is still Web (and mostly Rails, though one bird sang to me Hanami is much more well-known there than elsewhere).
+
+There is at least one group working on scientific things ([ruby-numo](https://github.com/ruby-numo) and around), there is at least one of active Ruby contributors ([mrkn](https://github.com/mrkn)) creating scientific libraries and pushing for changes like `Range#%` (for math.array slicing), but even at Cookpad, which employs the large part of the core team, the Rails is the primary usage for Ruby."
+19,Ser_Drewseph,1590676534.0,2.0,"That’s really cool! Sadly in the US, it’s rarely used outside of Rails. At least in a professional capacity. I can’t speak much about hobby development"
+20,jrochkind,1590963558.0,1.0,"The smalltalk enthusiasts are all like ""now you know how it feels to know your shrinking language is superior"", maybe this is what you get for basing a language on smalltalk. :("
+21,tomthecool,1590681537.0,3.0,http://engineering.appfolio.com/appfolio-engineering/2017/5/24/how-is-ruby-different-in-japan
+22,toddspotters,1590683373.0,3.0,"My experience as a ruby engineer in Japan was that the overwhelming majority of ruby jobs were for rails development. One thing about the Japanese tech scene is that it is incredibly insular and there is a strong preference for things made by Japanese people, so in that sense I think there are probably a lot more people who tinker with and use ruby for various smaller scale things, especially so 10 years ago, but the tug of the outside world nevertheless pulls, albeit slowly, and I think we're seeing the same sort of broader patterns even within Japan.
+
+Emphasis that this is anecdotal and not based on hard data."
+23,2called_chaos,1590693621.0,2.0,"I'm somewhat certain that in the US the following tools are not unheard of and probably being used quite a bit
+
+* puppet
+* chef
+* metasploit
+* vagrant
+* homebrew (for mac)
+
+Or are you talking about not being used as a language to create own projects with?"
+24,Ser_Drewseph,1590697528.0,1.0,"Chef and homebrew for sure! I didn’t know homebrew was made in Ruby. That’s pretty cool. I also thought puppet used Python. I am 100% not an ops person though, so I know very little about it.
+But yeah, I was talking about building new projects outside of the web."
+25,2called_chaos,1590705526.0,1.0,"To be fair I think homebrew is only written in Ruby because Ruby is shipped with MacOS but it doesn't include Python. If Apple had chosen Python homebrew would probably run on Python ;)
+
+And maybe you thought of Ansible which is pretty much exclusively Python although it's quoted to use Python and Ruby."
+26,,1590753275.0,-1.0,[deleted]
+27,jrochkind,1590894622.0,1.0,"if you don't want to sound toxic, you may be interested in some feedback, that you sound toxic."
+28,Ser_Drewseph,1590762435.0,0.0,"I dunno, maybe because I’m still pretty new to the dev world and just started looking at Ruby as a hobby because nowhere I’ve worked uses it? I said it was just my experience.
+
+But yeah, thanks for making me feel welcomed in the Ruby community and taking the opportunity to teach some less experienced. You’ve set a great example."
+29,,1590764372.0,-1.0,[deleted]
+30,Ser_Drewseph,1590765375.0,1.0,"I also stated that I was speaking from just my experience, and freely admitted that I was wrong. You must be a real tough person to pick fights on the internet- especially on what was otherwise a friendly thread where people were sharing knowledge."
+31,jrochkind,1590894674.0,1.0,"Wow, actually got even MORE toxic sounding. If you don't want to sound toxic, you may be interested in this feedback to help you with that."

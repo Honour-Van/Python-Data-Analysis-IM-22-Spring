@@ -1,0 +1,45 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,SimonGray,1627971907.0,38.0,And Clojure is the second most loved programming language after Rust: https://insights.stackoverflow.com/survey/2021#technology-most-loved-dreaded-and-wanted
+1,TheLastSock,1627989483.0,20.0,"I wish the site released everything they had, it's very easy to tell a story differently depending on the information.
+
+Could a high median be interpenetrated to mean it's hard to find entry level positions?"
+2,daslu,1627976290.0,9.0,"Thanks for sharing!
+
+We will probably look into the data in the Scicloj study sessions this weekend, where we are practicing the emerging Clojure data science stack.
+If anybody wants to join, please write to me."
+3,muhaaa,1628001634.0,6.0,"About 1000 clojure developer told their salary. Clojure seems comparable to Scala and Objective-C by popularity. 
+
+[https://insights.stackoverflow.com/survey/2021#section-salary-salary-and-experience-by-language](https://insights.stackoverflow.com/survey/2021#section-salary-salary-and-experience-by-language)"
+4,acadian_cajun,1628033910.0,3.0,"I find this to be one of the things I dread about the SO survey-- the languages that I like are highly paid.
+
+I just imagine that employers follow these same surveys and flag the highest-paid languages as ones never to use, because if they choose them, they'll have to pay ~30% more for each developer, and their recruiting pipelines are going to be constantly dry. So all these companies stick with Java and C# year after year (Go if they're spicy), and nothing really ever changes."
+5,agumonkey,1628056575.0,3.0,"bruh, f# second, perl not far .. scala rust lisp  .. APL
+
+is this revenge of the CS PhD ?"
+6,,1627984591.0,-16.0,[deleted]
+7,Aryjna,1627990563.0,7.0,"Yes, some of the results do not really make much sense because they do not have results by country, at least for the countries with many voters.
+
+In this older survey, [https://insights.stackoverflow.com/survey/2017#top-paying-technologies](https://insights.stackoverflow.com/survey/2017#top-paying-technologies) , clojure is again top worldwide but does not exist in any of the country-specific lists, which is weird."
+8,fingertoe11,1628023966.0,7.0,"The last survey showed salary vs years of experience, and Clojure programmers where in the upper rightmost position.    So in short, Guys with 15 -20 years experience get fed up with everything else and land happily in Clojure..
+
+They tend to be the kind of Engineers at already get paid that kind of money..
+
+This stat may also scare a lot of companies away from Clojure--  As they think ""We cannot afford to pay that much for programmers"".   But I do think that Clojure gives you more bang for the programmer, so it probably offsets.    But unless you use it, you do not understand that."
+9,BipedPhill,1628012127.0,5.0,"The obvious ""entry level"" of well-supervised, trodden-path implementation programming might be less common in Clojure.  The notation invites and affords more thoughtfulness.  In return, it gives you more leverage.  You don't need as many people, and the people you don't need are those at ""entry level"".  This would inflate the median."
+10,namesandfaces,1628016102.0,1.0,"I interpret this in the sum of all signals as Clojure projects are not greenfield, and in addition to wanting an experienced devs who won't need mentoring, you'll also get a pay bump for working on a project in sunset phase."
+11,SimonGray,1627986055.0,14.0,"Your attitude is self-defeating. You know, it is not some big revelation that the Clojure job market is small. And it's not like people in the community pretend that it's mainstream.
+
+It's entirely possible to work with Clojure if you make the effort to hunt for a Clojure job specifically or if you introduce Clojure yourself, even though the job market is tiny compared to the mainstream OOP languages. I can say that personally I'm on my third job in a row using Clojure here in Copenhagen, Denmark (generally a Microsoft stronghold). At my last job there were maybe 50 Clojure developers working full time (5-6 teams) and one team using R."
+12,muhaaa,1628001658.0,4.0,about 1000 answered the salary questionair.
+13,TheLastSock,1628024334.0,2.0,"I feel like this median information is relatively useless. If you're saying clojure devs have more experience, that would likely account for the difference in salary."
+14,AvocadoCake,1628050149.0,1.0,This survey also shows that - https://insights.stackoverflow.com/survey/2021#salary-and-experience-by-language
+15,asiergaldos,1627992418.0,10.0,"I run a consulting business and betting on Clojure(script) since 2015. We get a lot of leverage from Clojure(script) but it is very tiring and frustrating to constantly explain the benefits of Clojure to my potential clients and, to be frank, the consulting business is not booming. Our clients are very happy but getting new ones is very tough, particularly here in Spain.
+
+We have decided to build our own vertical products in -of course- Clojure(script) hoping to diversify our business."
+16,fingertoe11,1628025689.0,2.0,"Hard to know.   The last survey cross referenced Years of experience and salary, and the Clojure dot was quite high in both.   The causality and co-effects are probably tricky to sort out and these surveys don't attempt that.
+
+There are plenty of young Clojurists at Clojure Conj and such though.    
+
+
+I suspect that experienced programmers get attracted to Clojure because it solves a lot of the issues they have dealt with their entire careers..  Rich Hickey said that his motive for writing it was that he was sick of writing Iterator loops in C and Java..."
+17,Frozen_Turtle,1627999678.0,6.0,"I used to work at a small C# consulting company that's converting to F#. Using niche technologies isn't easy - but that's a tradeoff you consciously make. But yeah I hear you when you say finding new clients is hard and that the consulting business isn't booming - I was let go in March of last year, right when the pandemic shut everything down. (Happy ending though - I'm now at a Clojure shop.)"

@@ -1,0 +1,17 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,Paradox,1483994341.0,8.0,"I wonder why Notepad++ is so high. Back when I was on windows, it was decent, but even as a toy coder I found it to be limited. Sublime and Atom are just so much more elegant"
+1,oa__,1483946330.0,4.0,"Compare this to the similar study from last year:
+
+http://stackoverflow.com/research/developer-survey-2015?ref=survey-2016#tech-editor
+
+I think it's interesting to see that
+
+- Notepad++ shares the first place with Visual Studio
+- the difference between ST and vim became smaller (relatively) compared to the previous study
+- Atom grew substantially"
+2,PungPillaren,1484031082.0,3.0,"It's because of the remote editing.
+Sublime does not offer a way to remotely edit files without syncing the entire catalog, which isn't really an option for companies with 200+ websites to maintain."
+3,milnak,1484006171.0,2.0,It's free and lightweight?
+4,Anton31Kah,1492117479.0,1.0,It's bad for everyone I mean I never liked it since day one in Programming I fell in love with Sublime Text and even though everyone at my university uses it and all professors but I hate notepad++ I love Sublime Text 
+5,Paradox,1492120254.0,2.0,"Periods and line breaks man. Periods and line breaks. I understood what you meant, but my internal linter is screaming"
+6,Anton31Kah,1492120961.0,1.0,I'm really sorry but I kinda talk like this in real life and everyone tells me: you ever heard of periods?

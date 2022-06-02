@@ -1,0 +1,168 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,DiscombobulatedAd208,1628090385.0,26.0,"* Clojure attracts more senior developers, senior developers make more.
+* Clojure is niche so company probably has a lot of faith in the development team to make the system in Clojure and pay accordingly. 
+* Difficult to find Clojure developers so a supply and demand situation. - (Companies usually use C#/Java/Javascript because it's popular and can easily find more/replacement/contract developers)"
+1,khokkos,1628089025.0,53.0,"My theory is, the majority of people who are convinced by Clojure are seasoned developers who have gone through the rituals and frustrations of building OOP enterprise monstrosities and came to Clojure for a refuge. Most were already in senior positions, getting paid nice, fat checks. Hence the result depicted by the survey."
+2,rufusthedogwoof,1628094394.0,12.0,"Maybe in aggregate clojure developers are (viewed) by corporations as having the highest impact to monetary bottom lines.
+
+Most I meet tend to do the work of many."
+3,thither,1628089453.0,25.0,"I tend to chalk the phenomenon to the fact that most Clojure developers already have a fair amount of Java / other JVM experience, to they tend to skew more senior than the general population, hence their compensation tend to be better as it's largely based on seniority.
+
+I'd also caution against reading too much into the Stack Overflow ""insights"" data as indicating anything in particular about software development at large, as it's a purely voluntary survey with about the same level of statistical insight as one of those ""which Harry Potter character are you"" quizzes, albeit gussied up with a lot of pretty graphs."
+4,I_Have_A_Snout,1628099569.0,8.0,"One of the factors that drives down salaries in any technology is outsourcing companies since they make money on the arbitrage between what they pay for people and what they sell people for, so their salaries tend to be on the low end. There aren't many large outsourcers who can provide bulk Clojure staff, so Clojure rates don't include that sector of the development community.  
+
+
+Without a breakdown of location, industry and nature-of-employment, it does make the figures a bit misleading.  
+
+
+That we're not looking at the same populations across languages also, probably, has a negative impact on Clojure adoption since it creates the - probably false - perception that you can't hire Clojure people without breaking the bank."
+5,clelwell,1628099578.0,7.0,"Clojure users might trend towards higher *salary*, but highest total compensation will generally be found with a more popular language at a public (e.g., FAANG) company that rewards _valuable_ stock. (Counterpoint: Apple uses Clojure a little bit)"
+6,bcrosby95,1628109877.0,6.0,"I don't take too much stock in that survey.  Gaining deep expertise in a valuable domain is probably the best way to make a good salary.  
+
+Everyone I know makes significantly more than the median Clojure salary.  Even the people working in C.  But we're all in our 40s and have loads of domain experience."
+7,asiergaldos,1628088735.0,10.0,I have no clue but my guess is that it is age (more senior devs) and country (high GDP) related.
+8,edster3194,1628095348.0,3.0,"The main points are already covered by others in this thread. One additional point would be that it is very common for Clojure developer positions to also require proficiency in some other languages.
+
+Clojure makes interop between other JVM languages (and Javascript) so dang easy it is hard to for teams not to take on a little Java/Scala/etc in their code bases... but now your job posting needs to hire someone with 2 languages rather than 1, which pushes the salary up a bit.
+
+I think this is minor compared to the other reasons discussed in this thread, but you don't have to look at many job posting before you see a pattern."
+9,sombrastudios,1628152727.0,3.0,"I am deeply starstruck by all your insightful answers.
+A wave of euphoria is going through me, reading all your thoughts on this topic and more than anything else I learned, that you have a community that is very supportive and healthy. It's a great community to be part of and another good reason to deepen my dive into the clojure language.
+
+Thank you all!"
+10,coltnz,1628283048.0,3.0,"I feel, it's an evangelist phenomenon.
+
+Jaded tech lead  with >10 years of  Java  discovers Clojure, wants to build a team around it, and is motivated to compete in a scarce market or hire proven performers and retrain them."
+11,null_was_a_mistake,1628093632.0,9.0,The real answer is that Clojure is an esoteric language and the results are skewed by a few companies who pay far above average.
+12,e_to_the_i_pi_plus_1,1628116419.0,1.0,"Clojure is made for java devs who want to enjoy their lives again. So they leave companies, get a raise. They're already great devs, because they chose clojure, and got sick of java.
+
+Then the clojure devs combine into groups and enhance this affect by getting all their clojure friends to do the same.
+
+Fuck I miss clojure *goes back to writing java*"
+13,RealisticSecond8,1628103234.0,-4.0,"As a Haskell refugee relatively new to using Clojure professionally, I view higher salary as a hazard pay for being stuck with a language that offers so little support in managing complex systems and is more of a toy JVM Lisp for tired and balding Java seniors."
+14,nwlinkvxd,1628088395.0,-5.0,"Clojure is a notoriously difficult language to learn, and learning it helps make you a better developer. The skill and insights that come from working on larger clojure projects translate well to other languages, making you more valuable as an engineer in cross-discipline projects.
+
+Thus, people who self describe as clojure developers tend to be more senior for several reasons, and this coincides with higher (later career) salary ranges."
+15,lgstein,1628095706.0,1.0,Because the market ranks it highest in time/quality ratio?
+16,terath,1628096370.0,1.0,Likely just because of supply and demand. There are not many Clojure developers and a lot of people looking for them.
+17,HondaSpectrum,1628112462.0,0.0,Literally just supple and demand
+18,robopiglet,1629352980.0,1.0,"What's up with the poor Dart developers? What do they work on? What is Dart used for, and why would it be paid so low relatively?"
+19,Roxolan,1628090858.0,18.0,"[The same graph](https://insights.stackoverflow.com/survey/2021#section-salary-salary-and-experience-by-language) shows average years of experience. Clojure is slightly higher than most, but even taking that into account, it remains a striking outlier."
+20,agumonkey,1628095831.0,11.0,lower team count needs and better productivity
+21,cbleslie,1628097049.0,12.0,">the majority of people who are convinced by Clojure are seasoned developers who have gone through the rituals and frustrations of building OOP enterprise monstrosities and came to Clojure for a refuge.
+
+In other words: Clojure is therapy for OOPPTSD"
+22,mobiledevguy5554,1628257151.0,2.0,Ceremony Code.  I hate it and Clojure has very little of it.
+23,wwwyzzrd,1628095822.0,0.0,"I agree, best developers."
+24,grewil,1628114621.0,1.0,I can relate to this.
+25,licht1nstein,1628117694.0,6.0,This. 1 Clojure dev is like 3 in any other language in terms of productivity.
+26,sombrastudios,1628152345.0,1.0,"I really enjoy your rhetoric, thanks for shedding some light on this"
+27,mobiledevguy5554,1628257266.0,1.0,I use it despite the java underpinnings.  I wish it was standalone but I understand the rationale.
+28,ilemming,1628107431.0,8.0,"> (Counterpoint: Apple uses Clojure a little bit)
+
+Not only Apple. Netflix and Amazon as well. Cisco's entire security platform (it's big) is built on Clojure. Walmart has a few working systems built with it. But many other [smaller] Clojure shops in the US may also pay equally competitive salaries."
+29,sombrastudios,1628152463.0,3.0,"I think your thoughts are really helpful in forming perspective, thank you.
+
+Though I'd like to add here: Large Companies tend to use every language somewhere in their stack. I am not sure, how much one can interpret in this"
+30,NPException,1628139745.0,1.0,"This. I would expect Nubank to pay pretty well, and as far as I know they employ over 100 Clojurians already. If most of those took part in the survey it would already skew the average quite a bit."
+31,CoruthersWigglesby,1628115576.0,4.0,"> more of a toy JVM Lisp for tired and balding Java seniors.
+
+I feel personally attacked."
+32,SimonGray,1628106269.0,2.0,https://www.youtube.com/watch?v=j95kNwZw8YY
+33,Agent281,1628089360.0,9.0,"Is it notoriously difficult to learn? I'm an outsider, but I thought that a small core was one of the benefits of the language. Is it because you need to know Clojure and Java and the JVM ecosystem to be an effective professional Clojure developer?"
+34,sombrastudios,1628088677.0,6.0,"this is quite interesting to hear and I think your hypothesis sounds quite reasonable.
+
+Though I, as a newbie, didn't even knew that Clojure is known to be so difficult. Hearing this makes me wonder, if it has something to do with how much the language is loved (2nd place), because the 1st place was given to rust. A language people say similar things about, when it comes to learning curves"
+35,seancorfield,1628097211.0,7.0,"I think it is only ""notoriously difficult"" if your background is purely OOP and you've only ever written code that relies on mutation and side effects (a lot of Java developers are in this category).
+
+If you are new to programming or have been exposed to ""functional style"" in other languages (especially if you've been exposed to immutable data in some form), it's not difficult to pick up.
+
+The ""encapsulate everything"" and ""mutate everything"" mindsets are hard to shake off when you switch to immutable data-oriented programming -- and that's what makes the switch to Clojure hard for some.
+
+As for the higher salaries, I think it's a combination of some seniority, some supply and demand, and some aspect of being able to get more done with fewer people so you might have two Clojure developers instead of four Language X developers and you can ""afford"" to pay them more because you're paying for half as many programmers (who are twice as productive).
+
+Note: ""half"" and ""twice"" are figurative for the point of the argument."
+36,tcallred,1628088933.0,3.0,"I've had the impression that a lot of senior java devs like to transition to using clojure late in their career, which would mean that they already had pretty high salaries from years of experience. Would you agree?"
+37,BillBumface,1628347026.0,1.0,I would disagree with this. Hiring Clojure engineers is by far the easiest part of our scaling. We don’t even have to bother with outbound sourcing. There are other roles that are causing us a lot more difficulty.
+38,sombrastudios,1629362855.0,1.0,"Dart is mainly used in conjunction with the Cross Platform GUI framework Flutter.
+As far as I know Dart developer translates to iOS and Android App Developer almost 1:1"
+39,ilemming,1628095194.0,34.0,"Clojure is also quite often used in digital banking/fintech:
+ 
+- Nubank (the largest digital bank in South America)
+- Funding Circle (peer-to-peer landing)
+- Capital One (had a Clojure team. Not sure if they still do)
+- Happy Money
+- Intuit
+- Dividend Finance (solar loans)
+- Salesforce
+- Silicon Valley Bank
+- Verrency
+- Zen Finance
+
+A few companies that I could name off the top of my head.
+
+Money necessitates reliability and requires defect-free software. At the same time, modern, digitized money management desires flexibility and efficiency in fixing bugs and adding new features; Clojure very often fits perfectly for it.
+
+I also second the notion that the majority of Clojure developers are experienced, seasoned programmers, for whom Clojure is a deliberate choice after working in many other alternatives (in some cases for many years).
+
+Clojurists don't concern themselves with the popularity of certain tools or techniques; They don't care for things like MSFT marketing shoveled in your mouth. Die-hard pragmatists, they'd use an instrument if it makes sense. They don't give two shits about OOP propaganda or extreme functional purity, or the notion such as ""not using static types is immoral"" and shit like that, they'd use object-orientation where it makes sense; metaprogramming, where desired; constrains, if applicable, etc. 
+
+ROI from hiring a small team of Clojurists (even if they have to write in something else) would be much higher than paying the same money for a larger team of more ""traditional"" stack developers."
+40,sombrastudios,1628151673.0,2.0,"I love both your answers.
+This thread starts to feel like a detective comic!"
+41,sombrastudios,1628152160.0,6.0,"Therapist: Now, tell me where it all began.
+
+Dev: I remember it like yesterday. I needed to type `new` and back then I thought it was the right thing to do. They forced me to inherit from `ISalaryIOControllerMetricAggregator`. I didn't knew it was wrong back then, I had no one to talk to."
+42,pihkal,1628190793.0,2.0,"Based on the offer my friend was made, Nubank pays well in general, but low relative to other unicorns."
+43,ArmedWithHaskell,1628173104.0,1.0,"I believe Nubank has much more than 100 clojurians. 
+
+>	In addition to this acquisition, Nubank is keeping up with its efforts to hire professionals across all geographies. Only in the last year, we doubled the size of our engineering teams, which is made up of 575 persons.
+
+From here: https://building.nubank.com.br/nubank-acquires-cognitect/"
+44,fingertoe11,1628091943.0,9.0,"I learned it as a rather green programmer and it was not terribly difficult.  Quite pleasant really with the REPL instant feedback.  
+
+
+ I think it is often quite difficult for experienced programmers to learn because there is a ton of things that they do everyday in their OO that are just missing from Clojure because of its immutability..  It changes the way problems are solved, and if you have been solving problems the same way for 10 or 15 years, and suddenly you cannot do it that way, it is quite jarring for some..
+
+If you learn that way in the first place, you don't have a lot of unlearning to do, and it is much easier.   Also if you hate the problems in OO that Clojure is solving, it is a lot easier to be thankful for a alternative..  If you are just learning it for something else to learn and you haven't bought the philosophy yet, it is VERY hard.."
+45,CoBPEZ,1628236880.0,2.0,"No, it isn't notoriously difficult to learn. People are up and running pretty quickly. Depending on your background there might be some mental baggage you need to jettison in order to grasp some of the concepts you need to grasp. There is plenty of learning resources to help with that. Plus a fantastic community eager to share their knowledge with beginners."
+46,nwlinkvxd,1628096617.0,1.0,"Both of those points, plus the syntactic quirks of lisps and the frequent use of difficult concepts like threading macros and general statelessness"
+47,troublemaker74,1628089084.0,5.0,"Lots of people used to learn a lisp dialect as their first language with the SICP. Now schools are mostly teaching Java and Python.
+
+Learning Clojure after working with OOP and Procedural languages is difficult, because you'll have preconceived notions about how things are supposed to work, and often they're false with Clojure"
+48,nwlinkvxd,1628096330.0,1.0,Exactly right
+49,SimonGray,1628106098.0,16.0,"_Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo..._
+
+> ... They don't care for things like MSFT marketing shoveled in your mouth. Die-hard pragmatists, they'd use an instrument if it makes sense. They don't give two shits about OOP propaganda or extreme functional purity, or the notion such as ""not using static types is immoral"" and shit like that, they'd use object-orientation where it makes sense; metaprogramming, where desired ...
+
+;-P"
+50,sombrastudios,1628151948.0,2.0,I like how much thought you all put into this. I'm so glad I asked. Seeing these elaborate responses really makes my day. What a nice feeling!
+51,yellowbean123,1628179838.0,1.0,">Zen Finance
+
+ZenFinance is  closed"
+52,cbleslie,1628173541.0,1.0,"""There were cross-cutting concerns everywhere, man! I asked for a banana, and they gave me the whole jungle! It had Gorillas! And Monkeys! All I wanted was a banana...
+
+ALL I WANTED WAS THE BANANA!"""
+53,Agent281,1628092163.0,2.0,"Okay, it sounds like a path dependence sort of issue. Maybe a bigger issue if you have bought into OO/design patterns way of developing. That was never my thing personally. Always preferred things a bit more functional."
+54,,1628175518.0,7.0,"Now, I only need a motorbike, a leather jacket and a lambda tattoo on my back."
+55,borgis_,1628112077.0,1.0,I wanna get this as a tattoo
+56,,1628115780.0,-7.0,stupid hippie
+57,mobiledevguy5554,1628257206.0,1.0,This is one of the few classy reddit forums.
+58,fingertoe11,1628093503.0,4.0,"Another factor that makes Clojure hard is ""The Curse of Lisp""  basically because it is rather easy to roll your own \_\_\_\_\_\_  library, there are 5 or 6 options, and no consensus on which one is used by the community.
+
+So in many languages there are rather set ways of doing things that can be put together in frameworks, Clojure tend to be a library by library assembly each time..    These are typically trivial choices which don't matter since all choices accomplish the same goal and do it well, but it can be overwhelming for newcomers..I believe that end the end those who persevere tend to come out ahead.  Because typically frameworks you see in other languages get you 80% there, but when you go to do the final 20 percent you have to learn 50 percent of the architecture behind the framework to make any progress anyway..   So Clojure front-loads that burden.  You pick the 80% library by library then when you get to the last 20% you know that the system works the way you told it to work.."
+59,mobiledevguy5554,1628257181.0,1.0,haha
+60,SimonGray,1628142768.0,2.0,"It was a joke...
+
+I was teasing ilemming, making fun of the kind of language he used. I even put a winking smiley at the end to clearly indicate it to people who are deep on the spectrum, like you.
+
+And I still don't quite get why you keep making new accounts solely to write inflammatory shit on /r/clojure, thinking people don't notice it's the same lonely guy every time."
+61,PORTMANTEAU-BOT,1628115800.0,0.0,"Stupippie.
+
+***
+
+^(Bleep-bloop, I'm a bot. This )^[portmanteau](https://en.wikipedia.org/wiki/Portmanteau) ^( was created from the phrase 'stupid hippie' | )^[FAQs](https://www.reddit.com/axl72o) ^(|) ^[Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=PORTMANTEAU-BOT+feedback) ^(|) ^[Opt-out](https://www.reddit.com/message/compose?to=PORTMANTEAU-BOT&subject=OPTOUTREQUEST)"
+62,didibus,1628145488.0,4.0,Does having a resident troll indicates that Clojure finally made it?
+63,ilemming,1628175496.0,1.0,"Hippie is somebody who rejects the conventions of established society. Clojure folks are not hippies. As I said - they are pragmatists, they don't reject new things for just the sake of it.
+
+If you insist though, then I suggest the term ""hypee"" to be applied to the opposite side, for the people who always happily jump on the bandwagon of any overhyped technology, with or without merits."

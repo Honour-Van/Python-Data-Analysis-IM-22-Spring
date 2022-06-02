@@ -1,0 +1,213 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,srijanshetty,1590666453.0,35.0,"Gosh, could anyone tell me how to exit nano?"
+1,regevran,1590658981.0,50.0,"I liked this one:
+""Of course we are using vim as our editor for the last two years, no one knows how to exit""."
+2,gobyoungmin,1590664057.0,36.0,Did you know that you can generate a random sequence by recording the key types of a novice trying to exit vim?
+3,-romainl-,1590655158.0,57.0,"Well, the stupid ""how do I exit Vim?"" meme has been all over blogs and twitter for a while, so… big news: viral marketing works."
+4,,1590695773.0,5.0,[deleted]
+5,My-Work-Reddit,1590674184.0,6.0,LOL ... N00bs. ^^Yes ^^... ^^I'm ^^just ^^joking. ^^^a ^^^little
+6,Shipwreck-Siren,1590674517.0,4.0,I may be an outlier but I didn’t have an issue with Vim. I did panic the first time I didn’t know how to get out. But I read the screen that said you could access help by pressing keys and when I wanted to get out of that I read the screen. It said you can exit with :q so I did that.
+7,dghughes,1590687343.0,3.0,"I try to tell people it's a 4 second press of your PC power button.
+
+All joking aside  I think I may put *""I know how to exit Vim""* on my resume."
+8,redusernama-duck,1590693276.0,2.0,How to exit VIM editor?
+9,ArtBIT,1590705022.0,2.0,[https://i.redd.it/9rmdcheg8d151.jpg](https://i.redd.it/9rmdcheg8d151.jpg)
+10,random_cynic,1590735175.0,2.0,"That SO page is actually informative and contains resources that are useful for even experienced Vim users. Many of the answers discusses many edge cases and how to exit Vim with a non-zero exit status (`:cq`). Depending on what mode you're in the key sequence to exit Vim may not be as simple as `:q!`. [One of the answers][1] describes a general key sequence `Ctrl-C` `Enter` `Enter` `vi` `Enter` `Ctrl-\` `Ctrl-n` `:qa!` `Enter` which should get you out of Vim most of the time no matter which mode you're.
+
+[1]: https://stackoverflow.com/a/31028197"
+11,patrickvob,1590671352.0,3.0,"I mean, if you enter vim by yourself, there's a startup text explaining how to exit.
+So there's that."
+12,habanany,1590688562.0,3.0,"Also Over 2.1M Americans filed for unemployment last week, pushing total job losses to 40M from coronavirus lockdown https://www.foxbusiness.com/economy/jobless-claims-numbers-coronavirus-may-23 🤷"
+13,auwsmit,1590738159.0,2.0,"It's almost like people who aren't familiar with an ancient built-in Unix text editor would look up how to exit it, since they often didn't intend to launch it. And especially since STEM fields have been rapidly growing since the 70s.
+
+I know it's been said a million times, but this subreddit is full of unnecessary holier-than-thou elitism. 
+
+Like: *""The average developer doesn't know how to exit Vim, the greatest text editor ever? What a naive fool! Don't they know about the built-in documentation via `:help`?""*
+
+And this is coming from someone who does view Vim as one of the most optimal/efficient editors out there, even out of the box with no big plugins."
+14,Atralb,1590675159.0,1.0,Did they really do the math to filter out the unique human visitors or is it just 2.1 million clicks ? Cause that's very different.
+15,sentient_penguin,1590676618.0,1.0,I feel like I just remember seeing this hit 1 million a few months ago.. man people are getting more stuck and forgetting what they learned!
+16,barun108,1590677016.0,1.0,"Fraction of people drastically affected by ""Windows"" bug , who now desperately seeking for remedy, I guess"
+17,callenmas,1590693431.0,1.0,I have the same issue with Emacs.  So we're even I guess 😂🤣.
+18,iwuvpuppies,1590714391.0,1.0,lmao you guys suck. i just have someone else resolve my conflicts. suckaaas.
+19,,1590730603.0,1.0,"* The problem is that most of users are familiar with windows(notepad like programs).
+* Not familiar wtih Command line programs (vim,gcc, and other unix or linux programs)
+
+**The problem is so common that it has become a joke in the experienced vim community.**"
+20,EricTboneJackson,1590685224.0,1.0,"I've visited, despite knowing how to exit Vim, for the humor value. Presumably many of you visited it to see what it's about, despite also knowing how to exit Vim. So what percentage of visitors are they because they're too lazy to [read one paragraph of text](https://i.imgur.com/jcOGFHx.png)? Unknown."
+21,doulos05,1590667938.0,21.0,You joke. I have that exact reaction when i sit down at a computer with that brain dead default. It always takes me a solid 5 to 10 seconds to remember.
+22,guy_who_likes_coffe,1590678970.0,9.0,"Restart your pc, that works for me."
+23,Atralb,1590674236.0,4.0,"Open a new terminal then :
+
+`kill $(pidof nano)`"
+24,MarkOates,1590683156.0,1.0,Haha :D
+25,,1590669647.0,29.0,"infinite vim user theory
+
+given enough time with enough users and keyboards, a novice vim user who doesn't know how to exit will eventually write the entire works of shakespeare"
+26,pi_exe,1590668100.0,7.0,"But won't they all start with ^C^X^Q , not necessarily in that order"
+27,acinvzz,1590655791.0,31.0,My guess is ppl  looking for this kind of info are using Vim mostly for GIT commits
+28,FeetlessColon,1590667802.0,4.0,"I like the meme. It's short, accessible and begginer-friendly while the amateurs can still have a possible kick at it with a the possible weird exiting combinations.
+
+I don't find things instantly unfunny when they become viral, I always liked the meme."
+29,srijanshetty,1590682037.0,1.0,"Clearly, propoganda works.
+
+And this is probably the reason why a lot of people eschew for the simplicity of vim."
+30,,1590756709.0,1.0,Didn't it say type `ctrl+z` and then `pkill vim`?
+31,plg94,1590838592.0,1.0,"yes, but *only* if you open an empty buffer. So when someone finds a tutorial that says to edit a file via `vim <file>`, or do `git commit` – they cannot see this help."
+32,acinvzz,1590681754.0,6.0,"First time I opened vi I was at school in 1996. No internet for students back then. So I played with it for something like an hour trying to infer the 'commands' with simple try-error approach. Eventually I understood how to send commands to vi and get help as you did... Stack Overflow would have be faster, but I remember how I felt happy experimenting and figuring out myself stuff, same with video games and other software too. 90s computing was magic for us kids"
+33,acinvzz,1590693349.0,3.0,You just don't want to
+34,Atralb,1590678712.0,2.0,"What ?
+
+`""You enter vim by yourself"" => ""you can read a text explaining how to exit""`
+
+Where is the logical link of implication behind this assertion ?"
+35,acinvzz,1590737555.0,1.0,man that's hard evidence! :D
+36,acinvzz,1590739253.0,2.0,"I totally agree with you. I believe such an Elitism works against empathy towards potential contributors who could with their ideas help to have an active positive community that can really help improving and innovation. Criticism should always be taken as a chance to grow and to move ideas around, without such a process everything dies"
+37,trvlr8,1591532437.0,3.0,"It's unfortunate that the vim community treats this as a joke, because I believe it is an unnecessary barrier to entry. I posted the site https://vim.help on /r/vim as a tip but the general response was negative to the concept that resources outside of vims own `:help` system are useful."
+38,acinvzz,1590735406.0,1.0,"If so many people have a problem exiting vim my opinion is that either all of them are dumb, and statistically speaking that's nearly impossible or something with vim ux is evidently counter intuitive."
+39,algoritm420,1590685525.0,2.0,Hey man don’t you know that several hours of trial and error can save you five whole minutes of reading the documentation?
+40,plg94,1590839281.0,1.0,"But that message is only shown if you open an empty buffer, not if you do `vim <file>` (because you want to edit a config file or something), or do `git commit` (which defaults to Vim if neither $VISUAL nor $EDITOR are set).
+
+And even if you read it, if you started typing already and hit the ""i"" key, you're screwed.
+Not to be unfair, I now love Vim and used it for years. But the first few times (after only having heard how amazing it should be, but not bothered to read the help), I had to switch to a TTY and kill to exit Vim."
+41,U-LEZ,1590687531.0,14.0,I have this problem with jira. Hit escape out of habit when I finish typing and the lightbox closes - this losing my comment
+42,srijanshetty,1590679629.0,1.0,I have to fumble around till I finally figure it out.
+43,Atralb,1590674959.0,-6.0,">that brain dead default
+
+Dishonesty.
+
+Nano is one of the best minimalistic and user friendly editors there is.
+
+Straight to the point like Notepad but still with many shortcuts, of which the main ones are by the way listed on the bottom of the screen at all times if you need, most particularly the one for quitting.
+
+And extensibility with a full-fledged config file and many commands and settings if you ever want to do that.
+
+And finally `Ctrl-X` is not that different from `:x`, and prompts you for writing or not if any change (again a good point for beginners), which then accomplishes the same as `:x` in an interactive manner."
+44,srijanshetty,1590679419.0,5.0,I just use a hammer. Could have saved a lot of money over the years if I knew this trick.
+45,srijanshetty,1590679439.0,3.0,"Technically `pkill nano` works, but what's the fun in that?"
+46,muntoo,1590716479.0,2.0,"More precisely stated:
+
+> For an infinite amount of 0.1xers that do not know how to exit vim, at least one poor soul will write the entire works of Shakespeare."
+47,pi_exe,1590668145.0,10.0,"Wait, Reddit parses latex?
+
+I meant CTRL+C CTRL+X CTRL+Q"
+48,-romainl-,1590656205.0,19.0,"Yes. I'm preparing a talk for the end of the year with precisely that angle: some of the command line tools you use everyday (well, git, mostly) default to that weird editor, how to get the most out of it."
+49,Shipwreck-Siren,1590708489.0,1.0,"I’m 27. Been using Linux since January and switched From Solus OS to Arch in March. I probably sound like a masochist between Vim and Arch but really I just like tinkering. Anyway, I think I stumbled on Vim after watching some of Luke Smith’s videos. I was fascinated and loved it. I now use it happily. People rag on me because I use Vim for all of my programming over Pycharm or that new Microsoft thing everyone is raving about. To me I spend most of my time willingly and preferably in a terminal now. Vim is right there. Three keystrokes away. It’s modal so I can do everything inside of it including run my code. I love it. It’s simple and powerful."
+50,patrickvob,1590679357.0,4.0,"The logical link is in there is literally a text on startup telling you how to leave vim.
+If you enter vim via other application, like git, most likely there will already be text, so the startup text won't show.
+I've edited the post to prevent this wrong interpretation."
+51,,1590735711.0,2.0,"Most of the college folks or unix/Linux professionals are familiar with C.L.I.(Command Line Interface). You are probably one of those.
+
+>If so many people have a problem exiting vim my opinion is that either all of them are dumb
+
+It is not about being dumb or smart. It is just they are first timers or inexperienced vim users. Vim(vi) was developed for Unix which later became vim.
+
+> statistically speaking that's nearly impossible or something with vim ux is evidently counter intuitive. 
+
+Yes. Vim is difficult to learn. 
+
+Vim has Steep learning curve.
+
+It is User interface is different.It was a design decision which its developer made at that time."
+52,EricTboneJackson,1590862690.0,1.0,Fair enough.
+53,,1590698362.0,20.0,[deleted]
+54,srijanshetty,1590679469.0,7.0,"Not contesting the utility of Nano, just wondering how to exit it."
+55,Atralb,1590680139.0,6.0,"Sorry I failed. The right way is obviously :
+
+- Open new terminal
+
+- `kill $(xprop | awk -F= '/PID/ {print $2}')`
+
+- Click on the window with `nano` open
+
+PS : don't do that, it will potentially kill multiple terminal windows from the same terminal emulator."
+56,GustapheOfficial,1590669289.0,7.0,"Unfortunately just a super rudimentary markdown thing. It's pretty hard to predict what it will do, and you can't preview."
+57,Swytch69,1590685457.0,2.0,"It parses markdown yeah, so sometimes things get weird"
+58,vladovidiu,1590667648.0,5.0,I hope it’s going to be a revolutional talk; Leeren had set a high standard.
+59,acinvzz,1590734318.0,1.0,"Not at all I gess I use vim when (I feel like)it simplifies) my workflow, same with when I choose os, arch is totally fine. What works for you and makes you feel comfortable working on is fine. The point here is that 2 million ppl looking up such things is meaningful..."
+60,,1590756658.0,1.0,">Vim is right there. Three keystrokes away.
+
+You know, many oldschool programmers alias their vim to vi. However, you'd also need to hit enter..."
+61,Atralb,1590679485.0,1.0,"Oh yeah ok, but you should specify run vim on an empty buffer."
+62,acinvzz,1590736694.0,1.0,"what I meant is that this fact is telling how UX design of such an old application (regardless of its power in terms of functionality) is not that great, shouldn't applications have an interface that is easy to understand and feel natural without the need of documentation, at least for basic usability?"
+63,musicmatze,1590699031.0,3.0,I'm pretty sure you can disable this shortcut in FF!
+64,leobeosab,1590733487.0,3.0,Been using vim basically full time for over a year now and just learned this. Thanks stranger! until I accidentally kill a browser tab at least
+65,Swytch69,1590685379.0,4.0,Isn't it displayed in the footer ?
+66,ang29g,1590695740.0,3.0,this is the solution for chaotic neutrals
+67,AB1908,1590670468.0,8.0,"> can't preview
+
+_Sad RES noises_"
+68,-romainl-,1590668692.0,6.0,"I am a lot less cool than him and, if I do it, I will do it in french, so… maybe not *that* revolutional."
+69,srijanshetty,1590682014.0,2.0,Link please?
+70,,1590737203.0,2.0,"Yes. I agree. I remember my first time. It was hard to do basic things
+
+* save
+* exit
+* copy
+* paste
+
+I wonder what its developer team would say seeing this reddit post."
+71,plg94,1590839152.0,2.0,"Problem: what's intuitive for such an abstract technology? It's just a matter of habit.
+Imagine there were no other GUI apps, or you were to encounter one the very first time in your life, without ever having seen a computer. And no other would feature the X button. Would you instantly know how to exit it?
+
+Now imagine every window on Windows had a command mode like Vim => 80+% of the population would instantly know how to exit it. Or imagine no other app had Emacs-like Ctrl+Q shortcuts…"
+72,srijanshetty,1590687784.0,6.0,I'm starting a new stackoverflow page called 'how to exit nano'. This is my resistance.
+73,GustapheOfficial,1590670614.0,3.0,Am I the only one who exclusively use Reddit on my phone?
+74,Offendo,1590669809.0,9.0,would you consider adding English subtitles if you happen to post a video?
+75,srijanshetty,1590682065.0,6.0,Pretty please on the english subtitles.
+76,vladovidiu,1590686385.0,4.0,There you go: https://youtu.be/JFr28K65-5E
+77,acinvzz,1591020711.0,1.0,It's a good point but ultimately we will have AI aided vi speech recognition. Basically KIT from Supercar
+78,Swytch69,1590688054.0,5.0,"For your defense, you actually have to figure out that `^` actually means `Ctrl`
+
+I mean it's obvious to me now I know a bit about `vim` and stuff, but for the random user..."
+79,AB1908,1590670715.0,2.0,Haha no. I'm on mobile myself. I use Slide though cause FOSS.
+80,plg94,1591024977.0,1.0,"We might not be very far. I just saw a post of Vim running on iOS, so ""Siri, exit Vim"" should be possible."
+81,srijanshetty,1590690745.0,3.0,"Yup, I just thought `^X` was just `X` being courteous and tipping it's hat."
+82,Atralb,1590674108.0,1.0,"I tried to like Slide and there are many good points (mostly making many things easier that Reddit hides or doesn't provide), but honestly a lot of things are broken and all added makes me not want to use it as the main app.
+
+Some images don't load depending on which backend site is hosting it (and are loading fine on the reddit app).
+
+ Other things like unsubscribing of which Slide gives 2 different buttons for it : ""remove and unsubscribe"" which is supposed to unsubscribe as normal but also remove it from the list of your subreddits, whereas ""just unsubscribe"" would still keep the sub in the list which would be a really cool feature. However using the latter still remove the sub from the list, so all this is only achieving more clogging of the UI.
+
+Moreover subs can be added more than once to the list if you tap another time soon enough (cause there's no pop up confirming the action..), and then it's a real mess to get back to a normal 
+
+And lastly, the placement of n-th nest-level comment, while it was a good idea to add colors for each nest level, it's still far too compressed and it's a real headache to clearly see the parent node of a given comment for deeply nested posts.
+
+I just gave a sample of examples but other things are frustrating as well.
+
+What is your experience with it ?"
+83,AB1908,1590675861.0,2.0,"These are very fair points and I can see why they might bother some users. I agree that Slide needs work but in my experience, these issues just don't seem to bother me. I get on Reddit, scroll through comments, and get out. 
+
+What would you recommend checking out that's more polished?"
+84,Atralb,1590676638.0,2.0,">What would you recommend checking out that's more polished?
+
+Nothing lol.
+
+There is ""boost for reddit"" which is supposed to be extremely customizable and I believe the most popular android reddit alternative app, but for whatever reason at the time (I think it was even more broken but not sure) I ditched it and settled with Slide for a 2nd reddit app so I can't recommend it. It has an active subreddit tho. But I don't think it's FOSS.
+
+And I have to be honest, I can't really compare an app published by the owner company of the website browsed, and a multi-billion multinational one at that, to a free community project that lives on volunteering.
+
+Considering this, the app is quite good, and most likely the best FOSS alternative reddit app :)."
+85,AB1908,1590677068.0,2.0,"Fair points again. We mostly agree but have different levels of annoyance. Good to see!
+
+I actually switched when there was an update in the official app that caused everything to open in Chrome. Obviously, I hated it and tried resetting it to Firefox to no avail. I also disliked that I couldn't jump between children comments. I nuked it and I eventually found Slide enjoyable after jumping through a few apps. It has a UI that's somewhat close to the original, customisable to a good extent, more featured, and is FOSS. I found no reason to change.
+
+Here's what my UI looks like: [Customised Slide](https://i.imgur.com/dp6gA72.png)"
+86,Atralb,1590678207.0,2.0,">We mostly agree but have different levels of annoyance. Good to see!
+
+You're totally right :). I like those rare healthy reddit discussions !
+
+The actual deal breaker to me was the impossibility to display some images as I mentioned. Just opened the app right now and the second post I see is a gif hosted gfycat.com for which I get an error. Besides this I agree that the other issues are not significant. But this one, which means I lose a fraction of the total reddit content, I can't live with it. So until this is fixed I can't remove the official app.
+
+PS : Don't un-upvote your comment dude :p"
+87,AB1908,1590678400.0,1.0,"That's odd. I don't think I have problems with gfycat, or at least I didn't use to. I've heard that gfycat is changing its APIs or something similar that might have caused the breakage. Maybe try downgrading?
+
+-----
+
+I rechecked and it seems gfycat links are working. I went over to r/aww. In any case, I hope you find a fix soon!
+
+Also, I don't like upvoting my comments. It's just kinda weird and I honestly don't bother with karma."
+88,Atralb,1590678942.0,2.0,"Lol that was just a tease. I'm not trying to tell you what you do :).
+
+Good to know tho, I will try reinstalling or downgrading. Thanks for the info !"
+89,AB1908,1590679106.0,1.0,"Oof, I missed that and it's my pleasure to help!"

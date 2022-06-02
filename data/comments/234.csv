@@ -1,0 +1,21 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,MaxObjFn,1611251782.0,3.0,Most dreaded language... lol.  Thanks for sharing.
+1,stretch350,1611250518.0,2.0,Very interesting!  Thanks for sharing.
+2,sancarn,1611406059.0,2.0,"I think the most interesting questions would be, using the same logic:
+
+1. What is the most dreaded language for ""Data or business analyst""
+2. What is the most dreaded language for ""I am not primarily a developer, but I write code sometimes as part of my work""
+
+The reason I ask these questions is to me it is totally obvious that a full stack/back end/desktop application/front end developer wouldn't want to use VBA. They have much better tools at their disposal. The important question really is, how is VBA rated where it's most used, imo.
+
+----
+
+**Edit**:
+
+Would be worth mentioning that the data can be downloaded from here:
+
+https://insights.stackoverflow.com/survey/"
+3,eerilyweird,1611294963.0,1.0,Was R not one of the options on the survey?  I'd have expected more VBA users to use R than some of the others listed.
+4,,1611314722.0,1.0,[deleted]
+5,tagapagtuos,1611309304.0,1.0,"[Here's the link](https://insights.stackoverflow.com/survey/2020#technology) to the original survey insights. R was among the choices, albeit having lesser users compared to VBA (VBA had less than 3.5K users out of 65K)."
+6,tagapagtuos,1611325501.0,1.0,Corey went hard on stl. I might as well do it. Because I can.

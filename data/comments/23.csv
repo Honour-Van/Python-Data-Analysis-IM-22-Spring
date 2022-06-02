@@ -1,0 +1,65 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,value_bet,1555012975.0,79.0,"I would expect that most people who post to stack overflow consider themselves above average. This is not surprising at all.
+
+Personally, I consider myself below average. I read stack overflow but do not post."
+1,EchoBravoEchoOne,1555011963.0,16.0,The sample is being taken from stack overflow. There are tons of beginner and new programmes who haven't looked at finding help online. The user base on average could be above average skill.
+2,draypresct,1555006578.0,31.0,This is statistically unlikely if the developers who respond to the survey [constitute a random sample](https://en.wikipedia.org/wiki/Participation_bias) of all developers and are accurately assessing their own skill.
+3,cpriest006,1555013970.0,8.0,"Perhaps I'm understanding this wrong, but this seems completely possible assuming the question is phrased as ""in your line of work, how experienced are you"". I am very experienced in my very specific line of work, I would say above average. I assume you are also above average in your specific niche. Assuming everyone does what they're good at, everyone is above average at their line of work, because no one claims something they're bad at as their ""specific line of work"""
+4,jvleminc,1555006813.0,6.0,Duning-Kruger effect demonstrated
+5,telepresencebot,1555010003.0,3.0,I would consider myself well below average still. That said I work in devops and had to explain to one of our web developers that his javascript does not run on the server...
+6,Pulsar_the_Spacenerd,1555018064.0,2.0,"Considering that programmers are both wizards and tiny gods, this seems possible."
+7,Malor,1555034475.0,1.0,"Well, they're probably above average at their central expertise; ""programming"" is such a large discipline, nowadays, that everyone has to kind of specialize.  
+
+Also: I think arrogance is a fundamental part of the equation for many programmers.  It's the belief that you can tackle impossible projects, and succeed.   Best known example: the Linux kernel."
+8,FancyKillerPanda,1555044926.0,1.0,This is like surveying a pet shop’s customers about whether or not they have pets
+9,LordFokas,1555033819.0,1.0,So much for the impostor's syndrome!
+10,,1555069625.0,0.0,Fake it till it you compile it.
+11,DrLuckyLuke,1555014437.0,35.0,"And I think this is a fair assessment to be honest. If you're able to answer programming questions on SO, you already are likely to above average."
+12,NoraJolyne,1555062373.0,1.0,"I'm garbage then, I stopped using SO a year ago"
+13,chrwei,1555007016.0,26.0,"> accurately assessing their own skill
+
+the duning-kruger effect makes such a condition nearly impossible to meet."
+14,Ramora_,1555022495.0,6.0,"Don't forget the assumption of normality here. If ""developer skill"" is a variable that is distributed non-normally, then most people very well could be above average. To demonstrate, imagine you ask a million people if they have an above average number of arms. If they are smart, almost all of them will say that they have an above average number of arms because almost everyone has two arms and the average number of arms per person is a bit less than two as a result of people occasionally being amputees.
+
+&#x200B;
+
+And honestly, I'd suspect that developer skill is distributed non-normally with a long tail on the ""less skilled"" side. There are real limits to how good any one developer can be set by the technology available to them and their own time. A bad developer can be almost arbitrarily bad. They can disrupt teams, produce buggy/bad software that results in millions of dollars of lost time/revenue.
+
+&#x200B;
+
+If you have a data set of 100  typical developer with a ""proficiency"" of 100, and 5 great developers with a ""proficiency"" of 1000 and 1 awful developer with a ""proficiency"" of -5000, then 105/106 of the developers in your data set are above average."
+15,derpcode_derpcode,1555044450.0,2.0,"Sort of, 70% below average is most likely not accurate either."
+16,DivVsTablesVeteran,1555018201.0,1.0,Came here to say this.
+17,froemijojo,1555019587.0,11.0,"Or you use something not many people use, like a framework."
+18,bazgrim_dev,1555027320.0,9.0,"Eh. I answer a few questions from time to time, but don't really consider myself above average.
+
+Those people that write those page long wiki-like posts on the fundamentals of stuff, those are the people are the definitely above average. I read those a lot and learn something new almost every time."
+19,my-little-sassy,1555426364.0,1.0,You don't even need a SO account to answer the survey. What makes you think that most of the survey respondents are actively answering questions on SO?
+20,draypresct,1555009738.0,9.0,"I would say that even for someone who has some knowledge, it's a difficult thing to assess.
+
+Should the developer compare him/herself to their colleagues? They probably all work in the same field, earn comparable pay, and work on similar projects. Result: ""around average.""
+
+Should the developer compare themselves to people who work on different types of development? For most programmers (okay, I'm thinking mainly of myself) if you stray out of one of the narrow areas where they've got decades of experience, skill levels drop off precipitously. How to compare? Result: wildly inconsistent."
+21,derpcode_derpcode,1555044191.0,2.0,"You get that distribution when it's a discrete measurement. Ability is a qualitative measurement. It would and should follow a normal distribution. If it isn't, you have a crappy measuring stick, like checking if every developer can add two single digits  integers to indicate 'above average' or asking every developer to write hello world using Fortran to measure below average. 
+
+If you truly are sampling the abilities of the population you would expect it to follow a normal curve because of all the influencing factors. Lifespan follows a normal curve, education follows a normal curve, information accessibility follows a normal curve, opportunity based on need follows a normal curve, etc. Few outliers, most people somewhere in the middle."
+22,derpcode_derpcode,1555058310.0,1.0,"> And honestly, I'd suspect that developer skill is distributed non-normally with a long tail on the ""less skilled"" side. There are real limits to how good any one developer can be set by the technology available to them and their own time. A bad developer can be almost arbitrarily bad. They can disrupt teams, produce buggy/bad software that results in millions of dollars of lost time/revenue.
+
+As an aside, I don't agree with your long tail reasoning. A cap on skill existing does not imply most reach the cap. Just look at the range of salary for developers, and the frequency of those salaries. 
+
+Good developers, in my personal experience, are not definable. They are creative beyond your imagination, and can solve any problem presented, in any context, effortlessly and rigorously w.r.t. need. They are few and far between and don't really have much of an existence besides their work. Likewise, most terrible developers do not last. Furthermore, the highly skilled developers are typically extremely picky about what problems they want to solve, which defines where they will and will not excel. That preference often indicates relaxed state of mind, which basically allows said developer to keep working when they aren't working. Likewise, terrible developers can get by in  environments that are tyrannical / hostile to new technology. They don't have to learn anything new, just follow a recipe. Those developers could be replaced with a fraction of better developers using code generators, build tools, templates, and more automation - but that level of automation requires skill. Skill requires higher salary, and code monkey factories don't pay well.
+
+Bugs don't indicate a bad developer. Every developer will have bugs. Every developer will have lots of bugs. Sometimes these bugs will be very bad bugs. This is not something you can prevent, it is going to happen. It doesn't matter how smart you are and how well you know your stuff. Code is more complicated than you are capable of thinking about, and you can not prove the existence of bugs via automated means in entirety. Ever. It's a non-deterministic problem in Turing complete languages. The difference between a good developer and a bad one in terms of bugs is a good developer will identify, classify, and abstract specific bugs to a generalization, in order to automate  a means to catch, detect or control program behavior when bugs of that occur type in the future. A great developer is good at creating these distinctions. Good developers make this part of their default workflow. An amazing developer does fun, clever stuff that fits the problem space concisely and efficiently. 
+
+Specific implementations of tech take time to learn, yes. The Art of Computer Programming is not discovered at the rate of, and does not change at the rate of - the rate implementations of it's foundations are discovered, discarded, and changed."
+23,ThePixelCoder,1555050507.0,1.0,Dunning-Kruger and Impostor syndrome then
+24,mt_xing,1555093719.0,1.0,"Making you above average, at least with regards to that framework."
+25,derpcode_derpcode,1555043717.0,1.0,"Dunning Kruger minimizes your skill level when it's above average and exaggerates it when it's below. It rarely has anything to do with other people, rather - a novice hasn't had the experience or exposure to accurately assess. Therefore, the space of what they think they need to know appears smaller. Someone who is above average is aware of information they've successfully applied versus information that exists. The latter is always bigger, one person creating work versus all people creating work. 
+
+Comparing yourself to others is always going to be relative, so it's pointless if you are trying to get an accurate assessment. It's another type of job in itself to collect and distill that information into something everyone can objectively measure against."
+26,Ramora_,1555049640.0,2.0,"There is no good reason to assume that continuous measures will end up being normally distributed. In fact, I'd be pretty confident that none of things you mentioned follow a perfect normal distribution. For example, [lifespan](https://obliviousinvestor.com/mean-vs-median-life-expectancy-for-retirement-planning/) is a right leaning (long left tailed) distribution. It is simply true but counter intuitive to say that most people survive longer than average. The vast majority of real distributions are multi-modal and skewed in one direction or another meaning that at least one of the following two statements is usually true...
+
+1. Most people are above average. (lifespan for example)
+2. Most people are below average. (income for example)
+
+... It is very atypical in the real world for the median and mean to be equivalent."

@@ -1,0 +1,314 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,sclv,1555514077.0,38.0,"From the methodology section:
+
+> We used data from last year’s survey and trends in tags on Stack Overflow to identify which technologies to include on the survey this year. We prioritized popular and fast growing technologies, considering which smaller or shrinking technologies we could remove this year.
+
+So I think they considered that Haskell simply didn't have enough activity on SO to be mentioned in the survey at all. Their methodology for determining which languages belong (are people asking a lot of questions on tags) is pretty bad, imho, but there you go."
+1,gilmi,1555568213.0,16.0,Well this is a fairly depressing thread.
+2,,1555504091.0,26.0,[deleted]
+3,jollybobbyroger,1555507056.0,43.0,"Rust has an amazing eco-system I would love for Haskell to have: https://www.quora.com/What-are-the-worst-parts-about-using-Haskell
+
+One time I asked a seasoned Haskell developer about some of these things and was recommended to stay away from stack, and use Nix package manager to deal with dependency hell, which has only added to my confusion about Haskell tooling.
+
+And whenever I point this out online, trying to answer a question, I more often than not get hit by a storm of down votes."
+4,,1555511011.0,19.0,"[Check this out](https://youtu.be/iSmkqocn0oQ?t=22), Simon Peyton Jones answered himself. The tl;dr is the other bunch of languages in production niches is moving slowly towards Haskell and imbibe its features, but not vice versa."
+5,mattstats,1555860220.0,3.0,"As somebody who just recently picked up Scala and is learning functional programming. The comments in this thread are interesting! I always assumed Haskell was just some old school functional programming software that people used for fun, may have to give it a try"
+6,hardwaregeek,1555512255.0,18.0,"Haskell’s tooling is quite awful. I’ve tried to install a bunch of dependencies only for stack to do the equivalent of shrugging and giving up. 
+
+Reading non trivial code is kinda hard. I’ve tried repeatedly to write a backend in Haskell and I always have to contend with out of date code, with a ridiculous amount of syntactic sugar and confusing idioms.
+
+ The beginner story for Haskell is getting better and better, but intermediate is still very hard. 
+
+Compare this with Rust where the tooling is excellent, the documentation is overall pretty solid, and the language encourages you to slowly add idioms into your code (don’t get error handling? Okay just use a match)."
+7,ep1939,1555508987.0,6.0,"I'm not enough of an Haskell expert to comment on this, but to me it seems like Haskell does not fit any real niche opposed to other functional languages.
+
+Elixir, Clojure, Scala, hell even Elm, Reason or functional TypeScript have their own niches, Haskell does not.
+
+What Haskell needs to raise interest and love is some application/framework to make it interesting."
+8,fsharper,1556004842.0,1.0,"I'm dumbfounded. I don't know why this has happened since, exactly the same years ago, Haskell incorporated the most cellebrated, the killer feature that any functional language would die for: getters and setters implemented in dozens of lenses packages with hundred of modules.
+
+Ah!, and since then we have semigroups (a killer feature itself, that is worth to break the entire codebase), foldable and traversable, which allows endless play with your favorite toy lists. These are the topics of 90% of the discussions about Haskell since 2017, as well as endless code-free category theory.
+
+if that is not attractive for die hard programmers... what else could???"
+9,stvaccount,1555537832.0,1.0,"Stack Overflow was good 10 years ago, now it is dead in terms of good programmers (for the most part).  
+Currently, reddit is active, but people will migrate away once the beginner programmers rule again."
+10,szpaceSZ,1555522030.0,28.0,"Not enough activity on SO:
+
+Because all your questions about monads and burritos are aswered as nauseam elsewhere ; -)
+
+Haskell: no questions left!"
+11,guaraqe,1555525523.0,11.0,"One of the biggest reasons for this is probably because Reddit is one of the main centers for Haskell discussions, and Stack Overflow is secondary.
+
+Maybe this should be one point of work for the Haskell community?"
+12,libeako,1555577978.0,6.0,"no real need to be concerned; this survey result shows reality inaccurately; jobs in haskell are growing nicely, the haskell ecosystem is live and healthy, and haskell fans are more determined then ever - in my opinion"
+13,Smt923,1555539597.0,13.0,"stack is a cool tool in theory but spending just 10 minutes with rust would make anyone want better than stack, everything just kinda works, it doesn't need multiple articles to explain what everything does to new people, and still seems to have good enough reproducibility for builds (just having version specifiers like rust/cargo or even npm seems to go a long way)"
+14,Amarandus,1555510176.0,15.0,"I can relate to this. I've only dipped my toes into haskell so far - enough so that it influenced my programming in other languages a lot - but the tooling confuses me a lot.
+I stumbled across NixOS because of Haskell and switched to it as my daily driver - but I still do not understand ""what's required"" to start a haskell project (and maybe use some dependencies) and generally get around with the tooling. I know about https://github.com/Gabriel439/haskell-nix but can't really wrap my head around it."
+15,pdr77,1555582098.0,4.0,"That's also the biggest issue I have with Haskell (and what also turned me away from Java, and to some extent Python).  I use Debian (Linux distro) which already has since the mid-1990s a really advanced package dependency system, but instead of working with the system tools, language packagers feel the need to re-invent the wheel, and in the end you have no native repo for up-to-date tools and libraries, as well as a bunch of language-specific hacks that do a really poor job of package dependency management and can also screw up your system-installed packages.
+
+And this is not specific to Debian, either.  Other distros and OSes have equally-good package installation systems that are completely ignored by the language makers.
+
+That said, I still really enjoy programming in Haskell, despite these avoidable frustrations."
+16,pi3r,1555711946.0,2.0,The choice for nix has nothing to do with stack (stack or cabal both work with or without nix). I do find confusing and awkward that there are two different command line tools (stack and cabal). It has been argued many times that both tools are complementary. I still hope that one day both will fusion behind a single interface (IIRC it might happen but it won't be soon).
+17,DutchmanDavid,1555515738.0,6.0,"Haskell tooling is either a mess or lacking. Neither are really attractive, which is why I wouldn't create any personal projects in Haskell :/
+
+A real shame, since the language itself is pretty nice."
+18,fsharper,1555531514.0,-15.0,"Indeed. The other languages have lambdas, STM, monads, liists, list comprehensions, folds, streams... So the programmers can use these functional features for their needs without having to endure the condescending [bullshit](https://github.com/alpacaaa/zero-bullshit-haskell) of the functional haskell ideologues neither the error headaches of the ghc compiler, made for robots.  I find the haskell community, at least the most visible one, less fun and more repetitive, trying to do the nth reinvention of the wheel and perpetrating the same design errors every now an then. 
+
+Tooling would not be a problem if the language would offer something unique. But would a Java developer pass trough the Calvary of Haskell tooling for having  setters and getters, which is the most exciting feature publicized nowadays in Haskell?
+
+Moreover haskell is being more abstract and less productive. What could formerly be done in the good old times using the IO monad now requires monadwriter, monadreader, monadstate and monadmyfantasticpackage or else you are an pariah unworty of being called a Haskeller. And this bring almost no advantage at all.  Would he endure the pain of learning category theory and chaining five monad transformers for doing what he could do seamlessly in other language?"
+19,MWatson,1555588471.0,5.0,"I am fairly fluent in Haskell and I find the code I write to be easy for me to modify, etc. But other people’s code? I know what you mean, I will start reading someone else’s Haskell code and it is like running through mud. My advice is to decide what features of Haskell you want to use in your own code, learn the libraries you need, and don’t try to master Haskell like people whose PhD thesis was on Haskell.
+
+Haskell is a fun language but select a subset and have a uniform way to set up slack configuration files for all your projects. You will love Haskell if you spend most of your time interactively coding in a repl, have an editor and stack set up so you don’t spend much time on the non-coding stuff."
+20,paulhilbert,1555573526.0,2.0,"Two months ago I tried to get accelerate to run. Gave up after 2 weeks. Since then I always laugh when I read the suggestion to use stack. Closest I got was installing nixOS... In general every few years I check the state of Haskell array computation libraries, notice that exactly nothing has changed, try it anyway and run against the incompatible version wall. Rust's tooling actually deserves the praise it gets (even in this thread), but I don't like Rust :)"
+21,cjs,1555510394.0,17.0,"I can think of two areas where Haskell is significantly different from the languages you mention.
+
+One thing that Haskell does that none of the above do is build standard Windows and Linux binaries that run fast and interoperate with and link to C/C++/etc. code. (Actually, I guess Reason does this via OCaml, but it sounds to me as if most people are compiling Reason to JavaScript.)
+
+A bigger point is that the type system (in GHC, anyway) is far more advanced than Elm, Scala or Reason. (The others are even further behind.) Particularly, once you understand its links with algebraic structures it's a world of difference when it comes to things like control flow and state handling: new control structures are something you code up rather than something built into the langauge. (But perhaps Elm does this to some degree.)
+
+But the first isn't very exciting and the second, while amazing and something you never want to give up once you've gotten good with it, is difficult to learn because it's so massively different from current popular programming paradigms.
+
+Probably an enormous number of C++ applications would be better written in Haskell, but making inroads in that community is pretty tough. (After all, it's people using C++ in the first place, right?)"
+22,ItsNotMineISwear,1555543837.0,7.0,"There's pretty much 0 reason I'd use Scala or Clojure for greenfield projects over Haskell. Their only use imo is integrating with existing Java projects.
+
+And Haskell is a general-purpose FP language. If I were to write a web service, I'd use Haskell. A game - Haskell (with some pain but still). Command-like tool - Haskell. It works pretty good for lots of things, and the language itself is so much better than every one you listed that I wouldn't consider any of them on language merit alone."
+23,graninas,1555511646.0,5.0,"I strongly disagree. Haskell is very suitable for every thing you might think of regarding Scala, Clojure and even Elexir. In fact, it's better to choose Haskell if you want to make your code really reliable.
+
+&#x200B;
+
+What about frameworks, consider this one I've created for distributed massively multithreaded applications with concurrent state, logging, DB and other features out of the box: [Node Framework](https://github.com/graninas/Node). I can imagine how much time and efforts I would need to write the same level applications in other languages."
+24,-mewa,1555517716.0,2.0,"Totally agree. I had a couple critical notes regarding Haskell but decided not to voice them.
+
+Instead, I'd really like to see some real world examples. Like running a stack of microservices on top of Haskell."
+25,sclv,1555529287.0,1.0,"Haskell is a general purpose language, suitable for almost all tasks, and excelling over other languages for almost all purposes. It does not need a “niche”"
+26,Vaglame,1556686636.0,1.0,I *dream* of a functional language geared towards data science
+27,vagif,1555537330.0,1.0,"None of the languages you mentioned succeeded. In fact some of them are already showing signs of stagnation and deteriorating use. Haskell on the other hand is getting wider and wider recognition in the industry at large. Haskell is not a niche language, it is a general purpose programming language of the next generation."
+28,hackeryarn,1555543679.0,20.0,"I don't think it's a good idea to focus on appeasing Stack Overflow or any other single entity. Although this survey can be influential, it's not a deciding factor in anything other than someone's personal opinion. I think if we focus community efforts on Making Haskell more accessible to the mid level devs, we will see a much bigger payoff. (We've done a good job making it accessible to the beginners already.)"
+29,bss03,1555536044.0,6.0,"I used to hang out on the tag, but the SO interface didn't make it friendly.  (Lots of links to outside the tag.)
+
+I also have chosen to mostly avoid SO, as it was a bit of a time sink for me."
+30,fixedarrow,1555579088.0,3.0,"> haskell fans are more determined then ever
+
+I don't consider this to be a good thing. In my opinion fanaticism and the [overselling](https://www.reddit.com/r/haskell/comments/8jn95d/state_of_haskell_2018_report/dz2ulw7/) that goes with it doesn't reflect favorably on Haskell's reputation. Instead we should let Haskell's benefits speak for themselves without resorting to touting."
+31,PrancingPeach,1555515156.0,29.0,Nix is neat but it seems utterly unnecessary for using Haskell. Did you actually have any problems with stack? Maybe I'm missing something but stack has always worked basically perfectly for me.
+32,vagif,1555526635.0,12.0,"Yeah, nix fanboys derailed haskell ecosystem pretty badly. It is ridiculous to hear advises for haskell newcomers to install nix or even entire nixos just to start programming with haskell. It adds yet another layer of complexity without giving much (if anything at all) to newbees and completely eliminates by far the most used platform (windows). Most people just trying out haskell should stick to stack as the easiest bootstrap option that works consistently both on windows and on several popular linux distributions, without requiring any additional installs or cryptic documentation.
+
+There's also plain cabal that I hear became much more usable in its latest (cabal-new) incarnation. But I know nothing about it."
+33,bss03,1555591988.0,5.0,"The Debian Haskell team is actually doing great, and cabal (old style) plays well with it, or as well as one can expect (similar experience to pip, e.g.).
+
+Stack wants either curated experience to be separate from any OS specifics, but I still find it doesn't actually disrupt Haskell (compilers/packages) installed via dkpg/apt, it just decides to install it's own stuff in the project director(y/ies) and ignore what's in the Debian repos."
+34,cjs,1555690449.0,2.0,"While the OS/distro dependency tools are fine for handling dependencies for particular releases of apps that the OS/distro vendors want to distribute to users, they're utterly inadequate for actually developing those apps. This is why _every_ language and ecosystem has its own tools for this:
+* C/C++: CMake or whatever, plus invariably a lot of extra custom build system code for the application
+* JavaScript: Node/Yarn/whatever
+* Python: Pip/distools/setup.py/etc.
+
+It may not make sense, but application development is a very different world from application distribution. You want Stack to do your development in Haskell so you don't have to worry about what's on your particular OS, and the OS/distro vendors will deal with making it work on their OS with the dependencies they want to include."
+35,bss03,1555536152.0,11.0,"> But would a Java developer pass trough the Calvary of Haskell tooling?
+
+Did, and would again."
+36,hiptobecubic,1555565043.0,6.0,Honestly I think drive-by complaints like this all over the place are the most annoying aspect of the community
+37,MikolajKonarski,1555876940.0,1.0,"How is it failing? The Hackage CI
+
+https://matrix.hackage.haskell.org/#/package/accelerate
+
+and travis CI and appveyor CI compile fine. Are you not able to reproduce either of their compilation runs?"
+38,LPTK,1555517710.0,8.0,"> the type system (in GHC, anyway) is far more advanced than Elm, Scala or Reason
+
+Scala's type system is not remotely as clean as Haskell's, but arguably similarly advanced. IME you have the same kind of expressive power in both languages.
+
+> new control structures are something you code up rather than something built into the langauge
+
+For example, that's something that's done in Scala all the time too. 
+When you write `someOption.getOrElse(e)`, the expression `e` is not evaluated unless the option is empty. All you need to implement that is by-name parameters."
+39,szpaceSZ,1555522242.0,1.0,Or several Java apps. Or several back-end libraries.
+40,ep1939,1555517602.0,8.0,"I have never said that Haskell isn't suitable, I said it has no niche compared to the aforementioned languages.
+
+The fact alone that Scala/Clojure have Java interoperability is immense. Being able to fallback to Java or use its immense number of industry battered tools from testing to deploying is immense. I can write Scala and write Android applications almost trivially, the same is not true for Haskell.
+
+Elixir has its own niche with its own architecture and speed which is basically unmatched in its own category.
+
+The other languages I mentioned are simply much better suited for GUI development and have JS interoperability.
+
+Haskell has none of these which makes it much less practical to develop be or fe applications.
+
+That's what my whole point was: Haskell doesn't have a niche as the aforementioned languages nor offers some of their advantages.
+
+Finding a niche or having a breakthrought software is important, you may shit as much as you want on PHP (I do), but Laravel alone is almost worth the pain of programming in such an horrible language and I'm just not aware of these niches or softwares that make Haskell worth learning for the average Joe developer.
+
+Most people I know that learned Haskell, learned it to learn functional programming, but then moved on Scala/Elixir. Either there's something wrong with the language (I don't think so), or there are aspects of the language that do not make it practical to develop applications in it."
+41,logan-diamond,1557493224.0,1.0,"Have you checked out Julia? Being a thin layer over a lisp / Llvm JIT,  you can write some pretty nice looking functional code and it's made for data science."
+42,libeako,1555630583.0,3.0,"I did not like the empty propaganda in that FPComplete report either. But what i said \[""haskell fans are more determined then ever""\] is a simple, relevant, objective, true \[IMO\] statement."
+43,graninas,1555517902.0,7.0,"Unfortunately I saw many times how some people are complaining that ""stack does not work"", and that makes bad advertisement for stack."
+44,Amarandus,1555531365.0,2.0,"I'm basically not used to any dependency management (besides pip, but not really in depth) and somehow do not find the time to get into it. It's not really the fault of stack, it is more a problem of me not being able to use it without reading ""much"" beforehand. I'd guess the same problem would be existent with cabal."
+45,ElvishJerricco,1555558896.0,11.0,"FWIW, I don't think most Nix advocates recommend it for beginners. I consider it an intermediate or even advanced technique for working with Haskell. I don't start Haskell projects with Nix; I switch to Nix once I want something cabal-install or stack can't cleanly handle (almost always happens; e.g. applying patch files to deps or pinning system libs), or once it's time to deploy (NixOS is the sanest way to deploy IMO)."
+46,Amarandus,1555530902.0,5.0,"To be honest - I stumbled across NixOS because of haskell, but did not installed it because of haskell. I just find the concept behind it interesting (and the community is pretty newbie-friendly)."
+47,cdsmith,1555530408.0,14.0,"There is definitely no need to throw around demeaning language about this.  Haskell already had the tooling flame wars, and it didn't make the community better.  Now we're trying treating each other with respect and kindness.  It's the new in thing."
+48,pdr77,1555593384.0,3.0,"> The Debian Haskell team is actually doing great, and cabal (old style) plays well with it, or as well as one can expect (similar experience to pip, e.g.).
+
+True, and my rant wasn't intended to criticise in any way the amazing work that's being done already in this area (especially as I'm not currently contributing myself).
+
+> Stack wants either curated experience to be separate from any OS specifics, but I still find it doesn't actually disrupt Haskell (compilers/packages) installed via dpkg/apt, it just decides to install its own stuff in the project director(y/ies) and ignore what's in the Debian repos.
+
+Ok, I'm glad about that, but it's still then downloading and compiling multiple copies of libraries for no reason."
+49,bss03,1555709541.0,1.0,"> they're utterly inadequate for actually developing those apps.
+
+Having been on both sides and in the middle (need to distribute someone else's library to a someone else's OS), that's just wrong.  CPAN, CRAN, PyPI, Hackage, and all the rest could be easily replaced by apt and apt-src repositories and dependency resolution, even local builds from source would work fine.  The .cabal files (or equivalent) are basically is same as dpkg control files, which is why Debian can often get to a point were packaging of ""pure Cabal"" packages are mostly one command + testing.
+
+> It may not make sense, but application development is a very different world from application distribution.
+
+Again, having been on both sides and in the middle, it's really not.  It's dependencies (both build and runtime), version ranges, too many assumptions, and actually not that many flags that matter.  The build tools do change, but dpkg is neither tied to nor does it replace 'make' (or `ghc --make`), and neither is rpm or nix.
+
+The real problem is that using an existing package management framework is seen as being OS-specific, even though RPM/Yum/etc. and Dpkg/Apt/etc. are not really tied to an OS.  Also most developer still are using MS Windows and Mas OS X which don't have package managers so they aren't actually that used to using them.  They are primarily focused on global installs, and developers benefit a lot from local environments to which things are individually installed, even if there's a shared cache; but, both rpm, dpkg, and nix can be used for source-based installs in a scoped environment.
+
+As a Debian user, I gotta say that I think RPM would actually be the best package manager for your next language.  (It seems like more of the RPM internals have been turned into library calls; the command line is a great interface for users, but it's actually a pretty poor inter-program API.)  You may have to wrangle it a bit, but *please* don't create yet another package manager for your new hot language; shape an existing one."
+50,pdr77,1555715835.0,1.0,"Yes, that's the whole ""we're different and special and we need to be treated specially"" problem.  No, you're just software and can be treated just like any other software and the solutions for which have already been solved many years ago."
+51,fsharper,1555574833.0,2.0,"So you are a hobbyist haskeller who spend the week ends for years to master the many many pains of the ""modern"" and ""idiomatic"" dialects of Haskell and after those years you return to your office and don't understand why your coworkers stick to Java and don't want to hear about Haskell?"
+52,carbolymer,1555569491.0,1.0,The fact you're reading r/haskell means that you're above an average java dev.
+53,fsharper,1555569925.0,2.0,The first step necessary to fix things is to recognize what is in front of the eyes.
+54,Tysonzero,1555646126.0,1.0,Particularly when it's by a known troll.
+55,paulhilbert,1555883272.0,2.0,I don't really remember. First of all it's not accelerate but its actual ptx gpu backend that's usually the problem. And then there is the interplay with other dependencies and their version restrictions. I think it was along the lines of repa and juicypixels or sth. I can tell you next year when I have my annual phase of wasting time on HPC Haskell :)
+56,cjs,1555564362.0,7.0,"Regarding new control structures, I was talking more about things like:
+
+    remainingCells :: GenParser Char st [String]
+    remainingCells =
+        (char ',' >> cells)            -- Found comma?  More cells coming
+        <|> (return [])                -- No comma?  Return [], no more cells
+
+This function has state threaded through it, has exception-like error handling, and makes decisions, running different code based on those decisions. It's using an extremely specialized control structure (`GenParser` monad) that was written to take care of all this, so one can just write simple combinators that fit into this structure.
+
+Haskell is full of this: you just give the normal case and let custom-written control structures take care of almost all your error handling and other decision making. Specifying ""else do this"" is done in just one place, rather than over and over again as in other languages.
+
+Even this level of stuff gets buried under further layers of abstraction, where you end up with those control structures being used in a full CSV parser that looks like just:
+
+    csvFile = endBy line eol
+    line = sepBy cell (char ',')
+    cell = many (noneOf "",\n"")
+    eol = char '\n'
+
+(These examples are not special in any way and probably not even particularly good; I just pulled them out of *Real World Haskell's* [Using Parsec](http://book.realworldhaskell.org/read/using-parsec.html) chapter because that's what happned to pop up when poking about the 'net.)"
+57,pavelchristof,1555524743.0,2.0,"> Scala's type system is not remotely as clean as Haskell's, but arguably similarly advanced.
+
+With path-dependent types it's more advanced than vanilla Haskell (without some dependent types plugin). 
+
+Haskell's typeclasses win a lot on clarity vs Scala's implicits (especially when you're emulating Haskell's class A => B ...)."
+58,szpaceSZ,1555522358.0,4.0,There really should be more community effort towards Frege or Eta.
+59,Vaglame,1557500651.0,1.0,"I know and love Julia!
+
+But it's far from functional. No ADT, no purity, no immutability, a type system far from reaching Haskell's expressiveness. Also I know it's not technically part of the requirements to be functional, but ML syntax is a must
+
+I have my hopes up for the next iteration of Luna lang though"
+60,PrancingPeach,1555518176.0,14.0,"Huh, I'm not super plugged into the Haskell community online, but we use it for a few production programs at work and have not run into any issues with stack. It's lived up to the promise of creating simple, reproducible builds across a variety of machines. We've got people who've never used Haskell building our programs with stack without even knowing what they're doing really.
+
+What I will say is everytime I do peek into the online Haskell community I tend to see a lot of unnecessary political drama and I wonder if that's the source of these ""stack does not work"" notions."
+61,MWatson,1555588042.0,4.0,"Stack is not perfect but it is a big improvement. My primary languages are Common Lisp and Python, but I also really enjoy using Haskell. So, I am not an expert but here is what I do: I tend to only update my projects’ stack configuration every 6 to 9 months. When I do update, I don’t like to sit at my laptop waiting for all the builds. Once all my projects are updated to new library versions then edit/compile/run cycles go fairly fast. Also, I really do most of my development in ‘stack ghci’. Also as a 30 year Emacs user, I have switched to VSCode for Haskell editing."
+62,hiptobecubic,1555564964.0,6.0,"Sure, but it has literally nothing to do with learning Haskell. It's like recommending everyone switch to XMonad"
+63,bss03,1555599487.0,3.0,"> for no reason.
+
+It is for a reason.  It might not be one you find particularly convincing, but it is so that it can be managed by stack, including GHC version, flags, and specific dependencies.
+
+I was particularly upset the first time stack decided it wanted to install *the same version of GHC I had just pulled from the Debian repos*, but you just have to understand that part of how stack provides its particular experience is by controlling all those things.
+
+It's a trade off; depending on what you are doing the stack way or the Debian way might be better."
+64,cjs,1555730069.0,2.0,"Ok, so it sounds as if your complaint is that the dependency tools use different package and repository formats. That's a much more fair complaint, but dependency management tools such as Stack or NPM do a lot more than what yum or apt do.
+
+Trying for a common package/repo format would be interesting, but I am doubtful that it would be easy in practice (different languages and systems need rather different metadata, for example) and it's not clear to me what would really be gained by this.
+
+Have you seen an example where someone has tried this? Even something as simple as, say, changing pip to be able to use RPM packages and servers?"
+65,cjs,1555729387.0,2.0,"But developing applications _is_ differerent and special when compared to simply running applications. I'm guessing you've not done this and that's why you don't understand the massive differences.
+
+Let's take just one of the simplest cases. In your ""use the OS packging system for all dependencies,"" how do you check to see if your simple Python script works on all versions of Python from 3.4 through 3.7, and on the (as yet unreleased) 3.8? Do you actually go out and install separate copies of every OS you want to support and do rebuilds and tests on each one?"
+66,bss03,1555590957.0,2.0,"Well, I spend the weekends and evenings I wanted to and it did take years, but I wasn't in a rush; I put some stuff on Hackage, and used what I learned in Haskell to also learn Agda and Idris and produce some worthwhile stuff there, too.  I basically wouldn't call any of it ""pains"", though I guess GADTs and DataKinds definitely has some sharp spots when I was learning them.
+
+I continue to write Java, Python, C, and JavaScript, though I will talk about Haskell to any of my co-workers that has a problem that Haskell's type system (or lessons gleaned from it) might be good at addressing.  We deploy to an odd OS, so before this year it would have been difficult to impossible to use Haskell for those deployments, so I haven't been pushing it.  We also build on a products with a lot of surface area, so much of Haskell's advantages are counter-balanced by interoperabilty concerns.  That said, I have several Haskell programs that help me manage internal resources.
+
+I think Haskell actually made be a better programmer overall, *because* sometimes it makes me less happy with my first pass Java/C/Python/JavaScript implementation.  And I, plus ESR and John Carmack, think it is a language worth learning *even if* you never use it in production."
+67,peggying,1555577325.0,1.0,I see what you did there! Kudos for the Plato's Cave ref!
+68,bss03,1555591209.0,5.0,"Maybe; I was stuck writing Java 6 when Java 9 was the latest release, and even now we can't deploy anything newer than Java 8.  There's all kinds of things that I'm at least out of date on, syntax, APIs, modules, etc.
+
+Plus, I know that *in my office* there's at least one developer that produces better Java than I do.
+
+Part of the reason I like Haskell is because GHC makes me look smart, since it catches so many more varieties of errors at compile time.  I try and lean into that -- use types to make as many errors as possible compile-time instead of run-time."
+69,MikolajKonarski,1555886068.0,1.0,"Fair enough. I usually cope by replicating any of the mentioned CIs, but indeed, this is not exact science. Good luck next year. :)"
+70,Tysonzero,1555548315.0,4.0,"Disagree. Eta isn’t Haskell, contributing to Eta won’t benefit Haskell. If it weren’t for the language fork, and instead just a compiler form like GHCJS, then I would agree."
+71,LucianU,1555589726.0,4.0,"As soon as you need a package that is not in the package set or an older version of that package, things stop working. At least that has been my experience.
+
+&#x200B;
+
+Maybe I just hit some corner cases or I should have read the documentation better, but it left me a bad impression of the idea of package sets in general.
+
+&#x200B;
+
+That said, stack works in a lot of cases, so it should be the first tool that beginners try."
+72,graninas,1555518583.0,9.0,"Yep, you guessed it right. The root of this opinion lies far away in the emotional and political field not in the tech field. There is a dissent in the Haskell community that makes me very sad. This harmful collision of interests is also a source of toxicity in the community."
+73,pdr77,1555599719.0,4.0,"I'm mostly annoyed by it building everything from scratch every time, taking a lot more time and resources than downloading binaries would, but I understand the trade off they've made there."
+74,bss03,1555730759.0,1.0,I don't buy the different metadata argument.
+75,paulhilbert,1555887418.0,2.0,"Good tip indeed, maybe doing manual version checks by looking at the CIs is the way to go next time..."
+76,szpaceSZ,1555574284.0,3.0,"As far as understand it aims to be syntax and semantics compatible to a high degree and it can utilize packages already on hackage (which is an important boost vs. Frege in viability for becomming useful in commercial projects).
+
+The main point is that by being a JVM language it can be used/introduced in enterprise projects that are built in Java (in theory) quite  seamlessly (package for package).
+
+I think that's a major benefit for wider adoption. Note, I was commenting on a statement that poinzed out this advantage of Closure and Scala.
+
+Eta (ought to) have access to be both to the Java ecosystem and Haskell ecosystem. It's nowhere like production-ready though (also pretty much a one-man project, as far as I understand).
+
+Maybe language fork was necessary (human ressources wise) but with crowded brainpower the community could bring it back to standatd Haskell compiling into JVM (language *extensions* are obviously necessary for Java interoperatibility).
+
+Disclaimer: I'm not affiliated with Eta, nor did I ever use it in fact)."
+77,sclv,1555615855.0,6.0,"There used to be a solver feature that would use cabal's solver to figure out how to integrate non-packageset deps well into the existing set, but sadly that bitrotted and was subsequently removed."
+78,bss03,1555591728.0,1.0,"> Maybe I just hit some corner cases or I should have read the documentation better, but it left me a bad impression of the idea of package sets in general.
+
+I don't think that should give you a bad impression.  It actually leads you toward the primary feature of curated package sets: effort is focused on the experience working within the set.  So your experience working within the set is much better, but your experience working outside the set is slightly worse.
+
+I thought most of the stackage infrastructure was/is open source; if your company / you have a different package set you need to focus your effort on (rather than a stackage release), they've given you a bunch of tools to help you focus effort of the package set(s) you need."
+79,-mewa,1555523337.0,1.0,And it's *the* truth.
+80,bss03,1555603520.0,3.0,"I thought there was a global cache, so as long as you are using the same stackage release, you can share binaries (and GHC) between projects.  But, I haven't used stack a lot.
+
+EDIT: And cabal builds from source for everything, too. :/"
+81,cjs,1555773534.0,0.0,"Ok. So when you're distributing a Haskell library via RPM, where do you store the information about which version of GHC it's built for?"
+82,bss03,1555781062.0,1.0,"For Debian it's in the dependencies.  It also provides a specific ABI as a virtual package.
+
+    % aptitude show libghc-recursion-schemes-dev
+    Package: libghc-recursion-schemes-dev    
+    Version: 5.0.3-1+b1
+    State: not installed
+    Priority: optional
+    Section: haskell
+    Maintainer: Debian Haskell Group <pkg-haskell-maintainers@lists.alioth.debian.org>
+    Architecture: amd64
+    Uncompressed Size: 2,602 k
+    Depends: libghc-base-dev-4.11.1.0-5dd74, libghc-base-orphans-dev-0.7-66f93, libghc-comonad-dev-5.0.4-f8103, libghc-free-dev-5.0.2-d8cde,
+             libghc-template-haskell-dev-2.13.0.0-87d93, libghc-th-abstraction-dev-0.2.8.0-613e0, libghc-transformers-dev-0.5.5.0-b5d2f, libatomic1 (>=
+             4.8), libc6 (>= 2.2.5), libgmp10
+    Suggests: libghc-recursion-schemes-doc, libghc-recursion-schemes-prof
+    Conflicts: libghc-recursion-schemes-dev:i386
+    Provides: libghc-recursion-schemes-dev-5.0.3-d2f08
+    Description: generalized bananas, lenses and barbed wire
+     Base functors for fixed points, fixed points, folding, unfolding, refolding, Mendler-style iteration, Elgot (co)algebras, and Zygohistomorphic
+     prepromorphisms. 
+ 
+     This package provides a library for the Haskell programming language. See http://www.haskell.org/ for more information on Haskell.
+Homepage: http://github.com/ekmett/recursion-schemes/"
+83,cjs,1555902098.0,2.0,"Hm. Yes, I'm seeing now how you could use dependencies and lots of version numbers in the file path to handle things pretty much all the version-related stuff.
+
+How about the lists of exposed and hidden modules?"
+84,bss03,1555908274.0,1.0,"Those would be in the source package, although I'm not sure they are exactly needed.  For C libraries Debian uses symbols files generated by scanning the build outout (for C libraries the .so files)."
+85,cjs,1555923641.0,1.0,"Well, remember that there may be no package with the build output for a particular system; it's very normal (and not just with Haskell) for developers to build dependent libraries from source.
+
+It's things like that that make me suspect that metadata may be incomplete if we were to use `apt` packages to replace the current package format and package servers for Haskell Stack and Hackage, Python's `pip` and PyPI, Ruby's Gems, NPM/Yarn and their servers, etc. etc.
+
+Were you thinking that every development system (including Windows) would be downloading a set of platform-specific binaries and libs for Apt or RPM or whatever, and `stack`, `pip`, `npm` etc. would be making native calls into those, or were you thinking that at least some platforms (especially the interpreters) would be writing their own implementation of the Apt/RPM/whatever libraries that are the standard package format for everything?"
+86,bss03,1555943679.0,1.0,"Combination of both.  Cabal/pip would use rpm specs, and download and apply rpm binary packages, which will likely be arch and OS specific.
+
+Initially the package names would be independent from any OS, but Hackage/PyPI work with systems using rpm for other purposes to primarily avoid package name conflicts and ideally allow use of PyPI/hackage as ""just"" another source of rpms for global install through rpm/yum."
+87,cjs,1555950219.0,1.0,">...but Hackage/PyPI work with systems using rpm for other purposes to primarily avoid package name conflicts...
+
+This is getting quite interesting. So are you saying that there would be a global namespace for all packages for all systems? Which one of [CentOS](https://rpmfind.net/linux/rpm2html/search.php?query=zlib), [NPM](https://www.npmjs.com/package/zlib) and [Hackage](https://hackage.haskell.org/package/zlib) would get to use the name `zlib` for their `zlib` package? What would the package be called for the other systems, and how would we deal with backward-compatibility for that?
+
+(I'm pretty sure I must have misinterpreted something somwhere here, since this sounds pretty ridiculous in the way I put it, so please bear with my confusion here.)"
+88,bss03,1555950908.0,1.0,"> So are you saying that there would be a global namespace for all packages for all systems?
+
+That would certainly be the ideal.  I don't know that we'd ever get there, but it would be a good goal.
+
+Tools like pip/cabal could operate on a ""view"" of all packages starting with a negotiated prefix, if they preferred that UX."

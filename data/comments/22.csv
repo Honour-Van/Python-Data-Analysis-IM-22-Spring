@@ -1,0 +1,78 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,safgfsiogufas,1520948645.0,47.0,I haven't met anyone on Android who wanted to go back to Java after using Kotlin. 
+1,Orffyreus,1520942852.0,13.0,"Nice. JavaScript is ""loved"" more than C# in this list though."
+2,spork_king,1520948391.0,10.0,"It was also the second least disliked language, [when measured on Stack Overflow Jobs](https://stackoverflow.blog/2017/10/31/disliked-programming-languages/) last year. :)"
+3,strange-humor,1520946844.0,12.0,"As someone pointed out in the Rust subreddit, statistically Rust and Kotlin are equal, due to the low number of respondents for Rust."
+4,rnayden,1520966451.0,2.0,"With all the talk of Vim vs. Emacs, it surprises me that Emacs is in the low single digits, while Vim is 25% of all respondents.
+
+It does not surprise me that it is 40% (and #1) amongst sysadmin/devops practitioners."
+5,BorrowedInk,1521219004.0,2.0,I love things like this. It's like confirmation for the tools and languages I already use and a shopping list for the ones I need to look into.
+6,autotldr,1521082757.0,1.0,"This is the best tl;dr I could make, [original](https://insights.stackoverflow.com/survey/2018) reduced by 96%. (I'm a bot)
+*****
+> Our estimate of professional developers comes from the things people read and do when they visit Stack Overflow.
+
+> The median number of developer type identifications per respondent is 2, and the most common pairs are combinations of back-end, front-end, and full-stack developer.
+
+> Bootcamps are typically perceived as a way for newcomers to transition into a career as a software developer, but according to our survey, many participants in coding bootcamps were already working as developers.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/84jcg4/stack_overflow_releases_their_developer_survey/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 2.00, ~296386 tl;drs so far."") | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PM's and comments are monitored, constructive feedback is welcome."") | *Top* *keywords*: **Developer**^#1 **respondent**^#2 **response**^#3 **apply**^#4 **select**^#5"
+7,well___duh,1520951026.0,13.0,"Same. I've only talked with people who refuse to even try Kotlin over on /r/androiddev, or people who think you have to go all-or-nothing with Kotlin, not realizing (or even listening to those of us who tried) that you can migrate to Kotlin at your own pace.
+
+Typically the only naysayers I still see today about Kotlin are those who just haven't tried it yet."
+8,nutrecht,1521016686.0,11.0,"I'm a Java back-end dev and I don't know any back-end devs who seriously used it and prefer Java. Unfortunately we don't have the luxury of being able to tell management that it's the ""preferred"" language. 
+
+Management feels moving to Kotlin might make it harder to hire Java devs. I feel it might make it easier to hire the type of devs we need. "
+9,androidjunior,1520975662.0,4.0,"well, this is a very newbie question, but how should someone learn kotlin? Just read the tutorial https://kotlinlang.org/docs/tutorials/ and do projects?"
+10,Mulrian,1520945151.0,21.0,In this day and age I can see that being pretty accurate.
+11,MauriceReeves,1521326004.0,3.0,"Yeah that surprises me. I work in C#, JS/TS, and Python, and I really really love C#, maybe even more so than JS.  C#'s lower showing was kind of shocking to me."
+12,idreamincolour,1520946187.0,9.0,Modern functional JavaScript is actually pretty nice. It's a diff beast than 90s JavaScript we all grew to loath
+13,Warbane,1520970978.0,2.0,"The way I remember the question being poised was that it asked what editors you use on a regular basis - I think a lot of people use vim only when remoting into a box, but not as a daily driver.
+
+I'd guess the numbers of primary vim vs emacs users is a lot closer."
+14,myringotomy,1521019709.0,2.0,maybe spacemacs is eating into it.
+15,zintjr,1521141040.0,4.0,"> Typically the only naysayers I still see today about Kotlin are those who just haven't tried it yet
+
+The ego's ability to staunchly hold an opinion on a subject while at the same time being fully aware of it's ignorance on said subject never ceases to baffle me."
+16,styluss,1521018992.0,1.0,Even big projects without affecting build times?
+17,safgfsiogufas,1521017075.0,6.0,"> Management feels moving to Kotlin might make it harder to hire Java devs.
+
+Goddamn, I had the same problem. I moved to a different job where all the new stuff is in Kotlin and we're moving the old stuff over to Kotlin as well. And for me, the disapproval came from our ""Systems Architect"", who should know how easy it is to pick up Kotlin for any decent dev. He told management that it was a bad idea. I had to get 3 approvals just to put a request in, so after convincing 3 people, I failed at the fourth. Same problem with including RxJava and Dagger. I guess he didn't want to learn new technologies or something (DI isn't even new). 
+
+> I feel it might make it easier to hire the type of devs we need. 
+
+I agree."
+18,cryptos6,1521037351.0,2.0,"Kotlin is close enough to Java that this is a non-issue. You might even get more or better applications, because you stand out of the crowd. You're management should be aware of the [Python Paradox](http://www.paulgraham.com/pypar.html) (not limited to Python, but general applicable to newer not-mainstream technologies)."
+19,kett_chup,1521017108.0,1.0,I know of one...not had the chance to ask them why they went back though. They had one problem with some library...
+20,shadowdude777,1520981685.0,5.0,"Do the Kotlin Koans, they're very good."
+21,wavy_lines,1521011234.0,2.0,That's what I did and it worked well for me; I think.
+22,semidecided,1520992815.0,1.0,I'm not sure what your experience is but I'd say that using the documentation to make your own project is the way to go.
+23,xenomachina,1520954482.0,8.0,"Did they actually remove the bad parts, or have people simply learned how to avoid them?"
+24,wavy_lines,1521011317.0,1.0,"Uhm, not really. The functional bits of Javascript existed since the beginning.
+
+Also, Javascript development nowadays is often way too complicated with all the libraries and frameworks and compilers and transpilers and packagers and minifiers .. and npm."
+25,nutrecht,1521017968.0,6.0,"> And for me, the disapproval came from our ""Systems Architect"", who should know how easy it is to pick up Kotlin for any decent dev. He told management that it was a bad idea.
+
+Ugh. Not related to Kotlin but:
+
+Recently I had a run-in with an 'architect' (non-programming) who behind my back convinced our non-technical CTO that my idea of using Postgres over Cassandra for a strongly relational model was a bad idea because it introduced 'risk'. 
+
+Fuck these types of 'architects'. 
+
+Kotlin really isn't a separate language, it's basically a better Java. In my experience most developers picked it up in just a few days. For us as back-end dev it also saves a ton of time and hassle because we don't have to deal with Lombok anymore for example. But on the other hand the Ops team can just muck about with Go without any repercussions for not dealing with quality aspects. "
+26,nutrecht,1521037789.0,2.0,"> Kotlin is close enough to Java that this is a non-issue. You might even get more or better applications, because you stand of the crowd. 
+
+This is exactly the point we're making. Thanks for the link though; never heard of that one :)"
+27,androidjunior,1520983823.0,3.0,"I feel that the language is very easy, its like a combination of javascript and java"
+28,celluj34,1520958160.0,2.0,We've made enough improvements to JavaScript that good practices make bad practices obsolete.
+29,Mulrian,1521024544.0,6.0,"Yeah this is definitely unfortunate. I think a lot of people think that Kotlin is going to be a completely different language akin to writing everything new in Scala or something. I can how thinking that would raise red flags but the reality is, as you said, the interop is seamless and any reasonable Java dev can (and in my experience will want to) pick up Kotlin in a few days."
+30,thehobojoe,1520958294.0,13.0,"Bad practices never go obsolete, that's why they're bad."
+31,xenomachina,1520958676.0,2.0,"As someone who mostly stopped using JavaScript about 10 years ago, what are some of these improvements that have been made to the language? Did they fix all of the ""wats""?"
+32,nutrecht,1521025112.0,3.0,"That's my experience too. Even for myself; I did Scala, Groovy and a bit of Ceylon before Kotlin. Kotlin is the only language I felt was seamless and actually solved the problems I wanted solved without introducing new ones.
+
+Unfortunately this enthusiasm is hard to keep to yourself so Kotlin fans can be seen as a but preachy / advocaty in discussions with Java devs (many of which really don't even want to learn the new Java 8 stuff, let alone a 'new language'). "
+33,celluj34,1520968341.0,7.0,"Top of my head, there's proper classes, fat arrow functions (which help a bit with the `this` confusion, proper `async`/`await`, and the rise of gulp/webpack/babel making using all of these new features possible in (almost) any browser."
+34,,1520981332.0,3.0,"'proper classes' were available before in the sense that you could define functions as pseudo-classes with the same prototypical inheritance. The new syntax doesn't hoist definitions, can't be defined twice, and is exclusively block scoped (maybe other things too) but... Well, I would say it's mostly syntactic sugar and you've always been able to write practically the same code.
+
+Otherwise I agree entirely, JS is getting a lot nicer. I'm not crazy for `class` but I don't hate it either."

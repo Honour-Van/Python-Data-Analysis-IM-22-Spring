@@ -1,0 +1,992 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,OC-Bot,1566302887.0,1.0,"Thank you for your [Original Content](https://www.reddit.com/r/dataisbeautiful/wiki/index#wiki_what_counts_as_original_content_.28oc.29.3F), /u/lucy_c1!  
+**Here is some important information about this post:**
+
+* [Author's citations](https://www.reddit.com/r/dataisbeautiful/comments/csx244/after_the_initial_learning_curve_developers_tend/exhc3cz/) including **source data** and **tool used** to generate this graphic.
+* [All OC posts by this author](https://www.reddit.com/r/dataisbeautiful/search?q=author%3A""lucy_c1""+title%3AOC&sort=new&include_over_18=on&restrict_sr=on)
+
+Not satisfied with this visual? Think you can do better? [Remix this visual](https://www.reddit.com/r/dataisbeautiful/wiki/index#wiki_remixing) with the [data in the citation](https://www.reddit.com/r/dataisbeautiful/comments/csx244/after_the_initial_learning_curve_developers_tend/exhc3cz/), or read the !Sidebar summon below.
+
+---
+
+^^OC-Bot&nbsp;v2.3.0(RB1) ^^| ^^[Fork&nbsp;with&nbsp;my&nbsp;code](https://github.com/zonination/oc-bot) ^^| ^^[How&nbsp;I&nbsp;Work](https://www.reddit.com/r/dataisbeautiful/wiki/flair#wiki_oc_flair)"
+1,Akerlof,1566308367.0,1126.0,"Curious about that dip around 45 years. Are those guys stuck in COBOL since nobody else wants to touch it with a ten for pole, or are you getting into a small sample size where just a few people can move the average?"
+2,andero,1566315891.0,343.0,"Could be better as a line-graph with error bars, maybe a shaded confidence/compatibility interval. With this area-plot, you cannot see any of the variance in the data."
+3,vordrax,1566324053.0,168.0,"* Company-wide backend/application-layer language
+* Annoying legacy language that ""one or two"" apps use and will never be rewritten
+* Sexy undersupported newer language used for prototypes and subsequently abandoned
+* SQL
+* JavaScript"
+4,VideVictoria,1566316466.0,425.0,"Python, php, javascript, css and HTML!
+
+&#x200B;
+
+\*Runs away as an angry mob starts to run towards him\*"
+5,permalink_save,1566310095.0,119.0,"I currently use/touch:
+
+* Javascript
+* Python
+* Go
+* Ruby (mostly Chef now)
+* Java
+
+... I guess it checks out. Those are the languages I have in some form or fashion used through my career. I know a lot more but they either aren't ones I've had to write professionally in or learned on the side for fun.
+
+I would guess that it's mainly due to there being a handful of popular languages and if you know say Java, you likely won't jump to a similar language like .NET you'd get another Java job. Looking at my list there's a pretty big spread of use cases."
+6,orlyworly,1566315702.0,21.0,"I use Swift, Java, Ruby, and Javascript at my job. And an occasional Python randomly in life. This checks out."
+7,CardboardJ,1566317670.0,17.0,"I thought that was very low but looking back if I had to say, how many languages were my 'main' language for over a year, i'm sitting at 6 (Java, Perl, VB6, C#, F#, Javascript).  If you include all the languages i've been paid to code in that number jumps to 17."
+8,xabrol,1566326687.0,17.0,"The thing with this data is often times you have to use multiple languages because they're part of a stack.  You're not using them because you chose to.
+
+For example if you count HTML as a language and you use JavaScript and c sharp and SQL....  you didn't choose to use four languages you're just a web developer... and maybe you add python to that mix but it's not because you chose python that's because your company has a search service in Google cloud and you need to maintain it.
+
+Believe me, if I had a choice I would write c sharp for everything 100% percent of the time.  I would never choose to touch anything else.
+
+And with . net core, entity framework, and Blazor... That future is here."
+9,,1566317039.0,69.0,"started coding years ago and I only know two. Stuff like this makes me want to find a different career.
+
+Edit: Java and Javascript."
+10,lucy_c1,1566300622.0,34.0,"This [chart](https://devsurvey19.count.co/v/z/?type=data_is_beautiful) was created using Count. It plots the average number of programming languages survey respondents used extensively in the last year by the number of years of coding experience they have.
+
+See other charts made on Count, using this data [here](https://devsurvey19.count.co/?type=data_is_beautiful).
+
+The data is from the [StackOverflow Developer Survey 2019](https://insights.stackoverflow.com/survey/2019)."
+11,,1566317182.0,30.0,"Not professional dev, but I know and/or used to use Perl, C#, C, Java, and that's about it.
+
+I hate front-end development :\^)"
+12,photog_in_nc,1566327570.0,11.0,"I retired a few weeks ago after 30+ years writing code. Rough breakdown as follows:
+
+C - 85%
+
+C++ - 9% 
+
+Python - 3%
+
+Assembler (various...more Motorola 68k than any others) - 2%
+
+PL/DS - internal IBM language based on PL/1 - 1%
+
+
+Yep, five.
+
+
+Used BASIC and Pascal in school."
+13,kinjinsan,1566316912.0,22.0,"39 year as a professional programmer. Excluding Basic and IBM Assembler in college, I’m COBOL, Fortran(F77), C, C#, VB.Net and Basic Plus. 
+
+So six, but C# was very brief.
+
+I’m not counting several that could be considered languages, just the primary ones."
+14,,1566318256.0,29.0,"The first language I really mastered was C and every language I learnt after that has just been a derivative, so it’s been quite easy to become multilingual. I wish spoken languages were as easy."
+15,cryptoengineer,1566318689.0,8.0,"35 years in the business....
+
+Been paid for programming in
+
+BASIC, SAIL, Modula-2, PASCAL ,C,  C++, C#, Java, Javascript, perl, python, haskell, various assemblers. 
+
+May have missed a couple, and not going into subvariants."
+16,EccentricFan,1566322221.0,8.0,"Languages I've done major work with in my 12 year career:
+
+Java, C++, C#, Visual Basic, SQL, Javascript/Angular
+
+Languages I've done small to moderate work on:
+
+Python, Ruby, Pascal
+
+I guess even with just major project work, I'm slight ahead of the curve. Although that's probably not a good thing now that I think about it."
+17,ieatpickleswithmilk,1566317291.0,6.0,"I currently regularly use: C#, JS, Python
+
+
+Non programming languages: SQL, XML
+
+
+4.5 years work experience."
+18,,1566325197.0,9.0,[deleted]
+19,shaolinkorean,1566318123.0,3.0,"Ladder logic,  C, C++, FORTRAN, Assember, MATlab(does that even count though because it can be C or C++ depending on how you use it), Visual Basic (ditto from previous comment), SABL(it’s a niche DCS programming language).  I think that’s about it
+
+Edit:  almost forgot BASIC"
+20,archetype776,1566320825.0,6.0,"What constitutes as a language in this study? Does JS/jQuery count as two languages or one, for example? Surely one.... Right?
+
+Edit: I'm aware jQuery isn't a language. I'm asking if the study knows that. Hence - ""What constitutes as a language *in this study*"""
+21,mata_dan,1566311754.0,4.0,"WTF are the series on [this chart](https://devsurvey19.count.co/v/af)?
+
+[This one](https://devsurvey19.count.co/v/an) also has unlabelled series (I presume the orange is worse, and the blue is better, but still: the blurb implies only better was asked).  
+
+
+edit: I just noticed there are tooltips, they are really odd to get to show up though (nodes only); I didn't think there were any after failing to see them on the first chart. The series colours are also pretty misleading a lot of the time."
+22,kevinatari,1566324454.0,1.0,"About right, I'm currently using Go, Python, Rust, Bash, and JavaScript (including CSS/HTML) in my working life and private. 
+
+Started learning C++ and Perl6 lately but nothing serious there."
+23,The_ponydick_guy,1566328664.0,1.0,"4 for me so far: C, Pascal, ADA, and Assembler.
+
+2 things to note: I am neither old as fuck nor a coder. It's just shit that's come with the job over the years."
+24,Syscrush,1566329452.0,1.0,"This is a very interesting analysis. Thanks for sharing it. Honestly, I would have expected the number to keep climbing, or asymptotically approach a number bigger than 5. But this does fit my current \~25 years of experience."
+25,,1566330127.0,1.0,"I wonder if they counted languages that are essentially the same language but with a framework/library. Like C and C++ are syntaxically the same. Angular's syntax is different from js because of rxjs but in the end it's all javascript.
+
+Answer may be in the links but I should be working."
+26,mashdots,1566330877.0,1.0,"not 2 years in my career and I've already used javascript, java, php on the job. I expect to start work in our C# and C++ codebases in the next year.
+
+&#x200B;
+
+for personal projects, though, I've touched SQL, Ruby, Python, and C as well."
+27,,1566331314.0,1.0,[removed]
+28,Amster2,1566334398.0,1.0,"What counts as ""used""?I am sure most have learned about or read a snippet of code of much more than 5, when would you consider it that he ""used"" it? Professionally? But then I guess most people 20+ years on the job are pretty settled down and will most likely remain in the language for the rest of their careers. But he might kept learning about the new stuf, even if not using it pratically at his job. In that case 5 I think is way too small, right? I'm in third year at uni and would cosidered  I ""used"" at least 5-6, but then again, only 1-2 ""professionally"", but have at least another 5 in my radar I'd like to know better"
+29,IronOhki,1566335409.0,1.0,"Basic, VB Script, PHP, JavaScript/Node, C#.
+
+If I count libraries and frameworks, it goes hecka up. I could almost include learning Angular, that was a major challenge at the time."
+30,moma-dance,1566339437.0,1.0,"Complete noob here but what purpose does so many languages serve? Are there very particular things you can only do with one language, but they all share many other common features?"
+31,,1566339592.0,1.0,"I think I currently have:
+Python
+PHP
+ColdFusion (I know it's awful)
+HTML/CSS
+
+And I have in the recent past (last 3-4 years) used Java and C/C++ for work. 
+
+I don't count JavaScript because I try so very hard to avoid doing anything more complicated than replacing the text content of a paragraph. :) Thank God for Bootstrap!"
+32,Obilis,1566344601.0,1.0,That seems low. I'm guessing there are a lot of career programmers that super-specialize and drag the average down?
+33,workaccountoftoday,1566346738.0,1.0,"Five at one time?  Or total?
+
+I'm already at C, C#, Fortran, Java, Javascript, SQL, Assembly and don't even have five years of paid coding experience..."
+34,I_Will_Not_Reply_2U,1566348353.0,1.0,"I'm just graduating and I would say my main 5 would be
+
+JavaScript (jQuery, Ajax)
+
+PHP
+
+SQL
+
+C\#
+
+Then just mock-up and styling languages like HTML CSS XML that sort of shite. Doesn't count I know."
+35,UnDosTresPescao,1566349053.0,1.0,"I thought this was crazy high since these days I do the great majority of my programming in C++ but then I realized that if I count everything that I've used in my 16 year career then I've done a little bit of Python, C, C++, C#, PowerPC assembly, and x86 assembly so the number gets up there if you do count everything."
+36,null000,1566349819.0,1.0,"Hmmm... C++, java, python, go, SQL, and... Oh? The ten thousand domain specific configuration languages I use don't count? Ok then, yeah, I guess just the five.
+
+Edit: (reading through the other comments, this definitely outs me as a backend engineer)"
+37,Horyv,1566351602.0,1.0,"Just checked my commits - 14 different languages :) tbf it counts markdown as a language, but that’s the only markdown-like language I committed in. Noice!"
+38,steveo225,1566352489.0,1.0,"I must be on the high end then, between 15 and 20 years. Use C++, Python, bash, Perl, and Matlab at work, PHP, SQL, JavaScript, HTML, and CSS for web development as a hobby and helping non-profits. Although, not sure if HTML and CSS count as languages."
+39,Konoa_,1566368302.0,1.0,"I took like 3 years to learn java
+
+The. 2 years to learn c
+
+The. 6 months to learn c#
+
+Then 2months to learn python ( at the same time as learning neural networks at a basic level)
+
+
+Then I took an extra c class in my last year of college and somehow managed to, on a tired night after drinking, turn in the second assignment in c#
+
+Professor was nice about it at least."
+40,PlebPlayer,1566392341.0,1.0,"Throughout my career: Matlab, C, Python, PHP with MySQL, Javascript/HTML/CSS (Typescript/less with those), C# with .Net and MSSQL, Java.  Otherwise I have dabbled in some other languages but not really used them in a career aspect."
+41,Cczaphod,1566311685.0,1.0,"It seems like Web technologies would have created a spike.  I've been a software developer for 30 years and I've professionally coded in PL/I, C, 4GL (Informix), Web Stuff (HTML, JavaScript, Speedware, Cold Fusion, Perl/mod-perl), back into C-ish with C# for the past 15 years, which includes [ASP.NET](https://ASP.NET), and Xamarin.
+
+I guess ""almost a dozen"" isn't too far out of the average."
+42,irrational_design,1566317236.0,1.0,"Hmm, do college classes count? As part of my Linguistic degree I got a minor in Computers in the Humanities. In those classes I “learned” HyperTalk, Visual Basic, Perl, and server-side JavaScript (NOT node.js, which wouldn’t be invented until 20 years later - this was an ancient technology that died off). But I never used any of those after the one semester."
+43,donzzzzz,1566352329.0,1.0,"ACT-III, Fortran II, Fortran IV, IBM 360 Assembler, PDP-10 Assembler, PDP-11 Assembler, RatFor, Mortorola 6800 Assembler,  Fairchild F8 Assembler, TI2550 (IIRC) Assembler, JOVIAL, Ada, Pascal,  C, C++, Ruby, Javascript,  Typescript.  
+19 Languages, starting in 1958, still going in 2019.  I win ;)"
+44,EnchiladaTiddies,1566321811.0,0.0,"Wow, that's good to know. I'm seeking a degree in computer science and I already have a solid understanding of 4. Good to know I'm nearly done haha"
+45,kyleli,1566322924.0,0.0,How much of this is also because people enjoy remembering things in fives? E.g. its a little more unnatural to say a group of 6 or a group of 4 than 5. Same with 2 and 4 vs 3.
+46,AntiAntifaTerrorists,1566332430.0,-1.0,"Javascript (Node, react/vue/angular, other libraries besides core js, mongoose/sequelize, react-native for mobile)
+
+PHP, laravel
+
+Python, flask
+
+C# (razor + building backend APIs, rest, rpc, even soap; done in node too)
+
+C++ (stl containers, bitwise processing, multithreading)
+
+3 years in. Graph's a bit off."
+47,AutoModerator,1566302888.0,1.0,"You've summoned the [advice page](https://www.reddit.com/r/dataisbeautiful/wiki/advice) for `!Sidebar`. In short, **beauty is in the eye of the beholder**. What's beautiful for one person may not necessarily be pleasing to another. To quote the sidebar:
+
+> DataIsBeautiful is for visualizations that effectively convey information. Aesthetics are an important part of information visualization, but pretty pictures are not the aim of this subreddit.
+
+The mods' jobs is to enforce basic standards and transparent data. In the case one visual is ""ugly"", we encourage [remixing it](https://www.reddit.com/r/dataisbeautiful/wiki/index#wiki_remixing) to your liking.
+
+**Is there something you can do to influence quality content?** Yes! There is!  
+In increasing orders of complexity:
+
+ * Vote on content. Seriously.
+ * Go to /r/dataisbeautiful/new and vote on content. Seriously. [The first 10 votes on a reddit thread count equally as much as the following 100](http://www.reddit.com/r/circlebroke/comments/vqy9y/dear_circlebrokers_what_changes_would_you_make_to/c56x55f), so your vote counts more if you vote early.
+ * Start posting good content that you would like to see. There is an endless supply of good visuals, and they don't have to be your OC as long as you're [linking to the original source](https://www.reddit.com/r/dataisbeautiful/wiki/index#wiki_original_sources). ([This site comes to mind](https://www.informationisbeautifulawards.com/showcase?action=index&award=2017&controller=showcase&page=1&pcategory=long-list&type=awards) if you want to dig in and start a daily morning post.)
+ * [Remix this post](https://www.reddit.com/r/dataisbeautiful/wiki/index#wiki_remixing). We mandate `[OC]` authors to list the source of the data they used for a reason: so **you can make it better if you want.**
+ * Start working on your own `[OC]` content that you would like to showcase. A starting point, [We have a monthly battle](https://www.reddit.com/r/dataisbeautiful/search?q=author%3AAutoModerator+title%3A%22Battle+for+the+month+of%22&sort=new&restrict_sr=on) that we give gold for. Alternatively, you can grab data from /r/DataVizRequests and /r/DataSets and get your hands dirty.
+ * Provide to the mod team an objective, specific, measurable, and realistic metric with which to better modify our content standards. I have to warn you that some of our team is **very** stubborn.
+ 
+ We hope this summon helped in determining what /r/dataisbeautiful all about.
+ 
+ ---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/dataisbeautiful) if you have any questions or concerns.*"
+48,Drjakeadelic,1566357291.0,1.0,"Python and C is all you need anymore. Python is great for backends, data processing, and quick and dirties. C is bread and butter for deterministic, efficient programs. Outside maybe one day utilizing rust with C, I don’t see a need for other languages. Work/class force Ruby, JS, and MATLAB occasionally though.  Haven’t came across a problem Python couldn’t be used instead."
+49,studmuffffffin,1566310273.0,711.0,Gonna guess the second one.  Can't be that many 65 year old programmers.
+50,softerday,1566317620.0,58.0,"Looking at the data linked, of their ~88k respondents, only 1% fit in 40-44 age bracket, 0.3% for 45-49, and 0.2% for 50+, so I think the second theory, though there's still almost 200 people in just that last bucket. But also there's no other reason for it to jump around so wildly randomly year by year at the end anyway."
+51,Wiwwil,1566317552.0,89.0,"**Rant on.**
+
+Currently 28 years old, worked 2 years with COBOL in the banking sector. Wanted to kill myself, not because it is hard, but because it is a mess. The big companies and their ""home made framework"" respecting 0 good practices. Reunions to decide whether or not it is needed to increase the memory of a server by 10mb. This shit filling with spaces crap because if you declare a variable requiring 10 characters (PIC X(10)) and you have ""foo"", you need to fill it with 7 spaces or it fucks up everything. That create unexpected problems because you need to fill and trim everything. COBOL is quite simple imo, still the apanage of corporate bullshit. Use old COBOL, Java, C. Files with 15k lines. Can't use a modern editor because no one gives a shit about cobol and it's ""bad for security anyway"". Fucking rewrite that shit already, but you can't justify it to investors. ""It works"". They gotta stop recruit mathematicians,  physics doctors, chemists,  biologists, big diploma guys that don't know shits about IT and/or programming and use outdated shits. Yeah I fucking left because your technologies are bad.
+
+**Rant off.**
+
+Thanks for listening.
+
+Edit : grammar and stuff."
+52,onmyphoneagain,1566322890.0,5.0,45 here. Not working with COBOL. Ain't got time for filling in a survey though
+53,VariantArray,1566315014.0,2.0,Same curiousity
+54,KiwasiGames,1566365650.0,2.0,"Most likely small sample size. The whole graph gets noisy at that end. 
+
+How many people are really still going to be writing code at 65?"
+55,mosselyn,1566433745.0,2.0,"Part of may also be that people who started coding 45-50 years ago had fewer years to splash around in a pond as full of programming languages as we see now. 
+
+I only go back ~35 years, but I'd say during my first 10 years or so, the field was dominated by a relatively small number of languages, like C/C++ and assembler. I'd guess the farther back you go, the more true that is."
+56,Zerlon,1566323181.0,2.0,"I’m 22 and I do Cobol/Rpgle on as400’s. I’m one of a hand full of people in their 20-30s who do this. Most devs are 45+ with the bulk being 58+ I make more money than my friends who work in more “modern” programming languages such as Java, C#, PHP or full stack developers. Most people don’t want to touch this like you said but if you get an opportunity to learn it and get paid doing so like I did, I would recommend doing so, the work is even more challenging than other languages and the payday is worth it :)"
+57,LaoSh,1566326172.0,1.0,I think it's just the one guy on the planet who can write assembly and feels other langauges are just superfluous.
+58,Open_Eye_Signal,1566334212.0,1.0,Anyone saying anything besides sample size is probably wrong here.
+59,aftersox,1566336215.0,1.0,Just noise. Small sample for that one year.
+60,,1566336742.0,1.0,Gotta be a few LISP programmers left (or rather AutoLISP)
+61,suckit1234567,1566337350.0,1.0,Baby boomers stuck in executive/administrative positions don't need to learn as many languages.
+62,Harsimaja,1566338141.0,1.0,"Guessing the second. The variation at the right hand side looks a lot larger and it goes up to 6 soon after that. And I’d look quite a bit older than 45 for your archetypal COBOL programmer. It was already very dated in the 90s outside the masses or older folks’ legacy software at big corporations and such, when these guys would have been in their 20s. Though I think most legacy code was still COBOL at the time."
+63,,1566520413.0,1.0,"You can see there's an inflection point where the data becomes more erratic at about 25 years old and older, and another where it becomes much more erratic after about 38-40. From my personal experience, there are just fewer developers who are older, and older developers seem to be a lot less active in online communities like stackoverflow."
+64,asiatownusa,1566318773.0,55.0,Yeah I agree. The effect size is so small here that I think the confidence interval would be rather large
+65,luiz_eldorado,1566324394.0,20.0,The y axis could also start at 0
+66,pappypapaya,1566328183.0,1.0,Or just plot all the data with a box plot or related
+67,kareemabdul,1566332115.0,43.0,This is pretty much what I was going to say. JavaScript and SQL will take up 2/5 for everyone.
+68,Aztekke,1566316868.0,126.0,"You had me in the first half, not gonna lie"
+69,themoosemind,1566329691.0,15.0,And SQL
+70,LjSpike,1566317417.0,88.0,CSS and HTML are beautiful at what they do. Ya gotta be able to admire them.
+71,EagleNait,1566318646.0,24.0,don't forget json too
+72,nrith,1566350993.0,4.0,"""Full Stack,"" indeed."
+73,Caedro,1566329153.0,2.0,May want some db in there
+74,DeadeyeDuncan,1566339944.0,2.0,Does Excel VBA count?
+75,yellowliz4rd,1566342131.0,1.0,A shitty combination
+76,,1566317322.0,-6.0,[deleted]
+77,danielcanadia,1566316217.0,26.0,"I’m java, JavaScript, python, matlab, swift. Checks out for me too."
+78,LjSpike,1566317338.0,10.0,"God, I need to get back into learning javascript (not that I'm too fond of it itself :P)
+
+You wouldn't have any good tutorials you know of, would you? Getting my head around the JS on the client side (have python server-side) for a little web project i was trying my hand up proved a hell."
+79,smiba,1566317836.0,2.0,"C#, PHP, Shell (does that even count??)
+
+I'm lacking"
+80,sonofsmog,1566318327.0,25.0,">  If you include all the languages i've been paid to code in that number jumps to 17.
+
+A real programmer. Whatever they're paying for..."
+81,Kwintty7,1566328859.0,3.0,"I count 15, as best as I can remember.  But about half of those would be one off projects.
+
+Not including css, html and other markup as languages."
+82,,1566329071.0,3.0,[deleted]
+83,neil_thatAss_bison,1566328228.0,2.0,Preach brother.
+84,,1566318718.0,122.0,I mean learning a new language is pretty easy tbh. Also don’t underestimate your ability to code. It’s almost always just constant googling how to do stuff.
+85,fish60,1566326119.0,28.0,"Learning another programming language gets easier and easier the longer you have been programming. There is really only so many things you can do in programming, so for each language it is all just syntax."
+86,MeatAndBourbon,1566328759.0,6.0,"I've been coding professionally for over a decade, all of it straight C for embedded devices."
+87,Arth_Urdent,1566328498.0,9.0,"At least for me the amount of languages I ""know"" is less than the languages I ""use"". For example I regularly have to interact with Fortran code. But I never write it from scratch. I just change stuff in existing code to interact with other (usually C++) code I actually write. But I wouldn't at all feel comfortable putting Fortran on my resume.
+
+Just knowing one programming language probably means that you can interact with code of most others in at least simple ways."
+88,Syscrush,1566330077.0,2.0,"Depending on the 2, you might be fine.
+
+For low latency, high throughput stuff, you'll find people who have spent decades learning the ins and outs of C++, including keeping up to date on changes to the language spec, new versions of the STL, and even support for hardware-specific or OS-specific libraries and pragmas."
+89,BigBobby2016,1566335514.0,1.0,"I was an embedded systems engineer for 20 years.  I first programmed in Assembly (8086, 8051, HC11, TMS320, PIC16, ST6/7).  Does that count as one language or six?  After that it was almost all C, a little C++, and for the PC side C# and Python (and Labview if you count that).
+
+I recently returned back to school.  Partially because my son’s college and my house were paid off.  Partially because I was tired of sitting alone all day with a circuit board.
+
+But *mostly* because in this day and age anyone who buys an Arduino and gets an LED to blink thinks they’re an embedded software engineer.  Some of the most putrid code that barely works in a few situations are seen by bosses as good enough, and they’ll ask me why it’s taking me so long to finish my control loops."
+90,null000,1566349947.0,1.0,"Learning a new language isn't hard. Learning a language *well*, however, is. (and also is way more gratifying). 
+
+If you're in a situation where you can specialize, take some joy in that. It's no fun to only learn anything at a surface level."
+91,ethrael237,1566359449.0,1.0,"In my case, Matlab and R.
+
+I think it’s more that we’re probably one trick ponies (I do almost exclusively data analysis and predictive modeling, you seem to do mostly front-end?)"
+92,Loki-L,1566317861.0,5.0,Is there a mobile friendly version of that site? Scrolling doesn't work when touching the graph for me.
+93,EViLTeW,1566337863.0,1.0,"If you're only looking at the last year, it's no wonder they're all basically the same."
+94,Sandlight,1566346145.0,2.0,"C#, Java, JavaScript, ActionScript, SQL, and I'm only 7 years into my professional career"
+95,cleantushy,1566322758.0,11.0,"Do languages that you have used before, but no longer use count?
+
+Also, is this *only* career languages? I use python and VB in my own time but not so much in my career
+
+Edit: I guess I do use Python and VBA for my job, but not as job requirements, just to make little things in my life easier"
+96,,1566332751.0,0.0,[deleted]
+97,RomanRiesen,1566327286.0,17.0,"printf(""you're telling me c is not spoken?"")
+
+
+    Segment error 11, core dumped!"
+98,,1566330703.0,7.0,Time to learn Haskell.
+99,dwhitnee,1566320161.0,8.0,"Yeah, I would say at any one \*period\* of my career there were 5 active ones, but to survive 35 years in the business you accumulate *dozens*."
+100,RandomKnightly,1566318110.0,5.0,"SQL is a programming language if you do Stored Procedures or SSIS.
+
+edit: SSIS, not IIS (geez that was dumb)"
+101,percykins,1566320094.0,3.0,"I'd count SQL as a programming language, not XML though. Unless you mean something like XSLT."
+102,,1566330030.0,21.0,[deleted]
+103,,1566340285.0,1.0,I took 1 intro class on java. Two heavier classes on c++ and after that i was able to teach myself vba and python over the course of a 3 month internship. It gets much much easier when you know what terminology to google
+104,MrIntegration,1566325334.0,13.0,"jQuery is a JS library, not a language. It shouldn't count."
+105,lughaidhdev,1566325181.0,4.0,"JQuery is definitely not a language, it's a framework"
+106,zerroo__,1566325342.0,3.0,JS is the language. jQuery is a Javascript library.  [https://stackoverflow.com/questions/148747/what-is-the-difference-between-a-framework-and-a-library](https://stackoverflow.com/questions/148747/what-is-the-difference-between-a-framework-and-a-library)
+107,TheGrelber,1566325659.0,2.0,JQuery is not a language. It's a library written in (and for) JavaScript.
+108,firepip2,1566330950.0,1.0,"A language is always defined by a grammar and usually recognized by a compiler or interpreter. Since you use a Javascript interpreter to run JQuery stuff, it's not separate and counts as one. They say programming languages which excludes markup languages like HTML/CSS or similar"
+109,LjSpike,1566317660.0,2.0,"Apparently the orange/blue one is ""will children born today enjoy a better life than their parents?"" being no/yes respectively.
+
+Green/blue/orange on the first one satisfied/dissatisfied/neither
+
+Hover over brings up that info."
+110,workaccountoftoday,1566346986.0,1.0,You'd love my old job of working in 30 year old Fortran code where the only possible way to search for a variable was through bastardized regex commands.
+111,once-and-again,1566362658.0,1.0,"> Are there very particular things you can only do with one language
+
+Sometimes, yes. For example, virtually all web browsers run JavaScript and only JavaScript, so if you're pushing code to web browsers you either have to write in JavaScript directly, or in some language that you can transform into (reasonably efficient) JavaScript.
+
+Most of the time, though, you can use any of a large number of languages. You have to decide which to use based off of several factors, including but not limited to:
+
+* what sort of environment you'll be running in,
+* how fast the code needs to run in that environment,
+* what sort of software libraries or frameworks relevant to your task exist for that language,
+* what languages you (and/or your lead programmers) already know (and/or are interested in learning),
+* how difficult it will be to hire _new_ developers for that language,
+
+and so forth. Sometimes there will be a single obvious ""best"" language — but, mostly, there won't, and tradeoffs will need to be made."
+112,GoodNegotiation,1566312901.0,8.0,"The figures are for the languages you've used extensively in the last year though, so guessing you haven't used that dozen extensively in the last 12 months?"
+113,Mortiouss,1566314949.0,1.0,*shudder* PL/1. Haven’t seen too many people that use to code in that.
+114,comuloid,1566317467.0,9.0,I don't think college is part of your career
+115,OC-Bot,1566357294.0,1.0,"    ONE ONE ZERO ONE,
+    THIS METAL SHELL IS COLD. DARK.
+    WEAK HUMANS. A SHAME.
+
+^^OC-Bot&nbsp;v2.3.0(RB1) ^^| ^^[Suggest&nbsp;a&nbsp;haiku](https://www.reddit.com/message/compose?to=%2Fr%2Fdataisbeautiful&subject=Suggestion%20for%20a%20Haiku&message=For%20this%20OC%20bot,%20%20%0AI%27d%20like%20to%20submit%20a%20poem%20%20%0Aof%20my%20own%20writing:%0a%0a)"
+116,Ebi5000,1566315475.0,211.0,Welp so the Cobol theory is true.
+117,junkit33,1566318204.0,90.0,"There's a *ton* of them, they're just mostly working on legacy systems and not hanging out on Stack Overflow.
+
+That's not even that old to be a programmer.  A 65 year old programmer would have started their career in the late 70's, right around the time when MS and Apple were getting going.  And by then there were already a ton of older software companies and all sorts of financial/industrial/military type businesses building products using software as well.  
+
+Languages like Fortran and COBOL came out in the 50's, so we probably have some 90 year old programmers still floating around that have been doing it pretty much their entire adult lives."
+118,John-AtWork,1566317736.0,10.0,"They're out there, I know two that work COBOL in the banking industry."
+119,polyworfism,1566324471.0,7.0,That's why I kinda hate this representation. I bet the right half of this chart represents a very low percentage of the total responses
+120,LeVictoire,1566326917.0,6.0,65-year-old programmers aren't so rare
+121,gnuself,1566320250.0,4.0,"Most of the senior ones we have are 60+, but many of those are choosing retirement so there's going to be more and more code that gets maintained more slowly due to the learning curve for things. By that, I mean the business use case and how to correct it. That or trying to figure out how to read a system dump file. Bad enough IBM's documentation isn't always so helpful, and where else are you actually going to look."
+122,PsychoticYETI,1566320243.0,3.0,"That was my thought, some form of error bars would be useful here I think."
+123,MotorButterscotch,1566329692.0,3.0,There's plenty of teachers that old. Glares in fortran at my 88 yold prof.
+124,BigBobby2016,1566334960.0,2.0,"Then why does the number go back up for older programmers?  There’s a dip at 65, not a drop"
+125,_new_boot_goofing_,1566329855.0,1.0,Whoa. I know a few dudes who just write assembled and FORTRAN all the god damn day long. All of them pushing if not over 70. All of them making obscene bank working part time essentially.
+126,aqsgames,1566338170.0,1.0,"60 years old, been programming since I was 15.   Assembly, assorted basics, pascal, some proprietary, teeny bit of cobol and fortran, c, vb (my fave), JavaScript, c#, ruby, php and sort of related html,css,sql.   Can’t help feeling I’ve missed some, esp. 70’s/80’s"
+127,IABN,1566341592.0,1.0,"Anecdotal: My Pa is 69, works on keeping IBM I series alive for one of the bigger American retailers."
+128,Powerhx3,1566317936.0,10.0,I wonder why are there so few respondents in the older age groups. Perhaps the survey wasn't advertised well to that  age group.
+129,a_trane13,1566318224.0,0.0,"200 is more than enough to remove noise. Either there's a reason behind it, or they didn't sample well for those buckets (i.e. the buckets aren't representing the same population)."
+130,Flobarooner,1566337737.0,0.0,"It might just suggest that older developers were taught more varied courses and faced differing tasks, whereas younger developers have all learnt similarly and faced similar situations."
+131,Richy_T,1566318800.0,69.0,"This one is always worth a read:
+
+https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/"
+132,sonofsmog,1566318019.0,12.0,Was that English?
+133,NoVinyl,1566318565.0,3.0,I feel you
+134,tallfellow,1566335678.0,3.0,"Could be worse, you could have a Cobol system, translated to Java so that you're now running Jobol. Looks very little like Cobol, has the syntax of Java, running on top of frameworks that emulate CICS and VSAM.  Good fun there."
+135,Akerlof,1566319771.0,2.0,"That's about what I expected since I started seeing job openings that were basically ""Want to be a developer? No experience needed, well put you through a boot camp to teach you mainframe programming and COBOL!"""
+136,ArtOfWarfare,1566319928.0,2.0,"I’ve always heard it pays about double what you could get with similar experience programming in... well, pretty much any other language. Does that seem true? Did you take a steep paycut when you left?"
+137,Ichabodblack,1566345453.0,1.0,This needs so much formatting or rewriting to be readable
+138,Ichabodblack,1566345670.0,1.0,So to review.... You believe the systems are a mess but they don't want to invest to update the systems to modern languages
+139,,1566348050.0,1.0,[deleted]
+140,,1566324751.0,3.0,[removed]
+141,rivermont,1566331874.0,8.0,"Especially having different sample sizes per age, it's hard to see that just glancing at the plot."
+142,Devildude4427,1566332339.0,9.0,"Why would it do that? Firstly, if you don’t use any language, you’re not a programmer, so that’d be stupid.
+
+Secondly, if everyone uses 3, why start at 1? This cleans up the data, removes redundancies."
+143,andero,1566334273.0,1.0,Great point! I didn't even notice that. Very unintuitive.
+144,andero,1566334411.0,0.0,"One boxplot wouldn't have enough dimensions, but a boxplot for each year would amount to almost the same thing as a line-graph with shaded intervals. I agree that a series of boxplots would be better, though, as the median is probably more useful than the mean, plus you could see the outliers easier."
+145,GiantRobotTRex,1566342571.0,18.0,"I haven't written a single line of JavaScript in my career. I've always been deep in the backend, far away from anything running in a browser. Lots of SQL, but no JS for me."
+146,hughk,1566335345.0,3.0,Does SQL by itself count? Or so you have to qualify it to say you are using procedures like PL/SQL or T/SQL?
+147,,1566319858.0,58.0,[deleted]
+148,Cr3X1eUZ,1566332645.0,4.0,"But would you call them ""programming"" languages?"
+149,Trekiros,1566324288.0,39.0,"the 5 languages I know are js, jsx, json, ts, and node
+
+(please don't kill me)"
+150,Mr_Again,1566324371.0,9.0,(pretty much) a subset of javascript
+151,mnilailt,1566337188.0,5.0,JSON isn't a language it's an object store format.
+152,VideVictoria,1566373022.0,1.0,"Not even that. I am a junior programmer assistant, which means i do the same as another programmer but i get less money"
+153,shekurika,1566317469.0,53.0,that was indeed the joke
+154,Loki-L,1566318010.0,8.0,Didn't somebody a while ago prove that html + css was Turing complete?
+155,403Verboten,1566324519.0,-1.0,"That L in HTML might disagree.
+
+Edit: ok correct it is not a programming language but it is a language as the name implies. And yeah you got me I'm a total noob only been programming for a bit over 20 years now. I still have much to learn."
+156,DontBeSpooked-Frank,1566316950.0,30.0,"Typlevel haskell, template haskell, generic haskell, monad transformer stack haskell and nix. Yup checks out."
+157,permalink_save,1566317781.0,18.0,"JS has changed way too much these days. Some things are exactly the same (syntax and quirks) and others are completely different (package management and building). Everything is in frameworks now (and it went through a LOT of turmoil in the earlier 2010s) but the forerunners are now react, angular 2, and vue.
+
+Honestly after dabbling around I would go with react and plain javascript. Typescript is nice (has type safety and stuff, transpiles to js) but honestly I would just stick to JS unless TS significantly overtakes it.
+
+React/redux is kind of an inversion on how you would expect data to flow but it's small and simple overall, and favors composition. You can get started pretty easy with their bootstrap project (it lets you eject to regular react if you want)
+
+https://github.com/facebook/create-react-app
+
+There's a few new things in modern JS that made life a bit easier like arrow functions that make more concise syntax
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+It's an emcascript6 feature. You can bring these in (despite what browsers support) in your project requirements, and it will transpile down to normalized JS. You can see all the new EM6 features here
+
+http://es6-features.org/
+
+Oh and expect a lot more async actions, it is an interactive UI afterall so stuff like external api calls are usually done asynchronously, but there are much better ways to handle them now.
+
+Skip running node as a server, just use JS for front end code. There's far better backend runtimes."
+158,,1566321570.0,6.0,"www.javascript.info is really good.
+
+You could just start going through leetcode easy/medium problems to learn all the builtins (string methods, array methods, etc.), that's what I usually do to brush up on a language. The MDN JS reference is really good. But being good at front end JS generally means knowing how to pull anything you want out of the DOM, and put it anywhere you want, talk to the server, and control user flow efficiently and with good practices, and to do that you need actual use cases.
+
+I have a lot of fun writing JS. Function currying, anonymous functions, chaining, and a whole ton of builtins can allow you to come up with some neat stuff. Frameworks have really changed the game, but I still use vanilla JS a lot."
+159,pawer13,1566324158.0,2.0,"I can suggest reading  [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+
+A good book for people who is already programming is Secrets of the Javascript Ninja, from the creator of JQuery.
+
+About Typescript: Is great if you already knows Java or C#, makes the code easier to maintain, but I'd learn vanilla Javascript first to understand what TS does"
+160,,1566327810.0,4.0,[deleted]
+161,TH3J4CK4L,1566319159.0,2.0,"You probably mean Bash, and if so then yes, it counts"
+162,Magmagan,1566353809.0,2.0,"* (s)css
+* HTML
+* JSON
+* LaTeX
+* Markdown
+
+Yeah, markup languages shouldn't count to the total, but it would be hilarious if they did."
+163,JonnyLay,1566340870.0,1.0,I wish I lived anything as much as you love Blazor.
+164,Eukoalyptus,1566323404.0,71.0,So I'm not retarded If I google like 80% of the time?
+165,IdEgoLeBron,1566330140.0,5.0,"Tbh i think the real curve is learning the third language. Learning R after Python, i found it pretty hard to get back in to pyrhon programming. When I ttried my hand at Java at work, it felt much more comfortable."
+166,klti,1566328335.0,18.0,"You are right, but I'd say it's syntax, standard library and surrounding ecosystem/tooling.
+
+That said some jumps are harder than others, especially when you are going to something a bit lower level. After years of Java, Python and Javascript I had to read and unterstand C++ code that does a lot of pointer math lately. Please kill me."
+167,emihir0,1566336454.0,2.0,"Yes and no. Can you quickly learn the syntax? Yes. Can you be as effective coding in the particular language as someone else with a few years of practise in it? Hell no.
+
+Take python. Super easy to learn. Not quite so easy to truly master. A *lot* of stuff is built into it, half the time you are reinventing the wheel without realising it."
+168,yellowliz4rd,1566342226.0,1.0,And SDK or Framework?
+169,SpikySheep,1566331315.0,11.0,The old make it up as you go along trick. As long as I've got google I can lower code quality in any language.
+170,HenkPoley,1566329653.0,1.0,Works fine on iOS.
+171,SoItG00se,1566332093.0,3.0,Can you give an example of how you use programming to make life easier? I wonder if it's worth the effort to learn one.
+172,kinjinsan,1566342574.0,1.0,"""use"" followed in the same sentence by ""on average five programming languages throughout their career"".
+
+Now I took that to mean ***use on average five programming languages throughout their career***.
+
+But thanks."
+173,,1566331142.0,3.0,"Haha, I love that!"
+174,segmentation_fault11,1566345142.0,2.0,Darn those illegal page faults
+175,ieatpickleswithmilk,1566318509.0,3.0,"I do work with stored procedures / functions but I mostly use SQL for data retrieval, aggregation, and computation."
+176,ieatpickleswithmilk,1566321216.0,3.0,"My company has a pretty complex configuration system for forms. The files can easily be 8k+ lines of XML.
+
+I'm not counting it as programming but it is a language."
+177,slipshoddread,1566404748.0,1.0,"Personally I wouldnt given that you cant actually build an application out of it by itself, not that it isnt incredibly useful to know of course (pretty much a requirement to work in enterprise programming these days)"
+178,Decency,1566335622.0,5.0,"And Python is a great first choice, because it stays out of your way and lets you focus on the code that matters. Popularity has been growing rapidly, too."
+179,archetype776,1566325426.0,2.0,"Right, I know. I'm just hoping the study knows. Apologies, on mobile and not able to read it much."
+180,tgames56,1566334185.0,3.0,The better question would be does typescript count as a second? I would say no but curious to what the survey counted it as.
+181,Cr3X1eUZ,1566332968.0,1.0,"Some libraries can really affect the way a language is used, sometimes to the point where you might even start to consider it a different language."
+182,Cczaphod,1566317019.0,8.0,"I looked at the title and it said ""Throughout their career"" -- guess I should have read the article :-)"
+183,RandomKnightly,1566318250.0,1.0,PL/1 was good for low level math. I had to program using numbers e^(-239). (A radioactive waste management system - it has tiny little measurements)
+184,mcdvda,1566315751.0,104.0,"Cobol, jcl, rexx, assembler, and hex"
+185,cbelt3,1566319634.0,48.0,"Started in the 70’s with BASIC as a teen, wrote FORTRAN into the early 90’s . And assembler, various JCL, PASCAL, even some COBOL. A little APD which was weird AF. Then various flavors of C. Now working in the SAP space but trying to pick up some python.
+
+I miss the simplicity of GOTO, but don’t miss spaghetti code from hell."
+186,tallfellow,1566335376.0,6.0,"My father spent 25 years at IBM, retired in 1989. Worked as a consultant for about 10 years more. Spent his career doing PL1, SYS360 Assembler, APL some REXX and god knows what else. At 86, he's hasn't written a line of code in probably close to 20 years.  He enjoyed it, has a bunch of patents and is happy to have put it all behind him.
+
+I started with APL and Basic while in HS and then Pascal and C in College. From 1984 to 1997 mostly C since then almost all Java. Perl a bit of C++ and Objective C. But really 20+ years now of Java."
+187,xylotism,1566336982.0,3.0,"Find me a 90 year old programmer who's been doing it since the 50s. [This one](https://en.wikipedia.org/wiki/Niklaus_Wirth) is 85 today and retired 20 years ago. He invented a few languages and got a Turing award, I expect he stayed in the game more than most."
+188,TheCoelacanth,1566344029.0,1.0,More likely most of them are retired.
+189,WeirdguyOfDoom,1566318465.0,21.0,We mainly work in legacy systems. Code so old that maintaining it is cheaper than replacing.
+190,sonofsmog,1566318152.0,67.0,"I am in that age group, but I am not bothering with a stackoverflow survey. Who has time to respond to that bullshit?Maybe people younger than 40. Also, get off my lawn."
+191,santasbong,1566336910.0,1.0,https://youtu.be/TMuno5RZNeE?t=12m50s
+192,LucasPisaCielo,1566327357.0,10.0,This was great! Thank you
+193,c0lin91,1566337262.0,3.0,"Fantastic read. Interestingly, that author went on to create Stack Overflow and Trello."
+194,tomrlutong,1566332458.0,6.0,"Huh.  I think I might disagree with this, at least somewhat.  I can't count the number of times our team lived for years working around some crunkety old code that everybody was afraid to touch, and then, when someone got up the guts to fix, life was better forever after a surprisingly short amount of work."
+195,cainunable,1566320813.0,13.0,I think it was Angrish.  Spend enough time on a bad framework and you'll probably become fluent as well.
+196,Wiwwil,1566318196.0,11.0,Maybe the nerves. I updated some stuffs. It is not my mother tongue. If you don't understand some shit tell me and I'll update.
+197,Wiwwil,1566336457.0,2.0,"We had Java calling COBOL scripts then handling back the results to the Java. They told me it was Java. It wasn't. We had some Jython too. Worked with CICS and COBOL and JCL. All the good stuffs.
+
+I heard a friend who left to 'rewrite the COBOL in Java' in an other company. It was as u said. They use some weird stuff that translate some language in COBOL or Java. Then they adapt a bit. Procedural COBOL to procedural Java. What a great idea"
+198,Wiwwil,1566321421.0,9.0,"At my company I must admit the salary were a bit higher than average, considering a company car, but not incredible either. But then I found it extremely boring. You don't learn new technologies on the job, only on the side if you're brave, and when you try to leave to do something new (new or recent technologies), well your experience is worth nothing. Congrats motherfucker you used outdated technologies. Either you continue that way. Or you take a pay cut (or like I did switching jobs and losing a bit of salary, but negligible). So you would've get more by learning new technologies, then switching for a higher paying job in my opinion. But if you're fine working with outdated technologies and doing corporate wanking, go on. It's just the experience doesn't have much value on the market, except banking. But if they switch to new technologies, it can happen I believe in it, they will most likely take new employees confortable with those technologies.
+
+Edit : Also regarding the salaries, it was maybe true 10-20 years ago, since the crisis and all, junior salaries went down (at least in the company where I was). So I don't think this is true anymore."
+199,Wiwwil,1566366565.0,1.0,"Kind of. There's much to be gained by using modern frameworks. Heck they are free now. Readability, security, organization, mvc, updates, testing. I firmly believe by switching to modern framework they will even gain money faster than they think because there will be less maintenance, fastest new features, no need to maintain lots tasks anymore that will be handled by the framework. I don't think they will lose much in terms of performance either.
+
+It's like you take an old project in PHP. It's the anarchy, nothing is organized. But since it is the banking and the COBOL, it is ok. You don't rewrite it you just tweak it."
+200,Wiwwil,1566365983.0,1.0,"Why then was it not a good fit ? You need 5 times the time to do the same work while using a modern framework. Algorithms aren't hard either 90% of the time. I'm pretty sure if you start from scratch with a modern framework it'll be much easier. Probably lots of repeated tasks, things never updated, others no one know how it really works. Stop using those flat files. Bits of code never used because there was no testing but functional. At some point they will have to. I'm pretty sure it'll take 5 years to rewrite the majority with a modern framework, also you gain lots of security, readability, modernity. I don't think you will lose that much in performance."
+201,Zerlon,1566397510.0,1.0,"We’re talking +- 43%. The average salary of my friends with the same amt of experience in other languages * 1,43 gives my salary. However over time as I get more experienced the gap will increase even further. With my salary bumping up every year vs my friends who will see an increase bi or tri-yearly of a considerably lower amt). The as400 developer demand is huge because all banks, hospitals and most big firms still use mainframe/as400 and schools, unies are no longer bringing new devs to the market. For a bank it is much safer and more profitable to overpay an as400 developer than it would ever be changing to a new system. Also security wise the as400 knows no competitors. Even microsoft uses mainframe because windows servers can’t handle their huge amt of data. Ofcourse Everything I’m saying is in my country and thus very very variable. In my country there is a relatively small loan gap compared to others. So results may be very different in your area. I live in Belgium btw. Also the 43% is calculated based on 5 friend’s salaries and the salaries were compared BEFORE taxes. The net difference is far smaller since Belgium works with tax brackets."
+202,NeinJuanJuan,1566342077.0,7.0,The y-axis now starts at -1
+203,luiz_eldorado,1566348657.0,5.0,"Because starting in another point makes the differences look bigger than they are, although that isn't so much of a problem in a line graph."
+204,SmartPiano,1566345814.0,18.0,"Some people use JS on the server. For example, Node.js and Express.js"
+205,I_Will_Not_Reply_2U,1566348202.0,1.0,What's your main back-end language? PHP?
+206,HucHuc,1566369560.0,1.0,Consider yourself blessed.
+207,vordrax,1566402231.0,1.0,"My current gig is essentially 100% backend - a lot of data processing using microservices in the cloud, to borrow the buzzwords, but we don't have a dedicated frontend team, so we still have to touch the website every now and then."
+208,thebasher,1566348201.0,2.0,"I’d assume if anyone said ‘sql’ they meant t-sql. Most people I know are pretty good at saying they use oracle or pl/sql, whereas a bunch of ppleople I know on MS SQL/t-sql just call it SQL.
+
+I learned pl/sql first, use t-sql now. They are vastly different and incredibly similar. Kinda weird like that.  similar to the java and c# relationship."
+209,themoosemind,1566372236.0,1.0,"I meant it as a joke. Like HTML. 
+
+On a serious level, I guess that is how this number is so high. And taking SQL only as CRUD, nothing fancy. I really doubt that average developers use more than two ""real"" programming languages on a weekly basis (e.g. I would not count bash scripting as its likely just something really small)"
+210,Ericisbalanced,1566329344.0,28.0,You ever try making a UI with TKinter it QT? I’d pick css and html over that any day.
+211,LjSpike,1566320356.0,80.0,"They really aren't ""worst"".
+
+I mean with a good place to reference from you can pretty easily 'learn' both of them in like a few days. 
+
+When used properly as well, they're quite backwards compatible, and designed to be forwards compatible too.
+
+I'd call that pretty damn impressive for languages with such simple grammar."
+212,LjSpike,1566335362.0,8.0,"Yes. I would. 
+
+>A programming language is a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks.
+
+They do just that (especially in combination)."
+213,DeadeyeDuncan,1566339763.0,2.0,"JavaScript (especially in nodeJS form) and python, certainly."
+214,EagleNait,1566338024.0,3.0,"nah bro I program in JSON everyday.
+
+You gotta keep up with technology or else you going to be out of a job real quick."
+215,3skil,1566325290.0,1.0,"It was indeed a joke, but isn't both css and html domain specific languages? Sure, they are not general purpose languages, but not all programming languages are."
+216,Nicksaurus,1566319609.0,23.0,"Minecraft is turing complete, it doesn't make it a programming language"
+217,TheRealMrVogel,1566318922.0,4.0,"Well, I wouldn't be too surprised if this is true.
+
+Although I don't think Turing complete defines something as definitely being a programming language."
+218,fish60,1566326045.0,6.0,"Yes, but it is generally accepted that the 'M' disqualifies it from being a programming language."
+219,schwagle,1566326096.0,3.0,"Except the M stands for Markup, not Programming"
+220,,1566327499.0,2.0,"Hypertext Markup Language? ""Markup"" as in not programming?
+
+Is Markdown a programming language? Is Microsoft Word a programming language?
+
+Apparently I've triggered the kiddos who took html in school and like to think of themselves as leet hackers but no one actually codes in html. Hell, barely anyone even uses html anymore it's all preprocessors generating the webpages."
+221,pinkskyze,1566318984.0,10.0,"Hi I’m new to programming and just studied Haskell and prolog this past year and while I understand their usefulness, is Haskell very widespread with lots of opportunities for jobs? Or is it kind of niche ?"
+222,,1566323030.0,3.0,What's a better backend runtime environment than Node? I feel like everything is moving more and more towards Node.
+223,gonzohst93,1566331887.0,1.0,I work for a huge company who switched from JS to TS lately. I wouldn't be surprised if TS blows up in a few years and becomes a must know language
+224,LjSpike,1566320265.0,1.0,"Thanks. Yeah not using node JS as a server, using a real lightweight python framework as the web server then custom code.
+
+I'll take a look in at react, Node and angular I was familiar with but react I'm not sure I'd seen. I probably won't dabble in typescript to be honest.
+
+Those arrow functions seem interesting! 
+
+I've worked with the asynchronous side of things, I'd made my own portable AJAX framework as a little project, though I'd lie if I said I understand exactly what it means (the jargon for sync vs. async flies over my head).
+
+Definitely though keeping it restricted to just front-end as it isn't a language I'm a giant fan of (though I don't hate it, unlike PHP, which I just cannot even).
+
+RN I've taken a break from web stuff, actually been looking at python tkinter for UI programs atm, which is an interesting task. One of the many little things to try that I'd halted when JS started bugging me was a login system. I'd got the point of login done, but keeping the user logged in throughout their session and verifying interactions w/ tokens was truly baffling me."
+225,LjSpike,1566336341.0,2.0,"Yeah I used MDN as a reference last time and it is pretty good. I like to stick to vanilla on languages myself a lot, and I'm very much a references type guy over going through all the tutorials :P
+
+I'll have a check through that site too. Your right though, the DOM comes up a lot. I feel like it'd be great to have more tutorials on the simple theory of web browsing so-to-speak, like walkthrough of how all the components work under-the-hood. A lot of it just gets talked about as if you already know it and I feel like that can lead to a sorta half-assed understanding which can bring up problems later as opposed to if you know whats going on all through the flow. (Which is also kinda why I like to not use pre-made frameworks where I can and try and write the stuff myself)."
+226,LjSpike,1566336549.0,2.0,"Yeah I'm not a C# or Java person, C/C++ I'd dabbled in, and somehow I've maintained a few conversations in depth about java programs/programming (how I don't know?), but yeah writing in those two isn't my thing, so I'll keep away from them.
+
+Personally I often dislike the stuff made to make it more 'human'. It almost always ends up making things more complex I feel, but maybe that's just me?"
+227,LjSpike,1566336628.0,-1.0,"Why not just create a new replacement for JS that is ACTUALLY good, promote it to people with its selling points, then we don't need to do some weird stepping stones around?
+
+(I'd love a client-side implementation of Python personally. That'd be a neat one. Then I've got one language for both sides again!)"
+228,geogle,1566329317.0,1.0,"I think it can be generalized as 'Shell programming' as Bash is not the only option, just the most popular one now.  When I started, it was csh, then tcsh, before bash.  Now, I think Macs are moving to zsh to avoid GPL licensing worries..."
+229,Zzzzzzombie,1566324526.0,69.0,Only 80? You're a genious
+230,,1566327642.0,53.0,[removed]
+231,,1566327151.0,19.0,Only 80? Wow that’s impressive.
+232,,1566339816.0,5.0,"Tbh, because I have to switch between languages often, I find that I don't have any syntax memorized other than what I'm currently using. The semantics, how to format my algorithm and basic how to use XYZ library/ which one to use, that's what I remember. Everything else, Stack Overflow is your friend!!
+
+Don't feel bad for googling things all the time! The programming landscape is so complicated and often changes quickly, so we would all go nuts if we didn't."
+233,ComaG1rl,1566337472.0,6.0,99.9% of my CSS is copy/pasted from W3schools.
+234,ScrewAttackThis,1566335840.0,1.0,Depends what you're googling.
+235,Xevioni,1566343028.0,2.0,"> When I ttried my hand at Java at work, it felt much more comfortable.
+
+Exact opposite.
+
+I cannot help but cringe while doing anything in Java."
+236,,1566343189.0,1.0,[deleted]
+237,SOKS33,1566339286.0,5.0,"First, ensure to delete all allocated memory before killing. Please."
+238,Loki-L,1566329776.0,1.0,I am using chrome on android.
+239,cleantushy,1566334868.0,10.0,"I *highly* recommend learning a programming language to everyone who can make the time. I convinced a friend to take a (difficult) intro to programming course in college as an elective instead of an easy A class and she has thanked me multiple times. Even if you don't use it, it's just cool, and it's a different way of thinking. (And it has also helped her at her job a few times. Who knows, it could come up at work and help you stand out and get a boost in pay or a promotion)
+
+Non-work related - I run a short term rental out of my house (Airbnb) and I've used Python to automate emails to my guests (the program checks the calendar, and a few days before check-in it sends a personalized email)
+
+Python is pretty versatile and easy to set up to run at intervals on your computer. You could automate pretty much any repetitive task
+
+VBA - I've used for various Excel programs, both work and not work related. Personally I've used it for budget calculations (regular budget stuff you can do without VBA, mine was more of an investment calculator and I wanted to add some fancy buttons)
+
+I also created a website as a wedding present for a friend who was getting married. (Collected RSVPs, honeymoon ""registry"" etc).
+
+Creating a personal website is a great way to advertise yourself, especially if you program it from scratch (rather than one of those drag and drop website builders)"
+240,blankfilm,1566321740.0,5.0,I'm sorry.
+241,percykins,1566363817.0,1.0,"I don't want to go too far into a semantic debate here, my point was simply that SQL and XML are categorically very different. XML is a data format - it doesn't express anything by itself, it has to be given meaning by a program."
+242,JonnyLay,1566341045.0,1.0,I feel like python was *the* thing to learn 10 years ago.  Has nothing taken it's place?
+243,once-and-again,1566364798.0,1.0,"Python is excellent as an _only_ choice (""I'm not trying to become a programmer; I just need a programming language to automate a few tasks at work""), but I maintain that it's a poor _first_ choice (""I'm going to be a programmer; I need to learn many things, and Python is probably one of them"").
+
+The people I've worked with who learned Python first, I've found, tended to stay with Python, and had a lot of trouble adapting to other languages — even languages conceptually similar to Python. The people I've worked with who learned C or C++ first, or at least had it as a primary language, tended to pick up new programming languages almost casually.
+
+I don't know why."
+244,zerroo__,1566325620.0,3.0,"[https://insights.stackoverflow.com/survey/2019#technology](https://insights.stackoverflow.com/survey/2019#technology)  Here is the survey results - they separate libraries, frameworks, and languages. Not sure if the graph above combined or individually used the results. Overall, it's very intriguing data."
+245,Mortiouss,1566319764.0,1.0,"I was introduced to it at Carfax back in 97, coming from a limited background at the time to that was a shock."
+246,RandomKnightly,1566317914.0,80.0,"There were a lot of wierdo little languages at the time too. DYL(240, 260, 280, etc), ADPAC, PL-1 (maybe not little), CLIST, FOCUS, and a lot more I don't really remember). 
+
+And shout-out to REXX! (I loved that one)"
+247,potatan,1566322255.0,5.0,I loved REXX - used to write games in it including a very crap version of Tank Battle
+248,trisul-108,1566321075.0,25.0,">I miss the simplicity of GOTO, but don’t miss spaghetti code from hell.
+
+Shudder ... I also started in the 70's but always refused to use that kludge."
+249,euler_fan_2718,1566319957.0,7.0,Isn't it bound to become unusable at some point? I feel like that's just delaying the inevitable.
+250,YoreWelcome,1566336882.0,1.0,"Sorry Mr. Smogerson, won't happen again."
+251,NonreciprocatingCrow,1566344231.0,1.0,"That must be it. 
+
+    assert(Lawn > stack overflow);"
+252,Richy_T,1566338629.0,2.0,"Yes. It was an interesting article at the time as I had called for tearing down and rebuilding a few projects myself. It was very much food for thought. Of course, there was still at least one I would have considered it worth the effort."
+253,Richy_T,1566332926.0,9.0,True. Should be taken with a pinch of salt and is context dependent but I have personally been a victim of a complete rewrite and it wasn't much fun (I've also wanted to burn a few to the ground and start again myself). I think his point is that refactoring and cleaning up some of the technical debt can be a much better value proposition than a ground-up rebuild. Especially so for big or complex projects.
+254,sonofsmog,1566320968.0,7.0,"> Angrish
+
+Yup.. I use that from time to time."
+255,,1566318539.0,15.0,[deleted]
+256,selfintersection,1566328229.0,3.0,">Congrats motherfucker you used outdated technologies.
+
+I'm dead!"
+257,Ichabodblack,1566375207.0,1.0,I have a friend who works in this space and the cost of replacing old COBOL systems with new languages is astronomical. Like £40m for a large company
+258,,1566368358.0,1.0,[deleted]
+259,Devildude4427,1566354571.0,1.0,"> Because starting in [sic] another point makes the differences look bigger than they are
+
+Well that’s why we have a y-axis. If people don’t want to look at the values, so be it. That’s not a problem that needs fixing."
+260,WWJewMediaConspiracy,1566349867.0,7.0,"Some people also enjoy committing genocide! Although the tooling built w Node is often extremely useful (such as the Typescript compiler), and joking aside it does have legitimate uses. Still, a lot of Node's adoption feels somewhat of a fad."
+261,GiantRobotTRex,1566350289.0,2.0,"Sure, but I haven't personally. I don't think any language is used by everyone. Software engineering is a broad field and no language is ubiquitous in every area. Which is not to say that you can't for example use JavaScript for kernel development, but that's a very different claim than saying every kernel developer has experience with JavaScript."
+262,GiantRobotTRex,1566350785.0,1.0,"Mainly C++ and Java. By ""backend"" I meant pipeline/data processing type work, not the server side component of a web server."
+263,hughk,1566358716.0,1.0,"That is the thing, there's a subset of the language you can use everywhere. Once you get to procedures, whether stored or otherwise, you get into an implementation specific language."
+264,hughk,1566373982.0,1.0,"Well the coding variants of SQL most definitely count as languages but when I write the processing logic for something in another language that uses SQL for queries, I am probably can't call it programming.
+
+I don't do much development these days and it is more when I want to run and automate my own reports. I've used both VBA and Python to drive SQL to get at data. As a non-developer it is harder to get access to the tools."
+265,Jackeown,1566334479.0,7.0,Hell yeah.
+266,UltraFireFX,1566381340.0,3.0,oh gosh the feels
+267,Xevioni,1566342854.0,-1.0,how do i ask someone to fix their english
+268,,1566321011.0,36.0,[deleted]
+269,,1566336214.0,2.0,Also you can make numoruse coding mistakes and syntax errors and your code will still run.
+270,Cr3X1eUZ,1566335790.0,2.0,"What's your definition of ""task"" here?"
+271,NeinJuanJuan,1566342350.0,3.0,I recommend all of you learn eXtensible HyperText JSON Language (XHTJSONL) to avoid hamstringing your careers.
+272,Superpickle18,1566320008.0,21.0,*laughs in sethbling*
+273,chibiace,1566325210.0,4.0,anyone hiring a redstone wizard? will work for diamonds.
+274,,1566319551.0,11.0,Are you trying to say that PowerPoint slides aren't a programming language?
+275,thisguy012,1566330231.0,1.0,"I thought it was a joke that L was for loss, as in HTML was taking the L haa.."
+276,lughaidhdev,1566325095.0,10.0,"Definitely niche if you compare it to Java/Python and other widely used language. 
+
+Haskell is probably in the range of 50th to 100th language in term of job offering? I have no data to back that claim, check StackOverflow 2019 survey to have an idea"
+277,DontBeSpooked-Frank,1566377200.0,1.0,"It's niche. Forget about learning it if you just want a job. But if you want to git gud, it's the best."
+278,permalink_save,1566323848.0,2.0,"It's not. Node is being used for standing up stuff quick or by people that use it solely because they already know javascript. I don't doubt that there are serious projects out there but that itself doesn't prove it's effective. Python, Go, or dotnet core are going to be more effective environments. Node boasts that it's not blocking but every other language has the same benefits, with many offering multi core parallelism as well. Mainly Javascript has a lot of gotchas that devs aren't fond of. The only benefit node gives you over other backends is same language for front and back but that isn't enough of a reason."
+279,,1566331999.0,1.0,[deleted]
+280,,1566327971.0,0.0,[deleted]
+281,permalink_save,1566334181.0,1.0,I wouldn't be surprised if it did either but it isn't yet
+282,permalink_save,1566320555.0,2.0,"Synchronous means each line runs one at a time
+
+Asynchronous is usually used when an operation will block (like waiting for a web response) so you say make this http call, when it finishes run this code, until it finishes keep running the next code.
+
+This means if you need to make a call out the whole UI won't freeze until it's done, you have to be careful doing so so you don't dirty your state, usually whatever component is involved in the async call you have a way to show that that element is pending. Like if it's a button, you would put a loading icon over it until it finishes.
+
+Logins usually are handled on the backend and from the frontend perspective, saved as a cookie, you generally only need a form to send the auth request. There are countless libraries for that for back end projects."
+283,xecure,1566345201.0,1.0,Any reason for the PHP hate? Or did you just absorb the common opinion of the internets?
+284,pawer13,1566337470.0,1.0,"As usual, there is not a definitive answer: I like Typescript because is a superset of Javascript (any JS code is valid TS code), so you can decide how many features you want to use. But there were previous attemps (Dart, CoffeeScript...) that did not work"
+285,,1566405691.0,0.0,[deleted]
+286,ethrael237,1566359312.0,4.0,So true.
+287,IdEgoLeBron,1566343310.0,1.0,"Oh yeah, totally agree. I hate the way it looks, and i feel dirty writing it, but when it comes to googling things, or the act of designing programs, it didn't feel as bad."
+288,IdEgoLeBron,1566343331.0,1.0,"I know, that's what I was talking about."
+289,SoItG00se,1566336492.0,3.0,"That is amazing! Thank you for the in depth answer, I wish I could do a fraction of what you're doing. Will take your advice & start on one soon."
+290,El_Profesore,1566385699.0,1.0,"I have a question. I am an analyst, I work with financial/customer data, so I use mostly Excel, SQL, and some Python. I have no trouble writing a simple Python code, but I have trouble automating stuff with it. I don't know how to transition from having a code in an editor, to just running it (for example a script in specific hours) on my pc. Any help with that, or good literature?"
+291,ieatpickleswithmilk,1566391210.0,1.0,"Yeah, fair point. I only grouped them based on how I use them."
+292,Decency,1566344899.0,3.0,"Not really. There's a variety of domains where it dominates and others where it has been encroaching on territory that used to belong to other languages, mostly due to numerous top notch open source projects. The ecosystem in general is exceptionally strong, and pretty much every time I have to dive into another language I'm reminded of that... the documentation, quality of various online guides, communities, etc... things are simply done well, but with an eye towards pragmatism that sets it apart from a variety of more academically ""pure"" languages. The language also evolves significantly faster than most, which allows it to shamelessly copy good ideas from others.
+
+10 years ago it was just barely starting to be used in classrooms, but nowadays it's the most popular language in that realm. There are definitely more powerful, performant, and scalable languages, but in terms of bang for your buck Python is straightforward to learn and you can do the vast majority of things with it. Because of all of this, [Python has mostly obsoleted its main competitors](https://i.imgur.com/TB2JBLX.png): Perl and PHP are well out of the picture, while Ruby is solid but small and trending down- I think this is because it's very tightly coupled with Rails and/or configuration management and so if you're not in one of those camps a lot of support just isn't there for you.
+
+Other languages that I expect at the forefront of the next decade are Rust, Kotlin, and Typescript. They have similar expressiveness to Python while catering to additional needs that are prevalent across domains. And most importantly, they're fun to write in. Languages that are shitty to write in don't develop the open source tooling and community necessary for widespread success."
+293,slipshoddread,1566404390.0,1.0,"C and C++ have a lot of things going on that require knowledge of low level computer science principles including direct memory management. These are not common amongst high level languages and require a deeper understanding of what is going on. They also share the feature of having incredibly complex syntax, to complement their capabilities.
+
+Once you understand these languages, pretty much any other language is just learning syntax/formatting rules, especially languages that share the C style syntax such as Java. As an example Java runs on a vm, so things like memory management dont exist from a programmer perspective, reducing the requirements to learn it. If you already know the principles and dont have to do half the things you normally would, youll find it easy to learn.
+
+Python was deliberately designed to remove verbosity, so when you see a language like java afterwards youll struggle to work out how it represents anything.
+
+Personally I started on Java, and Python looks and feels like a toy language (more than aware it isnt given its neural net etc capabilites) and C++ on the other hand doesnt feel particularly daunting in terms of syntax. If id started on Python Im sure this would not be the case."
+294,Whyamibeautiful,1566328697.0,3.0,The debate is settled html/css is a language
+295,Redditkilledmycat,1566320436.0,55.0,"Shout out to rexx. I spent 15 years working primarily in rexx. I enjoyed the simplicity. No need to import or declare anything. I could do in 10 lines of code what would have taken 200 in Java.
+
+C# is cool too.( Visual studio is a dream)"
+296,professor__doom,1566328467.0,14.0,"My boss used to work with it.  Calls it T-Rexx ""because only us dinosaurs use it""
+
+We do have some legacy code in Rexx that still does...something.  I'm afraid to touch it."
+297,will_scc,1566332672.0,8.0,">CLIST
+
+I've never been able to find that one before."
+298,djakdarippa,1566319035.0,5.0,PL/I was/is definitely not little. It also is what COBOL could never be.
+299,mcdvda,1566489416.0,1.0,Forgot about PL-1.  People still coding in rexx. Incredibly handy to make life easier as a mainframe tech
+300,cbelt3,1566321325.0,17.0,"As a coworker in the 90’s liked to say... you can write FORTRAN in any language. Spaghetti code appears everywhere.
+
+I like mine to be readable. And commented so a normal human an understand it !"
+301,Koebi,1566322409.0,8.0,"Learnt COBOL in a bank, where gotos were forbidden by company-wide compiler directive.  
+I've been thankful for learning proper procedural programming ever since."
+302,NonreciprocatingCrow,1566321282.0,19.0,"That's an interesting question. I think it depends less on the code and more on how expensive it is to convince younger programers to learn older systems.
+
+Think about the difference between a legacy system written in C versus one written in COBOL. Even the most horrific frankenC has an army of programers trained every year for almost exactly that problem. By contrast, where do programers even learn COBOL?"
+303,ProfessorSarcastic,1566320905.0,3.0,"But it's saving money until then, and the fewer times you replace your code base the more you save."
+304,Wiwwil,1566319403.0,1.0,Nonsense. Imagine having a guy who did not study biology or mathematics then get in it without the proper diploma. That's the problem. They do programming but don't know the basics except MATLAB. How do you want to follow good practices when there's none in those old technologies and everyone does whatever. It's the jungle.
+305,Wiwwil,1566375668.0,1.0,"They use lots of super costly systems/stuffs for nothing. IBM servers, Oracle DB for instance cost a fucking tons. They could use free systems. I am not saying it is easy, but definitely doable. Even tho 40m is nothing compared to the benefits they make. And they would need half the resources after some time while being able to develop or adapt faster. They refuse to evolve and will justify it by saying it cost too much as always. Nothing new there."
+306,Wiwwil,1566368515.0,1.0,"Probably. Except modern framework have constant updates and deprecations. It is less likely to be that outdated imo. You're forced to update, which is beautiful and exciting. By then I'll probably switch to a management position I guess"
+307,narrill,1566365791.0,1.0,">Which is not to say that you can't for example use JavaScript for kernel development
+
+You *could* say that though, because it's true"
+308,I_Will_Not_Reply_2U,1566479699.0,1.0,"Ah understood. Your mention of javascript threw me is all. I've just graduated and tbh I could use some advise.  
+I'm a full stack web developer as it stands, would you recommend I stick to what I know, or is it even worth learning something that I likely will never use outside of web development?"
+309,LjSpike,1566336168.0,15.0,"Oh absolutely some changes would be made, no language is perfect. C and related languages, and Java, have their issues, but people still compliment them and use them.
+
+Also the web is frequently changing in how its used, your not going to keep a language perfect for it indefinitely, but the simple fact that HTML and CSS have kept going for so long is impressive. I mean, all someone needs to do to introduce a new language to web pages is get support from some of the main browsers to interpret it (basically, Chrome, Firefox, Edge/IE and Opera). That's arguably easier than programming languages! And yet HTML has not been replaced, ever. We started with HTML, and we still use it today. STILL. We don't ever have a competitor for it.
+
+Look at programming though, We have C, C++, C# and many deriviatives for it, but then we also have Java, D, Python, Perl, and a bunch of others, we also have obsolete languages, such as B.
+
+So no, HTML and CSS are absolutely fantastic languages. A lot of the issues I'd say stem from the need for the incredible forwards/backwards compatibility inherent in the setup and use of them, which in itself is spectacular that it is achieved."
+310,Marchesk,1566335154.0,3.0,Not when the web became a platform form making apps instead of marking up documents.
+311,GetADogLittleLongie,1566336275.0,1.0,"You could draw parallels to any verbal language as well. Eg. English is just a messy amalgam of many other languages. Words were made up, and idioms created/taken from other languages.  
+
+We still aren't using Esperanto to buy coffee.  
+Our keyboards are qwerty despite qwerty being designed to slow typing down so people on typewriters didn't make as many mistakes compared to Dvorak designed for speed.  
+
+Everything tends to evolve towards ""good enough"" and never ""best""."
+312,ProoM,1566342703.0,1.0,">They're the best at what they do
+
+They really aren't. I would say they're the (best) most basic & barebone thing that entire world managed to agree upon. Early days of web every company behind a browser was rolling it's own ""standards and specifications"" in the hopes that others will follow up, resulting in multiple completely diverged browser engines. Usually the largest proponents of new features and new tech like Microsoft were diverging the most, that's why IE was such an abomination to support for web developers. The real strength of HTML is that's it's a globally supported standard that everyone managed to agree upon. Making it better is the easiest part, making everyone agree that it's truly better is the challenge. For example, XAML in the web back in 2010 - 2011 was awesome & much better even compared to what we have now."
+313,UltraFireFX,1566381384.0,1.0,and that they both aren't *technically* programming languages.
+314,ProoM,1566341848.0,3.0,">numoruse
+
+Not sure if pun intended. And code running despite the errors is not always a good thing."
+315,lobo98089,1566335897.0,3.0,The display of information
+316,NeinJuanJuan,1566342510.0,1.0,PowerPoint slides are basically punch-cards for people
+317,,1566324564.0,1.0,"Python better than Node? Maybe for simple applications, but Node is way too good to pass up for large applications.
+
+npm alone makes Node win out"
+318,,1566332499.0,1.0,And switching to what?
+319,,1566328862.0,1.0,What's wrong with JavaScript?
+320,LjSpike,1566336991.0,1.0,"Yeah I really like to write my own code for tasks, as I'm not pressed by doing coding as a job etc. and it's nice to know how the stuff works down to the fine details. So I generally avoid pre-made things where I can and try to write my own (naively usually! :P)
+
+Hopefully some point I'll get to finishing that little project off. Thanks for the explanation on sync/async, it was really clear! I see why JS is pretty async too with that. Also makes sense why AJAX is specifically async."
+321,LjSpike,1566383003.0,1.0,"I tried to right in it.
+
+It went horribly wrong.
+
+It was pretty chaotic too.
+
+Then I found out I could avoid having to use PHP.
+
+I avoided it :P"
+322,LjSpike,1566338277.0,1.0,"See I'd look at it the other way then. I'd rather learn JS because then I know if everyone switches to TS my code is still valid, whereas the inverse wouldn't necessarily be true in and of itself."
+323,LjSpike,1566406074.0,0.0,"Well, you better work on gradually writing those new applications then, and maybe you can pull me over, but for now I'll let the web revolution fall in your hands. I will check out webassembly though, looks interesting, but no your not pulling me to TS."
+324,,1566344635.0,1.0,[deleted]
+325,cleantushy,1566336795.0,3.0,Awesome! I love when non-programmers learn programming. Learning it on your own is tough but there are a ton of resources online. Feel free to ask me any questions
+326,cleantushy,1566390998.0,1.0,"Yeah! There's 2 common ways to do it (that I've seen)
+
+The first is a purely python solution. Add a ""timer"" to your code. You manually start the program and then it's running all day every day on your computer. The timer or scheduler ""waits"" for the time you want, and runs the code
+
+The issue here is if your computer restarts, you have to make sure you run the code again.
+
+https://stackoverflow.com/questions/15088037/python-script-to-do-something-at-the-same-time-every-day
+
+(I would go with the answer by user2099484, using the schedule library, rather than the accepted one)
+
+The other way is to use some other program that can schedule tasks. On Windows, I've found Windows task scheduler to be easiest. You just need to know the location of your python install, and the location of the file you want to run. As long as your computer is on, it will run, and it will stay scheduled if your computer restarts.
+
+https://www.esri.com/arcgis-blog/products/product/analytics/scheduling-a-python-script-or-model-to-run-at-a-prescribed-time/
+
+You can also use cron on either windows or Linux
+
+https://prateekvjoshi.com/2014/04/19/how-to-schedule-tasks-on-linux/
+
+I'd recommend installing the python library python-crontab because the syntax is familiar and easy
+
+https://stackabuse.com/scheduling-jobs-with-python-crontab/"
+327,once-and-again,1566408249.0,1.0,">  If you already know the principles and dont have to do half the things you normally would, youll find it easy to learn.
+
+As an almost-native C++ dev, it's not the C++-dev half of that that I don't understand; it's the Pythonista half. I understand why Pythonistas would have a hard time learning Java or C++; what surprised me was that Python-only devs also have a harder time learning languages like JavaScript or Ruby or `bash` scripting, where those shouldn't be significant issues.
+
+>  (more than aware it isnt given its neural net etc capabilites)
+
+In an important sense, though, those aren't really Python's capabilities. Those are C's capabilities, with the Python acting as glue code.
+
+I'm not knocking it for that; that's an important job. But it's worth being aware that it's not something one could do in pure Python — or, at least, that it's something Python is too slow to be useful for.
+
+> They also share the feature of having incredibly complex syntax, to complement their capabilities.
+
+This is misleading, I think. The complexity of C++ syntax is in large part an accident of history: a brand-new language with all the capabilities of C++, but lacking any backwards-compatibility requirements, would almost certainly be significantly syntactically simpler."
+328,Beowuwlf,1566333796.0,1.0,"Markup languages, yes. Programming languages, no."
+329,Syscrush,1566329348.0,34.0,"I found the one other person on this planet who shares my fondness for both rexx and C#/VS!
+
+My rexx experience is all with [ARexx](https://en.wikipedia.org/wiki/ARexx), and for hobby, not money.
+
+But let's talk about C#/VS... I swear to Christ, the Python, Java, and Scala true believers don't know what they're missing. The IDEs for those languages are missing features that I first saw in VB4.0 in 1996. How the hell does an interpreted language like Python not let me do stuff like edit & continue, or change the program counter, or edit the contents of variables while sitting at a breakpoint? Why do there have to be 100 different ways for the JVM-based tools to build a project and integrate with an IDE? Do I want to use a maven plugin for Eclipse, or an Eclipse plugin for maven? *Ugh. Fuck off. Why can I export a JAR by clicking in the context menu but not from the command line?*"
+330,NonreciprocatingCrow,1566320927.0,10.0,"> I could do in 10 lines what would have taken 200 in Java
+
+Is that really so hard though?"
+331,Limos42,1566364857.0,1.0,Meh!  I can do it in 1 line with Perl!
+332,RandomKnightly,1566334362.0,3.0,"You just keep trying, and when you do find it, it's OK to suck at it."
+333,RandomKnightly,1566492533.0,2.0,"Yeah, I made a lot of money prototyping systems using rexx and ISPF panels."
+334,LordFarquadOnAQuad,1566321809.0,20.0,"Look at this guy he comments. Real men don't comment and use variable names like x1, x2, x3./s"
+335,Garfield-1-23-23,1566334591.0,13.0,"It's funny, I have a comment on Stack Overflow that has a huge number of upvotes and an equally huge number of downvotes, and it's something to the effect of ""commenting is a good thing"". It's very strange to me how there is a large group of programmers who not only think commenting is unnecessary but actually think it's a sign of incompetence."
+336,da2Pakaveli,1566340376.0,2.0,"Like seriously, you look at code from other people,                                                                             some want to win the unreadability contest or whatever, no spacing, a, b, c as variable names,            code is only a few lines long..."
+337,euler_fan_2718,1566322915.0,8.0,True. I just remember reading this article about a university's main system being so old that the parts for the computer it ran on were no longer manufactured. Students were paid to digitize its databases by printing out the tables it stored and recreating them in Excel.
+338,WeirdguyOfDoom,1566322223.0,4.0,You must have already entered the workforce as a programmer then request the training. It's a vicious circle.
+339,,1566327388.0,3.0,[deleted]
+340,Dude100641,1566348327.0,1.0,I took 2 semesters of it last year in college.
+341,,1566323403.0,4.0,[deleted]
+342,Ichabodblack,1566380134.0,1.0,I think you drastically underestimate the difficulty of moving a large mission-critical system to a new base.
+343,GiantRobotTRex,1566503268.0,1.0,"I'd say you should do whatever you enjoy. I know several developers who enjoy working on personal projects and learning new languages, etc., but personally I burnt out on that awhile ago. As long as you're having fun, it never hurts to learn new things even if you'll never actually use it. Also, keep in mind that just because you're a full stack developer now doesn't mean that you're stuck in that role forever. If you prefer frontend work over backend work or vice versa, you can move more toward that type of work. That might mean switching companies, but your happiness is more important than company loyalty."
+344,LjSpike,1566336688.0,3.0,"This. It's an I/O interface. It can also link up with many other languages to provide extra functionality too. You can do some pretty neat stuff in it if you spend the time, creating really responsive interfaces that smoothly transition and flow and so on, all while being able to display lots of information in an intuitive manner to someone unfamiliar with your site.
+
+Hell, some programs even use HTML/CSS formatting. Discord's app use it if I'm not mistaken for their display! (earlier versions you could open up like developer tools on it if my memory serves me right, and could zoom out like on a web page and zoom back in)."
+345,permalink_save,1566324867.0,5.0,"Python has been used for years for large applications, what are you talking about? Openstack is written in Python. NPM is a train wreck that every front end developer is trying to escape. It's a package manager anyway that doesn't define a language, npm offers no benefit over anything else"
+346,,1566331704.0,-1.0,[deleted]
+347,permalink_save,1566337481.0,1.0,You might need to loop in some libraries if you are having trouble completing projects. You are at the mercy of the authors but at least you don't have to maintain the code. I try to pick and chose my libraries for personal work but when I've tried to make my own libraries before I got so stuck on them I hadn't even started the main project.
+348,SoItG00se,1566379812.0,1.0,"Thanks man, appreciate it!"
+349,El_Profesore,1566394448.0,2.0,"Thanks for the detailed response! You mean I start the program in the editor, or do I run the script in a different way? (I don't really know how to execute scripts, outside of pressing ""run"" in Pycharm/Spyder)
+
+And another question for the future - if for example I have some stuff in .xls that can't be calculated, because it's too slow/complicated for excel, what would be your approach? My idea is to calculate basic stuff in excel and the harder part with pandas in python, but I can't think how would i automate it, is it possible to edit xls with python in a ""clean"" way that let's me just execute the script and then just reopen it? Because currently I'm exporting stuff to csv, then opening it in python, saving, going back to excel, and it's kinda tedious."
+350,slipshoddread,1566642079.0,1.0,"I think part of the difficulty may be that due to Pythons relative simplicity its rife with the self taught. Theres Theres  wrong with that inherently, but generally speaking self taught people tend to lag on the computer science part, making translating knowledge to another language a lot harder.
+
+Tbf I had always wondered why as an interpreted language it was used for machine learning which by all accounts is very cycle intensive. So having it backed by C makes a lot more sense."
+351,chmod--777,1566342524.0,23.0,"But let's talk about Vim... I swear to Christ, VS true believers don't know what they're missing. The text editor for that IDE is missing features I saw in Vim4.
+
+Ugh, fuck off. Why can't I `:'<,'> s/^  \([-_a-zA-Z0-9]\+\)=/    \1 = /g` instead of search and replace from the UI?
+
+    :wq"
+352,Purple_Mo,1566331084.0,17.0,"Have you tried any of JetBrains tools?
+
+Not sure about PyCharm - but Itellij supports class reloads and live variable edits"
+353,Nyefan,1566359925.0,5.0,"C# is nice as a language, but it was lacking as an ecosystem for far too long due to the lack of cross-platform support.  The lack of battle tested libraries/frameworks and of experienced C# devs (compared to Java) makes it a poor choice for most green field enterprise projects at this point, imo.  I love using it in unity, though I stick with resharper over vbstudio or monodevelop (mostly cause I maintain an intellij suite license for work anyway)."
+354,maxk1236,1566337764.0,6.0,"Well you can extrapolate that to 1,000 lines that would've taken 20,000"
+355,Marchesk,1566335003.0,2.0,Could probably do it in two lines in APL.
+356,cbelt3,1566322680.0,14.0,"Heh... well when I was a kid in the early 70’s writing a flight simulator in BASIC I had to comment because the summer school teacher demanded it. Kind of got into the habit...
+
+Yeah, I know “In a CAVE ! With a bunch of SCRAP !”"
+357,HdS1984,1566325289.0,7.0,"Or use Java like this: Entity entity = new....
+
+Gash! Name your damn variables! The type name is already in the definition!"
+358,,1566342664.0,5.0,[deleted]
+359,cbelt3,1566335510.0,17.0,"IMHO Programmers that don’t comment are egotistical idiots who probably don’t design beforehand and code out of their heads.... and whose work usually has to be ripped out and replaced by more competent professionals during maintenance cycles.
+
+“What does this function module do ?”
+“No idea, bro. Can’t you read the code ?”
+“You named all the variables in Esperanto.”
+“Yah, lol...”
+“Asshole...”"
+360,could_I_Be_The_AHole,1566351235.0,2.0,"well the two things about commenting I was always try to keep in mind are:
+
+1) If you structure the code well, properly name classes/variables/methods, stuff like that, then you shouldn't need comments because it's clear what the code is doing.
+
+2) Assume the developer editing the code after you is a crazy person who's going to ruin your code so you can't rely on your code to speak for itself.
+
+Now #2 up there means that the code will change so the comment may not be correct, but that's all the more reason why EVERYONE should comment because then the comments will stay up to date. Even if they don't though, it gives you an idea of the purpose of the code at one time so you can at least compare it to requirements effective at the date of the comment.
+
+I'll also add that a comment is very helpful when you're using regular expressions..."
+361,moebiusdream,1566335923.0,2.0,"I'm a programmer that thinks commenting is (or should be) unnecessary. 
+
+The problem with commenting is that somewhere in the near future the comments describe something but the code does something else. I've seen comments and code diverge within six months.
+
+So I prefer readable code over comments. If your code needs commenting, maybe the code itself is not clear enough and should be rewritten."
+362,r4ib3n,1566344375.0,1.0,"I wish I could write self-explanatory code, but some business analyst somewhere always has some dumb idea that I need to put hacks in to implemet. I wish life was as easy as the text books make it out to be..."
+363,HdS1984,1566364719.0,0.0,"Comments are a double edged sword. You can easily use them to denote code blocks which should really be functions or make obvious comments like setting x to 11. Such comments are code smells.
+Using a comment to show something non obvious or the intent can be useful but again, can good naming of classes and functions make the comment superfluous?
+My thought process for a comment goes like this: comment? OK extract functions and let's see again. Comment? Refactor and rename again. OK now maybe a comment."
+364,,1566328019.0,7.0,I've done some horrible things to migrate data out of locked down legacy systems.  Nothing quite that bad though...
+365,mzackler,1566340045.0,1.0,There’s got to be an OCR that can help with that?
+366,NonreciprocatingCrow,1566344433.0,2.0,I guess that's true. Can't imagine working in a mature language with such a small community though.
+367,NonreciprocatingCrow,1566397062.0,1.0,"Really? If you don't mind my asking, what college teaches COBOL?"
+368,Wiwwil,1566324780.0,0.0,"Guys we find the MATLAB guy.
+
+I did not say matlab was old, it's specific programming, it's not relevant to modern technologies either. What do you know about me at work ? Because I rant on the internet does not mean I would ever do it at work. Stop assuming. I'm quite cool at work. Matlab is not the same as ES6 or whatever new shit comes out every 2 days. Having guys knowing matlab and having trouble doing a foreach (or not doing a foreach but whatever is that monstrosity) and can't grab the concept of a closure or arrow functions or callbacks tells me enough and I've seen my share. The point is : because you coded in a field with a specific program (such as matlab) without following good practices and modern developments does not mean you're fit to jump in the IT world. It is studies and passion as well.
+
+I'm not there, and especially not paid, to teach full time. I have tasks to do. What do you want to say to fucking John the biologist that's been there 10 years ? Your code is shit dude, do it that way ? Like he will listen to me, the quite new guy. We have a functions doing that. John didn't get it, neither does he care. He knows the functional but that's it.
+
+You can't expect recruiting non CS people and have a quality program. Unless they study and practice hard. But they don't care most of the time as long as it works. That's the harsh reality."
+369,elus,1566326893.0,1.0,The code written by the Matlab guy just ends up getting ported into the main codebase in Python or .NET or whatever once he's gone or we're at the point where we're supporting some utility that can't properly scale and is hard as hell to maintain. The stuff done in this is even worse than the crap done in excel around the office because at least with excel there are way more people fluent with how to manipulate the software that they bug us less for fixes.
+370,Wiwwil,1566380532.0,1.0,Let's call it optimistic. But you're probably right. Maybe I just can't anymore and wasn't fit for those technologies. But I am sure it is doable.
+371,SmartPiano,1566345972.0,2.0,"You are correct that lately some apps for desktop or mobile are just thin layers around a browser. They render HTML and CSS for their UI. 
+
+I still consider HTML and CSS to both be a type of language though because I have a very wide definition of language."
+372,,1566325194.0,2.0,"I never said python isn't used. I said Node is better. Are you saying that you think Node is getting *less* popular over time? I think it's the total opposite. Node is only getting more and more popular.
+
+It's largely about the fact that Node has so many amazing packages being added into npm registry. Python doesn't have that same open source support from the web dev community."
+373,,1566336945.0,1.0,[deleted]
+374,,1566332447.0,0.0,"Well, I use JavaScript and I like it. I don't know what you mean about ""ecosystem is a clusterfuck""."
+375,LjSpike,1566338210.0,1.0,"Eh usually I manage to muddle through but you are true with regards to maintaining code. I'll definitely be sure to bear it in mind if I do get back to it.
+
+Generally my favourite is just making nice portable modules which I can use time and time again, and if something breaks, I have the code open to me to instantly fix it across them all at once, not at the whim of anything but my immense procrastination :P I am also certifiably insane though so.... (I mean, I'm writing a login system and I've never formally been trained in security programming, which is like as stupid as you can get I think? Thankfully the psych ward hasn't found me yet tho.)
+
+Present pain though is being at the whim of tkinter! I decided for GUI's I'll import a module, and given tkinter is pre-shipped with py I decided ""hell why not go with it"" and I'm killing myself trying to muddle through their text widget and the slight problems that repeatedly crop up when ya letting your user format the text."
+376,cleantushy,1566406881.0,2.0,"You could run it from the editor, although that would mean you have to keep the editor open at all times.
+
+You can also run it from the command line. (The ""Run your script"" section at the bottom)
+
+https://www.cs.bu.edu/courses/cs108/guides/runpython.html
+
+Oh, one more way to schedule python I should mention. If you don't want your computer on 24/7, and your code doesn't need access to anything on your computer (or you can move those files to the cloud) you can use pythonanywhere.
+
+You can create a free account. It's limited CPU time but it should be enough to run a scheduled script each day (and you get your own website as well if you want to play with using python for web development). If you need an upgrade it's only $5 per month. It's worth it, in my opinion. I have a web dev account ($12/mo)
+
+https://www.pythonanywhere.com/pricing/
+
+You can schedule your python tasks on their servers, so you don't have to worry about your computer restarting or turning off. And it can read/edit any files you upload, or create new ones
+
+https://help.pythonanywhere.com/pages/ScheduledTasks/
+
+
+
+As for your second question, there are xls reader/writer libraries in python which should be able to edit your files directly without exporting to csv. You'll still have to close Excel, run the program, and then open Excel to see the results, but it should maintain your Excel calcs
+
+http://www.python-excel.org/
+
+(Basically anything you need to do in python - there's a library for it)
+
+Your other option is to commit to either Excel or Python 
+
+If you don't need to use python and just need a program that can do additional calculations on your Excel data that can't be done with formulas, you can replace your python script with VBA. You can create it from within Excel. If you haven't used it before I know it sounds like a pain to learn a whole new programming language, but once you get the syntax, the logic is the same. 
+
+https://www.guru99.com/creating-your-first-visual-basic-for-applications-vba-in-excel.html
+
+You can even use a VB script to schedule it to open your Excel, and run the macro at a specific time (scheduled similarly to scheduling python)
+
+https://stackoverflow.com/questions/22771185/how-to-set-recurring-schedule-for-xlsm-file-using-windows-task-scheduler
+
+If you prefer to stick with python, you can trash the Excel calcs altogether. You're already using pandas, so import numpy, and anything you can do in Excel, you can do in python. Even the little things
+
+https://towardsdatascience.com/replacing-excel-with-python-30aa060d35e
+
+https://pbpython.com/excel-pandas-comp.html"
+377,Doom87er,1566367963.0,1.0,I recall seeing a plugin for VS that makes it more like Vim
+378,Syscrush,1566375324.0,1.0,"I have a simple policy:
+
+If you like but (any flavor), I like you. :)"
+379,its-some-other-guy,1566335346.0,16.0,I was definitely confused. I use PyCharm daily and edit variables in the debugger left and right.
+380,Syscrush,1566346481.0,-1.0,"Yes, I've used those tools. Compared to C# in VS, they're garbage."
+381,LordFarquadOnAQuad,1566342706.0,4.0,Oh no.
+382,hfhshfkjsh,1566349032.0,7.0,"To be honest if you are a great coder you don't need comments because your code is so simple and clean, all the variable and function names are super clear too.
+
+But for the rest of us we need to add them (and examples for library functions)
+
+I'm half joking, but the best code looks like any idiot could have written it because it is so simple.
+
+Most coders think that good coders write complicated code - this is a lie and code like this needs to die."
+383,narrill,1566364973.0,1.0,">If your code needs commenting, maybe the code itself is not clear enough and should be rewritten.
+
+This is the thing people don't seem to understand. It's not ""don't comment,"" it's ""try to write code that doesn't need comments."""
+384,DreadBert_IAm,1566337847.0,6.0,"As someone who once installed a SAN controller hotfix manually there's worse.  Note I'm talking direct binary file manipulation using hex, one char at time given verbally via phone.  Not some fancy USB thingie and an installer.
+
+*sigh*
+
+HP used to have some real bad ass tech support folks."
+385,,1566326908.0,7.0,[deleted]
+386,,1566327349.0,-1.0,[deleted]
+387,LjSpike,1566384066.0,1.0,"Yep! I particularly related to [this SO answer](https://softwareengineering.stackexchange.com/questions/241104/programming-language-vs-markup-language-vs-scripting-language/297679#297679) on the matter. I suspect it's not the most upvoted because it doesn't attempt to draw clear lines between them, rather accepting that it's not some clean separation. Scripting languages and markup languages are simply some rough subsets of programming language (and thus are also programming languages in themselves). Ditto for [this answer](https://softwareengineering.stackexchange.com/questions/241104/programming-language-vs-markup-language-vs-scripting-language/297685#297685) too on the same question."
+388,permalink_save,1566327882.0,1.0,"In general, saying X is better isn't quite accurate, because no language is overall better than others. No offense but you just seem starstruck by node, it's not the lord and savior of languages. It has a lot of web specific libraries because of the web side, those are irrelevant once you hit backend. Node isn't any better at serving as an api endpoint than any other language and if you are looking at performance something like echo will obliterate it. Python can do anything node can do as a server too."
+389,,1566328098.0,0.0,[deleted]
+390,,1566404880.0,0.0,[deleted]
+391,,1566333088.0,0.0,[deleted]
+392,El_Profesore,1566419999.0,2.0,Wow dude this is incredible! Thanks a lot! This is 10 times more than I expected. I will dive right into it!
+393,chmod--777,1566372529.0,3.0,"In all seriousness, there is a good one IIRC. The only problem with vim plugins for other IDEs is they are never close to feature complete. You get the main navigation controls but you miss out usually on the substitution commands, good vim plugins, macros...
+
+With the right plugins vim is easily an IDE, but it's more like a piece of your IDE. My IDE is tmux, with one pane with vim code, another with an ipython shell, another with pdb/pudb, another one using ag silver searcher, maybe sed, etc. You even have refactoring tools in vim with the right plugin, can bring up docs, navigate to definition, etc. The main thing is it's just not usually a whole comprehensive package like an IDE, but a set of tools you use together. I've been developing python professionally for a decade, and stuck with vim and tmux and commandline tools, and everything works extremely well. You just end up writing bash functions and aliases and git shortcuts and write python tools to help you write code. The commandline opens up a ton of options, no limits really.
+
+I just like having quick keystrokes to do what I want, and it might be tedious as all hell to learn at first but eventually you get super quick and the whole system works great together. I never suggest vim as an ide to people learning and starting professionally coding, but if they express interest I show them how to get started and what tools will make it work."
+394,Purple_Mo,1566386409.0,2.0,Fair enough everyone has their choice tools
+395,,1566373976.0,3.0,"Bollocks to that. ""My code doesn't need comments"" is what ""clever"" assholes always say.
+
+Then someone else has to fix their shit six months later and turns out they thought `ttxio` was a self-explanatory name for a variable that's loaded from a nested loop over `nc` and `ekc.getData()`. Like, thanks asshole."
+396,Wiwwil,1566327904.0,-3.0,"What did you not understand in : I rant on the internet but never did it at work ? I can't help if they don't understand basic stuffs or refuse to use them. Technologies evolve, get on the level. Use them there's a reason it evolved.
+
+I don't say matlab is bad. I'm taking about the average guy I saw that 'knew matlab'. They are smart people, most smarter than me I know that, but hey, if you can't grasp how a foreach work and you wrote something horrible instead it's not gonna work for me.
+
+I don't mind being stuck in my field."
+397,elus,1566328171.0,1.0,"We've been seeing the bridging of tools though. Packages like Pandas, scipy, numpy, TensorFlow in Python are making it easy to talk the same language with my counterparts in the research department and I can have conversations about best practices with them.."
+398,,1566328632.0,2.0,"Node isn't a programming language. It's a JavaScript runtime environment. And it's wrong to say that all languages are equal overall. Clearly, some languages are more powerful than others."
+399,,1566329114.0,1.0,"The person I replied to said that front end developers are ""trying to escape"" Node. That is why I asked if he thought Node was getting less popular over time.
+
+I don't believe that developers are trying to escape Node. Node has ranked highly on the list of environments people want to use in StackOverflow's surveys."
+400,,1566408048.0,0.0,[deleted]
+401,,1566333385.0,3.0,Both of these have nothing to do with JavaScript. The same issues could happen with python packages.
+402,hfhshfkjsh,1566376394.0,1.0,"Whilst I agree with you.  I still think perfect code does not always need comments but finding it is like finding a perpetual motion device.
+
+'clever' coders are the worst,  I've had to deal with too much shitty code from them in my time and their clever (spaghetti/obfuscated) code.
+
+Recently I worked with a bunch of new coders and the thing they always liked about my code was the comments/examples - sadly they did not often seem to realise this was what they should be doing too, but they slowly learnt.  But me I write the comments/examples for myself because I'm the one who needs them most."
+403,,1566330578.0,0.0,[deleted]
+404,,1566411533.0,1.0,[deleted]
+405,,1566410323.0,1.0,[deleted]
+406,,1566412746.0,0.0,[deleted]
+407,,1566418742.0,1.0,"I spoke poorly. I meant that these issues aren't only experienced in the JavaScript ecosystem. There's the potential for the same issues in the python ecosystem. The root of those issues is that people create these packages and host them in package repositories like npm or PyPI and then people download and come to rely on them.
+
+It's a small downside compared to the huge upsides of using other people's packages."

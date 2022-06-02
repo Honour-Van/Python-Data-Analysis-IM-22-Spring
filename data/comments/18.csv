@@ -1,0 +1,370 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,Grimdotdotdot,1520952521.0,33.0,"Over half of developers have a standing desk?
+
+_Really?_"
+1,burnblue,1520936097.0,73.0,"> Frameworks, libraries
+
+Hunh. No Vue.js. The fastest growing peer to Angular and React. Was it not an option?
+
+> Development tools
+
+Some part of me feels vindicated seeing Notepad++ over Sublime. There was SO much Sublime hype for some years there. I feel like a hater that I feel good Visual Studio Code swept it away in popular endearment. "
+2,7rust,1520938208.0,43.0,I feel so outdated as PHP developer 😕
+3,NotFromReddit,1520945191.0,13.0,TIL I'm as average as can get.
+4,irrational_design,1520945168.0,17.0,No Vue.js and React.js was below Angular? Hmm. 
+5,SHIT_PROGRAMMER,1520936544.0,29.0,Looks like they've lumped Angular and AngularJS together - kind of unhelpful.
+6,Veezybaby,1520957976.0,6.0,Elixir disappeared? 
+7,vastico,1520940807.0,15.0,Is Python really that popular? Can't say I've seen it become mainstream...
+8,webDevBayArea,1520960248.0,3.0,"As someone who will be seeking junior level employment soon I found these 5 data points very reassuring:
+
+- 87% Taught themselves a new language, framework, or tool without taking a formal course.
+
+- 45% of Devs already had a full-time job as a developer before starting a bootcamp. Just 33.8% of people graduating from a bootcamp found a job after 3 months. Just 42.6% after a year. 
+
+- Javascript (71.5%), HTML (69.4%), and CSS (66.2%) are the top three languages.
+
+- 16.3% of Devs are in Web Development. The highest percentage for any industry. 
+
+- 72.8% of Devs feel satisfied about their careers.
+
+
+"
+9,wywywywy,1520945219.0,7.0,"Are there really that many web developers nowadays?
+
+Or are application and mobile developers under represented?
+
+And there seems to be fewer and fewer system developers as years go by :/"
+10,,1520952810.0,3.0,How are backend developers salary more than full-stack?
+11,colossalshirt,1520954109.0,4.0,"Are you kidding me, more than half the developers in India make like $15k dollars annually and with 13% responses from there how are the average salaries still so high! "
+12,MattBlumTheNuProject,1520960574.0,2.0,How do most developers spend 9-12 hours on their computer and 1-2 hours outside? That seems unlikely. 
+13,FloSuess,1520971049.0,2.0,"Holy shit, 9-12hrs on a computer a day, I’m barely reaching 3-4hrs programming a day while studying... "
+14,,1520977349.0,2.0,[removed]
+15,damoisbatman,1520952489.0,3.0,As stated on another sub these surveys are highly bias.  The more experienced devs would barely use SO yet alone have time to do a survey. It's mainly of people in their 20s
+16,,1520972096.0,1.0,">The diversity of the company or organization
+
+ So glad this was the least valued choice for EVERYONE. Such a fucking virtue signal. Leftist racists trying to make everything about race and diversity, absolute losers. At our place of work, we naturally have people of color, women, and white people. Wanna know why? Because we aren't virtue signaling diversity racists who value social justice points over quality work. I actually stopped filling out the questionnaire because of this question."
+17,SLDGHMMR,1533907771.0,1.0,Where are my /r/elixir people at ? :(
+18,Y_U_SO_MEME,1520966778.0,-1.0,Fuck stack overflow
+19,nyxin,1520956508.0,24.0,Every desk is a standing desk if you stand at it. ¯\\_(ツ)_/¯
+20,irrational_design,1520956589.0,6.0,"Where I work (Fortune 150 company) all desks can be configured to be standing or not standing. I've chosen not-standing, but all of my coworkers have chosen standing."
+21,Muriden,1520963226.0,3.0,Half of the developers that answered that question (which was ~34k out of 100k total responses). So more like 17% of all responses. 
+22,Audiblade,1520962775.0,1.0,"Over half of developers who checked off any answer for that question have a standing desk. I noticed that that particular question had about 30k responses, while most questions had about 55k responses."
+23,fuckin_ziggurats,1520938027.0,21.0,"To be fair, Notepad++ serves a much different purpose than Sublime Text. It's extremely popular because people that use all kinds of IDEs like Visual Studio, VS Code, Sublime, Atom, and whatnot all use Notepad++ as a quick text editor. You're making the assumption that the question was single-choice. Which it isn't and I can assure you, in the least, every Visual Studio user checked Notepad++ as well."
+24,GazNougat,1520938928.0,16.0,"Vue might be the fastest growing, but that's easy to do when so few people use it.
+
+"
+25,TomEnom,1520951893.0,1.0,"No react native native either, so I'm guessing it is considered to be an aspect of react?"
+26,cinnapear,1520954348.0,1.0,I use Notepad++ for everything.
+27,jujubean67,1520941015.0,59.0,"Why? Making _any_ decision on the results of this survey is wrong. It heavily sqewes toward beginners (20% of the responders are students), a large chunk work for less than 5 years."
+28,theKovah,1520943041.0,10.0,"I think the context is pretty important. Sure there are many new, interesting languages that make more sense to learn for beginners (as jujubean67 pointed out). But if you take the web space alone, PHP is still the most important language for backends. About 90% of the web runs on PHP and there was only very little decrease in the past years. Why? Because PHP is simple and runs on millions of servers, shared hosting environments and so on. I mean in comparison if you want to run Node apps you need to have either a specialized provider or a vServer where you can install Node on your own.
+
+Edit: clarified my post. I only mean the backend side where PHP is and will be important. Salary is another topic that does not directly correlates with importance/popularity of a programming language. "
+29,Akkuma,1520966081.0,2.0,"In my honest opinion, you've been outdated for a long time. PHP is only good if you already know it, working on a legacy application, legacy site, or popular cms. Anything you could think about using PHP for you can find a better alternative for today."
+30,A-Grey-World,1520948466.0,3.0,"It might be a relatively high number of, say, junior wordpress developers who touch on PHP a little but don't really use it for a lot of custom stuff. Wordpress shops are well known for being a bit of an under-paid dead end/sweatshop type environment. Could be skewing that figure.
+
+Given PHP is so popular for CMSs, it'll be used by a lot of people who don't need a high programming/technical skill.
+
+PHP is still the most popular backend language and used for the majority of the web.
+
+Also consider that while many more niche languages might be paid a lot - that's likely also because the market is so tiny. You *might* get a great gig, but the job search could be hell if you ever needed to change jobs. PHP will always be in demand. "
+31,,1520972283.0,1.0,As a PHP developer I have never felt more current.
+32,ATXhipster,1520966213.0,0.0,"Naw, WordPress is still well alive and at large my dude."
+33,A-Grey-World,1520949276.0,11.0,"it's in line with what stack overflow is used for i think:
+
+https://insights.stackoverflow.com/trends?tags=angular%2Cangularjs%2Creactjs%2Cvue.js%2Cvuejs2
+
+Bear in mind they bundled AngularJS and Angluar 2+ together under one heading.
+
+But yeah, Angular has more questions asked about it (101,124 vs 76,975). I don't think the survey necessary confirms Angular is more *popular*. There could be plenty of reasons it's skewed one frameworks over another. E.g. more devs who visit StackOverflow are using Angular. Given the survey was mostly advertised on stackoverflow etc this ties in with the survey results. Maybe React devs ask questions elsewhere! Or maybe React is so great they don't get stuck and need to ask questions. Or more React devs learn through courses/bootcamps thus less likely to hit SO. Or maybe newbies are more likely to pick Angular over React to learn and thus ask more questions and more hit the survey. Maybe React is used more in professional environments and people tend to ask peers in the workplace when they get stuck.
+
+Shame they didn't include Vue though."
+34,villiger2,1520946654.0,9.0,"As someone not familiar with the project, why wouldn't you? Aren't they just different versions of Angular? They don't show react 15 and react 16. Also if they are different projects then.. that's terrible naming."
+35,Existential_Owl,1520966115.0,4.0,"It wasn't on the survey.
+
+I was disappointed :("
+36,AnubisJcakal,1521054565.0,1.0,I wonder if they lumped elixir in with erlang.
+37,GeronimoHero,1520941430.0,16.0,"I develop InfoSec tools and I really don’t use anything outside of C++ and Python. It’s the premier choice in the security arena. 
+
+Edit - a bit of JS too but I absolutely hate it. "
+38,,1520942147.0,11.0,[deleted]
+39,btreecat,1520942398.0,4.0,Maybe change where you look? 
+40,julian88888888,1520947878.0,2.0,"https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/09/growth_major_languages-1-1024x878.png
+
+yes
+
+
+https://stackoverflow.blog/2017/09/06/incredible-growth-python/"
+41,Skizm,1520942442.0,4.0,"Python is the 4th most popular language right now:
+
+https://www.tiobe.com/tiobe-index/"
+42,,1520961325.0,1.0,It has a ton of applications outside of webdev.
+43,Existential_Owl,1520966079.0,1.0,"It's been seeing a major resurgence among developers.
+
+On the other hand, I'm not so sure that *company adoption* has been rising alongside it, so I wouldn't be surprised to see an over-saturation in the Python jobs market soon."
+44,kare_kano,1520974138.0,1.0,It's very popular in big data processing.
+45,Existential_Owl,1520966298.0,3.0,"Javascript has been in pretty high demand for a while now.
+
+There was a different survey that SO did awhile back that showed that there were more JS-dependent jobs out there than there were JS developers.
+
+It's a solid choice for a newcomer to the industry, even notwithstanding its lower barrier to entry."
+46,halfercode,1520961242.0,1.0,"Is -87% of some folks doing something the same as +87% of folks not doing something? `:=)`
+"
+47,A-Grey-World,1520949651.0,18.0,"Think about how people use computers these days. Deploying and installing software is seen as strange from a user-perspective now because almost everything is done via the web.
+
+You see it in the work environment too. When my work automates or introduces a new system to manage anything what used to be done through a desktop app is now done through a web-portal.
+
+As a developer, I can see why too. Communication and synchronisation is more important - data needs to be stored and transferred more. Almost everything is going to need a server to store and manage database and core functions (emailing, reporting, transfer to accounts & expenses etc).
+
+Every computer has a browser. You don't need to deal with licenses. You don't need to manage installing software and updating it when it's out of date. There's a good chance it can be accessed from any device you have."
+48,phero_constructs,1520950200.0,8.0,"I'm surprised how many consider themselves full-stack. I must have the wrong impression of what it actually takes to become one.
+
+"
+49,kare_kano,1520973934.0,1.0,"Web development is just the tip of the iceberg. It's visible because it's easy to pick up and because it's user-facing. For any large system or application you need serious system development and administration. Maybe it seems there's fewer of them because they're spread thin trying to meet demand. They're also using a lot of new technologies, it's no longer strictly system development as it used to be."
+50,phero_constructs,1520950222.0,0.0,I'm surprised how many consider themselves full-stack. I must have the wrong impression of what it actually takes to become one.
+51,ilikelotsathings,1520956529.0,11.0,Because specialization is all the rage?
+52,A-Grey-World,1520957814.0,10.0,More in depth knowledge/experience?
+53,,1520961498.0,3.0,"Because backend is more difficult to learn and thus less represented,  and any frontend dev who’s ever saved a db record can call themselves full-stack."
+54,halfercode,1520961259.0,3.0,"Sleep is over-rated.
+"
+55,jimmyco2008,1520971811.0,2.0,Maybe the commute counts
+56,steeze206,1520977783.0,5.0,"Well when you're working 40 hours a week on one, plus adding any leisure time spent using one it seems reasonable. Also, lots of programmers are PC gamers."
+57,steeze206,1521150290.0,1.0,"While that's true, the time commitment is incomparable. ~3 months for a bootcamp, compared to 4 years at a University."
+58,halfercode,1520961330.0,8.0,">  The more experienced devs would barely use SO
+
+I'd dispute that. Even experienced devs have to research things - either the questions they need to ask are of a different complexity, or they know how to break problems down to the degree that the constituent problems have already been asked.
+"
+59,Audiblade,1520963441.0,2.0,"I have no doubt that there's some weird biases in the survey. This is because it uses a [voluntary response](http://www.statisticshowto.com/voluntary-response-sample/) model, which always causes biases to appear in survey results. But it's also the only way for StackOverflow to get such a large sample size. I personally think it's important to read the survey results with this bias in the back of my head as I interpret the results, but that it doesn't make the survey worthless."
+60,anothercontradiction,1520974854.0,3.0,"Diversity doesn't have to be defined by gender, sexual orientation, race, or ethnicity. It could include diversity in previous roles and technologies. Sure, you can say a team of four is diverse if it includes 2 women, 1 black male, and 1 white male. You could also say a team of four is diverse if it includes 1 front-end engineer, 1 fullstack engineer, 1 devops engineer, and 1 QA engineer.
+
+I personally read this result as, ""I want to work with people who have the same opinions as me and think like I do."""
+61,LimbRetrieval-Bot,1520956520.0,10.0,"I have retrieved these for you _ _
+ *** 
+^^&#32;To&#32;prevent&#32;anymore&#32;lost&#32;limbs&#32;throughout&#32;Reddit,&#32;correctly&#32;escape&#32;the&#32;arms&#32;and&#32;shoulders&#32;by&#32;typing&#32;the&#32;shrug&#32;as&#32;`¯\\\_(ツ)_/¯`&#32;or&#32;`¯\\\_(ツ)\_/¯`
+
+ [^^Click&#32;here&#32;to&#32;see&#32;why&#32;this&#32;is&#32;necessary](https://np.reddit.com/r/OutOfTheLoop/comments/3fbrg3/is_there_a_reason_why_the_arm_is_always_missing/ctn5gbf/)"
+62,A-Grey-World,1520957213.0,3.0,"I've literally never seen a standing desk in my life!
+
+I have terrible joints so I don't think I could manage it."
+63,Grimdotdotdot,1520964228.0,1.0,"Ah yes, good point."
+64,Audiblade,1520962909.0,3.0,"Honestly, I think the write-up StackOverflow gave is a little wanting... It fails to give enough context for a lot of the data that presents, like in this question. And the write-ups very rarely have any insights or interpretations into what the data means. It's just, ""here's the data.""
+
+I also wish that the data presentation included standard deviations and not just averages where appropriate, and that analysis of open-ended questions was deeper than counting how many times individual words appeared, regardless of their context."
+65,,1520939468.0,45.0,"What? Sublime isn't an IDE. I use it as a 'quick text editor' every day, whereas I haven't launched N++ in about 3 years."
+66,burnblue,1520950588.0,5.0,"No. Everytime people mentioned a little feature of Sublime they liked, like multicursor, I'm thinking ""Notepad++ does it too"". Your ""quick text editor"" quip tells me you also think it's not capable of much and Sublime is capable of more.
+
+And yes it's multichoice, I'm not sure that matters. I mentioned VS Code, not Visual Studio proper"
+67,hubilation,1520949464.0,3.0,N++ is my JSON pretty printer and thats pretty much it. So this statement is very true.
+68,snkscore,1520958698.0,1.0,I'd be shocked if more than 25% of VS users also use Notepad++
+69,pvgt,1520969728.0,1.0,something something VIM
+70,,1520984271.0,1.0,[deleted]
+71,Balduracuir,1520964349.0,0.0,I definitively stopped using notepad++ the day the author used it to promote political opinions. Bur that's another problem :)
+72,burnblue,1520952169.0,3.0,"I get it, there are a lot of choices in the survey beyond Javascript frameworks, the result list is not long, and Vue isn't touching stuff like Hadoop and Xamarin.
+
+Vue has been doing a lot more than 'easy' though. It's not like *nobody* uses it. It's not on  the list at all, not even under ""wanted"" for what people are interested in next.
+
+Look at Vue getting more stars on Github than the competition. ANd the npm downloads are not insignificant npm downloads
+
+https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176
+
+NPM says ""Vue is roughly level with Ember and a little less than half the size of Angular in terms of absolute popularity. Vue is growing much faster than Ember and Angular, the other two “full” frameworks, and we expect it to overtake Ember in popularity in 2018 ""
+
+https://www.npmjs.com/npm/state-of-javascript-frameworks-2017-part-1
+
+Despite the many years of lead time, Angular and react seem to be in use on only 20x more live websites than Vue
+
+https://www.similartech.com/compare/react-js-vs-vuejs
+
+If the SO survey was of only web developers it would look different."
+73,eloc49,1520952144.0,-9.0,"Over 1M monthly downloads, hows *your* npm package doing?"
+74,Traim,1520946157.0,17.0,"> Making any decision
+
+No, that's wrong in my opinion. You can make a decision on the results of this survey. You only have to include the origin of the results in your decision."
+75,SituationSoap,1520946485.0,23.0,"> PHP is still the most important language. about 90% of the web runs on PHP
+
+This is not a good conclusion, and it's drawn from irrelevant data. As a professional developer, you're not looking for what the most popular language on the web is (and besides, that's Javascript, which is infinitely more important than PHP to know for a web dev), you're looking for what the most popular *paying* language is for web dev. If 90% of the web is PHP, but 80% of those sites are amateur blogs set up on Wordpress, that's not actually helpful knowledge for a web developer, because you're never going to see a cent from those people."
+76,kare_kano,1520968915.0,2.0,"> PHP is still the most important language for backends
+
+Wide-spread, yes. Important... depends how you define that. Sheer number of existing (legacy) systems written in PHP is a major factor, definitely.
+
+But the adoption rate is dropping very rapidly. Among beginners, JavaScript+Mongo+React is the new hot thing they learn by themselves, and it comes with the advantage of being full stack and exposing you to lots of interesting technologies.
+
+Most of the decision makers picking PHP for new projects today are people who are forced to. They either have to work with developers who are most/only experienced in PHP, or have legacy systems restricting their choice. It's usually a decision that a certain market or geographical area makes for them, not a choice. Given complete freedom they will pick something else, because PHP's characteristics (monolithic runtime, template-oriented output, awkward design choices, lots of language quirks, MVC pattern) make it a good fit for only a very small range of projects. 
+
+PHP itself is a great platform, in spite of its shortcomings. I would love to see a redesigned version (or a fork) that fixes all the quirks and has a modular runtime. It needs to break with backwards compatibility. I guarantee you that such a version would re-take the web by storm and shoot back to the top of all the possible tops.
+
+If such a version doesn't appear, the same thing will happen to PHP that happened to jQuery or MySQL. It will have a long and gradual fall out of grace. It will not die out, but it will be relegated to an increasingly smaller niche."
+77,kare_kano,1520970155.0,3.0,"> PHP is still the most popular backend language
+
+I design massively distributed web apps and run the teams that implement them. We stopped picking it for new projects years ago. Occasionally we have to integrate with existing PHP systems, because there's a great deal many of them out there, true. It's not a problem because many of us did PHP at some point in the past, and it's not hard to learn anyway. But we would not consider it for anything new. It's a chore to deploy and maintain, it's not flexible enough, it's hard to scale, it only has a limited number of interesting features (nothing you can't get somewhere else), it has serious faults and incomplete/immature interfaces, and to top it all off the language itself is full of traps and quirks."
+78,,1520955771.0,1.0,"as you said,  react is so great that you don't get stuck . React documantion is well written  .  community support is awesome whether components libraries or tutorials "
+79,,1520955584.0,-8.0,[deleted]
+80,SHIT_PROGRAMMER,1520946833.0,18.0,"They are different projects. Angular is a rewrite of AngularJS and has no backwards compatibility, so not comparable to a version upgrade.
+
+Yes, the naming is really, really terrible."
+81,A-Grey-World,1520948824.0,4.0,"They are very different, and yes, it is terrible naming. You get used to it though.
+
+""AngularJS"" is the old versions up to 1.6. This is still used in legacy stuff but no one in their right mind would use it over any of the current frameworks in a new project.
+
+""Angular"", often ""Angular 2 (+)"" is a big rewrite from the ground up and a completely different framework. Note, that also confusingly the versioning changed to semver(ish), hence the +, so we're now on Angular 5. Angular 2, ~~3~~*, 4 and 5 are all very similar just like React 15, 16 etc.
+
+Google is pushing hard that this is ""Angular NOT AngularJS"" but before Angular 2, everyone called Angular 1.6 Angular, not AngularJS - just like no one uses ReactJS.
+
+Once you know about it it's not too bad to deal with though.
+
+\* As pointed out below. There was no 3. Just to make things easier for everyone. This was because various internal components got out of sync with the rest of the versioning (Angular is made up of a bunch of separate modules) and to make things 'easy' they skipped a version for some so everything matched up."
+82,Veezybaby,1521059469.0,1.0,Wondered the same thing
+83,vastico,1520941525.0,3.0,"Ah, probably why I don't see it often. Thanks for clearing that up."
+84,,1520955840.0,1.0,where do u use JS . do u mean in the frontend ? 
+85,drink_with_me_to_day,1520948550.0,7.0,"Coming from Java, anything is a blessing.
+
+Python is messy.
+
+It feels like everything you built is a straw hut. No matter how big, it's a hut."
+86,squeezeMyPig,1520946635.0,3.0,coming from java im not comfortable in python and i mean because of the syntax. my brain still wants to put semicolons and brackets everywhere
+87,webDevBayArea,1520962852.0,2.0,"HAHAHA I'll have to fix my formatting, thank you"
+88,A-Grey-World,1520957691.0,15.0,"I see two general usages of ""full-stack"".
+
+1. Some people use it for someone who has a *huge* knowledge of all parts of a stack. Like, to be full-stack you need to have 10-20 years experience. Deep knowledge is needed of every single area. You can architect everything from scratch to a very high standard fit for enterprise/scaling etc.
+
+2. Others use it just for someone who works on all of the stack. You do some frontend stuff in React one day, then fix a DB table the other, then sort out that problem with the REST api. You're working on the all the stack. If you're a ""junior"" full-stack you probably won't be able to set up your own stack from scratch without some help and even then it might be okay for a small app but not an enterprise application.
+
+
+I feel the second is more appropriate. Where on the stack you work has little to do with your total experience level. Why not use the reasonably established 'seniority' rankings (Junior, Mid, Senior) to denote expertise, and the 'stack' attribute (front-end, back-end, full-stack) to denote where that experience applies? Seems to make much more sense to me.
+
+A newbie who's building his portfolio likely has some very junior full-stack experience if he's set up a server, webserver, DB, backend/API, and frontend etc. He might want to work on all those things in the future. It's so much easier calling that ""junior full-stack"" than ""junior with experience in... [list of everything in stack]"".
+
+That said, it's tough to try work out from context which people mean."
+89,,1520964543.0,3.0,Maybe I'm naive then. I wouldn't call anyone full stack unless they can setup and maintain every aspect of an application. 
+90,Existential_Owl,1520966164.0,2.0,"um... ""full-stack"", by its very definition, includes everything that a back-end developer does (plus more)."
+91,anothercontradiction,1520963511.0,2.0,"And so is eating. Apparently, skipping meals make you more productive."
+92,FloSuess,1520982598.0,2.0,It sure highlights a potential reason as to why Uni CS grads are so unprepared for the work force.
+93,simio,1520963118.0,3.0,"TBH your joints would thank you with a standing desk. Standing doesn't mean still. I've been working on a standing desk for 3 uears now, I don't look back to seating."
+94,yogeshkotadiya,1520939949.0,13.0,"Everybody has a different choice, I still use NP++ for quick editing.
+It doesn't matter what editor you use."
+95,,1520954721.0,3.0,[deleted]
+96,fuckin_ziggurats,1520941182.0,1.0,I'm not saying Sublime Text is an IDE as a stock version (which is how you use it from what I understand) but it comes closer to an IDE with each plugin you add to it. It can be and for many people is much more than a text editor.
+97,fuckin_ziggurats,1520951101.0,1.0,I don't think what it's capable of comes into question. The survey show what people use it for - which is what we're discussing. And most people use Notepad++ as a quick text editor. I didn't mean to imply it's bare bones software but a fairly big part of Sublime Text's user base uses it as a main development tool in contrast to Nodepad++ which most people use for quick edits. At least in my experience with fellow devs.
+98,,1520984364.0,1.0,[deleted]
+99,fuckin_ziggurats,1521013987.0,1.0,"Cool data table, where'd you get it from?"
+100,GazNougat,1520987765.0,1.0,"Those maps on the similartech site are pretty fascinating. I knew that Vue is popular in China, but it apparently enjoys much more relative popularity to React in much of Africa & Asia than in Europe & the Americas. Maybe 2018 will see politicking with javascript frameworks."
+101,leeharris100,1520952364.0,11.0,"Calm down bud, no need to take it personally"
+102,,1520949502.0,-5.0,[deleted]
+103,Fractyle,1520984173.0,1.0,GOOD point
+104,Tokipudi,1520949931.0,-9.0,"First of all, you don't do the same things with Javascript and PHP, so saying you'd better learn Js instead of PHP is plain wrong. A backend developer working on Magento, Prestashop or other CMS doesn't need to know more than the basics of js to be good.
+
+Also, most CMS use PHP. Once again, Magento, Prestashop, Orocommerce, Woocommerce, Bigcommerce, Wordpress, Drupal, Joomla... they all use it."
+105,theKovah,1521015404.0,1.0,"You are correct. I do not completely agree that a certain market or area forces the choice for PHP but indeed, the language is already losing popularity in favor of new technologies. It is likely to become some sort of a zombie language at some time in the future if nothing completely new happens with it. But in my opinion in a more far away future as the lang experienced some sort of renaissance with PHP7 and the gaining popularity of Laravel."
+106,,1520972629.0,-3.0,"PHP adoption rate is not dropping at all, in fact PHP is more popular now than ever before. You really shouldn't project if you don't know shit.
+
+>PHP's characteristics (monolithic runtime, template-oriented output, awkward design choices, lots of language quirks, MVC pattern) make it a good fit for only a very small range of projects.
+
+talk about not knowing what you're talking about. Projection 101."
+107,A-Grey-World,1520971648.0,2.0,"Not disagreeing with you there. Never used it myself, only used C# and typescript through Node, both of which have been very pleasant.
+
+I wonder how long it'll keep its crown, but most CMSs seem to favour PHP, even modern ones, and given most the internet is content oriented even with new SPA type applications, I think it'll keep its crown for a long while.
+
+But I still lean towards other technologies of I have the choice too."
+108,A-Grey-World,1520956600.0,1.0,"I think it's worth saying I was using that as a hypothetical reason - I haven't used react so I can't say how great it is. But it could be a reason, along with the others listed that demonstrate that the survey isn't a perfect measure of popularity."
+109,A-Grey-World,1520956278.0,7.0,"Biased or wrong with what? I was suggesting ways Angular may have scored higher than React bar the obvious (being more popular). I didn't [intend to]* say say any of them were *the* reason, or that React *is* more popular.
+
+As for my bias, I've never used React (I'd like to though!), but have been using Angular for over a year now on a personal project and really like it. So if anything I'm bias towards Angular. I wasn't ~~saying~~ trying to say either is actually more popular than the other, or better than the other. Just trying to demonstrate with some hypothetical examples of how the results of a survey is not the be-all-and-end-all in answering either question.
+
+Ultimately, kind of trying to say ""who knows the real answer"" too.
+
+\* *Edit* reading it back my response isn't really worded very well. When I say ""I don't think it means Angular is more popular"" what I really meant was something like ""I don't the survey necessary shows Angular is more popular"". I've adjusted the wording to match what I was trying to say."
+110,jWalwyn,1520947660.0,-9.0,As is the same with Python 3 and Python 2. And ES6 and previous... and PHP7 and PHP5.4. Of course they're not going to separate languages and frameworks by release.
+111,vaskemaskine,1520949470.0,4.0,"Just to add to the confusion even more, there is no Angular 3."
+112,GeronimoHero,1520959342.0,2.0,"I use it in security auditing. So I use JS to try and do things like exploit cross site scripting or DOM based attacks, etc. "
+113,,1520970462.0,2.0,"Same thing for me. My python programs feel...naked. Just can't get around no type definitions and no brackets, semicolons. "
+114,mattaugamer,1520980229.0,1.0,"To clarify 2 a bit more (or provide a 3) *full-stack* is more a response to the split between being a backend developer and a frontend developer. Someone who does both is “full stack”. 
+
+You’re right, though, the first option doesn’t make much sense, and I wish people wouls stop puking shit like devops and SEO into the term. It was already moderately useless, now it’s completely dead. "
+115,kare_kano,1520974327.0,1.0,"Normally it should mean someone who can do both frontend and backend equally well. But it's increasingly being used to mean someone who is really one of them but can do the other in a pinch. ""We don't have anybody free to fix that CSS! // It's ok, Jim is full stack, he can take a look at it."""
+116,halfercode,1520964298.0,1.0,"That's well on the way to [Soylent](https://en.wikipedia.org/wiki/Soylent_%28meal_replacement%29), isn't it? `:-)`
+"
+117,MattBlumTheNuProject,1520967367.0,1.0,Honestly for me it does. I know it’s probably not the best but I do coffee only until 1-2pm. I tried switching to breakfast but I get sluggish. 
+118,A-Grey-World,1520968745.0,1.0,"I dunno, I can't walk 40 minutes without literally not being able to walk. Pretty sure I've got some kind of arthritis or something."
+119,,1520940122.0,15.0,"That's fine, my problem is with the assertion that sublime is an IDE not suitable for use as a text editor."
+120,,1520958999.0,1.0,Barely anything vs nothing. Big deal.
+121,burnblue,1520950713.0,3.0,NP++ have plugins too
+122,burnblue,1520952626.0,1.0,"OK, well
+
+> It's popular because people that use IDEs like  VS Code, Sublime, Atom, and whatnot all use Notepad++ as a quick text editor. 
+
+Well you're saying (I slightly edited it for emphasis there) that those are IDEs while Notepad++ is a text editor, and people treat it that way. Since my stance is that Notepad++ is in the very same category as the editors mentioned there, if indeed ""most people"" consider it separate like you do then that's the reason I was so annoyed for all those years. Visual Studio and Visual Studio Code don't go in the same category, Visual Studio Code and Notepad++ do. And nobody was using Sublime for one thing then firing up NP++ for another, they'd just use Sublime for both development and quick editing, which is fine. I'm just glad to see that more people are using Notepad++ the same way as well."
+123,snkscore,1520984661.0,1.0,"That is much higher than I'd have expected (but still well below OPs 100% claim).  Where did you get those figures from?
+
+EDIT: Never mind, found the raw data dump from previous years.  Very interesting.  Thanks."
+124,Ferlinkoplop,1520961208.0,7.0,"or maybe “hey, there’s a lot of demand for this framework/language/tool maybe it’d be smart to learn it” 🤔🤔"
+125,iShouldBeCodingAtm,1520958819.0,6.0,"> Magento, Prestashop, Orocommerce, Woocommerce, Bigcommerce, Wordpress, Drupal, Joomla
+
+Top reasons why PHP is [there](https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-salary-and-experience-by-language)."
+126,kare_kano,1520969539.0,1.0,"What else uses PHP? It runs the risk of becoming ""the CMS platform"" (if it hasn't already)."
+127,,1520962986.0,1.0,[deleted]
+128,fuckin_ziggurats,1520947894.0,6.0,"I think what /u/SHIT_PROGRAMMER is saying is there's almost zero transference of knowledge between the newer and older Angular versions. Which is not the case for Python 3 and 2, PHP 5.4 and 7, and ES6 and ES7."
+129,SHIT_PROGRAMMER,1520947813.0,6.0,They're not different releases of the same framework.
+130,A-Grey-World,1520949856.0,1.0,"Haha, yeah I forgot about that palava. I quite like Angular but god it's release has been a mess."
+131,,1520976006.0,2.0,Maybe I have more value than I thought I did... 
+132,anothercontradiction,1520968143.0,1.0,"That's fair. But to me that's your diet. I don't think that was the intention of the question (asking about your diet), but is a very reasonable way to answer it.
+
+I implied the question more as this: given you are hungry and need to do work, how often do you choose work?
+
+The question could have definitely been defined better. Also, a question on diet would have been interesting."
+133,,1521004670.0,1.0,[deleted]
+134,jujubean67,1520940823.0,-10.0,You chose to ignore context to arrive at the conclusion. Nobody said Sublime is an IDE not suitable for use as a text editor.
+135,,1520962670.0,2.0,[deleted]
+136,fuckin_ziggurats,1520953204.0,1.0,"> Visual Studio and Visual Studio Code don't go in the same category
+
+Completely agree.
+
+> Visual Studio Code and Notepad++ do
+
+I agree in general but it's rapidly changing. VS Code is no longer what it was when it came out and its fast development means it will continue to evolve.
+
+> And nobody was using Sublime for one thing then firing up NP++ for another
+
+Correct. Maybe I should've mentioned Eclipse, PHPStorm, and IntelliJ instead of VS Code, Sublime Text, and Atom (although many front-end devs would have you believe those are somehow equally powerful).
+"
+137,Tokipudi,1520974575.0,-1.0,"Except you're looking at it the wrong way. It's not companies that chose to use PHP because they can pay their employees less than others, it's because there is a lot of PHP devs that they get paid less (because there's more competition)"
+138,Tokipudi,1520974846.0,2.0,"Symfony and Laravel are simple examples of really powerful frameworks based on PHP that are as good as what other languages can do.
+
+I really don't understand how so many people shame others for liking PHP, when in the web development world you'll always have to use PHP from time to time, because there are so many websites using it. If you don't like it, fine, but it's still a great language otherwise it wouldn't have been used for such a long time."
+139,A-Grey-World,1520968827.0,1.0,"I don't think that makes any sense but I *think* you're saying, well, exactly what I was saying. So... Yey? Not sure why I'd take it the wrong way."
+140,SHIT_PROGRAMMER,1520947989.0,6.0,Indeed. Python 3 is just Python 2 with (compatibility breaking) changes. Angular 2 is a complete rewrite of Angular with a completely different development paradigm and written in a different language.
+141,,1520952241.0,1.0,[deleted]
+142,MattBlumTheNuProject,1520973812.0,1.0,"Ah, yeah. I suppose it’s different if you’re hungry but don’t give yourself the time be working better one way or another. "
+143,A-Grey-World,1521020123.0,2.0,"Not yet, but it's on my to-do list. It's only gotten so bad this last year or so and I haven't got around to it. I've had a few other priorities to sort out with doctors first so I've been putting it off."
+144,MrJohz,1520942818.0,4.0,"I think /u/Cifize was more confused about the implication that Sublime Text is closer to the IDE market than the text editor market.  At its core, it's still one of the fastest simple text editors out there, with an above-average feature-set.  It can be set up as an IDE (although I think it performs fairly poorly at that level, at least from a 'developer effort' perspective), but I suspect most of the people who use Sublime (and Atom, and potentially even VSCode) as an IDE would probably be equally likely to use it as a text editor - these semi-IDEs straddle the gap between IDE and text editor well enough that one usually doesn't need both.
+
+OTOH, users of the 'full' IDEs (IntelliJ's offerings, Eclipse, Visual Studio, etc) probably do have a go-to text editor alternative to their main editor, because launching up IDEA just to have somewhere to paste a shell command you need is a pain in the arse.  In those cases, it seems that they do tend towards NP++ for minor tasks.
+
+Alternatively, some people are just straight-up coding in NP++, and fair play to them..."
+145,,1520949177.0,8.0,"> You chose to ignore context to arrive at the conclusion. Nobody said Sublime is an IDE not suitable for use as a text editor.
+
+From the comment I replied to: 
+
+""Notepad++ serves a much different purpose than Sublime Text...use Notepad++ as a quick text editor""
+
+How am I ignoring context? It says N++ is a quick text editor, and that it serves a different purpose to sublime. The clear implication, then, is that sublime is *not* a quick text editor."
+146,,1520965054.0,1.0,"Developers are students for a couple of years, but they are highly-paid pros for decades. I know a builder who has spent more on hammers in his career than I have on text editors. Dev tools are insanely cheap. "
+147,burnblue,1520955798.0,1.0,I agree with each sentence. That fervor amongst front-end devs is what got to me
+148,kare_kano,1520981224.0,1.0,"If you want a MVC app then yes, PHP frameworks will give any other language a run for its money. But you can't solve every possible problem with a MVC app, and there's little else that PHP can do. The limitations come from the way it was designed and no framework will change that.
+
+> I really don't understand how so many people shame others for liking PHP,
+
+That is neither here nor there. Why complain about shaming when someone offers arguments? Personally I like PHP, but I'm not going to pretend it's something it's not. It started out as a ""personal homepage"" language and it's still essentially a templating engine, because the people who make it don't want to change it. There's only so much you can do with a templating engine.
+
+It needs to do what Python and Angular did, put out a redesigned version side by side with the original, which takes a fresh approach, fixes all the quirks and design mistakes, is endorsed by the original authors, and offers a migration path. That would give it the best of both worlds."
+149,fuckin_ziggurats,1520948144.0,2.0,"Unfortunately because Google are terrible at naming libraries, any developer that hasn't used Angular is completely ignorant of the fact that the only similarity between Angular and AngularJS is the name."
+150,A-Grey-World,1520955669.0,0.0,"However many times I make this mistake I never seem to manage to type it, even if I *know* it's a mistake.
+
+Writing some documentation today and I've literally just gone through and corrected about 6 instances of this exact  mistake.
+
+I always mess up loose and lose too."
+151,,1520965120.0,1.0,[deleted]
+152,folkrav,1520994324.0,1.0,"> but they are highly-paid pros for decades.
+
+... in US. Around here, income is average to higher-mid class, a junior straight out of school pays a tiny bit over national median income."
+153,Scowlface,1520965701.0,1.0,"Yeah, my dad has been a mechanic for over 40 years and has spent probably more than $500k on *just* tools over the course of his career. "
+154,,1520967309.0,1.0,Not that many: https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#developer-profile-how-many-developers-are-students
+155,bodyspace,1520966336.0,1.0,That’s over $12k a year!

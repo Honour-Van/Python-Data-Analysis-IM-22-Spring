@@ -1,0 +1,108 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,booooomba,1628198315.0,8.0,"It's also interesting to note that Dart is ranked at #7 in the Loved-vs-Dreaded category. Dart programmers are happier with their language than Swift, C#, Go and even Kotlin programmers."
+1,hillel369,1628233213.0,8.0,"Thanks for your analysis, I agree with many of your points.
+
+With regard to Flutter Web I think its production status depends heavily on your specific use case. We've shipped a Flutter Web app to production ([https://demo.invoiceninja.com](https://demo.invoiceninja.com/)), there are issues but most of our users are happy. Not all apps need/want SEO and slow initial load times are less of an issue if users keep re-using the app as it's cached as a PWA."
+2,_somename_,1628200443.0,11.0,It's really worrying the amount of $ a flutter dev earns.
+3,Responsible_Indie,1628215679.0,2.0,Thanks for the analysis. I've been a back-end programmer for my entire career and I'm looking forward to learn a bit of flutter this year.
+4,josea-2021,1628245795.0,1.0,"But Flutter needs better datasource managers to make working with REST and databases easier.  
+It also need libraries for direct work with client-server databases.  
+The community should also have a highly sophisticated datagrid, with groupings, filters, multilevel headers, ...  
+For professional work these characteristics are essential, you just have to see the characteristics that NET and C# have in these areas (ADO.NET, Entity Framework, ...)  
+Dart also needs a modular, cross-platform system to chunk out bulky applications.  
+In the desktop and web world, these extensions are necessary so that Flutter can address the development of large business applications."
+5,JimmyUpdyke,1628245006.0,0.0,"""Dart has less language features compared to Java/C++"" -- I disagree. I have 30 years experience with C++ and 20 years experience with Java. Tell me something that can be done in C++ or Java that cannot be done better in Dart.  
+""Flutter Web and Flutter Desktop are not ready for production, so don't count on those advantages for single enterprise deployment"" -- I work for a big corporate and we develop Flutter Web apps (not web sites) for use on our corporate intranet. Also, we are very happy re-using Flutter code from our iOS/Android development in our Flutter Web development  :-)  
+
+
+Personally, in my own time, I develop Flutter Desktop software targeting macOS and Windows. Love it  :-)"
+6,Competitive_Catch187,1636510446.0,1.0,Bien
+7,intertubeluber,1628198828.0,9.0,"As someone with experience in c#, JavaScript, some Java, and Kotlin, I was surprised Kotlin didn’t come in higher."
+8,cloudster314,1628274074.0,2.0,"Wow, nice job with that app!  I'm going to show this to my co-workers.  Cool.  This looks super professional.  Way to go. Congratulations on getting that initial load time down.  :-)   I'm just curious, can you share if you are using or plan to use your production app with Flutter Web?  Or, are you using Flutter Web for the the demo portion only and your production web app is on something like React or Angular? 
+
+I'm planning to use Flutter Web for the internal staff dashboards after login.  This will eliminate the problem with the SEO (don't need the SEO on the dashboards). 
+
+BTW, did you add the loading bar at the bottom of the ""splash screen"" with standard JavaScript? If it is a standard package, I hope to use it too.  Otherwise, if it's custom, I can implement my own, I think.  I'm assuming you put it in \`project\_root/web/\` and connected it to \`project\_root/web/index.html\`
+
+&#x200B;
+
+Thanks for sharing this Flutter Web example.  This type of information will increase the chances that we'll use Flutter Web for deploy."
+9,cloudster314,1628202118.0,9.0,"I believe that the low $ is temporary and that the $ will increase as enterprise adoption increases.  Realistically, as Flutter is relatively new, most deployments are for smaller projects.  As the confidence in Flutter grows, we will see more complex applications.  As the complexity of the application grows, the $ will increase.  In my own case, I am only using Flutter for small example projects at the moment.  However, we are evaluating it for wider use.  At the current time, most Flutter projects are not business critical.  I believe it will change in the next year."
+10,lets4r,1628236515.0,7.0,"I wouldn't worrying about this. The salary in dollars is global and is not a good indicator. We should have the salary per country to reflect its real value. When we look at the salary per role in USA, they are no salary below $70k. So we can say that a lot of respondents are outside the USA concerning Dart.
+
+Without all the data I can only make hypotheses:  
+
+- A lot of Flutter developers come from India (12.6% of respondents) and are underpaid compared to US developers.
+
+- A lot of respondents don't have a lot of experience and/or are students or without any job at the moment.
+
+Edit: formatting"
+11,desertsandman10,1628215608.0,2.0,What's a new dev earning these days?
+12,cloudster314,1628274942.0,2.0,"For learning purposes, Flutter on Android is likely the easiest.  If you want to try it with your own backend, you can use a number of packages such as [http](https://pub.dev/packages/http), [dio](https://pub.dev/packages/dio) to handle the network connection easily.  If you want to use an existing backend, there are many examples for Firebase.   It is easy to build for iOS, desktop, and web too.  However, you may encounter some issues with some package support.  iOS support is pretty good if you have a Mac to work with.   If you're on Windows or Linux, use Android.  You'll be able to get usable mobile apps up quickly and it will be satisfying.  There's a lot of resources out there.  Let me know if you want my personal opinion on learning resources to get started."
+13,cloudster314,1628355611.0,1.0,"Hi, first, thank you for taking the time to write a response and sharing your successful real world experience.  I appreciate it.  I am posting here to broaden my learning and thus am studying the answers.  Also, I am not a very good programmer.  
+
+I was looking at the most ""Loved vs Dreaded"" programming languages and the top one is Rust, followed by Clojure, TypeScript, Elixir, and Julia.  Below that are Python and Dart. The most loved languages have features that solves a problem with another language.  IMO, Dart is solid, but doesn't bring anything new to the game.
+
+I like Dart because it is simple.  However, I do not feel it is a ""big draw"" for features.
+
+For example, in areas of performance and memory management, there is nothing special about Dart.
+
+* There is no char in Dart, only String
+* You can't import C libraries into Dart as easily as with C++.  You must use dart:ffi, which works, but is another step and likely most people won't take the additional step
+* There are no pointers or equivalent in Dart to manage memory more effectively
+* There are no arrays in Dart, only lists.  Although lists have more features (the methods that does all those great management actions, including `listName.add()`), there are cases where the array is faster.  I have not done any tests myself, so I am curious as to the performance hit or if there is some clever solution in the Dart compiler.  However, in general, as the size of an array is fixed, there are cases where an array is faster than a list.
+* there are no float types, only double. It's likely that no one will care unless they are using an IoT or other embedded device.  However, embedded development is a real area for Dart. 
+* there are cases where a language such as Dart that uses a garbage collector is not going to be as efficient as manual memory management
+
+The additional features of C++ can lead to faster code, which could be important for graphics transformations on mobile and desktop application or data analysis on large sets.  Obviously, manual memory management makes a program more prone to bugs, potentially a bug that hangs the program.
+
+I use Dart because it is easy.  Although I deal with large image and video transformations, I do not have the skills to optimize the algorithms myself.  I need to rely on the packages from other people."
+14,cloudster314,1628202620.0,1.0,"I used to use Kotlin.  It is good and pleasant to use.  I personally switched to Dart because it is a simpler language in my opinion.  Kotlin is more powerful and thus the examples for Kotlin might be more difficult to understand, especially as there may be a lot of Java libraries used."
+15,hillel369,1628359455.0,4.0,"Thanks! This is the production app. We setup a demo version which has fake data so people can get a sense for how the app functions. 
+
+There are two loading stages:
+
+\- We initially use a CSS loader from [https://projects.lukehaas.me/css-loaders](https://projects.lukehaas.me/css-loaders) which is added to the index.html file. Note: add 'defer' to the main.js script tag to ensure the animations plays while the JS is loading.
+
+\- Once the app is loaded we show a Flutter loading screen while the app checks for persisted state to load. Here's the code: https://github.com/invoiceninja/admin-portal/blob/master/lib/ui/auth/init\_screen.dart"
+16,chilly2121,1628209239.0,0.0,It’ll remain the same. The popularity and simplicity of use of the language is sometimes what kills the salary.
+17,_somename_,1628236625.0,2.0,That's actually a good point. Thank you.
+18,Responsible_Indie,1628289002.0,1.0,Sharing those would be great. Thanks!
+19,JimmyUpdyke,1629110795.0,1.0,">For example, in areas of performance and memory management, there is nothing special about Dart.  
+>  
+>There is no char in Dart, only String--**I don't miss chars, their absence has never been a problem for me, just use a String containing a single character.**  
+>  
+>You can't import C libraries into Dart as easily as with C++.  You must use dart:ffi, which works, but is another step and likely most people won't take the additional step.--**I'm not sure it's really valid to say that a deficiency of a language is that it's not easy to integrate with another language! Certainly, inasmuch as C++ is 'C with Classes', C/C++ integration is natural. That said, I have no problem dropping down into native code through a MethodChannel. I'd sooner call C from Dart than from Java!**  
+>  
+>There are no pointers or equivalent in Dart to manage memory more effectively.--You really want pointers?--**I see no benefit, in fact, pointers are downright barbarian (I spent the 1980s writing Z80 and MC68000 assembler and I am glad that that stuff is long gone, for the most part). Pointers arise from the primitive nature of C/C++/assembler. Sure, it can be gratifying to use 'while (\*p1++ = \*p2++)', etc. but that soon loses its charm after writing it a few hundred times.**   
+>  
+>There are no arrays in Dart, only lists.  Although lists have more features (the methods that does all those great management actions, including listName.add()), there are cases where the array is faster.  I have not done any tests myself, so I am curious as to the performance hit or if there is some clever solution in the Dart compiler.  However, in general, as the size of an array is fixed, there are cases where an array is faster than a list.--**Dart lists are arrays, of course, but with highly-developed semantics that are baked into the language. Arrays in C/C++ are merely a string of data items in contiguous memory and, as such, are ridiculously onerous to use (insert, delete, append, etc. to be done by you, not by the language).**  
+>  
+>There are no float types, only double. It's likely that no one will care unless they are using an IoT or other embedded device.  However, embedded development is a real area for Dart.--**I don't miss floats, I hardly ever use floating point anyway. You can always use a double instead of a float, of course.**  
+>  
+>There are cases where a language such as Dart that uses a garbage collector is not going to be as efficient as manual memory management.--**If you think of Dart as the language of Flutter then Flutter does not need low-level memory management and these days, even in C/C++ low-level memory management is often avoided through smart pointers, etc. Managing memory yourself is non-trivial and to be avoided.**  
+>  
+>The additional features of C++ can lead to faster code--**true but that software would not have much of a WIMP UI so not need Flutter (think, games). For example, a couple of years ago I developed Windows credential providers in C/C++ because that was the best way to do it. Pointer use and memory management is baked into my brain so it's second nature for me to do that but I resented it, it's a waste of time and something you do iff you need to.**"
+20,9oat5w33d,1628234224.0,2.0,"Learning Dart and Kotlin together as I am interested in the Kotlin multiplatform future. Bypassed the Java route completely.
+
+Loving both languages, not a big fan of GUI so android studio side of Kotlin is a bit of an extra learning curve."
+21,cloudster314,1628361931.0,3.0,"Wow, impressive in many ways.  Respect that your team:
+
+* showed the strength of leadership to go forward with Flutter Web now as a bet on the future
+* were generous in putting this code on GitHub as open source, including info on how to remove the non-FOSS.  I'm sure this will help with adoption of your platform
+* It appears that you have the same code base working on mobile, web, and possibly even desktop.  Wow.  Living the dream and making it happen.
+   * For the average developer, the reality that your team made happen is likely still a hope.  Congratulations.  I can only imagine that there were some stumbling blocks you needed to overcome, especially considering that Flutter Web is evolving quickly.
+
+You likely have a fascinating story on the decision process to commit to Flutter Web and what you needed to overcome.  For example, I know that the [cache  was changed in Flutter 2.2](https://medium.com/flutter/whats-new-in-flutter-2-2-fd00c65e2039), which was released in May of this this year.  I have to imagine that as you were developing your app, you had some issues balancing web updates and load times.
+
+Thanks again for showing leadership in your deployment and sharing your experience.  Have a great weekend."
+22,cloudster314,1628353280.0,2.0,"Hi, I'm not a very good programming, but I talk to many executives who have achieved success.  I've been living in Palo Alto, California for 20 years and have provided consulting for dozens of technology CEOs.  It is incorrect to assume that technologies like Dart, HTML or Python are easy and thus the salaries for people with those skills are always low.  It all depends on what you do with the skills you've invested time in developing.  Human creativity and what you do with the skills you have is going to be valued highly.
+
+The popularity and simplicity of Dart may make it easier to express human creativity in the future.  If you can build a prototype quickly and prove your concept to stakeholders, you can get to the next level of personal growth.
+
+It is easy to look at a statistical average and misinterpret it.  Although you are correct in viewing the current statistical salary average as low, I believe you may have drawn  incorrect conclusions as to why the average is low.    In the comments below, u/lets4r points out that as Flutter is new, there are many respondents who are students or just getting started in their careers as well as developers in areas where the general salary is lower than in the US.
+
+My view may be specific to Silicon Valley as unfortunately the minimum salary to buy a house here has really gone up in recent years.  :-(    Unfortunately, the path of being assigned work from other people may not generate enough income to live comfortably here.  It's likely young people  need to build a Minimum Viable Product (MVP) on their own and plot their own path. They need to be leaders, not followers.  Thus, while I agree the salaries are low now, it may not be low in a year, at least among Silicon Valley startups or at local companies like Google or eBay, which I believes uses Flutter for eBay Motors.
+
+This is the same advice I give my own kids."
+23,cloudster314,1628347968.0,2.0,"I summarized my experience here: [https://community.oppkey.host/t/flutter-courses-for-beginners/303?u=craig](https://community.oppkey.host/t/flutter-courses-for-beginners/303?u=craig)Let me know if you have questions as I've gone through those courses and can give my opinion.  At the top of the article, I emphasize that the free documentation on [Flutter.dev](https://Flutter.dev) is excellent.  Also, these courses go on sale for under $15 all the time.  Just wait for the sale.  No need to spend a lot of money."

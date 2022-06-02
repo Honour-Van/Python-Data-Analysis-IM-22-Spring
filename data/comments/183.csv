@@ -1,0 +1,273 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,jrop2,1590606753.0,182.0,"It's hard not to love Rust: I actually started from that position.  My buddy told me about it some years back, and I tried it around 4 times, dismissing it each iteration before it actually began to stick.  Now, the more I use it, I still have some frustrating days, but I pull my hair out less and less.  Even more, whenever I imagine ""language utopia"", I can't really imagine much better.  I'm not saying there's no room for improvement, but man, Rust is really nice right now."
+1,matthieum,1590604580.0,267.0,"Reminder: Most loved _amongst its users_. It's generally easier to achieve for smaller language...
+
+... and with that said, 5 years in a row! :D"
+2,flay-otters,1590613682.0,52.0,"Rust is an awesome, awesome language that faces a very difficult road ahead in gaining critical momentum. It solves problems that are not easy to solve and are not easy to get right on the first attempt. Please make sure you vote every year in this survey as it brings some much needed press-oxygen to the ecosystem."
+3,LoyalDingo21,1590607208.0,223.0,Who has the biggest circle jerk?  We do!
+4,Voultapher,1590647915.0,31.0,"- 2015: 73.8% 3rd place - 3.8% diff to top Swift
+- 2016: 79.1% 1st place - 7.0% diff to 2nd place Swift
+- 2017: 73.1% 1st place - 6.1% diff to 2nd place Smalltalk
+- 2018: 78.9% 1st place - 3.8% diff to 2nd place Kotlin
+- 2019: 83.5% 1st place - 10.4% diff to 2nd place Python
+- 2020: 86.1% 1st place - 19.0% diff to 2nd place Typescript
+
+Looks pretty good, others come and go, but Rust remains at the top. The gap even seems to be growing. One curious note, I didn't remember from back then. In 2015 C++11 had 75.6% and was in 2nd place."
+5,,1590644921.0,21.0,other 13.9 are still stuck in borrow checker :D
+6,code-n-coffee,1590604557.0,24.0,Five years in a row!
+7,UARTman,1590648539.0,10.0,"I'm in high school and Rust is a second language I fully committed myself to. Sure, I can code in CPP a little and can write some C# code, but Rust is for me far more friendly. It has a steep learning curve at first, but becomes friendlier and friendlier as you become more familiar. Also, you can find online books on any big part of Rust - this is very helpful"
+8,IshKebab,1590611098.0,25.0,"> frustrations with duplicate question handling
+
+At last! They heard us!
+
+Also some suggestions for the survey next year if anyone from SO is reading:
+
+1. The company size survey would be better if the scale were fully logarithmic.
+2. Instead of asking ""which of these technologies do you love the most""? You should as ""which of these technologies are you familiar with enough to rank"", and then out of those ""rank those technologies in order of you much you love/hate/want to use them"". There may be a language that is absolutely loved above all other languages by its 10 users and we would never know it."
+9,norman784,1590609979.0,31.0,"It’s hard no to love it, the language itself it’s ok (nothing too extraordinary) but with the official tooling together is amazing, it’s pretty impressive how developers without several years of experience with the language, low level memory management, etc can write correct (it’s this the word for correctness?), performant and fast programs.
+
+It resembles a lot that you can write easily code in a text editor and get good hints from the compiler, while others give cryptic errors or requires you to install a lot of third party tooling to have the same result, i.e. for C you need the compiler, then some other tools to analyze your code (I believe that those do static analysis or something like that), etc (I’m not C dev so I’m not aware of all the tooling you need to write apps that doesn’t shoot you in your face as a novice developer), or js/ts where you need to install a lot of stuff, configure a lot of tools, etc just to get some similar result.
+
+I just read a lot this last year how apps became slower and slower with all the abstractions, slow languages, etc then rust appears (there are some people that still criticize it because it force you to write a correct app and not give you room to just prototype quickly, that’s might be true, but IMHO it’s just the lack of experience and bad habits you learned all those years) and bring the power of a system programming language to the mere mortals."
+10,_TheBatzOne_,1590648022.0,6.0,"I came from Java/Kotlin and Python to Rust, it was really hard to get into it but now I love it so much. I am even starting to be a fanatic and try to put it everywhere"
+11,swoleherb,1590664759.0,2.0,"reminds me of this comment
+
+https://old.reddit.com/r/programming/comments/g5v1a3/programming_language_rusts_adoption_problem/fo5scgi/"
+12,,1590675411.0,1.0,of course :)
+13,rlamarr,1590681949.0,1.0,"Percentages everyone, Percentages."
+14,Spartan-S63,1590622450.0,29.0,"This is sort of my story, too. My early missteps were a combination of a fast-moving v0.10 of Rust (circa 2014) and trying to translate C++ idioms and thinking to Rust. When I put that aside and learned it as a new language, things started clicking.
+
+I also have my frustrating days with it, but in general, it's the tool I always want to reach for."
+15,nagarjunp,1590652218.0,10.0,"I tried learning Go at least 4 times and kept dismissing it. On the other hand, I instantly ""got"" Rust. It just made sense to me. it really is a beautiful language."
+16,,1590624299.0,23.0,[deleted]
+17,techbro352342,1590974151.0,3.0,I tried rust about 2 years ago and I found it way too complex and I was struggling with even basic programs. I tried it again this weekend and I found it trivial and I was able to build a semi complex program interacting with SPI on the raspberry pi. I'm not sure if the language and error messages just got a lot simpler of if I just got better at programming but I went from not wanting to use it to absolutely loving it.
+18,ectonDev,1590611901.0,139.0,"The other metric is to look at the 2019 report and the 2020 report and compare % of people who are using it. In 2019, [83.5% loved it](https://insights.stackoverflow.com/survey/2019#technology-_-most-loved-dreaded-and-wanted-languages) but only [3.2% used it](https://insights.stackoverflow.com/survey/2019#technology-_-programming-scripting-and-markup-languages). In 2020, as the headline stated, it's [86.1% loved](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved) with [5.1% using](https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents). Not only did Rust gain love over the last year, it did it while growing its userbase.
+
+That to me is impressive, although not surprising (as a fairly recent adopter myself)."
+19,godlikeplayer2,1590671741.0,7.0,"well, hate for a language usually starts when people HAVE to use it at work or to get a job. Rust is still too small for that effect."
+20,Asyx,1590650969.0,21.0,"I hope it stays like this. A bit more each year. Look at the popularity of other languages (at least in web). They all got popular with hype. Once that hype died, the language died as well (kinda).
+
+Except python. Slow and steady. Always getting more and more popular. I hope it doesn't take Rust 20 more years to get as mainstream as python but I also hope that we won't get that hype framework that will be popular for a few years just for Rust to join Ruby in the bucket of useless languages.
+
+But I'm very optimistic. In the last few years we've seen some small but successful and professional game developers voice their positive opinion on Rust and, at least on Reddit, the embedded community were also optimistic for Rust in the future. I think you can also use Rust on the Linux kernel if there's a good reason to do so, Microsoft is also doing something with Rust I think.
+
+In my opinion, the future looks pretty bright."
+21,timClicks,1590659981.0,2.0,"What would be considered success? It already seems like it has reached a critical mass, imo"
+22,rebootyourbrainstem,1590607295.0,98.0,-> /r/rustjerk
+23,wishthane,1590608689.0,84.0,Upcrabs to the left
+24,the-lord-empire,1590651900.0,2.0,"Can't be made fun by pcj if we do that to ourselves :D 
+
+r/rustjerk ftw"
+25,WormRabbit,1590680398.0,5.0,Smalltalk? That's weird. Why would Smalltalk suddenly get so much love in 2017?
+26,matthieum,1590686074.0,2.0,"It's also interesting to see the growth in number of users among respondents:
+
+ - 2019 was 83.5% of 3% of respondents.
+ - 2020 is 86.1% of 5% of respondents.
+
+The proportion of users doubled and _yet_ the number of users who love Rust still climbed."
+27,ferruix,1590689599.0,4.0,"Importantly, Rust also makes you a better programmer by forcing you to be explicit about ownership details that experienced C/C++ developers learned to hold in their heads.
+
+So you can learn those concepts without going through a huge morass of debugging, and they'll transfer to every future language you learn too: even to GC'd languages like JS where programmers have to know to avoid leaking."
+28,rforrevenge,1590615153.0,3.0,"What do you mean by ""if the scale were fully logarithmic""?"
+29,Quixotic_Fool,1590621505.0,44.0,"> nothing too extraordinary
+
+I'm not a Rust zealot by any means, but it is state of the art in some ways. It's the only production language which is GC free that guarantees no data races, no use after free, no invalid memory accesses, etc. whilst maintaining a high level of expressiveness.
+
+Imo even though there are warts in it, it's an extraordinary language. Not many languages can claim as much."
+30,adante111,1590625070.0,9.0,"I dunno, I consider both language and tooling quite extraordinary"
+31,stojakovicn,1590663252.0,6.0,"I understand that some people love Go's minimalism, but I always felt so limited writing it."
+32,steadylearner_p,1590713307.0,1.0,It is difficult to motivate you learn other languages after you know Rust and its benefits.
+33,Moxinilian,1590671083.0,11.0,"In my opinion, if you spend time figuring out which of the multiple ways to convert strings you want, then it means that you care about what it implies and it'll be the same issue in all languages. If you don't care, just take the first one with the types that work for you (`into` really just does the trick)."
+34,epicwisdom,1590669298.0,6.0,"Those are pretty minor and honestly not much different from other languages. People used to Python will complain C-like syntax has too many curly braces, people used to C will complain Lisp has too many parents, etc. That kind of thing is mitigated by editor setup, too."
+35,,1590700434.0,3.0,Figuring out which way to convert to a string isn’t nearly as bad as all the ways to format strings in Python
+36,yerke1,1590626800.0,30.0,"It's also nice that Rust is 5th most wanted language ([https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted)) with 14.6% after Python, JS, Go, and TS."
+37,matthieum,1590681793.0,1.0,"Yes.
+
+I also think there's a selection bias effect: the few that tried Rust and abandoned may either not answer the survey or simply not mention they tried Rust there."
+38,eypandabear,1590668149.0,3.0,"I don’t expect Rust to ever become “as mainstream” as Python, simply because Python has a higher “ceiling” to its user base."
+39,matthieum,1590685968.0,6.0,"I think 2020 may be a pivotal year.
+
+Nearly all of the high-viz tech companies (FAANG) have touched on Rust -- with Netflix being the exception -- which has attracted quite some attention in the past year or so.
+
+With Microsoft publishing article after article about Rust, and a Rust branch for Chromium, I would expect growth to continue.
+
+And I'm actually a bit worried. Exponential growth is hard to keep up with, so I hope the community will manage."
+40,,1590610035.0,44.0,[deleted]
+41,bollop_bollop,1590614435.0,8.0,What's upcrabs? (Can't leave you hanging)
+42,HenkPoley,1590742126.0,1.0,"[Unsure](https://trends.google.com/trends/explore?date=2015-01-01%202020-04-30&q=%2Fm%2F070d2,%2Fm%2F06w16vz), maybe there was just a nostalgic article that coincided with their survey?"
+43,UARTman,1590690247.0,1.0,Oh yes! Rust definitely made me think about stuff.
+44,Spartan3123,1590932123.0,1.0,yea i feel that i will become a better c++ developer if i learn Rust first
+45,IshKebab,1590651936.0,12.0,"It's like 0-5, 5-10, 10-50, 50-100, etc.
+
+If company sizes are distributed smoothly when plotted logarithmically (they should be) then you would expect the 1...-5... bands to have more entries than the 5...-1... bands, because they are wider on a logarithmic scale. That means your results will always be zigzaggy and hard to interpret.
+
+It should be 1-3, 3-10, 10-30, 30-100, etc. Because 10^0.5 is about 3."
+46,matklad,1590657529.0,12.0,"I would be even more bold -- Rust seems to be the first significant advancement for programming languages in industry (I deliberately exclude research) since Java had proved that JIT and GC are viable options for relatively high-performance implementations. 
+
+The only other contender I can think about is gradual typing, and I won't disagree with it being comparable to Rust's ownership and borrowing system in significance. But, personally, I discount its significance because, to me, it seems to be a work-around for languages which started as dynamically typed, and whose usage scaled well beyond the point where static types make more sense."
+47,Mr_rm-rf,1590674039.0,1.0,"What does GC stand for?
+Thanks in advance!"
+48,zzzzYUPYUPphlumph,1590678644.0,1.0,"Just to clarify your point, and ensure their isn't misunderstanding or accusations of inflated claims by those who look for anything to pick apart, it is important to qualify the guarantees that Rust makes with the following:
+
+&#x200B;
+
+>it is state of the art in some ways. It's the only production language  which is GC free that guarantees no data races, no use after free, no  invalid memory accesses, etc. whilst maintaining a high level of  expressiveness
+
+""and these guarantees hold provided that you have no incorrect use of ""unsafe"" anywhere in your code-base or its dependencies"". By ""incorrect"", we mean that all ""unsafe"" code is written so that, in conjunction with ""safe"" invariants upheld by the privacy barrier of the module containing the ""unsafe"" code, there is no possibility for that ""unsafe"" code to invoke ""Undefined Behavior"", and so it is ""Sound""."
+49,OS6aDohpegavod4,1590635358.0,1.0,What about Ada?
+50,The_Droide,1590636282.0,-5.0,Swift?
+51,commo64dor,1590824670.0,1.0,I like both Go and Rust. Different approaches that make you a better programmer.
+52,kimjoaoun,1590777948.0,2.0,"Yes, I'm going through this moment right now, it's hard to focus on learning Go after learning Rust... Sadly the last one is more demanded in the job market."
+53,,1590708882.0,0.0,[deleted]
+54,Keavon,1590649467.0,12.0,"And the *last* ""Most Dreaded"" language on the entire list.
+
+Edit: Oh, that's because it is just the inverse list of ""Most Loved"" which is not particularly insightful. They should have actually asked which languages people most dread using on a daily basis."
+55,jl2352,1590691606.0,4.0,"> With Microsoft publishing article after article about Rust, and a Rust branch for Chromium, I would expect growth to continue.
+> 
+> And I'm actually a bit worried.
+
+I'm not as worried for the reasons you cited.
+
+If you look at say Ruby. Ruby's growth is directly tied to Rails. Dart is directly tied to Flutter. When people stopped using Rails, Ruby went into decline. Same for Dart. Similar for PHP in that the industry has moved away from the PHP style of building websites.
+
+Rust isn't popular because of one library or one app. It's popular because of what the language offers.
+
+That said I worry the language is *too* different to get real traction."
+56,timClicks,1590690060.0,2.0,Rust has been growing exponentially since 2013. Check out this post from Nov last year  https://tim.mcnamara.nz/post/188733729327/rust-2020-lets-embrace-the-eternal-september
+57,aoeudhtns,1590610277.0,24.0,"> Most loved
+
+> Hidden
+
+Hmm."
+58,_zenith,1590621699.0,6.0,The upvote button is an upwards facing crab in styled web format (mobile clients won't show it)
+59,zzzzYUPYUPphlumph,1590679171.0,4.0,">Rust seems to be the first significant advancement for programming languages in industry
+
+I could not agree with this more. I have been developing software for many industries for many years with many different languages. Not until Rust came along did I think I see anything different or extraordinary in any production languages I used. They all seemed to be one of:
+
+  \* C/Pascal equivalent
+
+  \* LISP equivalent
+
+  \* Java equivalent (actually, I had used things that precede Java by almost 2 decades that had the notion of VM, bytecode, WORA, etc. - they were proprietary, but, they were actually much better than Java in many ways, so, Java to me, and all its follow on copy-cats, like C#, wasn't particularly interesting technology-wise, but, it was interesting because it was ""free"" (as in beer)).
+
+  \* Bash/Zsh/Csh equivalent
+
+Even Haskell and it's ilk just seems like a somewhat better LISP/Scheme (I know I'll never hear the end of that, but, it really is what I see when I look at it).
+
+Rust, on the other hand, just seems like an entirely new way to approach programming that is at once familiar and extraordinarily novel in the best possible ways. It's not perfect, but, for me, it feels like such a breath of fresh air. I'm truly humbled and inspired by the effort and thoughtfulness that has gone into Rust, and I truly believe, that it, and/or its offspring will be the dominant future of software development."
+60,desiringmachines,1590709974.0,5.0,I think the only reason you think this is that you frame it in terms of a 1-1 relationship between languages and the advancements. Plenty of big advancements entered the mainstream in the 20 years between Java and Rust. To name just one *huge* one: closure capturing anonymous functions. There's just no 1 language that can claim credit for bringing that mainstream.
+61,zzzzYUPYUPphlumph,1590679351.0,2.0,">since Java had proved that JIT and GC are viable options for relatively high-performance implementations.
+
+I would disagree with this in the sense that this was proved long before that. I used proprietary languages, that were even better languages, that had byte-code, JIT, GC, etc. that ""proved"" out all of this. Now, not that Java didn't make advancements in the state-of-the-art, but, not initially. Not even close. Initially it was fairly ho-hum and the only thing it really had going for it was it was ""free"" (as in beer) instead of being thousands of dollars per year per seat (of end-use, not developer)."
+62,sprudelel,1590674538.0,3.0,**G**arbage **C**ollection. Letting the program track what memory is no longer used anywhere and cleaning it up automatically.
+63,meteorMatador,1590637438.0,10.0,"It's trivial to break things by accident in Ada. It's certainly better than C, but it doesn't have Rust's guarantees of memory safety.
+
+SPARK makes Ada's safety guarantees much more powerful but it still isn't a silver bullet. Apparently it's easy to make a mistake with your assertions that will send the compiler into infinite loops. There's a project underway to build a Rust-like borrow checker for use in SPARK; maybe that will be easier to use than the way it works today. (Disclaimer: I haven't personally used SPARK.)"
+64,drawtree,1590641936.0,4.0,"It’s up to you whether to see RC as a form of GC or not. Anyway Swift RC is mandatory to make safe reference type, and is certainly not zero cost.
+
+Lack of unique ownership means lack of data race prevention and many more.
+
+Though Swift devs once have promised unique ownership, it’s still a vaporware for several years together with async-await and actor model."
+65,steadylearner_p,1590780018.0,2.0,"Lucky you, where do you find jobs?"
+66,,1590719798.0,2.0,"Also % formatting, f-strings (which admittedly are a short-hand for `.format`), `Template`s.. Yeah, in general it should probably just be `.format` (or f-strings unless inline variables make the template string too hard to read), but...Then there's the specific debate on whether log functions should use % formatting or `.format`ted strings, and that's still an active debate from what I've seen."
+67,,1590653443.0,9.0,[deleted]
+68,nicoburns,1590713452.0,1.0,"Agreed, except that the PHP ecosystem is better than it's ever been, and still growing."
+69,matthieum,1590690842.0,3.0,"I know, and _until now_ it's worked pretty well.
+
+The challenge with exponential growth, though, is that ""next year"" is always the biggest growth seen so far.
+
+r/rust just reached 100k, if its exponential growth continues it'll get 100k new users in a year. That's a challenge for moderators :)"
+70,crabbytag,1590613166.0,21.0,"Most loved among the people who use it though, which was only 5% of respondents. So somewhat hidden, still."
+71,ellenkult,1590657346.0,2.0,Like a cult
+72,notquiteaplant,1590647364.0,9.0,"Not much, what's up with you?"
+73,matklad,1590735482.0,2.0,"Interesting! I indeed missed the whole OOP -> FP idiom shift in my thinking, which, with its many small advancements, does make today’s code look significantly differently. Though to me this seems more of a change in how we program, rather than a change in languages we use. We did have closures in JS and Python for a long time, and anonymous classes in Java as well, we now just use them more often. 
+
+In other words, we did have a plenty of incremental improvements, and they do add up to a significant total advancement, but the amount of breakthroughs is small.
+
+One breakthrough that I definitely missed though is async await."
+74,oconnor663,1591374319.0,1.0,I'm super curious what those proprietary languages were.
+75,Mr_rm-rf,1590674712.0,1.0,"Oh, haha how did I not realize that? Thanks!"
+76,OS6aDohpegavod4,1590655449.0,1.0,I'm confused - it doesn't have Rust's guarantees of memory safety but it is memory safe and it has more powerful guarantees than Rust?
+77,asmx85,1590658004.0,2.0,"> It’s up to you whether to see RC as a form of GC or not.
+
+In Computer Science it is mostly attributed to be of form of GC. And before Swift i haven't really heard of many people not attributing RC as a form of GC. I think no one would argue that Python IS NOT a GC'ed language dispite using RC."
+78,The_Droide,1590661068.0,1.0,"Swift is not RC-only. In fact, it promotes value types (structs) over refcounted types (classes) and even provides Rust-style pass-by-reference of value types (inout arguments)."
+79,,1590729580.0,1.0,[deleted]
+80,Keavon,1590653889.0,11.0,"~~The description for both seem to imply they are different survey prompts.~~
+
+Edit: I checked again and I had remembered incorrectly, the ""dreaded"" prompt is the same as the ""loved"" prompt with the word ""not"" added. Thanks /u/chandrog"
+81,timClicks,1590695140.0,2.0,"Yes, it's a huge risk. Volunteer burnout becomes very likely.
+
+One thing that happens when the community doubles every 18 mo is half of the community has less than 18 months' of Rust experience. When managed well, this is an excellent outcome. More time is invested on resources for newer programmers, spending up the learning process for every future Rust developer.
+
+But poorly managed growth can create a vicious cycle. More people asking questions with a small number of people answering them."
+82,aoeudhtns,1590613994.0,3.0,"Shh, let me have this! ;)"
+83,_zenith,1590647811.0,2.0,"Sadly, my username isn't upcrabs
+
+(edit: seriously, downvotes for this? wtf. it was a joke, playing off what's up earlier up)"
+84,meteorMatador,1590671058.0,7.0,"Hold on, let me clarify. Vanilla Ada does not have memory safety guarantees. SPARK is an optional compile-time assertion framework that statically analyzes your program in excruciating detail. A SPARK program is able to provide much more powerful guarantees than a vanilla Ada program,  but only with a lot of effort from the programmer, and it still doesn’t guarantee memory safety.
+
+It’s kind of like working with formal verification in C. It’s possible to have a memory safe C program, after all."
+85,drawtree,1590674189.0,2.0,"I've been thought Python detects cycles by running a separated tracing GC, isn't it?"
+86,zzzzYUPYUPphlumph,1590679862.0,2.0,"Reference Counting, was never called ""Garbage Collection"" before GC became ubiquitous that I can recall. It was only retroactively classified as GC, mostly for purposes of being able to say, ""Yes, my language of choice has GC too!"" At least that's the way I remember it. Perhaps, there is some literature that would contradict this, but, I'm not aware of it."
+87,RosaDidNothingWrong,1590750901.0,1.0,"All of your string conversion examples compile to the exact same assembly: [https://rust.godbolt.org/z/E6tdLb](https://rust.godbolt.org/z/E6tdLb). The difference is only in the semantics.
+
+As for writing out a string, just use the `write!` macro.
+
+The difference between `as_*` and `into_*` is one you'll find everywhere. `into_*` copies takes ownership. `as_*` is a copy-less conversion, in this case it returns a slice (NOT an array) to the bytes and doesn't take ownership. Prefer `as_*`. Use `into_*` when you need ownership of something.
+
+It doesn't make sense to talk about `as_string` because `String`s by definition has ownership of its data. You will see `as_str` because `Str` don't have ownership."
+88,,1590763380.0,1.0,"Honestly, I should have said earlier that I thought you were right about Rust string handling, and I should have indicated that my Python comment was more of a joke than anything else.
+
+I mean, it *is* crazy to me that people are still combining all options (when `.format` is supposed to be the way to do it now) and still arguing about % formatting, but you're totally right about the different ways to convert in Rust being a little overwhelming and not very well explained.
+
+I appreciate the detailed response, too - I do actually 'struggle' with deciding which method to use right now, so it's helpful to know I'm not alone *and* to see some real differences. Thanks a lot for linking to the source for `str` and showing that unchecked conversion - I actually had no idea there would be a difference!"
+89,KeepGettingBannedSMH,1590665741.0,5.0,"Exactly. The opposite of ""love"" isn't ""dread"", it's ""not love"". A language that barely anyone uses won't be particularly loved or dreaded."
+90,notquiteaplant,1590647959.0,2.0,"I meant to reply to /u/bollop_bollop, whoops"
+91,OS6aDohpegavod4,1590671420.0,1.0,"I see, thanks!"
+92,asmx85,1590675082.0,1.0,"A generational GC to resolve circles, yes"
+93,asmx85,1590680239.0,2.0,I don't see a problem here. That is the way science works. Mostly things are discovered on their own without knowing its greater classification. The first Mammal wasn't classified a Mammal. It was after a group of similar animals was retroactively classified into a greater group called Mammals. So you discover RC before knowing its classified under GC.
+94,zzzzYUPYUPphlumph,1590681102.0,1.0,"Is it ""Generational""? I've never heard that. Is that new?"
+95,zzzzYUPYUPphlumph,1590681021.0,1.0,"No, I don't see a problem either with the retroactive classification (well, kinda, I'm not convinced that Reference Counting and mark-and-sweep GC really have much in common to call them both ""Garbage Collection""), I was pointing out in reference to this:
+
+&#x200B;
+
+>And before Swift i haven't really heard of many people not attributing RC as a form of GC.
+
+I had never heard of RC being called GC until GC (meaning mark-and-sweep, compacting, GC) was ubiquitous. In other words, depending on your horizon for the history of these things, there is a very different perception.
+
+&#x200B;
+
+>think no one would argue that Python IS NOT a GC'ed language dispite using RC.
+
+I kinda would. Like I said, I'm not convinced they should be thought of as the same thing. There are GC'd languages (languages that defer freeing memory until the Garbage Man gets around to noticing you are done with it), and there are RC languages (where and auditor follows the use of the thing around and keeps a tally of each user, and when the last user says they're done with it, the auditor throws it in the trash can immediately), and there are manual memory management languages, where, you have to keep track yourself of who currently owns the thing and who is just borrowing/using it temporarily both concurrently and exclusively by the nature of your process and then you must have a step in your process where you ""know"" it's time to throw it away, and you do so immediately, and now, we have (with Rust) ownership/borrowing automatic tracking, where you the programmer don't have to figure out for yourself when it is the correct point to throw the item in the trash can, instead, the compiler will figure it out, and will throw it in the trash at the correct time in your process. These are 4 completely different methodologies in my mind, and to equate Rc and GC would be equivalent to equating manual memory management (like in C) and automatic ownership/borrow tracking (like in Rust)."
+96,HenkPoley,1590742588.0,1.0,"https://en.wikipedia.org/wiki/Tracing_garbage_collection#Generational_GC_(ephemeral_GC)
+
+Basically after you've looked at an object a couple of times, and found it in use, you chuck it in a category of 'probably still in use', that you revisit less often.
+
+It is [not new](https://scholar.google.com/scholar?as_sdt=0%2C5&as_yhi=1994&q=generational+garbage+collection&btnG=). It was [first described in 1983](https://dl.acm.org/doi/10.1145/358141.358147)."
+97,asmx85,1590682494.0,1.0,"That is very interesting! I can only recall from my times at university (not so long ago) and it was always referred at such. In papers, in books etc. Even [the best source ever](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) (wikipedia :P)  is using it in that way. CPython is also listed as an example. Even the [Python docs](https://devguide.python.org/garbage_collector/) are using the term Garbage Collection.
+
+Times must have changed drastically. Its very interesting how the perception over the times changes – sorry for being a bit ignorant, but that's the information I've been grown up with and i don't want to be disrespectful."
+98,zzzzYUPYUPphlumph,1590753077.0,2.0,"Yes, I know what generational garbage collection is, I was asking if Python used generational collection. I had not previously heard that. 
+
+I checked, and yes, Python uses a ""Cycle Detector"" that checks for reference cycles that are preventing objects from being deallocated. Any object found not to be in a cycle, but, still referenced (when the ""Cycle Detector"" runs) is moved to another ""Generation"" so that it isn't checked as often."
+99,zzzzYUPYUPphlumph,1590684715.0,2.0,"
+
+No disrespect was taken or perceived by you from me. I completely understand where you are coming from, but, I like to elaborate on these things, especially on something like Reddit, because I think it is funny how things are often couched as historical ""fact"", but, the ""facts"" have a way of changing drastically to the point where everyone forgets the actual ""history"" (re: your mention of Wikipedia). It's one of the reasons I don't consider ""history"" anything but a hobby. There is nothing ""factual"" about it. It is completely fluid.
+
+EDIT: I'm guessing everything for here on will be considerd ""Off-Topic"". I kind of got on trying to make a point about ""History"", but, it was a ""Stream of Consciousness"" sort of thing. If anyone objects, I will edit to remove it.
+
+For example, I attended Kent State University in the early '90's AFTER I got out of the Army. If you don't know, KSU was the site of one of the most infamous conflicts between ""authorities"" and ""protesters"" in the '70's where multiple people were killed when the Ohio National Guard opened fire on ""protesters"" when someone panicked. Worse yet, most of those killed or injured, weren't even protesters, but, students and faculty going about their business who just got caught in the ""cross-fire"". It was a terrible thing.
+
+In the '90's, while at KSU, I met a man who was an ex-WWII vet, who at the time of the ""KSU Massacre"" (as it came to be known), was on the Campus Police. He was the person who was on the mega-phone reading the ""Riot Act"". In case you don't know, the ""Riot Act"" is kind of like the ""Miranda Warning"". It is a legal statement letting the crowd know that they are engaging in illegal behavior (there was breaking of windows, burning of businesses, vandalism, etc. going on. Not ALL were engaged in this, but, some were). The ""Riot Act"" is letting all those present know, that because there is too much illegal behavior happening, that the crowd is REQUIRED, under the law, to cease and desist and vacate the area so that law enforcement is able to enforce the law. (NOTE: If you ever hear the ""Riot Act"" being read over a megaphone, unless you want to be engaging in illegal behavior, leave the scene ""immediatly"" - for your own safety). It is ""Illegal"" in itself to not vacate once the ""Riot Act"" has been read. Make no mistake, at that point, your are breaking the law. And it is a felony, punishable by real time in jail and extensive fines.
+
+Anyway, I digress, the point I was trying to get to, is this guy, who was there, who was an honest, upstanding guy, though he sincerely regretted the loss of life that day, had clear facts (including pictures and his own memories) showing that what happened that day was caused by an out-of-control crowd of protesters who were throwing rocks, breaking things, conducting vandalism, etc. They, and all those present, including those NOT involved in the protests, were given ample warning (not minutes, over the course of hours), to cease and desist and allow law enforcement to enforce the law. No one there that day, protester or not, was not aware of what was going on and the fact they were told to leave the area or face arrest. It was a volatile, dangerous situation that was working toward an escalation of violence by the protesters. Now, no one knows for sure exactly how the shooting started. Did some National Guardsmen panic? Probably. Did one get pissed off because he got hit by a bottle or rock? Maybe more probably, but, definitely possible. Did someone in charge order them to shoot? That has been examined and debated and never conclusively shown or completely ruled out, but, Harold, who was there, and had a good vantage of what took place, because he was in an elevated position with a megaphone reading the ""Riot Act"" and telling the crowd to disperse, did not see any evidence of that occurring (but, that, in itself is not evidence being that absence of evidence is not evidence of absence).
+
+So, in all of the ""History"" I've scene, there is little to no mention of this man (except as ""the [evil] guy on the megaphone"",) this honest man who served his country and served the University, who up until he died, felt terrible about what happened that day even though he did everything right.
+
+How do I know he isn't a liar? Because I spent extensive time with him. I was in my 20's and I had a daughter. My father was already dead, so my daughter had no grandfather, but, he took up that role after I got to know him and his family. When he talked about that day, he was haunted by what occurred (not by what he did, but, by what happened despite the warnings). Even moreso than what he saw in WWII in some ways. When you talk to someone in depth about something, and their story is completely consistent, and you see in their eyes, their body languages, everything, the total lack of holding anything back, you know it's true.
+
+The thing about protests to remember is that not all the protesters are there for positive change. In fact, there are almost always foreign agents AND SOMETIMES DOMESTIC AGENTS WHICH IS WORSE YET, who are there specifically to foment things and attempt to drive this sort of outcome either to embarrass the authorities and undermine trust in them (foreign agents), irrespective of the cause, or to undermine the actual protesters and make them look bad in the eyes of the public (domestic agents like FBI, CIA, NSA, Delta Force/Special Forces, etc). If, as a protester, you don't keep that fact in mind, and keep yourself doing legal things (including honoring the ""Riot Act"" and dispersing when you are told), you are endangering yourself as well as others AND you are helping either foreign agents to undermine our democracy OR you are helping anti-democratic domestic agents to undermine your cause and perhaps even the fabric of our free society. In other words, not honoring the ""Riot Act"" isn't brave or ""fighting for a cause"", it is just stupid and playing into the hands of one or more enemies.
+
+Regarding my comment about foreign and domestic agents: How do I know that is true? Because I has associations with members of Special Forces when I was in the Army who were VERY candid with me about things they and their cohorts had been tasked with, that in retrospect, they highly regretted and were ashamed of."

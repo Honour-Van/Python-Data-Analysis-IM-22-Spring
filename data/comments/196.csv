@@ -1,0 +1,18 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,insertAlias,1550180290.0,7.0,">What do you recommend me the most?
+
+I recommend using one of those languages you've ""learned"" to build a non-trivial project with. In your own words, you've just learned ""basic stuff"" about these languages. They're not pokemon; you don't have to catch 'em all. Knowing one language as an expert is better than knowing 10 as a beginner, and the only way you get better is to actually practice with them, to *build things*.
+
+>If I, somehow, I'm good at any of them,
+
+The only way you'd find out is if you (again) build non-trivial projects with them."
+1,captainAwesomePants,1550182008.0,2.0,"I recommend a programming language that teaches you a new way to think about programming. Functional programming is a great option, so Haskell and Lisp, or hybrids like Erland or Ruby, are good options.  Specialty languages like ML are good, too. Maybe a logic-based language like Prolog, if you really want to twist your mind."
+2,lurgi,1550187822.0,2.0,"Haskell will change the way you think about programming, so that's something. Rust *may* become an important language in the future and has some interesting features that don't appear in other languages.
+
+Or you could get better at the languages you already know. Build a decent sized project and see what happens."
+3,putatoe,1550179922.0,1.0,http://newspeaklanguage.org
+4,ValentineBlacker,1550185813.0,1.0,"Elixir has an MVC framework called 'Phoenix' that does similar things to Ruby on Rails or Django. Extremely useful, you can build a whole heckin' website with it."
+5,draakdorei,1550180650.0,0.0,"If you want one to learn and try to make something interesting that may have no real production usage, try Rockstar.
+
+https://github.com/RockstarLang/rockstar"
+6,Polared3d,1550321271.0,1.0,I find that there's even value redoing an old smaller project. You'll find ways to accomplish stuff you didn't before. 

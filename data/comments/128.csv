@@ -1,0 +1,44 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,sqlphilosopher,1601555039.0,15.0,"Both. But thinking short term,  C/C++ is what will give you a real carreer in that world, being realistic. It is the industry standard. 
+
+As an example, Rust/Arduino integration is not that mature yet. If you want to prototype using Arduino (which is a common practice in robotics and IoT afaik), C is the best way to go. 
+
+I believe Rust is the future, but nobody knows for sure really. Perhaps if more people like you adopt it, that will become true. 
+
+What I do know is that learning Rust could make you a better C/C++ programmer. The Rust compiler forces you to apply good practices which, in turn, by force of habit, you will probably end up applying to C/C++
+
+So yes, I would say learn both but C/C++ first."
+1,,1601565488.0,5.0,"C++
+
+It's more sure than death & taxes."
+2,lurgi,1601573151.0,3.0,">  I am 16 at the moment and conflicted on which to learn.
+
+Learn programming. Today I program in a language that did not *exist* when I was 16. The job I do and the whole industry in which I work did not exist. Smart phones and the internet as we know it today did not exist. Graphical user interfaces were barely moving out of the ""neat gimmick"" stage.
+
+You have absolutely *no idea* what the tech world is going to look like in 20 years. I'd bet money that C will still be used, but whether it will be growing or having a COBOL-like existence is anyone's guess.
+
+Just learn to code. Learn a couple of languages. Get some projects under your belt. Learn how to write and express yourself (a distressingly rare skill among many software engineers). Plan for the future in general, but don't worry about specifics."
+3,,1601554596.0,5.0,C++
+4,chris1666,1601574787.0,1.0,"Last time I looked up which languages were used in robotics it was C++, C,  Java and I think C# I dont remember seeing rust.  C++ has also consistently been on the top of  of most in demand languages.  There are also numerous good c++ courses on Udemy  from Derek Banas, Shibaji Paul and more..
+
+Id love to hear what course you use ?"
+5,CodeTinkerer,1601576923.0,1.0,"I would also research robotics jobs, look for what background they expect.  There are high school competitions with robots, so look into that (if you're in the US).  There are programmable robots (like Roomba's)."
+6,crashfrog,1601560309.0,0.0,"> I am 16 at the moment and conflicted on which to learn.
+
+Don't do anything at age 16 to target a particular job. One, nothing you do will matter over that kind of time horizon - nobody can tell you anything useful about the future 10 years from now, that's nuts.
+
+Two, you can't predict anything about *yourself* over that time horizon. You'll graduate from college when you're 22 or 23; there's no way to know what Future You wants to do with their life at that point and in any case, it's up to them, not you.
+
+> and why should I learn said language?
+
+Three, don't say ""*said* ____"", it's 100% dork talk. This goes for the rest of you, too. Cultivate a natural conversational style, it's extremely useful both professionally and personally."
+7,SecretNinjaGameDev,1601555380.0,4.0,"Thank you for your reply. One of my main determining factors so far was which language I could get my hands dirty with, outside of console applications. Therefore I think I'm leaning more towards learning c++ as there is the Arduino integration."
+8,ThrowRAawhimaway,1601575886.0,1.0,"May I ask what you mean by ""write and express yourself""?"
+9,SecretNinjaGameDev,1601554825.0,3.0,Can you please elaborate as to why I should learn c++ instead?
+10,lurgi,1601576124.0,1.0,Learn to write clearly and to express yourself well.
+11,,1601555101.0,5.0,As a beginner you may find it a bit hard to pick up a fairly new language and there's just so much C++ code out there that it's not going anywhere
+12,SecretNinjaGameDev,1601555399.0,2.0,Thanks for the reply.
+13,matschbirne2003,1601561022.0,3.0,"Also cpp is a really nice language many functions already built in, pretty fast, imo beautiful syntax and many sources to learn it."
+14,CalisthenicsDude95,1601556155.0,2.0,Yep I definitely recommend C++. I'm currently working in a robotics project and and we use C++ everywhere.
+15,NovelAdministrative6,1601574239.0,2.0,Nice language? It's bloated beyond belief. Look at the current coding standard for cpp.
+16,matschbirne2003,1601578361.0,1.0,I don't know I like it.

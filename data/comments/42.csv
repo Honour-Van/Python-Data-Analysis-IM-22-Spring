@@ -1,0 +1,14 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,OC-Bot,1530544867.0,1.0,"Thank you for your Original Content, /u/yaph! I've added [your flair](https://www.reddit.com/r/dataisbeautiful/wiki/flair#wiki_oc_flair) as gratitude. **Here is some important information about this post:**
+
+* [Author's citations](https://www.reddit.com/r/dataisbeautiful/comments/8vjaad/stack_overflow_survey_2018_language_preferences_oc/e1nqrzs/) for this thread
+* [All OC posts by this author](https://www.reddit.com/r/dataisbeautiful/search?q=author%3A""yaph""+title%3A[OC]&sort=new&restrict_sr=on)
+
+I hope this sticky assists you in having an informed discussion in this thread, or inspires you to [remix](https://www.reddit.com/r/dataisbeautiful/wiki/index#wiki_remixing) this data. For more information, please [read this Wiki page](https://www.reddit.com/r/dataisbeautiful/wiki/flair#wiki_oc_flair)."
+1,yaph,1530543844.0,2.0,"Data source: Stack Overflow Developer Survey 2018 - https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey
+
+Tools: matplotlib (Python) - https://matplotlib.org/
+
+You find the code to create this plot in this notebook: http://ramiro.org/notebook/sos2018-technology-preferences/
+
+The notebook also shows similar plots for platforms, databases and frameworks."

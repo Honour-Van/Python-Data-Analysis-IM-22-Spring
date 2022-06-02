@@ -1,0 +1,53 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,6a70,1600046131.0,25.0,"There is no loop to be out of. Learn how to *program* (which will generally be easier in *one* language so you don't get caught up in the minutiae of the language differences) and then apply places. Both Python and Java are good choices.  
+
+
+Every job I've had was for a language I hadn't written in prior to being hired."
+1,ohnooverflow,1600045847.0,8.0,"> Should I be following the job listings?
+
+Yes, assuming by ""the job listings"" you mean job listings you would actually apply for. Don't count e.g. jobs outside your skill level/range or jobs in areas you wouldn't move to. For example, 4 years ago when people were trying to sell me on what to learn to get a job, everyone kept trying to sell me on Ruby on Rails, without mentioning it was only still a hot thing in a specific area of the US.
+
+That said, many job listings I've read recently seem sympathetic to the rat race that is choosing a language to use nowadays. When reading listings for JavaScript positions especially, it's a lot of ""(you need to know this)"" vs ""(it's okay not to know this)."" If a job listing expects a *lot* of specific knowledge in an interview, that could very well be a red flag that they're not willing to train you on the job (and you WILL need training on the job).
+
+Best of luck out there."
+2,cerebralentropy68,1600050205.0,8.0,You're going to want to watch your indentation.
+3,chaotic_thought,1600066931.0,5.0,"A bit of a misconception you seem to have is that  a programming language is like some kind of club or religion that you have to ""switch to"" and devote yourself to. That's just not how it works:
+
+> Soon found out people weren't hiring for [Python], especially in my area. Switch to Java after I learned everything is built on it. ... Learned that apparently Kotlin the the primo choice [for Android development]...
+
+See also: [FAQ - Which programming language should I start with?](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_which_programming_language_should_i_start_with.3F). 
+
+Programming languages are like tools. When you're beginning, you need at least one to get introduced to programming (e.g. Python is a fine choice to begin with, even if you never use that language professionally). Afterwards, you will learn what you need to do a particular job. In general, you don't ""lose"" Python knowledge just because your day job requires you use Java. Or any other language."
+4,denialerror,1600070063.0,3.0,"Stop worrying about what programming language you are using or trying to work out how to keep ahead of the game. Get good at programming, make stuff that displays your skills, then apply to junior jobs that interest you. If I get a new junior on my team, the last thing I'm interested in is what programming languages they already know because chances are I'm going to have to teach them how to use it properly from the ground up anyway."
+5,pticjagripa,1600066878.0,1.0,"Learning an new language is a piece of cake once you know HOW to program. Most of these languages are C based anyways so they all behave the same.
+
+Instead learn algorithms, data structures and programming principles. Those do not depend on any languages.
+
+You will se that learning a new language will then take you at most 2 weeks."
+6,kschang,1600069859.0,1.0,"FWIW, there are news items like ""hottest programming language for 2020"" or similar title, based on some surveys. 
+
+Or you can go read Stackoverflow's survey...
+
+https://insights.stackoverflow.com/survey/2020"
+7,batmassagetotheface,1600074439.0,1.0,"Hey, don't get discouraged, it's a complicated and challenging field to get into.
+
+In the ""real world"" it's about getting to the point where specific languages and frameworks don't really matter.
+
+It's the concepts, techniques, and practices which are not specific to any language which are essential.
+
+One you really get a good handel on them you can usually apply them to new environments.
+
+The best way to show your skill to potential employers is to build up a portfolio of examples.
+
+Hope this is useful. I've got nearly a decade of development experience so feel free to PM me if you have specific questions.
+
+Good luck"
+8,Academic_Fuel,1600079427.0,1.0,Out of the loop... very punny
+9,CheTranqui,1600103509.0,1.0,"Stick to one language well enough to become highly competent in it. Dabble elsewhere as you wish, but focus heavily on your primary language of choice. When you get a job - dive in head first on whatever the employer requires.
+
+It'll probably take a while. Expertise does not come free. It usually takes years to become an expert that others are confident investing in (i.e. for a company to feel confident in hiring you).
+
+Sounds like your expectations need adjusting."
+10,denialerror,1600070165.0,6.0,"> If a job listing expects a lot of specific knowledge in an interview, that could very well be a red flag that they're not willing to train you on the job (and you WILL need training on the job).
+
+Really good advice. There's two types of companies that hire juniors: Those that see them as an investment and are willing to spend on training, and those that want experienced developers while paying junior rates."

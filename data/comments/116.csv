@@ -1,0 +1,151 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,,1613850176.0,22.0,"Dude, you should post it on r/cardano, they will like it!"
+1,manyQuestionMarks,1613853636.0,50.0,"Also a blockchain developer here. I've been working with ethereum and eosio over the years and I agree that being able to run wasm is a major advantage you get from developing in Polkadot.
+
+However, I think that the best, safest paradigm to develop SCs is the functional paradigm. Haskell is a difficult, complex and quite unknown language, but is extremely powerful and solves a lot of issues for smart contracts. 
+
+Developmentwise, although Polkadot delivers a relatively easy and understandable set of tools, Cardano is a good chain with a lot of potential as well.
+
+I believe both chains can co-exist"
+2,doorknob01,1613869542.0,4.0,This is extremely helpful. I've been weighing their pros and cons for a while now and I picked up a lot from your insight.
+3,ZionEnglish,1613849878.0,17.0,"Haskell is not the only language they support though 0.o
+
+You can also use solidity with their KEVM, and they have a system upcoming that will allow you to write in just about any programming language (namely Java, C++). 
+
+I love both projects, and I think they’re trying to solve two separate, but related issues. I just don’t think it’s healthy to misrepresent one side. 
+
+note: i don’t have a direct link to a source for my claim about languages (i’m on my phone, making breakfast). I can find it if you really want me to, though."
+4,ipalvr,1613865720.0,4.0,"u/boon4376, what do you think about ETH 2.0 when it’s fully rolled out?  Btw, I’m big on DOT."
+5,MrIndoChinese,1613871048.0,3.0,"Cardano has its chance back in 2018.. I've switch half of my porto to DOT. BSC predicted and had win midterm, but the fully decentralized DOT with cheaper gas fee (compare with you-know-who) will win the long term game.."
+6,cheekygorilla,1613864284.0,4.0,Now do one for cosmos
+7,gkaykck,1613861686.0,10.0,"As a Cardano shill, as expected I cannot agree on most points here except the docs. Cardano's docs suck big time, but then its smart contracts are not deployed yet. So I don't think this is also a good point. 
+
+Moving on, Cardano, AFAIK is really focused on long-term development, and for long-term development, a functional language really is the way to go. The latest developments in programming are mostly embracing this idea and moving forward with it. Saying most developers are not functional developers, is very naive at best. Current JS is mostly developed with functional parts while ignoring OOP parts of the language. React went full in the last years, and the movement is just getting bigger. I tend to try to teach functional paradigms and focus on those more with my juniors, and I am able to get way more quality output from them in a shorter time in comparison to OOP.
+
+BUT, even so, none of this matters. AFAIK, you can literally move your Solidity application without re-writing it completely to Cardano chain with the VM. Which is supposed to outperform Etherium at its own game. I don't know, maybe it won't happen, but that's the plan. 
+
+Also, Haskell is a really cool language that most good languages borrow heavily from. Try it if you haven't! I started recently learning it just to play around with Plutus and Merlowe on Cardano.
+
+Another issue I have with the proposition is that, Cardano actually can onboard more people faster due to Merlowe. It's a really cool language, where making horrible mistakes like locking funds in broken smart contracts is really impossible. I feel especially naughty when posting about this to a Polkadot subreddit as that's what Polkadot guys suffered from even before starting development. Merlowe is going to enable many people to write smart contracts without knowing ""blockchain development"" knowledge. I am one of them, this was the first time I wrote a smart escrow contract, and everything felt natural and smooth. There is even ""blocky"" version of it, where you can drag-drop smart contracts. I don't think anything on Polkadot  can beat that!
+
+In the end, I really like any kind of development in this space. I liked how Polkadot approaches current problems at hand with a really novel approach of parachains. I just tried to counter some of the ideas in the post which I don't agree with. I have no problems with how Polkadot approaches programming. I think both Cardano and Polkadot have lots going on for them atm.
+
+My reasoning when it comes to investing both time and money(or becoming a shill), why I went with Cardano instead of Polkadot is not programming-related though. I didn't like how concentrated the value in Polkadot in a small number of wallets, feels a lot more like wall st."
+8,Sovereign_Mind,1613848134.0,13.0,Bro im almost there keep going fuck
+9,BURKSHOLD,1613870436.0,3.0,Great information guys! It’s a beautiful and positive thing when we share our knowledge
+10,eztbz,1613873824.0,3.0,"Great information, thanks for sharing!"
+11,,1613854899.0,7.0,[deleted]
+12,Neat_Shift_7913,1613849214.0,5.0,"Weak argument. Haskell could be on that list just because of the popularity of Cardano. New languages come and go all the time. As a software developer, we are expected to learn new languages."
+13,TukTukWarlord,1613860872.0,1.0,Curious on your thoughts of ATOMS as well.
+14,realmagicmanplays,1613882918.0,1.0,Cardano also has Rust [https://cardanorust.iohk.io/](https://cardanorust.iohk.io/)
+15,Kaien111,1613908026.0,1.0,The creator of Cardano mentioned that they hired Rust developers recently
+16,Barmin93,1613917972.0,1.0,"I think, that comparing supported languages doesn't tell you anything about the usefulness of both chains for now. I am a software developer myself, so... How many projects are out there, that provides new integrations as times go by? Polkadot solves some issues and it is clear, that multiple integrations (at early stage of the project) were the key feature of this chain. Cardano focused much more on it's core structure, main idea and research, to clarify what can be done in terms of crypto. It established the infrastructure, is almost completely decentralized right now (90%), constantly provides great new features to Daedalus mainnet (eg. voting in the last week) an so on...
+
+Both projects are very interesting, but I wouldn't say, that more integrations on Polkadot is a game changer and Cardano is worse because of that. I think Cardano will follows with new integrations as more clients will appear and more stable the network will be. In my opinion - both projects were focusing on different problems in it's early stages (because let's remember - it's just a beginning for both of them).
+
+Now, we are in a huge bull market, but it will eventually end... Maybe next month, maybe next year. A lot of crypto is heavily over-priced right now, but I don't think Cardano is one of them. As for Polkadot... I'm having a slight concerns about it, because it grew a lot very rapidly, so... I am not very comfortable in investing in it right now. As for Cardano... I think investing in it until 1.3$ - 1.5$ seems reasonable, what's comes after that is hard to predict. I see 2$ short-term, but I would expect a huge correction all over the market in this year (but I am a minority and this idea can be completely false - I'm just extremely careful with my investments now, because of 400-1000% gains from last year all over the place).
+
+PS. To be honest - I am much more involved in Cardano project. I've read a lot of Cardano papers and I'm quite certain (after recent releases and updates), that it will be amazing in next \~5 years in terms of tech and applications. Not so sure in terms of USD value, but that's a different discussion. AS for Polkadot, I've read the whitepaper and think it's really cool as well, but... For some reasons Cardano strikes me as the real deal, that can actually revolutionize the financial world. Polkadot can be a great solution in terms of tech used by developers. We will see :)"
+17,nosceteiplum,1613880609.0,1.0,"i am not gonna follow developers who can't fix bug from october 2020...
+
+[https://github.com/paritytech/substrate/issues/7331](https://github.com/paritytech/substrate/issues/7331)"
+18,jgarate33,1613878862.0,1.0,Which is the better buy Polkadot or Cardano?
+19,,1613852911.0,10.0,"Here’s a copy + pasted answer to the concerns about Haskell they I just found while reading on cardano: these are not my words.
+
+
+
+
+
+
+
+
+Haskell has a strong and robust type system.  It allows a programmer to define their own types easily, as well as relationships between the types.  This is even greater when using common extensions to the language that are available in the most used compiler, GHC.
+
+Why is this important?  Types are used to represent legal states a program can be in.  If you define your types correctly and define the conversions between types properly, you get to leverage the compiler to check that your program can only ever do the things it is allowed to do.
+
+For example, a common task might be to check if a list is empty before getting the first element of the list, because otherwise you might try to get an element that doesn't exist and cause an exception or program crash.  If you had just a simple list type like many language have, then you would need to check this every single time you worked with a list or trust that you had already ensured that the list is not empty elsewhere in your program.  Are you sure you covered all cases and that accessing an empty list is impossible?
+
+With Haskell, you can define your own custom type representing a non-empty list, call it NEList.  You can then define functions that accept NEList types instead of normal list types, and in your code for those functions, you can rely on the input list being non-empty.  If you ever try to pass a normal list when an NEList is expected, the compilation will fail with a type error.
+
+This sort of type engineering is part of the core of Haskell.  You define your own types that encode preconditions about data, and then only allow those types to be instantiated once those preconditions are met.  The list example is just one of the most basic ones; there are some real wizards that can use the type system to do very cool things.  Now, this doesn't mean that Haskell code is bug free because, in our example, it's still the programmer's responsibility to encode the relationship between a normal list and an NEList, or to make sure functions that don't do empty checking only accept NEList, but that's a tiny amount of code to write and after that the compiler can check the transition between types throughout the whole codebase.
+
+Source: have programmed some non-trivial applications and libraries in Haskell and Haskell-inspired languages, but far from an expert."
+20,highangler,1613871591.0,2.0,"That sub is mixing their Kool -aid as we speak. Jim Jones, I mean CH is the most brilliant mind this world had ever encountered."
+21,SlashPolkaDot,1613852904.0,5.0,His Karma will be ruined forever by the ADA Shill Squads (ASS).
+22,avocadoes-on-toast,1613860026.0,1.0,done
+23,ccjunkiemonkey,1613935317.0,3.0,"It's so hard coming from a capitalist/0-sum mindset to wrap your head around positive sum. More players and more styles means more innovation, more puzzle pieces with which to build a new economy."
+24,boon4376,1613850469.0,-1.0,"I havn't found documentation stating anything other than Haskell in their resources. So if there are others, they are extremely poorly documented cases.
+
+[https://docs.cardano.org/projects/plutus/en/latest/](https://docs.cardano.org/projects/plutus/en/latest/)
+
+[https://forum.cardano.org/t/why-cardano-chose-haskell-and-why-you-should-care/43085](https://forum.cardano.org/t/why-cardano-chose-haskell-and-why-you-should-care/43085)
+
+They chose Haskell for engineering rationale - not go-to-market or market viability rationale."
+25,Barmin93,1613919572.0,1.0,"Has it's chance in 2018? Chance on what? :D It's mainnet started in late 2017. How many projects do you know out there, that were absolutely flawless when starting-off? Besides, decentralization is a hard process. Cardano is just finishing it, after 3 years (march - full decentralization and next project phase). This things doesn't work like a blink of an eye and done.
+
+Look at BTC and how centralized it became in last 4-8 years in terms of energy requirements. This system is amazing and it most certainly is a 'digital gold', but it's unefficient as hell...
+
+I mean... Cardano since day one was a long-term. It was presented and pitched this way. And look at it know - 3 years later. Things they did are extensive and amazing. Things the will do in next 2 years (based on roadmap) are great as well and I honestly believe, that in 2023-2025 Cardano will be a much better solution, than (for example) ETH."
+26,UniversityLong8775,1613860165.0,5.0,"Dude, sorry but I think you should do more research.
+Cardano will support all the common programming languages like: JavaScript, C, C++, Swift, Php, .Net. IELE is already launched as a side net chain of Cardano. The other programming languages support is coming by the end of March once Goguen is launched.
+Plutus is a functional programming language specifically designed for smart contracts applications. Do your own research and don’t misguide your own audience."
+27,boon4376,1613861312.0,4.0,"These are not available for testing, there is no documentation, there is simply a tweet with a promise that it's coming sometime this year.
+
+Meanwhile substrate 3.0 is nearly ready."
+28,boon4376,1613849407.0,9.0,"Developer Choice: 
+
+1. Learn a less popular block chain with a less popular language with significantly new syntax, with less documentation, and a smaller community for help.
+2. Learn a more popular block chain with more documentation, a larger community for help, in a language I'm already familiar with.
+
+Very very few people will pick option 1."
+29,eMperror_,1613850259.0,4.0,"Most developers are not functional programmers, especially not Haskell."
+30,boon4376,1613915270.0,1.0,That isn't what you think it is and doesn't address the real issue.
+31,GoodmanSimon,1613883473.0,1.0,"I see you posted this bug in a couple of posts / replies.
+
+Why don't you comment on the github page directly and ask the devs?"
+32,realmagicmanplays,1613882791.0,1.0,Both are great projects with driven developers and communities. Its apples and oranges.
+33,ForkTheMarket,1613857771.0,8.0,"All good points but everything written here about Haskell applies equally to Rust, which is the core language of Polkadot / Substrate."
+34,boon4376,1613860766.0,7.0,"The reason for Cardano using Haskell is an engineering mindset rationale - which frequently misses the big picture needed to bring a new product, service, or technology to a market... and in this case definitely misses the mark when it comes to the necessity ramp up scale and adoption of a blockchain platform as quickly as possible.
+
+IMO they delay in adoption due to niche skill requirement will likely render Cardano a niche blockchain for situations that need Haskell benefits for some reason,  and for projects that are willing to invest in the more expensive development (due to developer scarcity) because otherwise their project would fail.
+
+The benefits of Haskell in a few situations will be drowned out by real-world implementation via technology that is easier to adopt... And will likely cause other equivalent projects on Polkadot to become more competitive, faster to market, or more successful than an equivalent project on Cardano. Investors want the highest and fastest return on investment, they don't care what language you use.
+
+The ""best"" solution to the question of ""what is the best language for blockchain development"" is not always the best solution in the real-world for ""what is the best language to quickly scale adoption of a blockchain technology to become the market default"".
+
+My whole point of this is to compare speculation values of Polkadot vs. Cardano, and to point out that Cardano will struggle to break-out in real-world adoption and scale due to these initial decisions around the technology. In this race, you cannot afford to be late to the market unless you have a paradigm shifting improvement to existing solutions.
+
+Polkadot on the other hand is making technology decisions that allow them to hit market faster, and to scale significantly faster, with easier adoption from all investment stakeholders.
+
+**EDIT:** FWIW, at initial glance, **Haskell can be compiled to webassembly** \- so it's possible polkadot developers will be able to use it in the future too."
+35,,1613860184.0,7.0,"Thanks, but you did sort of miss his point. I write in C#, C++ and Typescript for work. I can use any or ALL of them on DOT without having to learn a fourth language. That's the point. Not what it takes to learn Haskell, but that you HAVE to learn Haskell."
+36,hionutp,1613860272.0,5.0,Or not.
+37,Chuckinengineering,1613913594.0,1.0,The irony of what you are saying and your username...
+38,ZionEnglish,1613851205.0,10.0,"You’re not wrong! I agree their documentation is shifty. You have to remember that Cardano is playing the long game. They’re not interested in chasing short term market share.
+
+Polkadot and Cardano are really different ecosystems, so it’s not fair to compare them, IMO. 
+
+very simply/abstractly:
+
+polkadot wants to be a polyglot
+
+Cardano wants to be a decentralized swiss army knife"
+39,Dex4Sure,1620916513.0,2.0,"Cardano is always ""going to have"" something, just takes 10 years until it gets there. A ghost chain with rabid fanboys and no developers."
+40,Sovereign_Mind,1613860217.0,-6.0,Why are you saying this to me you 8 karma robowhore
+41,theLimpBizcuit,1613853110.0,2.0,"Currently have a little of both
+
+In sw I've experienced that small communities are great for specialized projects and generally provide really good documentation. 
+
+The larger coding communities like stack overflow that democratize coding are essential to the industry dont get me wrong I just dont think your answer is as binary as you make it out to be."
+42,nosceteiplum,1613885466.0,1.0,because they don't care?
+43,_-_agenda_-_,1613869546.0,2.0,This!
+44,LevelUp100,1613908612.0,1.0,One word - IELE. Look it up.
+45,UniversityLong8775,1620945767.0,1.0,"I’m sorry if you missed the train buddy or if you sold too early.
+I know it hurts, but you just need to learn to let go ;)
+In the mean time, Cardano will be still having a hell of a year. Partnerships with more governments are coming. Smart contracts at the end of summer = more adoption and visibility."
+46,ZionEnglish,1613860869.0,7.0,"he’s saying it cuz it’s true lol. 
+
+source: i have ~9k karma"
+47,Dex4Sure,1620980489.0,2.0,No developers. Ethereum and Polkadot crush this Africa scam coin.
+48,Sovereign_Mind,1613860897.0,0.0,All I did was make a joke guy im not op lol
+49,ZionEnglish,1613860915.0,1.0,same :D

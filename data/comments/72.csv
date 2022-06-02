@@ -1,0 +1,4 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,clesiemo3,1498429161.0,1.0,"Trimmed out files from the source code (https://github.com/dgrtwo/tabs-spaces-post) for the popular SO post on spaces vs. tabs to make it easy to start an analysis on the dataset which David Robinson included in the `./developer_survey_2017/` subdirectory.
+
+https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/"

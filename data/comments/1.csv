@@ -1,0 +1,1091 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,marcospb19,1627932200.0,391.0,"In 2021, 87% of people who have used Rust in development work want to keep using it for 2022.
+
+Top 3 of 2021:
+- Rust: 87%
+- Clojure: 81% (-6%)
+- TypeScript: 72% (-15%)
+
+Here's the result from previous year:
+
+Top 3 of 2020:
+- Rust: 86%
+- TypeScript: 67% (-19%)
+- Python 66% (-20%)
+
+# Podium timeline
+
+- 2021: 86.98% (First place!)
+- 2020: 86.1% (First place!)
+- 2019: 83.5% (First place!)
+- 2018: 78.9% (First place!)
+- 2017: 73.1% (First place!)
+- 2016: 79.1% (First place!)
+- 2015: 73.8% (Third place, losing to Swift and C++)
+
+This is the perfect opportunity to acknowledge and thank the huge collective effort made for the amazing language and community, Rust is my favorite language by far, and I wish to keep using it for a long time.
+
+Thank you ;)"
+1,TehPers,1627932835.0,104.0,I want to know who the 54 responses from North Korea are from.
+2,yerke1,1627937858.0,79.0,"Rust is now also 5th most wanted language by developers at 14.09% after Python 19.04%, Typescript 15.29%, JS 14.59%, Golang 14.54%."
+3,link23,1627935351.0,22.0,"Does anyone know how long other languages' streaks at the top spot have been? I.e. is this an unprecedented popularity, or did C++ have this spot for 20 years, or...?"
+4,Iron-E_Dev,1627956147.0,13.0,Hopefully more employers start hiring for it!
+5,Timely_Novel_7914,1627977481.0,13.0,"Sampling bias IMO: people who would hate rust are weeded out at the start from not even being able to put two feet up the learning curve, but don't complain because they blame themselves."
+6,FlumeLife,1627934051.0,36.0,"I really want to like this language but as someone who is not very experienced in programming in general, I find Rust extremely hard to write. Does it get easier?"
+7,cryptospartan,1627934870.0,18.0,Anyone else surprised to see C++ so far down the list?
+8,skyacer,1627934290.0,17.0,we only keep growing😎
+9,timClicks,1627943789.0,15.0,"This a tremendous achievement for many levels for every Rust working group. Thank you for everyone's attention to ergonomics and error handling, as well as performance."
+10,UltraPoci,1627938832.0,17.0,"Incredible! I'm also very happy for Julia being that high on the list, above Python."
+11,ForShotgun,1627940191.0,10.0,"I don't know what clojure is and at this point, I'm too scared to ask.
+
+I'll ask though, why is clojure so beloved, is it just that it's the good implementation of a lisp that people have been waiting for?"
+12,kode1985,1627931762.0,19.0,hooray! I wanted it!
+13,teryret,1627939235.0,9.0,"This is my ""not at all surprised"" face  :-)
+
+Congrats (and a big thank you) to everyone involved in making this language a thing!"
+14,eXoRainbow,1628003421.0,2.0,"Does someone else get annoyed by the listing of ""HTML/CSS"" compared to programming languages? Markup languages to write documents and stylesheets, such as HTML, CSS, XML, Markdown, LateX should be listed separately. You don't write program logic with it."
+15,circular_rectangle,1628013025.0,2.0,The whole world should see and acknowledge Rust at this point. Some people like to create an illusion for themselves and don't like to believe that in at least a decade or so Rust will have replaced the clunky C/C++ to a considerable degree. Rust is rising and it won't stop rising. In Rust I believe and in Rust I trust.
+16,ALBOND1,1628024929.0,2.0,I can not type any code without mut and &self
+17,rabidferret,1627949361.0,7.0,"I think we need to stop celebrating this every time it happens. Yes, the fact that SO calls this metric ""loved"" is great for marketing, but I don't think this indicates anything other than survivorship bias. Folks are bouncing off the learning curve of our language, leading to the folks who actually push through the barrier being more likely to be the folks who enjoy using this language. It's fun to say we're the most ""loved"", but this indicates a serious problem with the language's onboarding that needs to be addressed -- not something that we should be celebrating"
+18,,1627957701.0,4.0,ok. 7 is next
+19,,1627953120.0,2.0,Incredible! Has any other programming language ever been as loved as Rust?
+20,ImprobableOtter,1627983161.0,2.0,Never thought I'd enjoy being so bad at something :)
+21,CrushedBatman,1627976042.0,1.0,"Genuine question: who participates in these surveys? I have never met or seen any developer who has ever participated, and I have worked with a lot of developers in the past six years."
+22,cobance123,1627981443.0,1.0,What are the employment rates tho? Is it getting higher?
+23,Aoxxt2,1628079684.0,0.0,Most loved but hardly ever used and no robust libraries even after all this time. Cute fad.
+24,Petsoi,1628160592.0,1.0,Maybe they should convert the question at one point into a statement 😀
+25,m-kru,1628065981.0,0.0,"Rust, the language almost everyone loves, and almost no one writes in."
+26,gregwtmtno,1627938895.0,148.0,The most impressive part is that the percents keep going up (even as more are required to use the language as part of their work). Amazing job by the Rust team.
+27,ShadowWolf_01,1627940075.0,40.0,"Kinda crazy to me that Clojure is so high up on the list! It’s definitely a nice language, just wouldn’t necessarily expect to see it up there.
+
+And +1 to what you said about Rust! Great language and community."
+28,Sapiogram,1627946447.0,27.0,"> 2015: 73.8% (Third place, losing to Swift and C++)
+
+C++ was among the most loved languages?"
+29,Zeta0114942,1627934379.0,56.0,Can't wait untill 100% :)
+30,bowbahdoe,1627953579.0,3.0,"If anyone wants to learn clojure too, hit me up"
+31,SusanthCom,1628530265.0,1.0,✅✅✅
+32,ergzay,1627935213.0,102.0,"There's a tiny segment of North Korean population that has strictly controlled and monitored access to the internet for research purposes. Primarily educated elites in their two technology areas they invest in, nuclear and rocket technology. And also the schools that train those people.
+
+Edit: Here's a nice article covering one of these schools: https://www.nytimes.com/2017/05/29/world/asia/north-korea-university-christian-evangelical.html
+
+And a really interesting short documentary (you see them accessing google): https://vimeo.com/86820870"
+33,BrokenAndDeadMoon,1627934926.0,19.0,"Dunno but im sure the 1000 responses from china are from \[REDACTED\], friends of \[REDACTED\] and people from \[REDACTED\]."
+34,alixoa,1627937906.0,1.0,Occam's razor
+35,ShadowWolf_01,1627939618.0,106.0,"What is it with people wanting to use Go? I’ve used it some and to me it just feels so verbose and overall just kind of meh. I get wanting simplicity but the lack of stuff like Rust’s higher-order functions like `.map()`, the annoying `if err != nil` repetition, weird package management (at least pre-Go packages), etc. just make it not very nice to use to me. And that’s not including the unsafe parts of it like `nil`.
+
+This isn’t to say Go doesn’t have its upsides, or that it’s a horrible language or anything, I do like its trailing type w/out the colons (e.g. `x int`) syntax for example. But I can’t seem to see why people like it as much as they seem to? Although maybe the answer is just its simplicity . . ."
+36,popasmuerf,1627944562.0,5.0,"I would bet 5 dollars that most of the these votes for Rust are coming from people who have not once actually written anything in it worth mentioning or have not written anything in it at all.   I have ran into more than a developers where the conversation turned to Rust...where they were hyper-enthusiastic about the language but upon further discussion....I came to find out they know absolutely nothing about it except for that it is a decent C++ ""replacement""(What's a borrow checker ?) 
+
+Rust I feel definitely has a future for domains that require a ""Safe C/C++"" but a lot of this ""Rust is EVERYONE'S FAVORITE"" is mostly due to hype and the need to be one of the cool kids."
+37,marcospb19,1627937828.0,19.0,I only found public reports from StackOverflow with this category starting up from 2015.
+38,Sharlinator,1627974364.0,11.0,That would be rather impressive given that Stack Overflow itself has only existed for twelve years or so.
+39,Repulsive-Street-307,1627946472.0,0.0,"Before the internet became a popularity contest, people didn't care about counting this except in absolute terms of 'number of jobs' (which is not the same thing as we can see)."
+40,vadixidav,1627938349.0,27.0,"Rust will always be harder to write a small snippet. However, the code you write will be easier to read, easier to refactor, less likely to need to be debugged, less likely to contain bugs, etc. A library author has tools at their disposal to prevent users from incorrectly using the library. This will feel like moving through molasses at first, but eventually you will become ""fearless"". It is very empowering to be able to know when and where you can lean on the compiler to check behind you, and knowing where the compiler wont help you, and then teaching the compiler to help you by encoding invariants in the type system as soon as you encounter them. As soon as you think of something that could go wrong, you can put it in an API that can't be misused, and then when you use that API you no longer need to worry about that thing. This can make writing large projects much faster, even though small ones might be slower.
+
+For this reason, Rust is not a good scripting/REPL language, but it is great for systems programming, making library ecosystems, and applications. I think you will see languages come out that are better than Rust for applications one day. I think it is an accident that Rust is so good at applications as well, and I believe that one day Rust will probably be more associated with systems programming. Even today, you have Golang, but I personally think that it's type system isn't expressive enough, and it doesn't protect against several footgun situations. You will continue to see more experimentation in this space and in the REPL/scripting space, as I think Rust can get in the way for these applications, and it just happens to be good at them relative to other options. Python is great, but you already can see alternatives brewing like Julia. Keep an eye on these."
+41,nboro94,1627934219.0,53.0,"Can I ask why you want to like the language so much? Generally speaking system level programming, one of rust's strong points, and one of the primary reasons for using the language is not an ideal starting point for someone who is not very experienced in programming.
+
+Of course it gets easier over time like any other learnable skill but if you are new you may get more mileage out of languages like javascript or python which are much more widely adopted and considered easier to learn, unless of course you have a specific use case for rust then nevermind."
+42,Direwolf202,1627935108.0,21.0,"I think it does - firstly in terms of getting used to what rustc is asking from you, but also in terms of just knowing how to structure things in a way that is compatible with rust as a language. 
+
+I have to say, I think I had the easiest possible transition into rust, seeing as the two languages I was most experienced with before rust were C++ and Haskell (a weird combination I know) - I had experience with both the low-level side of things, and the functional programming side of things."
+43,IceSentry,1627935184.0,21.0,"It definitely gets easier. I started using rust for hobby projects about a year and a half ago. At first it felt like a syntax soup with so much going on, but going through the book and seeing simpler examples made me understand how clean it actually is. Now I can never go back and I just want to use rust everywhere. Everytime I use something else and I hit some issues I think to myself that it would be so much easier with rust."
+44,TheMistbornIdentity,1627934297.0,16.0,"I'm not very experienced myself, but I will say that I had 2-3 years of experience with Java/C# and Javascript, and I found it nigh impossible to write Rust programs at first. 
+
+It's still a huge struggle, but now I find I'm a lot more comfortable with certain aspects of it, and some of its more unique patterns (e.g. the match keyword and knowing how/when to use the Options enum), to the point that I've managed to make a basic application that can connect to a MySQL database and actually query and insert some data."
+45,WormRabbit,1627989564.0,2.0,"That strongly depends on the type of code that you're writing. Async is hard, but it will get better once more dev time is put into the feature. Callback-oriented programming in Rust is not pleasant, and likely never will. If you rely heavily on self-referencing, graph-like objects, then Rust will likely always lose to a good GC language. GUIs are also hard for that reason.
+
+On the other hand, numeric processing is a breeze. Anything related to systems-level programming (both implementing and using the existing apis) is state of the art. CLI apps are in general very pleasant to write. Algorithmically complex problems are good to solve in Rust. They may be not as easy to get a first-order solution to as more dynamic or memory-managed languages, but you get very predictable and (relatively) easily tunable performance, strong correctness guarantees and a possibility for designing rock-solid APIs. On that point, Rust has a great ecosystem by design. It may be not as large as in other languages, but it's very easy to use, and the APIs are in general high-quality. It's no accident, Rust was built with the ecosystem in mind, and gives librart writers many tools for good APIs (Send/Sync markers, strong type system, macros, inline documentation etc)."
+46,Botahamec,1627948689.0,3.0,"After a couple years of Rust, it feels very natural to me now"
+47,insanitybit,1627943318.0,2.0,"Yes, it does get easier."
+48,lorslara2000,1627935723.0,30.0,"Typically the most popular languages are far down on the list because, well, they are already being used so nobody loves them. Their limits are known and they are boring, productive languages."
+49,thelights0123,1627935619.0,65.0,"For me, C++ went from a language I wanted to use for the rest of my life to a language I use only for work unhappily after learning Rust."
+50,matthieum,1627984569.0,6.0,"No, not really.
+
+I started work in 2007, and I've been mostly working in C++ since then. I was very excited for C++0x (as it was known back then), and I invested heavily in learning the language and following the development.
+
+I was sorely disappointed, and I have been getting more and more disappointed.
+
+I do appreciate that I can do pretty much whatever I want with C++, by which I mean that with a specific idea of what assembly should look like, I can generally write C++ to get there. That's empowering.
+
+The problem? Everything else.
+
+C++ is a mess, due in part to backward compatibility and in part (I feel) to the excruciating process to get any change in.
+
+Already for C++0x it was clear that C++ backward compatibility were holding the language back. Even integer arithmetic is complicated in C++. But the problem is ignored, for the most. No effort has been made to allow transitioning C++ code, to allow getting rid of the terrible ideas of the past. And thus, 15 years later, the shackles remain.
+
+And in parallel, the process to get any change in is excruciating. As a result, proponents of changes tend to propose narrow, special-purpose, changes, all slightly different from the next, instead of one big change. The exceptions are few and far between, and generally championed by the big names, and the big corporations, and even then... contracts were pulled out.
+
+The result? A mess. It's quite visible that the language is organically grown. It's quite obvious why. The pragmatist in me understands... but the pragmatist in me also realizes it makes working with the language _so difficult_.
+
+When I write C++ code, I don't do it to show off my C++ skills, to explore the dark corners of the C++ standard. I write code to solve real-world problems, and C++ is a mean to an end. So all those dark corners? All those exceptions? All those weird interactions between seemingly independent features? They're just getting in the way, and holding me back.
+
+Writing code in C++ is an uphill battle. And I'm tired of battling the language more than the problem at hand."
+51,censored_username,1627937930.0,19.0,"As an embedded C++ guy who's done a lot of mentoring with C++:
+
+No. Not at all. The language is an unintuitive, inexpressive mess of illogical syntax reuse, has absolutely terrible error messages, an extremely outdated compilation model and is a minefield of implementation-specific workarounds."
+52,QualitySoftwareGuy,1627935757.0,8.0,I'm surprised it's not lower.
+53,oakinmypants,1627938915.0,5.0,Any language that doesn’t have a built in function to strip/trim a string isn’t a language worth using.  We are all forced to write that code.  That is how little they respect our time.
+54,tamrior,1627999938.0,3.0,I'm sure that those great books people write about rust also help 🙂
+55,Mouschi_,1627981054.0,2.0,Agree julia is underrated
+56,Kneasle,1627944871.0,12.0,"I also wondered the same thing; I've barely heard of clojure, but what I have heard is that it's very good. From reading other comments (the best source of information, of course ;) ), it seems that clojure has a small but very dedicated community. 'Most loved' in stack overflow's survey is the _proportion_ of current developers who want to continue using the language, so you can see why Clojure does well."
+57,met0xff,1627944568.0,2.0,Have been waiting for is relative - it's also been around since at least 2007 with a loyal community. But I think the language could really need stewardship more similar to Rust.
+58,ranty_mc_rant_face,1628089737.0,2.0,"I'm a clojure fan, though I haven't used it heavily for a few years. It's a very different language from rust! But I'm a big believer in the right language for the right task, and the languages have quite different sweet spots.
+
+Clojure is a pragmatic, practical, functional lisp. It runs on the JVM which makes it slower to start, but also easy to run on masses of platforms. It is elegant and powerful - a great language for functional programming.
+
+However, it has a very steep learning curve - different to rust, the syntax is so strange that it puts off a lot of people before they even start. And it's quite pure FP so you can't fall back to familiar idioms, you need to think differently. 
+
+So it's a hard sell in the business world - harder to hire for, harder to get people to maintain, big organisations often are quite resistant to it. And unlike rust, there is not a compelling ""only clojure solves this"" niche - so it's hard to get traction when a lower-initial-learning-curve language like Kotlin or Scala might be an easier sell.
+
+All of which is why despite loving clojure, I don't use it much any more. I also love rust these days, and it feels much more likely that I'll get to use it at work some day!"
+59,kode1985,1627931943.0,29.0,And that's 6 year in a row I missed the survey to vote for Rust. Why they no spam me when the voting started?!
+60,thiez,1627978142.0,5.0,"> Folks are bouncing off the learning curve of our language, leading to the folks who actually push through the barrier being more likely to be the folks who enjoy using this language
+
+If that were true, wouldn't languages such as Haskell, APL, C++, C, R, and Assembly be more popular?"
+61,hgwxx7_,1627974447.0,5.0,"It can be both. 
+
+Marketing this SO survey metric is great for getting people interested. 
+
+And once they’re interested and try the language, they’re more likely to stick around thanks to work being put into friendly error messages, IDE experience and so on. No one is putting less effort into these things because the language is “loved”. You’re worried about something that isn’t happening."
+62,moltonel,1628027078.0,2.0,"IMHO this survivor bias is real but it doesn't explain the whole measurement.  Annecdotically, I started loving Rust long before I had a working understanding of lifetimes and stopped fighting the borrow checker. There's a lot to like about Rust, don't explain it all away with survivor bias or early adopter enthusiasm."
+63,Programmurr,1627983840.0,1.0,"You present a valid concern. Rust adoption isn't anywhere near the level that I hoped it would be by now. 
+
+I'm really curious what kind of analysis you've done against crates.io to measure adoption trends.  What are you seeing?"
+64,hgwxx7_,1627974496.0,7.0,"This survey question is only 7 years old, and Rust has won it 6 times. We don’t know what the results would have been in previous years."
+65,Sharlinator,1627976424.0,2.0,Impossible to say because this survey has only  existed for about as many years as Rust has been >=1.0.
+66,zerakun,1627977487.0,4.0,Hi! I'm one of the ~80k respondents
+67,thiez,1627977903.0,3.0,I participated 🤷‍♀️
+68,matthieum,1627984781.0,2.0,"It depends.
+
+SO methodology has changed over the years. At the start, they'd just put a banner on SO and anyone could take the survey. In recent years, they've started sub-sampling, and polling outside of SO if I remember correctly.
+
+There is still a strong self-selection bias, I expect. It's not clear that SO users are representative of the whole developer population for example."
+69,Jaondtet,1628024291.0,1.0,"Not too many people, considering they have ""only"" 80k participants. I think the most insightful is that ~80% of the participants said they have a Stackoverflow account (sadly no USA vs overall breakdown on that one). And of those, ~30% said they actively participate multiple times a month or more. And about 80% have partipated in the past.
+
+So, this is mostly active Stackoverflow users. That already massively restricts who answers this. I've never even really considered making an SO account, and I don't think anyone on my team has either. Maybe there's one or two people. The percentage of people that actively participate in any online forum is usually a tiny percentage of the total userbase.
+
+I imagine the overlap with the (active) Reddit community is pretty large though."
+70,marcospb19,1628106072.0,1.0,"Rust 1.0 was released 6 years ago, it is new and hard to learn, considering this, it's growth rate is pretty pretty decent."
+71,marcospb19,1628106749.0,2.0,"Rust is new, here's the amount of people who voted in this category for each language https://www.reddit.com/r/rust/comments/owll2j/rust_is_the_most_loved_language_six_years_in_a/h7hcl3e?utm_source=share&utm_medium=web2x&context=3"
+72,Sw429,1627945244.0,95.0,I'm looking forward to the day when my job requires me to use Rust.
+73,timClicks,1627942206.0,64.0,"Remember that these are relative percentages, not absolutes. It reflects the proportion of current users who want to continue to use it."
+74,marcospb19,1627951235.0,13.0,"Actually, it was ""C++11"". But... yeah."
+75,LeberechtReinhold,1628001791.0,3.0,There was a lot of hype about modern C++ back then
+76,shponglespore,1627977620.0,3.0,Seems odd to me since it's near the top of my personal list of most hated languages.
+77,zepperoni-pepperoni,1627939063.0,58.0,TOTAL GLOBAL CARCINIZATION
+78,jl2352,1627947586.0,36.0,"They also invest in malicious software. Given their targets such as key financial systems, they must be investing a lot into this. As it requires analysing software that is quite difficult to acquire.
+
+They also do a lot of general software development. A lot of North Korean software engineers are trained in NK or China, and then work in China for various software companies. Doing any freelance work they can find online.
+
+If you find a very hardworking Chinese software engineer online to help you with your projects. There is a slim chance they might be North Korean.
+
+The BBC podcast the Lazarus Heist goes into a lot of this. I highly recommend it."
+79,Agitates,1627936397.0,22.0,Imagine if Rust plays a role in NK nuclear program.
+80,toomanypumpfakes,1627961228.0,24.0,"I think it’s extremely easy to be productive in Go and get new team members ramped up on the language super quickly. 
+
+It’s so common server side now as well because the concurrency and memory model is extremely simple. You get one async runtime and your concurrency primitives are built into the language; everything is garbage collected so there’s no worrying about teaching Python devs about memory models. But it still has a type system and compiles to a static binary. 
+
+If you have to go deeper than a simple REST/gRPC server that talks to a data store or optimize for the 99th percentile of latencies then it gets more complicated as you fight these layers of abstraction.
+
+Edit: one other thing that I want to add is that the standard library is very comprehensive. I could write (and have written) a full HTTP web server using just the standard library and put it into production because that’s essentially what the language was created for. For its use case it works very well."
+81,IshKebab,1627984537.0,15.0,"Go had a very unique combination of features at the time it was released:
+
+* Fast compilation
+* Compiles to static binary
+* Easy cross-compilation
+* Simple, easy to learn language
+* Pretty great performance
+* Very well designed and comprehensive standard library
+
+For certain tasks, especially CLI and infrastructure type things it is a really good choice. Even today its obvious alternatives (Rust, Zig, maybe Typescript) fall down in some areas (e.g. compilation speed, simplicity, safety).
+
+The only thing really holding it back is the lack of generics. They're finally doing that but I think if they had done it maybe 5 years ago Go would be way way more popular today.
+
+The `if err != nil` verbosity is overblown IMO. Rust-style error handling would be better but it wouldn't really be significantly less verbose. Go just encourages proper error handling, which is always verbose.
+
+I'd much rather that than ""eh just throw an exception and catch it in `main()`. Users understand stack traces right?""."
+82,Inityx,1627940147.0,84.0,"I think the strive for language simplicity is really weird; the complexity has to go somewhere, and if the language doesn't encode it, the developers have to write it themselves."
+83,HK-32,1627940836.0,44.0,"I've used pretty much everything from cpp to python but at the end I fell in love with Go. C++ is too big at this point, you don't know what to use and what not to use. Almost like every company has its own subset that they use and strictly stick to it. Rust is good, but I feel like its almost never productive to work in rust as an indie or a small team. Rust will become the language for corporate, effecient, ultra complex software in the future where big teams are working together. 
+
+Go on the other hand just provides the perfect sweet spot where you have the performance of a compiled language and the productivity of a language like python. I feel like Go isn't really a language aimed at c++ or rust devs as it is at people coming from dynamic languages that want to continue to be productive and still get the advantages of performance."
+84,CSI_Tech_Dept,1628005563.0,3.0,"IMO it's only because it was created by Google. After using it for some time I hate it and wanted to get back to Python. It is a mediocre language and coding in it feels like a chore.
+
+The language is very simple, but I think it actually makes the code more complex. Not sure how to explain it."
+85,Noughmad,1627947687.0,15.0,"From my use of Go, I never ever liked it, but I always felt that it would be the best language if you were paid by line if code. 
+
+On a similar but more serious note, the same property of the language make your feel like you're making always making progress. You're always adding more code. In Rust, you could tweak some iterator/option/result combinator monstrosity for days and the resulting diff would still be just a couple of lines. In 
+Go, you would instead add some more for loops, feel like you're progressing all the time, and end up with a substantial diff with lots of added lines. And that very irrationally feels good both for the reviewer and the author."
+86,dudpixel,1627945446.0,7.0,"I agree with you. I've been using Go a bit lately and then decided to try something bigger. I went looking for a nice SQL lib and found some, but then discovered the horrible mess that is migration support. Most SQL packages didn't even have support for migrations, and the packages specifically for migrations seemed half baked and unpolished. I assume they worked but they involved cumbersome setup and with hardly any documentation.
+
+The error handling seems so fragile and careless. It's super easy to create race conditions and nil pointer dereferences. I don't know why people say Go is good for concurrency. Yes it has green threads but it's super risky to use them safely. You have to put a lot more effort in to make sure they're safe, and even then it's a case of hoping for the best.
+
+Yes the simplicity means you can write code faster, but the lack of safety means you can also write bugs faster. It's like a language that got half way to completion and stopped. So now you have to do the rest of the work to make your code safe.
+
+Don't get me wrong. I think Go is ok and has some good points. I just wish it had a better type system, better error handling syntax, and better safety."
+87,shponglespore,1627977709.0,3.0,You just need to get a keyboard with an `if err != nil { return err }` key.
+88,Repulsive-Street-307,1627946656.0,1.0,"It's the normal curve. Unconfident - with cause or not - ~~programmers~~ people will feel more attracted to things they feel they can fully understand.
+
+Of course, then they become 10 years veterans and get white hair from things they can't understand but aren't in the manual, like complex race conditions, finding that memory unsafety heisenbug, bizarre UB that depends on architecture, arcane and machine specific fiddling of the garbage collector etc.
+
+This phenomenon can be weaponized to make 'simple' and incorrect popular (ie: antivax propaganda), but it's natural even without the propaganda."
+89,cyber_pride,1627945009.0,24.0,"The StackOverflow question was specifically targeting languages that the user had extensively used over the past year. I really doubt most of these votes come from people who deliberately lied just to add to the hype. I could be wrong, just an educated guess."
+90,Nilstrieb,1627978830.0,2.0,"I certainly do love rust, and it has so many nice features and it's full of good language design, which is a part of it that is often overlooked."
+91,ButItMightJustWork,1627964092.0,15.0,"So, what you are saying is that Rust has *always* been the most loved language? /s"
+92,asmx85,1627983960.0,3.0,"Nice joke! 12 years, sure. Software exists longer than 12 years. How do you think it was written without SO? First there was SO and after that someone invented Software from snippets found on SO!"
+93,IceSentry,1627949928.0,16.0,"Rust isn't as terse as a scripting language, but of the compiled, typed, languages I know it's probably the one that's the easiest to write a short snippet."
+94,u2m4c6,1627948697.0,7.0,"Swift’s type system is as expressive as Rust’s but is much easier to write. If they can get Linux better supported, I think it will be a very popular language."
+95,dwalker109,1627934633.0,42.0,"As a counterpoint to this, coming to Rust without some of the baggage we inherit from garbage collected dynamically typed languages might actually make this a bit easier than it first seems. 
+
+It’s still a hard language but maybe not in the same areas I found it hard. 
+
+Lifetimes can be a nightmare though, I’ll concede that."
+96,topologicalfractal,1627937628.0,8.0,"I'm coming from a long time spent coding in python, right now going through the rust book and find impl/methods/match/traits kinda weird, but I guess their usecase will become clearer as I start my own projects"
+97,Gearwatcher,1627937366.0,10.0,"Rust offers a valuable proposition for applicative development - that of being very high level, while offering native performance for programs that need it.
+
+There are very few languages that can provide higher levels of abstraction in the same language that targets system level. Go, much like C, is a great example of a language that cannot provide it. It might be small and simple as a language, but regardless of how many layers up the stack you are above system level, it never gets any better for you.
+
+The price one pays in Rust, having to think about, and deal with ownership of data, is much smaller than the price one pays in, say, C++ which is dealing with probably the most complex language in the industry, with generational layers of new approaches to old problems and also deal with handling memory and data ownership."
+98,Kirk_Kerman,1627962601.0,3.0,I've started learning Rust for personal stuff while working with PHP professionally. I really think it just makes me a better dev to write Rust - at least compared to PHP.
+99,lukewchu,1627952887.0,17.0,">Everytime I use something else and I hit some issues I think to myself that it would be so much easier with rust.
+
+Oh boy. The times I wanted Rust enums in other languages."
+100,dexterlemmer,1630049690.0,1.0,"1. Callbacks: Rust is great at this, only different. I admit that I myself sometimes struggle for a while implementing an ergonomic API that accepts callbacks, then kick myself afterwards. Or rather not, I learn a new way of working and feel a great sense of accomplishment. ;-) 
+2. Rust has tracing GCs in its library ecosystem and borrow checking and GCs work very nicely together. That said, if you have a borrow checker, there seems to be much better approaches to self-referential graph-like objects than GCs. The Rust community is still figuring things out, though. We're exploring new territory in a lot of ways. But yes, for now Rust can be hard and limiting here and may be always. Exiting (in some ways, frustrating in others) times.
+3. GUIs are hard in Rust because GUIs are hard. There are various frameworks that show nothing of what you mentioned is important for GUIs. What is important is composition and the ability to vectorize the framework impl and what you mentioned hinders both the important parts. The only reason that the things you mentioned combined with inheritance is the way things are in GUIs, is because it won the first mover advantage half a century ago through worse is better and it takes a very massive org years to build a proper GUI framework up to todays standards. This means we are hard stuck in a very-suboptimal local minimum. However the Rust community has both the means and the motive to innovate and some of them now have the opportunity as well. I watch with facination as some of our GUI frameworks just magically solve some insanely hard problems then start to very rapidly work on a very long tail of details that **has** to be tackled before they can be considered mature or even really useful. One thing that will be interesting to see is whether these different solutions to different subproblems of GUIs could be composed in the long run, but few languages has as great tools for allowing that as Rust."
+101,moltonel,1627942510.0,22.0,"One interesting-but-debatable way to slice this is to multiply ""respondents * using * loving"" to get an absolute number of happy users (starting with the 83k respondents to the ""using"" question). Gives something like:
+
+1. Javascript:  33305
+2. Python: 27274
+3. Typescript: 18301
+4. C#: 14388
+5. Java: 13893
+6. C++: 9977
+7. Php: 7372
+8. C: 6928
+9. Rust: 5097
+10. Go: 4994"
+102,cryptospartan,1627935882.0,10.0,Wasn't this true for C++ around 2015 as well? It's crazy that C++ was in the top 3 in 2015 but is now very far down the list
+103,Bobbbay,1627936223.0,31.0,"Right? I used to think that C/C++ were so cool. Look ma, I can manually mutate memory! After using Rust, I can't use any manually memory managed language again."
+104,pjmlp,1627939527.0,6.0,"Since 2006 I only use it for native libraries, being a polyglot dev, I managed to mostly use something else.
+
+Rust would not help much in cases similar to mine, because the languages are already managed and the native libraries or GPGPU shaders are anyway already in C++, no need to add an additional middle layer.
+
+C++ is one of my favourite languages, but the micro-optimization culture inherited from C circles spoils the fun.
+
+At least in Rust security trumps performance and language gimmicks around C compatibility."
+105,marcospb19,1627937243.0,11.0,"Same, I forced myself to love C++, I was stuck in this toxic relationship."
+106,Tyg13,1627945587.0,2.0,"My own relationship with C++ is mixed. It was my first love, and I still think there's a lot of really cool stuff you can do with it that's not fully-baked in languages like Rust (compile-time metaprogramming, really good debugging support).
+
+At the same time, its legacy really holds it back. I want to like modules, and I really want to like the static analysis stuff coming down the pipeline to get modern features like lifetime checking, but I think those efforts will always be hamstrung by having to work with the old ways. C++ as a language just feels like it has too much baggage to really do things right."
+107,sparky8251,1627939971.0,-4.0,"It literally has trim and has for a long time...
+
+Source: https://doc.rust-lang.org/std/string/struct.String.html#method.trim
+
+The docs say it has been there since 1.0.0... so, over 5 years now. https://doc.rust-lang.org/src/core/str/mod.rs.html#1733"
+108,Satoru_094,1628085453.0,1.0,Laughs in random number generator 🤣
+109,timClicks,1628011784.0,2.0,Thanks :)
+110,Sharlinator,1627976153.0,2.0,"Honestly, at least in my neck of woods it’s much easier to find a Clojure job than a Rust job, in large part because, like other JVM languages, it’s more or less a drop-in replacement for Java, providing interop with the vast existing ecosystem (plus you can write your frontend in Clojure(Script) too, which is an attractive proposition). And honestly it’s a beautiful functional immutability-first language extremely well suited to the sort of data processing and manipulation that 99% of webapps tend to be about. However, the dynamic duck typing and persistent lack of good error reporting are sort of antithetical to the Rust philosophy."
+111,ForShotgun,1627945392.0,2.0,"From a cursory googling it seems like it has access to everything java does but it's using lisp syntax? That does sound pretty awesome to me, but it's weird that that alone makes it so beloved. If that is the case... who wants to do the same thing with C++ or C? Please?"
+112,ForShotgun,1627945198.0,1.0,"Oh, well I guess that's not it? From some casual browsing it seems like it's basically java with Lisp syntax? Uses the JVM and can consume java libraries"
+113,Floppie7th,1627936127.0,14.0,"If you're anything like me, they did, but you didn't see it because of all the other spam"
+114,TahsinTariq,1651571573.0,2.0,Time to vote?
+115,TahsinTariq,1627977359.0,2.0,"!remindme 9 month
+
+&#x200B;
+
+There, I'll tell you to vote next time."
+116,Jaondtet,1628023693.0,1.0,"I'm also not sure I buy the learning curve argument, but I don't see why your languages would fit the description.
+
+Assembly is a neverending story of new architectures, massive instruction sets, and weird corner-cases. Also, very few people are really Assembly developers at all. When you interact with it, it's usually in a debugging manner. That's usually not too pleasant. 
+
+C is mostly easy to learn, but is just really frustrating as you scale up. C++ is notorious for being impossible to learn completely, so you never really pass the learning curve. I think these ""low level"" languages are also used by older developers who are more likely to be specialized from a time where they had less choice.
+
+No idea about APL, but I think it was just never well-liked to begin with.
+
+Haskell maybe? But I think it's similar to C++, in that the language is massive and constantly changing. But I'm also a bit surprised about its position, considering how hightly users usually speak of the language."
+117,,1628068128.0,1.0,[deleted]
+118,gregwtmtno,1627945607.0,132.0,"Me too, but given that I’m a lawyer, I’m not holding my breath."
+119,ShadowWolf_01,1627945521.0,12.0,"> It reflects the proportion of current users who want to continue to use it.
+
+Oh, TIL, thanks for the info."
+120,TinBryn,1627951969.0,16.0,So it was actually asking those that don't want to do the work to change to C++14.
+121,Sapiogram,1628003152.0,1.0,"Good point, I guess the Rust train hadn't really got going yet."
+122,Axmouth,1627992555.0,12.0,Carcinization or oxidization?
+123,ergzay,1627936800.0,57.0,The NK nuclear and rocket program both probably rely heavily on open source software as they don't have enough people with knowhow to develop everything themselves.
+124,,1628097701.0,1.0,"I doubt anybody even thinks about Rust, Zig and TypeScript as serious alternatives for infrastructure solutions given that Go dominates like C used to do in the Linux world. Though, I would take Zig, Rust, even Java anyday over Go for databases, filesystems, etc. since these do not require tight integration with other solutions in the ecosystem."
+125,pjmlp,1628167397.0,1.0,Almost like FreePascal!
+126,nultero,1627942473.0,36.0,"The big languages continuously ingesting new features are the foil to Go's simplicity. All the extra complexity makes it very easy to write really bad, really unreadable spaghetti. It's already too easy to churn out some pasta, Java / C++ just make it even easier.
+
+Rust tries to enforce antispaghetti in other ways, but as somebody who ends up fighting the borrow checker, I usually end up with some anyway."
+127,ShadowWolf_01,1627944730.0,30.0,"> Rust is good, but I feel like its almost never productive to work in rust as an indie or a small team. Rust will become the language for corporate, effecient, ultra complex software in the future where big teams are working together.
+
+Interesting. I will agree with you that it isn't *as* productive, although it would be kind of surprising to me if it's ""almost never productive"" as you say. I feel like Rust would also have value for smaller projects, but having never worked with it in a professional setting, I don't have any experience as to whether that's the case or not.
+
+> Go on the other hand just provides the perfect sweet spot where you have the performance of a compiled language and the productivity of a language like python.
+
+For small scripts, I could see where it's just as productive. But one of my main problems with it is that you have to reinvent the wheel way more than you would in even Javascript, and that makes it less productive/more annoying in the long run, at least for me.
+
+As a completely contrived example, say I wanted to write a quick little function that took some items with various fields, two of which being `name` and `amount`, and then added up all of the `amount`s for items with a `name` starting with the letter ""A"", and then returned that value. In Rust, that might be something like this:
+
+    struct Item {
+      // ...
+      name: String,
+      amount: i32,
+    }
+
+    fn add_items(items: &Vec<Item>) -> i32 {
+      items
+        .iter()
+        .filter(|i| i.name.starts_with('A'))
+        .fold(0, |acc, i| acc + i.amount)
+    }
+
+Super easy to read, and those sorts of `.iter()` expressions work for much more complex transformations.
+
+But in Go, unless there's a better way of doing this I don't know about, you'd have to resort to a good ol' for loop:
+
+    type Item struct {
+        // ...
+        name string
+        amount int
+    }
+
+    func addItems(items []Item) int {
+        sum := 0
+        for i := 0; i < len(items); i++ {
+            if items[i].name[0] == 'A' {
+                sum += items[i].amount
+            }
+        }
+
+        return sum
+    }
+
+Maybe you prefer the Go version, and that's fine! But personally I find the Rust version much nicer; plus, as I mentioned, if you have to do other transformations Rust gives you quite a few with the [iterator trait](https://doc.rust-lang.org/std/iter/trait.Iterator.html), whereas with Go, you just have to write more custom code in the for loop for the specific situation you're dealing with.
+
+IIUC this is a result of Go not having generics; you simply can't write generic algorithms taking higher-order functions like those of Rust's iterators in Go, at least not afaik.
+
+For some people, maybe this isn't a big deal; ""what's so wrong with writing for loops?"" But for me, it's so much nicer being able to use generic algorithms that do these sorts of things for me, and with an implementation that's likely better than whatever I could write myself.
+
+And that's just the thing with Rust, iterators will almost always (or always? I don't know for sure) compile down to efficient code, so I'm not paying much if any perf. penalty for the above code.
+
+And this isn't even to mention stuff like error handling in the two languages (personally I prefer `Result<T, E>`'s ways to handle/deal with errors, like `.unwrap()` and `.expect()`, over `if err != nil` handling), or null safety, or the borrow checker keeping you from shooting yourself in the foot (specifically with thread safety, but I haven't written any async or multithreaded apps with Go so I wouldn't know what the situation is like there/how safe it is to do?), Rust's wonderful type system, really helpful compiler, or a whole host of other things that make Rust nice to use.
+
+I guess if you don't need or want those things, have a different usecase, etc., then Go might make sense for you. For example, I'd almost certainly choose Go over Rust for writing a Qt application (and Go is cleaner than C++ for sure, although I do like C++'s std algorithms). Ultimately, you should choose what to use based on your specific application's needs. But for me, I'd almost always prefer using Rust over Go where/when I can."
+128,,1627946566.0,30.0,[deleted]
+129,metaden,1627996185.0,4.0,"Go forces the complexity onto the developer. The amount of boilerplate you need to write for a simple k8s controller is astronomical, this is all due to the lack of good abstractions. Because of these reasons, I need to write, read, maintain and liable to lot of LoC. Everyone’s argument is “go is simple” but a go program is not simple. For inspiration, you can look at rich hickey’s talk on simple made easy, to understand the difference between the two."
+130,pjmlp,1627976385.0,2.0,"Go will also get there, C17 + all major extensions common across FOSS and commercial compilers, is a very different language from K&R C, or Scheme 7 versus its original implementation."
+131,beowolfey,1627985004.0,2.0,"Have you tried Julia? Your description of Go is what Julia feels like to me, was wondering how it compares."
+132,sloganking,1627942397.0,9.0,"My perspective (as someone who had not yet taken the time to learn go but has looked it's way a few times) is that it aims to be better python. Of course a large appeal of python is that it's old so it has a library for almost anything. But the GO community will slowly build that over time.
+
+What I don't understand about GO is why there are so many diehard (almost arrogant seeming) fans of it who act like it's the best thing in the world or even better than other languages. I see those people, then I go look at GO's main website https://golang.org/ and docs, and they frankly look like a crummy highschool science presentation compared to Rust's immaculate website and docs https://www.rust-lang.org/ . 
+
+It just give some the impression that the people behind GO really haven't put a lot of love and time into it in comparison. 
+
+I think GO has a place and I want to learn it in the future, but those have been my first impressions."
+133,zerakun,1628014318.0,1.0,"Uh? As a reviewer, I like less code, especially if code has a lot of similar looking ""for""y constructs"
+134,popasmuerf,1628539870.0,0.0,...and because people who take surveys ...especially in this context don't  make schitt up?   LOLz...OK.
+135,popasmuerf,1628540108.0,0.0,"...and the ""lie"" isn't about hyping Rust as much as it is a product of self-delusion and the need to be in the ""in-crowd"".  If you have been active in the ""coder"" community for any significant amount of time...I am sure you have ran into more than a few people who will pretend to possess knowledge that upon cross-examination of any rigor reveals they are just another poser.   Think about it...how could it possibly be ""The most loved language"" if most in the software development community...especially within the niche it excels in...don't actually use it?"
+136,TahsinTariq,1627977490.0,8.0,Always has been 🔫🔫🔫🔫
+137,Sharlinator,1627985017.0,8.0,"No, I was being serious. There haven't been other streaks at the top spot because *the survey itself* has not existed long enough. Unless the GP asked about the counterfactual situation of what *would have been* the top language if someone had done the same survey, with the same target group, two decades ago, but that is of course unknowable."
+138,u2m4c6,1627961831.0,7.0,Agreed. Functional programming concepts help a lot with that. A lot of information can be contained within the algebraic types and then add map and similar functions and you got a good stew going.
+139,razrfalcon,1627967469.0,13.0,"Swift is nice, but it's basically Apple-only. There are not many libraries available (way less than for Rust) and most of them are depending on Foundation.
+
+Not to mention that Swift is way less safe. Array indexing is not bound checked, which is bizarre for a modern language. And there is no safe alternative by default, you have to write your own safe wrapper."
+140,vadixidav,1627948790.0,4.0,"I have heard good things about Swift. I definitely need to try it. Currently I develop on Linux though. I should be getting a Mac soon (when Apple Silicon macs come out with 32GB of RAM), and then I can give it a go."
+141,OmnipotentEntity,1627938990.0,33.0,"Lifetimes are difficult in C++ and C as well. The difference is in those languages if you get them wrong it's an impossible to diagnose runtime error and possibly a security vulnerability, rather than a somewhat-cryptic-to-the-uninitiated compile time error."
+142,Dhghomon,1627948826.0,4.0,">Lifetimes can be a nightmare though, I’ll concede that.
+
+They just got a *little* bit better with 1.54:
+
+https://github.com/rust-lang/rust/blob/master/RELEASES.md#version-1540-2021-07-29
+
+>You can now use multiple generic lifetimes with impl Trait where the lifetimes don't explicitly outlive another. In code this means that you can now have **impl Trait<'a, 'b>** where as before you could only have **impl Trait<'a, 'b> where 'b: 'a**.
+
+I guess that's something."
+143,tamrior,1627999857.0,3.0,"Impl, methods, traits are the replacement object oriented programming with inheritance in Python.
+
+Match is a more convenient replacement for if/elif chains. It also brings pattern matching. Regardless of you making the switch to rust, becoming familiar with match will be useful since it will also come to python in 3.10! With pattern matching and everything."
+144,beowolfey,1627985299.0,1.0,Great suggestion and this list makes a ton of sense. Although I am a bit surprised at where PHP and C placed.
+145,drjeats,1627980729.0,7.0,"I think people are tired of waiting for it to get transformatively better again. C++11-14 was that. C++20 brought modules and coroutines and concepts which are all kinda complicated and not widely used. We all want the metaclasses and Rust/Zig style error handling that Herb Sutter proposed.
+
+And then there was the ABI drama.
+
+Folks also seem generally unhappy with initializer_list because it further complicates initialization, and after all this time explaining how constexpr is not a way to mark something that must be executed at compile time and how this is all you really need, they finally added consteval. The big wins have been C++11 features and later refinements on them: lambdas, in-class member initializers, standard type traits, explicitly defaulted/deleted special members (but even these have usability issues).
+
+And then there's build systems, which currently and probably will always suck in C++ land. (Yes, I know how to use the target_* cmake functions.)
+
+Aside from building, the tools are better than they've ever been, but C++ just stopped being fun to write now that the novelty of C++11 has worn off. At work I actively avoid newer features I was once excited about slowly trying out and incorporating (concepts are a big one). No one wants to spend unnecessary brainergy outside of the problem domain when reading someone else's code. But it's still the workhorse. I'll probably be writing in C++ for at least another decade."
+146,lorslara2000,1627936347.0,6.0,I don't know. If it was then I can imagine it could be explained by the modernization hype. Now it's all mainstream and boring again.
+147,another_day_passes,1627942816.0,19.0,"Memory is manually managed in Rust, it’s just that the compiler does it for you. I think modern C++ and Rust share many ideals; the reason Rust is nice to write while C++ is less so is that Rust was able to start afresh while C++ had been stuck with the C baggage from the 70s."
+148,thelights0123,1627944383.0,6.0,">	the micro-optimization culture inherited from C circles spoils the fun.
+
+For me, it's the other way around: many optimizations don't happen in C++ because of how the language was designed. There's no equivalent to Rust's `Rc` in C++'s std—only `Arc`, because the standards designers were scared that people wouldn't realize that it's not thread safe. Additionally, `string_view` is not highly recommended, because it's way too easy to hold onto it while its backing memory is freed. Both of those are not issues in Rust.
+
+Also, `restrict`/`noalias`."
+149,pjmlp,1627976606.0,3.0,"C++ is like this wild girlfriend from years back that we aren't no longer together, however regardless of how things are, I will always agree meeting her again, for better or worse."
+150,tim-fish,1627949016.0,2.0,What do you find missing from debugging support with Rust?
+151,UltraPoci,1627940294.0,18.0,I believe they're talking about C++ not having a trim function
+152,BosonCollider,1627953139.0,11.0,"That and a large chunk of the language was designed with web backends and database interactions in mind, and it has a super strong concurrency story based around immutability & atomics. So it has a really good library ecosystem for anything related to web backends & databases (plus having a good compile-to-js dialect if you want to use it for full-stack), and can fall back on the Java ecosystem for the rest.
+
+I don't know if I would use it for everything, and the poor type safety & error messages are a definite minus when working with it, but it is a very beautiful opinionated language and I can understand why some people \*really\* love it.
+
+It has fairly solid corporate support from a subsidiary of Berkshire Hathaway that is dependent on it for its banking systems, so while it may not ever become big (it looks like its momentum came and went), it also has no real chance of disappearing or going unmaintained."
+153,mwassler,1629473905.0,1.0,"I think Rust's marketing hits a more broad group than the typical C,C++ dev sometimes.
+
+I see a lot of web developers coming from ruby, node, PHP or python trying out rust as their first stab at a more systems oriented language. Thinking this is the solution to their scaling problems. (this is just based on the amount of times I see people I work with trying to pitch rewriting 300+ DB table rails CRUD apps in rust as a good idea)
+
+So I think there might be some learning curve there. People learning not just rust but systems programming in general. A node.js dev may never even try to write a C program but will probably dabble in rust at some point just due to the hype.
+
+On the flip side web developers who try it and it clicks are probably more likely to evangelize it since it gives them this ""I can do systems programming now"" moment of empowerment."
+154,hgwxx7_,1628068230.0,1.0,"???
+
+Did I say on boarding wasn’t challenging? How did you infer that I wasn’t aware of it? I worked in a company that onboarded hundreds of programmers onto Rust FWIW."
+155,,1627957799.0,93.0,pls rewrite the law to be unambiguous and memory safe
+156,stuzenz,1627974948.0,3.0,"Funny you say that, I came across this today.
+
+https://42papers.com/p/catala-a-programming-language-for-the-law"
+157,,1628002528.0,2.0,[deleted]
+158,LousyBeggar,1628152253.0,3.0,yes
+159,basiliskgf,1627944266.0,27.0,Their intelligence program has plenty of scars from memory corruption exploits being used against them and would definitely be interested in preventing those - not to mention that [malware has already been rewritten in Rust to slow down/evade reverse engineering/detection.](https://www.proofpoint.com/us/blog/threat-insight/new-variant-buer-loader-written-rust)
+160,therealslimshoddy,1627940473.0,28.0,Quick! Someone patch upstream to disable the warheads
+161,toastedstapler,1627951318.0,12.0,"Small nitpick: for go you can do
+
+    for ind, item := range mySlice {
+
+Which would remove some of the bloat in your example"
+162,po8,1627950811.0,18.0,"Matter of taste, but I would rewrite that `.filter().fold()` as
+
+    .filter_map(|i| i.name.starts_with('A').then(|| i.amount))
+    .sum()
+
+But yeah, way easy to read."
+163,HK-32,1627949558.0,3.0,"Its amazing how people have wildly different tastes when it comes to programming. The manual looping is something I always found eaiser and thought it was a really good ""feature"" of Go because it made you think about the problem and solve it in a logical way that made you learn something. And error handling, I learned C as my first language and have always thought manually checking for error = nil is the best way to do it. Try and catch was nice but just thought it was too much for what error handling really is. I like simplicity in programming, if i wanna check for an error then I will check for an error. ""if error != nil"". To the point and adds no extra constructs to the language. But yeah ultimately it just comes down to personal taste. There really is no wrong and right I guess."
+164,Repulsive-Street-307,1627947499.0,2.0,"I don't think this will stay the same forever. Go is probably sooner or later have a update where list comprehensions or similar are a thing. 
+
+Syntax complexity is probably one of the largest salt mines in rust too - necessarily so, because of lifetimes. I have no clue if list comprehensions and generators will be feasible in rust. Maybe it's a glimmer in the rust devs eyes right now.
+
+But they're feasible in Go (because garbage collection and no commitment to '0 cost abstractions').
+
+I think Rust could be more popular too if they had 'massaged' some of the more important and repetitive types to be special cased in the function signature syntax, like Result to be like the Haskell (i think) 'Either' and overload ' T || Err ' in function signatures or the same for 'Option' with some symbol overload (like 'T?').
+
+People tend to hate generics signatures that span multiple lines, so a reduction in the number of characters or 'type matryoshka' in function signatures will almost always have a positive response of 'this is easier to learn' (even if it's not really true), just because they make documentation 'neater'.
+
+And if casual people think rust generics are already complex (just the choice of associated types vs generics confuses many), wait until higher kinded types become something they encounter regularly ... Fortunately rust has no inheritance - except in obscure corner cases in lifetimes iirc - otherwise it'd be even worse."
+165,backtickbot,1627944743.0,2.0,"[Fixed formatting.](https://np.reddit.com/r/backtickbot/comments/owpz93/httpsnpredditcomrrustcommentsowll2jrust_is_the/)
+
+Hello, ShadowWolf\_01: code blocks using triple backticks (\`\`\`) don't work on all versions of Reddit!
+
+Some users see [this](https://stalas.alm.lt/backformat/h7hhdso.png) / [this](https://stalas.alm.lt/backformat/h7hhdso.html) instead.
+
+To fix this, **indent every line with 4 spaces** instead.
+
+[FAQ](https://www.reddit.com/r/backtickbot/wiki/index)
+
+^(You can opt out by replying with backtickopt6 to this comment.)"
+166,HK-32,1627948792.0,6.0,"Hmm I see. I guess it always comes down to use what's best for your use case. If it works then it works. Maybe I did throw some personal bias in there. But for pretty much everything I've done. I always found Go to be a better fit because it was easier to implement, took less time and the code would come out cleaner, easy to reason about. Now maybe I've most of the time done a certain type of projects where rust just didn't make sense, totally possible."
+167,HK-32,1628005509.0,2.0,"Julia feels like the perfect language for people coming from languages like lua or perl. Its syntax puts me off as I come from a more traditional C style background. Its doing great in the scientific world I've heard. Taking a good chunk off of python's audience. But for what I do, that is game servers and backend I pretty much stopped looking at other languages after I found Go. Would love to give it a try though if I ever find myself with a choice."
+168,insanitybit,1627943281.0,14.0,>Lots of people will say rust has arrogant diehard fans and attacking their website feels petty. Let's try to limit zealotry.
+169,HK-32,1627943003.0,8.0,"Haha I feel ya lol. Personally I feel like once you've ""really"" used Go for a project or two, you just can't go back to anything else. I don't know what it is but everything from it's builtin concurrency mechanism to simplicity just starts to pull you. You can learn the language in a weekend. Its the bare bones. You have functions, variables, loops, goroutines, channels, structs, interfaces and thats like all. People who learn Go and love it, just feel so strongly about it that it almost become arrogance if you wanna call it that :)"
+170,cyber_pride,1627943410.0,10.0,"I would also like to learn Go or at least become familiar with it but have felt hesitation by Go‘s perhaps tone-deaf community. I think the biggest contributor to this is the main Go creator himself. He works at Google and said that Googlers (but somehow not himself??) are not capable of understanding a brilliant language. So when designing Go, it needed to be easy to understand and deliberately sought to dumb down the language. 
+
+If you search the Google forums (I forget what they’re called), you’ll realize that his arrogant point of view was not some unfortunate slip of tongue that was captured on video, but that he really did envision and created a language for idiots."
+171,rv77ax,1627996020.0,1.0,"> What I don't understand about GO is why there are so many diehard (almost arrogant seeming) fans of it who act like it's the best thing in the world or even better than other languages.
+
+If your opinion is based on your experience on r/golang subreddit then I agree. That subreddit is cancer."
+172,Noughmad,1628015713.0,1.0,"So do I, but if you're a manager who doesn't know much about code, it looks more impressive."
+173,cyber_pride,1628541174.0,1.0,"My thought process is that for this particular question, the participant would choose a language they liked and move on to the next question. (There are plenty of questions to fill out). 
+
+Why would somebody who’s never used Rust chose to select Rust and not a language they actually love? What do they gain from selecting Rust? Psychologically speaking, what would motivate one to overhype Rust at the expense of not voting for their preferred language?
+
+Do you have stats on how often people lie in surveys?"
+174,cyber_pride,1628542400.0,2.0,"Anecdotally speaking I’ve observed growth in the Rust Community Server over the last year or so. People from all ages (high school level and up) and abilities (some users are just starting out with programming, others are experts of some subdomain) seem to thoroughly love the language even if they don’t use it on a day to day basis or even professionally."
+175,vadixidav,1628234929.0,2.0,"Hmm, very strange indeed. If it has the same pitfalls in terms of safety as a systems language while not having systems language capabilities, then it doesn't seem like it is of much use to me. I will still give it a go though and check it out."
+176,u2m4c6,1627949253.0,4.0,"If the ecosystem was there for server-side, I would say it is the ""perfect"" language. At least for me because I really like functional features like algebraic types and ""Option"" :D"
+177,dwalker109,1627941334.0,6.0,"Oh yeah, absolutely. I wouldn’t have it any other way. 
+
+It’s just that however many articles I read about lifetimes, something doesn’t click. I’ll get there eventually but it’s a tough one. Basic use cases (“which argument of my function is the return value relying on”) I get. But there’s a lot more to it than that, obvs."
+178,NeonVolcom,1627945563.0,3.0,"Okay, for real, I don't feel like I'm ""good enough"" to use C++ sometimes. Stuff like this makes it an absolute nightmare for me to use. 
+
+It's like, every time I implement something new, 100 people have a 100 contradicting points saying I should do 100 different things. The errors are hard to debug unless your brain is big (and even then...).
+
+I've heard Rust error handling is fairly nice compared to C++. I just don't have the drive to swap languages."
+179,nyanpasu64,1628043525.0,3.0,"I think that's not quite the full story. In C and C++ it's possible to write complex lifetimes (self referential types, circular references, non-scoped threads referencing non-'static data) which may or may not be correct, cannot be statically checked by Rust's rules, but nonetheless work well enough to write useful applications around. And Rust will give you a ""somewhat-cryptic-to-the-uninitiated compile time error"" even for the ones that aren't wrong. So Rust lifetimes are only a subset of all programs without UB, that doesn't allow you to achieve everything you may want, though it's a useful and easy-to-reason-about subset."
+180,pjmlp,1627970096.0,3.0,"Those are all examples of what I meant with ""micro-optimization culture inherited from C circles spoils the fun."".
+
+string_view doesn't do the required checks, which is what makes it not highly recomended, because those checks are ""costly"".
+
+It is also the reason if you want a safe std::span, you should use Microsoft's gsl::span, as the standard one doesn't do bounds checking."
+181,WormRabbit,1627989834.0,6.0,"It's almost nonexistent. Have you tried comparing the support for debugger in Visual Studio and Intellij between C++ and Rust? So many basic features are missing, I struggle to say there is a debugger at all."
+182,ForShotgun,1627954494.0,3.0,"Thanks, that's a much better write-up than anything I found"
+183,,1628077698.0,1.0,[deleted]
+184,isHavvy,1627971841.0,21.0,"You _really_ don't want to write the law with a programming language. The problems with it aren't to do with ambiguous language; often times the ambiguity is a feature; but rather with discoverability and the size of it; at least in America. You have to understand not just the law as written, but also case law which requires even knowing about which cases affect it."
+185,house_monkey,1627961125.0,7.0,omg yes
+186,ShadowWolf_01,1628011343.0,5.0,"> c++14 and up are actually pretty nice as long as you get to start fresh with them :) 
+
+I know, I'll find myself really wanting to do something in modern C++ with all the nice std algorithms and such; then I learn of the Rust alternative being much simpler and way safer; remember how trying to build a C++ project is a nightmare compared to Rust (cargo is *so* nice); and remember how Rust is just a nicer language overall, and kind of lose the motivation haha.
+
+Plus, there's so much legacy C++ around that trying to, say, write a GUI in modern C++ is hard; want to use Qt? Well good luck with using the standard lib and smart pointers etc. with all the non-modern practices (e.g. raw pointers everywhere) Qt enforces (plus it kind of gives you its own standard lib of sorts)."
+187,ergzay,1627948237.0,20.0,So RIIR is even coming to malware.
+188,ShadowWolf_01,1628011835.0,3.0,"> Rewriting the malware in Rust can enable the threat actor to evade existing Buer detections that are based on features of the malware written in C.
+
+This is really interesting to me, the idea that malware detection could be language-specific (although I'm not familiar with this sort of thing, so maybe that's just normal?). Any idea exactly what sort of features/things there are in C that would make malware easier to detect, or that would be used to detect malware, but that can't be used for malware written in Rust?"
+189,kevingoslar,1628001958.0,2.0,That would also make an unnecessary copy of `item`. So better not do this for complex types like this struct here.
+190,BosonCollider,1627951818.0,27.0,">if i wanna check for an error then I will check for an error.
+
+Many people would find this honestly kind of terrifying to read. Particularly anyone that has had to review code submissions for an open source project.
+
+In particular, that's a good reason to support a language that makes sure that the reviewer can find every spot in your code where the submitter ignored an error by simply using grep .unwrap on your source file.  
+
+
+Also, if error != nil does add constructs to a language. Go has multiple return values as an explicit special cased construct instead of having tuple types or ADTs in the language."
+191,,1627951595.0,2.0,[deleted]
+192,frxstrem,1627949549.0,12.0,"You could implement list comprehensions quite easily with macros in Rust, e.g.
+
+    list![for x in y => x * x]
+
+And generators are already supported in nightly Rust, with the `generators` and `generator_traits` features.
+
+Here's a [full example](https://play.rust-lang.org/?version=nightly&mode=debug&edition=2018&gist=9aa6ab52b807d9f79db3cd121264b304) showing both."
+193,ShadowWolf_01,1627948717.0,5.0,"> I don't think this will stay the same forever. Go is probably sooner or later have a update where list comprehensions or similar are a thing.
+
+That would be an improvement (although I'm not 100% sure I know what you mean by list comprehensions?), although it still doesn't solve other issues like lack of null safety.
+
+> Syntax complexity is probably one of the largest salt mines in rust too - necessarily so, because of lifetimes and LR parsing. I have no clue if list comprehensions and generators will be feasible in rust. Maybe it's a glimmer in the rust devs eyes right now.
+
+Oh for sure, it definitely is complex syntactically compared to Go. I'm not sure about list comprehensions, what exactly do you mean by that? And as for generators, I'm not sure how feasible they are, but I know there's an experimental/unstable API for them, which you can see some info on here I think: https://doc.rust-lang.org/std/ops/trait.Generator.html#"
+194,shponglespore,1627978435.0,2.0,"I'm skeptical that Go will ever last list comprehensions given that it doesn't have a list type. One of the things that really irritates me about Go is that the only practical way to deal with sequences if values is by using slices, and they have to me manipulated using magical functions that don't even a have a Go type signature. They lack both the simplicity of immutable types and the convenience of having methods that mutate them."
+195,bs2kbs2k,1628006697.0,1.0,"From my experience using python and Rust, they felt like a really limited subset of .filter and .map for me. They are great if you don't have the FP-Style .map/.filter/etc, but they are very much inferier to the .map/.filter methods."
+196,ShadowWolf_01,1627949206.0,15.0,"> and the code would come out cleaner, easy to reason about.
+
+Do you have any examples where this is the case? I'm genuinely curious to see an example/some examples where Go is cleaner than Rust, beyond it simply being the result of Rust's more verbose/explicit nature (i.e. an example where Go is cleaner for more reasons than just extra code from Rust wanting you to handle all errors or explicitly cast numbers to different types or something)."
+197,sloganking,1627943119.0,5.0,I’ll have to check it out soon :)
+198,r0ck0,1627977921.0,3.0,"> Personally I feel like once you've ""really"" used Go for a project or two, you just can't go back to anything else.
+
+Fair enough, and true.  But people say that about a lot of languages, other tech, and just anything in life in general.  
+
+It's important to keep in mind that their new language is only one part of that opinion... the rest of that opinion is based on what languages they used prior.  You can only compare the stuff you have experience with.
+
+On terms of above: not saying anything about Go specifically, I've never actually used it.  More just a general point on trying to make accurate comparisons.
+
+But on Go:
+
+I have looked into Go a little bit, but given that my main languages right now are TypeScript + Rust, and a little of Haskell tinkering (and interest in F#).... pattern matching, non-nullability, generics, tagged unions, advanced typing systems, and heavy sanity checking at compile time are very important to me.  And from what I've read, Go would ***feel*** like a regression for me in terms of the direction I've been going in my language hopping journey.  
+
+Fast compile times would be very nice to have though!  And while I don't know much about the concurrency stuff in Go, from some limited reading it sounds cool.
+
+What languages did you use in the past?  Not trying to start a debate (preferences are subjective and personal for all of us, plus heavily dependent on context too). I'm just curious to understand some more about what you found in your comparisons.
+
+Cheers."
+199,_IPA_,1628003453.0,2.0,I found the lack of proper enum support disappointing. Or did I miss something there?
+200,nultero,1627948200.0,15.0,"To be fair to Rob Pike (guy who said that), when you've worked alongside the guys at Bell Labs, it really might warp your opinion on everybody else in industry.
+
+Ken Thompson is also on the Go team, and in some ways they made the language that they wanted -- Pike, Ken, and Robert Griesemer say they would only include things they all agreed were crucial to the language they wanted.
+
+Even if it's not a brilliant language, I think it's a little bit fascinating to dissect Go to see what they've decided on. Pike called it the narrowest ""vector space"" of all of a number of feature sets they needed in a production language.
+
+Whether that makes it any more or less interesting is up to you. But I think it's worth having that context for a language that a place like the Rust sub would reinforce as worthless."
+201,NotAFedoraUser,1627948931.0,10.0,"He said that new coders joining google might not have 30 years of experience reading and writing complex code, so Go is good for intermediate level of experience IIRC."
+202,JanneJM,1627948777.0,2.0,"> but that he really did envision and created a language for idiots.
+
+That's not necessarily bad, though. ""idiots can use"" == ""easy to pick up and use for normal developers and hobbyists"". Think of adaptations for disabled: ramps, elevators, curb cuts, hands-free door latches, wide hallways, traffic light sound signals and so on. They all also help the rest of us go through our lives a little easier and less frustrating."
+203,popasmuerf,1628610060.0,1.0,"I don't question at all the grow of the Rust community(I am a member of that community after all), but let's keep real....it is no where near the mind-share of even relatively young programming languages like Go, much less that of C++, which is arguably it's greatest rival within Rust's target niche.  Most programmers simply don't use it or even know that much about it outside of it being the new ""hotness"" w/r ""low level"" and ""performant"" programming.
+
+You know next to nothing about the programming language...but it's your ""most loved programming language"" ?  This right here screams ""I have yet to get beaten down and built back up by the Rust Compiler""."
+204,dexterlemmer,1630016060.0,1.0,"Unsafe exists to enable extending the Rust type system with new safe types it didn't previously know of. Rust's std has types for building self-referential types and circular referencing with purely safe code that the borrow checker understands. This isn't magic. Just the ""magic"" of save zero cost abstractions over unsafe. The library ecosystem also has a few popular crates with highly trusted maintainers (some of these are official they are just not part of std) providing the same ability of using safe Rust to build a bunch of other stuff like safe global mutable variables and a bunch of useful abstractions for threads, etc. Again, writing those libraries required unsafe.
+
+Basically. Figure it out once and write it unsafely once and test it insany thoroughly and perhaps even formally verify it and then just reuse it another billion times with no worries about unsafety ever again.
+
+C++ requires the developer to learn and remember and diligently follow best practice and to learn and remember and diligently avpid footgund. Rust requires the programmer teaches it best practice so that it can enforce or at least encourage best practice, and teaches it safe under the right circumstances tricks so that it can allow them and yet enforce that they are never abused."
+205,dmyrelot,1628051338.0,1.0,"This is just false. You can just define -D\_GLIBCXX\_ASSERTIONS=1 to enable bounds checking.
+
+Do not understand where is the ""span no-bounds checking"" meme come from. From that Alex Gaynor who believes using C++ is bad for society and violates human rights?
+
+[https://godbolt.org/z/aq6crovqf](https://godbolt.org/z/aq6crovqf)
+
+[https://youtu.be/FAt8KVlNB7E](https://youtu.be/FAt8KVlNB7E)"
+206,hgwxx7_,1628093580.0,1.0,You’re just being a dick for no reason. Good day.
+207,Zyansheep,1627973270.0,13.0,"Ok, then create a system where the ambiguous parts have to be explicitly marked by the law makers and provide links to cases that ruled on the ambiguity. Also make it version controlled for good measure."
+208,,1627991106.0,2.0,what about memory safety
+209,najamelan,1627997259.0,1.0,"> but rather with discoverability and the size of it;
+
+One of the points made by this incredible speech (warning, this guy speaks at 300 words/min): 
+
+https://www.youtube.com/watch?v=d-7o9xYp7eE"
+210,xygzen,1628009884.0,1.0,Sounds like you need a GLR parser with some semantic checking AI and some robot judges. Problem solved
+211,shim__,1628018246.0,7.0,At some point the crab is going to pinch
+212,boolazed,1637092382.0,1.0,"noob question, what's RIIR?"
+213,toastedstapler,1628008673.0,1.0,"Copying a string and an int is so insanely cheap, you shouldn't be using go if that's legitimately an issue for you"
+214,HK-32,1627953742.0,1.0,"I think you're mistaken on how Go does error handling sir. Functions that can fail return two values . Often in a format like ""var socket, err = listen(""url"")"". Now err will be nil if there was no error. But in the case where there was an error, it is an actual error object with a message and stuff."
+215,Repulsive-Street-307,1627950095.0,3.0,"I was writing about [python list comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions) which are a alternative in python to using maps and filters and zips with a single syntax.
+
+It's counter intuitive, but many people 'prefer' the general method of a 'for' over special functional methods like zip, map, fold etc (because they can 'see' the algorithm and don't have to remember what each function combination does), and list comprehensions give a way to do it in a single line. 
+
+They can get gnarly if you're doing the equivalent of a 'for inside a for' (by making the 'single line' huge and confusing or wasting time with multiple passes), so people with sense would then turn to the functional functions (or use python ability to ignore a line break with \ to separate inner loops) - the python docs i linked recommend the functional method in that in that case.
+
+I doubt rust will get them because its lists are not read only or inbuilt like python and creating lists through syntax would appear to go against the '0 cost abstraction' principle. Go might though."
+216,Hazanami,1628000172.0,1.0,The magical syntax thing really didn't make sense to me either. Like it goes against their own standard ways of compositing interfaces etc.
+217,WormRabbit,1627988424.0,4.0,"Personally I'm not very familiar with Go nor do I like it, but anything related to concurrent web services looks like an obvious advantage for Go. Rust's async story was added late in development, it's still very complex to use and lacking in many respects (e.g. there is no good debugger support for Rust, much less an async debugger). Go was built with concurrency in mind from the ground up, and it's tooling is backed by Google."
+218,HK-32,1628006825.0,1.0,"Everything obviously is personal taste but the thing about Go is that you have to try it to believe it. It's creators are some of the most influential and important people in tech of our time. Rob Pike, Robert Griesemer and Ken Thompson. Two of them worked at Bell Labs for most of their careers where they designed and implemented the original Unix operating system. After all of their programming career with all of their experience they chose to create a new programming language and they would only include features they all unanimously agreed upon. These features would be crucial to the language. They chose to go head on for the concurrency mechanism. Golangs concurrency is only possible because of its custom backend. LLVM and GCC don't allow that sort of customization for the runtime to be able to schedule functions like that and be interupted without any problems. I don't know the specifics but on a higher level thats about it. 
+
+The lack of ""features"" is what makes Go simple. The features that exist are just enough to allow for pretty much everything. This also makes it so theres only one way to do things. Concurrency is one thing, Simplicity is another, theres only one way to do things, and thats the right way. The std library is just flawless, never ever have I seen such a perfect and beautiful std library. Clean. Gives you everything you could ever need. Dependency management was shit but thats now the best in the industry with the modules. Deployment is a breeze. One click and you'll have a statically linked executable that will run everywhere. Cross compilation couldn't be easier, just flip some flags and done. There's a lot to like about this language, we could sit here for hours. But feel free to give it a try."
+219,HK-32,1628004998.0,1.0,Not directly but enums in itself is fairly simple and thus easy to replicate with iota constants in Go. Atleast that's how we did it.
+220,cyber_pride,1628614513.0,1.0,"Point taken. I hope people love Rust for what it offers,  not because it’s the new hot thing."
+221,pjmlp,1628056060.0,1.0,"Since this is false, in which page does it say to define -D_GLIBCXX_ASSERTIONS=1 on ISO C++ standard document?
+
+Here is the deal you won't find it anywhere, given that  -D_GLIBCXX_ASSERTIONS=1 is GCC C++, not ISO C++.
+
+So a std::span implementation is not guaranteed to have the same behaviour across every, single, ISO C++ compliant compiler.
+
+When humans die from faulty software, or lose their savings or memories due to ransonware caused by memory corruption exploits, yes it is bad for society."
+222,elr0nd_hubbard,1627999334.0,8.0,[In case you haven't seen Catala already](https://github.com/CatalaLang/catala)
+223,janosimas,1627976067.0,1.0,looks so much fun!
+224,isHavvy,1628056278.0,1.0,"If it's not executable, memory safety is categorically not even in the category of possible issues. It's like asking ""what if my Rust code smells like pizza?"""
+225,ergzay,1637105354.0,2.0,"It's an acronym for ""Rewrite It In Rust"". It's a meme and also a real thing. Some people advocate rewriting much/most software in Rust because they think it will improve the security of software in general. It's a meme because it's not really a possibility because of the amount of existing software out there but there's still an ounce of truth to the meme.
+
+Here's an example: https://transitiontech.ca/random/RIIR
+
+If you google image search ""rewrite it in rust"" you'll get a lot of images as well."
+226,kevingoslar,1628022792.0,2.0,"Copying ints is cheap. Copying strings is often cheap, but less so as the string gets longer. The example indicates that the `Item` struct contains other fields that might be even heavier. The entire struct gets copied for each item in the loop. Just saying that this can add up. Even if it's fast today, with this syntax performance can degrade across the codebase as more fields get added to the `Item` struct when features get added to the product.
+
+I find the following a good compromise to stay readable while protecting against performance degradation as a codebase evolves:
+
+    for i := range items {
+      // use items[i] instead of item"
+227,,1627954247.0,1.0,[deleted]
+228,dexterlemmer,1630012014.0,1.0,"1. `for` is just syntax sugar for `foreach` so it is not more general. 
+2. `let mut s = 0; for x in xs {s += x};` is just as special as `let s = sum(xs);` but in the for you are violating DRY and missing the forest for the trees.
+3. I get that some people prefer the for loops. Once apon a time I was new to Scala and it took me a while to get used to the new stuff and admit that the old way of thinking is actually a much harder way of thinking about, reading and writing my program. But hey, it wasn't my fault that Basic, Pascal, Java, C++, and Python all taught my the same stupidity and made me stupid in the process. What would've been my fault is if I was too lazy to learn and didn't use the opportunity to learn a better way. (Don't get me wrong. Occasionally for loops are better even if very rarely. I also had to learn not to throw the baby out with the bathwater.)
+4. It's easy enough to remember what a few basic iterator adaptors are and you don't need to learn the combos once you've learned to figure them out on the run. Also you yourself admit comprehensions can get gnarly once you combine them or nest loops so iterator adaptor combos are superior even according to you.
+5. Rust has built-in lists called `Vec` and (unlike Python lists which are mutable, I don't know where you got that Python lists are immutable) Vec's are immutable by default. Giving them special literal syntax will make an already complex syntax more complex and add nothing of benifit.
+6. Rust also has list comprehensions like `let xs = (1..=10).filter(¦i¦ g(i)).foreach(¦i¦ f(i)).collect()` which is the same as Python's `xs = [f(i) for i in range(1,11) if g(i)]` and comprehensions won't get special syntax in Rust for many reasons. The non-zero cost is one reason. That comprehensions encourages bad practice and Rust is designed to discourage bad practice is a second. Even if comprehensions had merit (which they don't), they also have to pass the benifit to cost ratio test to avoid adding unnecessary complexity to the language. But if you insist, you can always write a macro to give you syntax sugar close to Python's for you own use now that I showed you what that macro should generate. The borrow checker will even save you from some nasty gotcha's in Python's comprehensions.
+
+PS. Please ignore any spelling mistakes or typos. English is not my native language and I'm on my phone and it seems that on my new phone the Reddit app doesn't spellcheck."
+229,r0ck0,1628044082.0,1.0,"> Everything obviously is personal taste but the thing about Go is that you have to try it to believe it.
+
+That's fair enough.
+
+I think even without experience in the language, just from reading some of its limitations and odd/old design choices, that's enough info some people feel they need, to assume that it's not a language for them.  And that's where I'm coming from.  It can make sense to a certain degree, but it will never be the same as actually trying it.
+
+I don't think I could handle all the `err != nul` stuff in Go.    I understand the argument against exceptions, which languages like Rust have a good replacement for, but even that is verbose and tedious enough for a lot of what I do.  I feel kinda relieved coming back to languages where I can use just exceptions for code where I feel explicit local error handling is overkill.  It seems to me that Go ditched exceptions, but didn't replace them with anything useful.  
+
+But as you've mentioned, one of the pros on the language is its simplicity.  So that's something you probably do need a bit of experience with, not because simplicity couldn't be understood generally as a concept from outside, but more in terms of weighing up the ""feel"" of it vs the things you don't like.  This is quite subjective, and comes down to personal preferences.  So can't really be debated I guess.  But you are right in saying that people should actually try things out before entirely dismissing them.
+
+Somebody silently downvoted you, which I find annoying. I've upvoted you to counteract that. And I appreciate you sharing your knowledge and opinions on it, even though I'm probably not convinced enough to try it myself.  Knowing my own preferences, I'd probably prefer to invest the time into ***less*** simple languages.  But I guess maybe that's a personal taste thing... I don't find ""simplicity"" to be a huge pro, I actually like using advanced typing systems and stuff like that. 
+
+Although as you mentioned, you can learn Go very quickly, so that's definitely a good argument to try it out.  I could perhaps find it useful for small little single-purpose command line tools that I use shell scripts for.  Although I can't imagine building anything big.
+
+And generally advanced features don't prevent you writing simple code if you want to.  But lacking advanced features does limit you in your choices.
+
+> The std library is just flawless
+
+This part does sound very appealing though!   My first language I did a lot of was PHP, and despite its cons, that fact that it has so much built into the PHP binary itself is great in my opinion.  You can do a lot of stuff with it without even thinking about reaching for packages.  Switching from PHP -> Node was quite a jump, given Node is quite bare-bones in comparison.
+
+> One click and you'll have a statically linked executable that will run everywhere. Cross compilation couldn't be easier, just flip some flags and done. There's a lot to like about this language, we could sit here for hours.
+
+Yep those are also very appealing!  
+
+The single-binary thing is a big part of why I got interested in Rust & Haskell.  Rust's tooling is awesome.  Haskell's tooling a headfuck minefield, and makes learning Haskell itself look easy is comparison.  
+
+I'm guessing Go will be great here too seeing that the tooling is ""official"" and being made by the same people (assuming that's correct?).  There's really something to be said for cohesion of a language itself + its tooling.
+
+Still curious though to know what other languages you know and are comparing to?  Just in terms of getting some context on how you're comparing things?  Not trying to use it as argument-bait or anything, that's not productive.  But a comparison without context of what $newThing is being compared to is less informative.
+
+Thanks for the info and feedback, cheers!"
+230,dexterlemmer,1630013608.0,1.0,">>...proper enums... 
+
+> enums in itself is fairly simple and thus easy to replicate with iota constants in Go. Atleast that's how we did it.
+
+That's... not proper enums. See https://news.ycombinator.com/item?id=21553201."
+231,popasmuerf,1628876548.0,2.0,Yeah....Rust...thru much wailing and gnashing of teeth has definitely made me a better programmer....it was worth the initial hell of changing my brain to implement algorithms with memory and thread safety in mind....no matter what the programming language...
+232,dmyrelot,1628056218.0,1.0,"In which page C++ standard document said implementations are not allowed to add bounds checking for span::operator\[\]??
+
+Microsoft provides similar toggle too.
+
+[https://godbolt.org/z/5K7Wza4PE](https://godbolt.org/z/5K7Wza4PE)
+
+&#x200B;
+
+Ransomware. You sound like Rust won't have those issues in the future?
+
+Rust std had serious security vulns which is even worse than eternal blue.
+
+Rust std: 9.8 CVSS critical
+
+[https://nvd.nist.gov/vuln/detail/CVE-2021-31162](https://nvd.nist.gov/vuln/detail/CVE-2021-31162)
+
+Eternal Blue: 8.1 HIGH
+
+[https://nvd.nist.gov/vuln/detail/CVE-2017-0144](https://nvd.nist.gov/vuln/detail/CVE-2017-0144)
+
+&#x200B;
+
+[https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=rust](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=rust)
+
+Saying Rust is immuned from memory safety cves are misconceptions. And blaming C or C++ violates human rights or bad for society for security vulns are red herring. With time, every language has security vulns, as long as we write code. We will all be all bad for society and human rights violators."
+233,dmyrelot,1628056958.0,1.0,"[https://godbolt.org/z/E1Mqz79jY](https://godbolt.org/z/E1Mqz79jY)
+
+Also works for clang with libstdc++."
+234,dmyrelot,1628057580.0,1.0,"MSVC STL also provides similar stuffs and yes they are all more efficient than Rust.  
+https://godbolt.org/z/5K7Wza4PE 
+
+&#x200B;
+
+So you are arguing Rust won't die for faulty software and memory safety issues?
+
+[https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=rust](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=rust)
+
+&#x200B;
+
+You are arguing about ransomware. This 9.8 CVE is even much worse than eternal blue (which is 8.1).
+
+Rust std Vec double free: 9.8 Critical
+
+[https://nvd.nist.gov/vuln/detail/CVE-2021-31162](https://nvd.nist.gov/vuln/detail/CVE-2021-31162)
+
+Eternel Blue: 8.1 HIGH
+
+[https://nvd.nist.gov/vuln/detail/CVE-2017-0144](https://nvd.nist.gov/vuln/detail/CVE-2017-0144)"
+235,runiq,1628411147.0,1.0,"I mean, I certainly wouldn't outright say no to that."
+236,boolazed,1637137808.0,1.0,ty Mr Crab
+237,toastedstapler,1628029700.0,1.0,"> Copying strings is often cheap, but less so as the string gets longer
+
+does the string content actually get copied or is it just a pointer copy? as far as i am aware there is no copy on write semantics in go
+
+here is some benchmarks:
+
+    ##############
+    # strcopy.go #
+    ##############
+    package strcopy
+    
+    type Item struct {
+    	amount int
+    	name string
+    }
+    
+    func DoTheThingIndexing(items []Item) int {
+    	sum := 0
+    
+    	for i := range items {
+    		if items[i].name[0] == 'A' {
+    			sum += items[i].amount
+    		}
+    	}
+    
+    	return sum
+    }
+    
+    func DoTheThingPointer(items []Item) int {
+    	sum := 0
+    
+    	for i := range items {
+    		item := &items[i]
+    		if item.name[0] == 'A' {
+    			sum += item.amount
+    		}
+    	}
+    
+    	return sum
+    }
+    
+    func DoTheThingCopy(items []Item) int {
+    	sum := 0
+    
+    	for _, item := range items {
+    		if item.name[0] == 'A' {
+    			sum += item.amount
+    		}
+    	}
+    
+    	return sum
+    }
+
+    ###################
+    # strcopy_test.go #
+    ###################
+    package strcopy
+    
+    import (
+    	""math/rand""
+    	""strings""
+    	""testing""
+    )
+    
+    var sink int
+    
+    var itemsShort []Item
+    var itemsLong []Item
+    
+    func init() {
+    	for i := 0; i < 100_000; i++ {
+    		var s strings.Builder
+    		if rand.Float64() > 0.5 {
+    			s.WriteByte('A')
+    		} else {
+    			s.WriteByte('B')
+    		}
+    		for j := 0; j < 10; j++ {
+    			s.WriteByte(byte(rand.Intn(26) + 'a'))
+    		}
+    		item := Item{
+    			amount: rand.Intn(100),
+    			name:   s.String(),
+    		}
+    		itemsShort = append(itemsShort, item)
+    	}
+    
+    	for i := 0; i < 100_000; i++ {
+    		var s strings.Builder
+    		if rand.Float64() > 0.5 {
+    			s.WriteByte('A')
+    		} else {
+    			s.WriteByte('B')
+    		}
+    		for j := 0; j < 1_0000; j++ {
+    			s.WriteByte(byte(rand.Intn(26) + 'a'))
+    		}
+    		item := Item{
+    			amount: rand.Intn(100),
+    			name:   s.String(),
+    		}
+    		itemsLong = append(itemsLong, item)
+    	}
+    }
+    
+    func BenchmarkDoTheThingIndexingShort(b *testing.B) {
+    	for n := 0; n < b.N; n++ {
+    		sink = DoTheThingIndexing(itemsShort)
+    	}
+    }
+    
+    func BenchmarkDoTheThingIndexingLong(b *testing.B) {
+    	for n := 0; n < b.N; n++ {
+    		sink = DoTheThingIndexing(itemsLong)
+    	}
+    }
+    
+    func BenchmarkDoTheThingPointingShort(b *testing.B) {
+    	for n := 0; n < b.N; n++ {
+    		sink = DoTheThingIndexing(itemsShort)
+    	}
+    }
+    
+    func BenchmarkDoTheThingPointingLong(b *testing.B) {
+    	for n := 0; n < b.N; n++ {
+    		sink = DoTheThingIndexing(itemsLong)
+    	}
+    }
+    
+    func BenchmarkDoTheThingCopyingShort(b *testing.B) {
+    	for n := 0; n < b.N; n++ {
+    		sink = DoTheThingIndexing(itemsShort)
+    	}
+    }
+    
+    func BenchmarkDoTheThingCopyingLong(b *testing.B) {
+    	for n := 0; n < b.N; n++ {
+    		sink = DoTheThingIndexing(itemsLong)
+    	}
+    }
+
+    ##########
+    # output #
+    ##########
+    BenchmarkDoTheThingIndexingShort-20    	    2971	    399658 ns/op	       0 B/op	       0 allocs/op
+    BenchmarkDoTheThingIndexingLong-20     	     780	   1525691 ns/op	       0 B/op	       0 allocs/op
+    BenchmarkDoTheThingPointingShort-20    	    2893	    399313 ns/op	       0 B/op	       0 allocs/op
+    BenchmarkDoTheThingPointingLong-20     	     782	   1537833 ns/op	       0 B/op	       0 allocs/op
+    BenchmarkDoTheThingCopyingShort-20     	    2964	    400448 ns/op	       0 B/op	       0 allocs/op
+    BenchmarkDoTheThingCopyingLong-20      	     766	   1527154 ns/op	       0 B/op	       0 allocs/op
+
+the difference is looking pretty insignificant"
+238,HK-32,1627954830.0,1.0,"In my 6 years of Go I've never used a library or function that could return nil in place of its ""success"" value if it failed. Please point me to one. Also you're misinformed on how nil works in Go. Not everything can be nil in Go. A function returning just a string will always return a string. Unlike in java where a variable of type string can be null as in point to nothing, Go doesn't do this. A struct of a certain type is guaranteed to be of that type aka cannot be nil. Therefore its unfair for you to categories Go in the billion dollar mistake story."
+239,HK-32,1628132570.0,2.0,"Hey, just read this now. Thanks for following up and actually being interested. So my experience. I'm Swedish and as you may have noticed English is not my first language. Right now I work at Bambora where we do payment transferring systems. Graduated in 18 with some pretty good amount of knowledge in C. Got a job as a junior at a company affiliated with Dice. We did game servers and backend in c++, did this for 1.5 years. Then last year I wanted to move and so I got a Job back in my hometown at Bambora where we use pretty much everything.
+
+C++ is a core part of our payment terminals, everything from reading card information to syncing with the bank card network. I don't but some older guys even use Cobol with the mainframe, they look like Abruzzi from Prison Break. Our cryptography layer is written in Rust and they were short on rust programmers anyways so they thought they'd teach newbies and thats where I ended up. The rust part is very small and needs like little to no maintenance but idk, i guess they have plans for the future. And Go is what I learned in my free time, Python in college and still write little scripts and stuff in it. PHP also on my free time along with frontend, some in college, some from my side hustle. Java since high school when my dad hooked me up. So yeah thats about it. Go represents a lot of my free time these days as I'm making games on the side.
+
+ And thank you for the chat. Cheers."
+240,pjmlp,1628059687.0,1.0,"On which page on the ISO C++ standard document?
+
+https://en.cppreference.com/w/cpp/compiler_support"
+241,pjmlp,1628059653.0,1.0,"On which page on the ISO C++ standard document?
+
+https://en.cppreference.com/w/cpp/compiler_support"
+242,pjmlp,1628059646.0,1.0,"On which page on the ISO C++ standard document?
+
+https://en.cppreference.com/w/cpp/compiler_support"
+243,ergzay,1637139416.0,2.0,"There's no one answer to your question as it's qualitative and will depend on someone's own personal views and how they interpret the statement. More so you can even ask ""Is C actually a low-level language?"".  https://queue.acm.org/detail.cfm?id=3212479 Some could argue it isn't.
+
+It depends by what terminology you use to classify what ""high-level"" and ""low-level"" even means and there are many definitions for each. Rust is ""high-level"" in the sense you can use some abstractions common in other high level languages like C# or Haskell, but it's ""low-level"" because you can write it for embedded processors and even 8-bit micro-controllers. Again, whether it's high-level or low-level depends on how you define those terms, and there is no single definition.
+
+In general I suggest just avoiding the terms ""high-level"" and ""low-level"" with regards to computer languages as they are completely open to interpretation and many are likely to disagree. I suggest just using concrete statements like saying ""Rust can replace C in most if not all applications."" (my own opinion)."
+244,Kevgo75,1628054104.0,1.0,"Thanks for the detailed benchmarks! All of them call `DoTheThingIndexing`, hence the results are so extremely similar :)
+
+Without this bug, the results are even more interesting. Copying such a small struct in a loop is actually faster because the logic inside the loop can read the struct fields in the local copy with less pointer indirection. That's an interesting TIL! That is, as long as one is only reading from the copy... more on that below.
+
+You are also right that strings are immutable in Go and their underlying data is therefore not copied. But why are your `Long` benchmarks 4x slower than the `Short` ones? Their only difference seems the length of the strings.
+
+I still consider the Go loop syntax with a local copy of the iterated element a footgun that is best avoided, for two reasons:
+
+A) assuming success, the codebase will accrete new features, resulting in new fields in the struct. Which will gradually make it heavier and heavier, thereby slowing down copies. As an example, if I add a field `numbers [1000]int` to the `Item` struct, I get this:
+
+    BenchmarkDoTheThingIndexingShort-8           501           2562239 ns/op
+    BenchmarkDoTheThingIndexingLong-8            176           6881293 ns/op
+    BenchmarkDoTheThingPointingShort-8           496           2578549 ns/op
+    BenchmarkDoTheThingPointingLong-8            171           6749444 ns/op
+    BenchmarkDoTheThingCopyingShort-8             18          64692344 ns/op
+    BenchmarkDoTheThingCopyingLong-8              14          79107368 ns/op
+
+Just adding one not so lightweight field to the struct slows down a loop that creates a local copies 25x.
+
+B) modifications to the elements you loop over get silently dropped. Example code:
+
+    package main
+    
+    import ""fmt""
+    
+    type Person struct {
+      name string
+      hero bool
+    }
+    
+    func main() {
+      people := []Person{Person{name: ""Bob Parr""}, Person{name: ""Helen Parr""}}
+      // lets create some heroes
+      for _, person := range people {
+        person.hero = true
+      }
+      // here, nobody is a hero anymore  :(
+      fmt.Println(people)
+      // [{Bob Parr false} {Helen Parr false}]
+    }
+
+This bug is too easy to make and too hard to spot in Go."
+245,r0ck0,1628134305.0,2.0,"Ah interesting!  Thanks for sharing!  
+
+Have you tried writing Go in both: JetBrains GoLand + Vscode (with extensions)?  
+
+If I were to give Go a crack, I'm wondering if there much difference in how well the tooling works?
+
+I've noticed vscode is awesome with TypeScript, unsurprising seeing it's made in it.  But for PHP: Vscode + Intelephense is pretty useless compared to PhpStorm.
+
+Also does Go work just as well on Windows as Linux?  Not just for the developer's desktop... but also in terms of how many packages work when being executed on Windows systems etc.  Haskell is pretty bad there.
+
+> I'm Swedish and as you may have noticed English is not my first language.
+
+Nope, not at all!  In fact your writing is much clearer & easier to read than the majority of native English speakers.
+
+*Random tangent:*
+
+I know quite a few Swedes, and how well you guys speak English.  I think it really helps how you mostly just put Swedish subtitles on English TV/movies etc instead of dubbing voices.  
+
+When going to other European countries that dub their TV, there is a massive difference in how much English they understand.
+
+Even ignoring learning extra languages... when it comes to kids in their own native language, it would help a lot to just always have subtitles on too (would even help adults I reckon).
+
+There's even a bit of a movement around that:  https://turnonthesubtitles.org/"
+246,dmyrelot,1628059831.0,1.0,"On which page ISO C++ standard document said ""you cannot add bounds checking to operator\[\]?""
+
+&#x200B;
+
+[https://gcc.gnu.org/onlinedocs/libstdc++/manual/using\_macros.html](https://gcc.gnu.org/onlinedocs/libstdc++/manual/using_macros.html)
+
+**""When defined, enables extra error checking in the form of precondition assertions, such as bounds checking in strings and null pointer checks when dereferencing smart pointers.""**"
+247,dmyrelot,1628059720.0,1.0,"On which page ISO C++ standard document said ""you cannot add bounds checking to operator\[\]?"""
+248,dmyrelot,1628059700.0,1.0,"On which page ISO C++ standard document said ""you cannot add bounds checking to operator\[\]?"""
+249,boolazed,1637140288.0,1.0,"Alright thanks
+
+I initially wrote my question before reading your link, that partially answered it. That's why I edited just to say ""thanks"" lol"
+250,toastedstapler,1628071525.0,1.0,">  All of them call DoTheThingIndexing, hence the results are so extremely similar :)
+
+i am a victim of copy paste once again
+
+>  But why are your Long benchmarks 4x slower than the Short ones?
+
+i'm not sure, this really surprised me too. pprof doesn't tell me much
+
+> A
+
+depends on the use case really, some parts of a codebase are quite static. i just felt that for the code example in this post unnecessary bloat was being added by using the indexing. but this is definitely still something to consider
+
+it may be more relevant in other fields, but i never find myself using arrays. but if you really need one you could also consider storing `*[1000]int` to reduce the inline size, which could help with cache & copy performance if you're doing stuff that doesn't require the array 
+
+> B
+
+yeah this annoys me too, i wish there was a `for i, &item := range items` option so you don't have to faff around with indexing or making a pointer if you want to mutate the value"
+251,HK-32,1628167011.0,2.0,"Tooling. Well I never really got my hands onto any jetbrains products except for the the free IDEA. But I use vs code for most of my Go work and everything works like charm so far. Never really had any issues, the thing is, the vs code extension is maintained by the Go team anyways. And even if you go to any other IDE they'll still be using the same tools provided by the Go team. There were some issues before modules as people used all sorts of package dependency systems and this caused fragmentation but except for that I don't think you should be worried. Give vs code a try. 
+
+And as far as package cross compatibility is concerned. I have yet to see a package that doesn't work on one platform. One, maybe but that's not really as much of a Go limitation as it is a windows limitation. The wasmer webassembly runtime couldn't do something on windows and hence it doesn't work but its in ""development"" anyways so I'll let it slide. And they say it'll be fixed. Go was built with all of this in mind, cross compatibility isn't one to be worried about I'd say. 
+
+As for English in Sweden, we have compulsory English classes that everyone must take so I believe that might a be reason for good English. The rest of (most of) Europe doesn't I believe, specially central and eastern I think. Where do you live btw? Thought you were American at first."
+252,pjmlp,1628059939.0,1.0,"None, so that is something that anyone that cares about portable C++ code cannot rely on."
+253,pjmlp,1628059932.0,1.0,"None, so that is something that anyone that cares about portable C++ code cannot rely on."
+254,pjmlp,1628059936.0,1.0,"None, so that is something that anyone that cares about portable C++ code cannot rely on."
+255,ergzay,1637141185.0,1.0,Oh I didn't see that before I wrote my comment.
+256,Kevgo75,1628087082.0,2.0,"> i never find myself using arrays
+
+Me neither. This is mostly a placeholder for ""other fields that will be added here over the coming years"". Yes, not all parts of a code base change that much but some do, and having such changes impact the performance of loops is an unfortunate side effect. Having said that, you have convinced me that copying structs isn't as costly, so thanks for that!"
+257,r0ck0,1628177100.0,1.0,"Cheers, thanks for all that info!
+
+And yep, no doubt the English classes are the main factor to learning it.  
+
+Although on top that, what I noticed wasn't only that a high percentage of Swedes can speak English.  But they also know it a lot better, when comparing to most other Europeans that also took English classes throughout school.  So I think the additional regular exposure through TV/movies on top, can help here a lot too.
+
+I'm in Australia."
+258,dmyrelot,1628060009.0,1.0,"""Portable""
+
+&#x200B;
+
+Talked by someone who writes Rust which only has one implementation based on LLVM."
+259,pjmlp,1628060216.0,1.0,"Your hate blinds you, I write Java, .NET and **C++**."
+260,dmyrelot,1628060342.0,1.0,"Your echo chamber blinds you, i am a security person who investigated CVEs everyday and most claims of Rust are completely unfound and unscientific. More like advertisements rather than actually solving problems."
+261,pjmlp,1628060426.0,1.0,"Amazon, Microsoft, Google and Apple happen to be on my echo chamber.
+
+Who is in yours?"
+262,dmyrelot,1628060504.0,1.0,"Amazon, Microsoft, Google and Apple. Yeah. Then maintain code before C++98 + avoiding std::sort?"
+263,pjmlp,1628060748.0,1.0,"Depends, I guess.
+
+https://msrc-blog.microsoft.com/2019/07/18/we-need-a-safer-systems-programming-language/
+
+https://security.googleblog.com/2021/01/data-driven-security-hardening-in.html
+
+https://www.chromium.org/Home/chromium-security/memory-safety"
+264,dmyrelot,1628061032.0,1.0,"We need a safer system. Written by Rust advocator like Ryan Levick.
+
+Recent memory safety CVE in firefox. How do you explain this? Blaming unsafe or blaming other language? :
+
+[https://hg.mozilla.org/integration/autoland/rev/690f06eb6d58](https://hg.mozilla.org/integration/autoland/rev/690f06eb6d58)
+
+&#x200B;
+
+Have you ever read any security papers published in security conferences?
+
+[https://cseweb.ucsd.edu/\~yiying/RustStudy-PLDI20.pdf](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf)
+
+&#x200B;
+
+And how do you explain this? Banning std::sort while abusing OOP in C++? Then spreading false information about how C++ is going to destroy the universe?
+
+[https://bugzilla.mozilla.org/show\_bug.cgi?id=1141431](https://bugzilla.mozilla.org/show_bug.cgi?id=1141431)
+
+&#x200B;
+
+How are you going to explain those memory safety cves in Rust? Many of them are most critical ones (over 9.8)
+
+[https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=rust](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=rust)
+
+[https://nvd.nist.gov/vuln/detail/CVE-2021-32810](https://nvd.nist.gov/vuln/detail/CVE-2021-32810)
+
+Are you going to say Rust users are human rights violators if those security vulns are exploited?"
+265,pjmlp,1628150373.0,1.0,"I don't have anything to do with Rust, besides thinking it is an improvement over the status quo.
+
+And to answer your question now and forever.
+
+All companies should be hardly punished with lawsuits and liabilities regardless of what language is used.
+
+Goverments should set hard examples so that security practices are taken in computing with the same seriouness as in other engineering practices.
+
+If that means closing down a business because a memory corrruption took place, even if it was in a unsafe Rust code block, so be it."

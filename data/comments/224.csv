@@ -1,0 +1,16 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,denialerror,1490952986.0,2.0,"From personal experience, learning a functional language will greatly improve any code you write regardless of whether you end up using it, more so than learning another server side language within a similar paradigm to PHP. 
+
+Haskell is pure functional and interesting to learn but I struggled to find uses for it. I've had far more success with Clojure, which is a Lisp running on the JVM (and can compile to JavaScript). The simplicity of Lisps is a real joy to work with and favouring function composition and immutability has great benefits when you go back to writing imperative OO code."
+1,nutrecht,1490946765.0,1.0,"For your day to day work I think it would make sense to first of all go deeper into what's currently the 'best practices' in the PHP world. Where most tutorials still mix PHP and HTML in a single file, in the 'real' world most companies use frameworks like Symphony or Laravel that neatly separate stuff into separate layers.
+
+Aside from that, diving deeper into OO and functional programming is also helpful. For that using languages that are more strictly OO (Java, C#) or more strictly functional (Haskell, Scala) are helpful because they tend to force you in the right direction more.
+
+On the other hand if stuff like machine learning / data science interests you Python is used a lot in that area."
+2,wonderful_wonton,1490949594.0,1.0,"Java is super easy.  I'm not sure I'd pick that as a language to broaden into.  If you're already web programming, how about learning ""functional"" Javascript?  That's supposedly a leading-edge thing to learn nowadays, I think.  You can learn functional programming and test driven development with Javascript and be more leading edge with the web programming, and then move onto another language.
+
+Python is a good scripting language choice.  Java is good for object oriented design, but like I said, it's really easy and there's not much of a challenge there."
+3,samrapdev,1491065431.0,1.0,I've heard this advice over and over. Guess it's time I finally listen and practice with a functional language ;)
+4,samrapdev,1490947081.0,1.0,"Yea, we use Laravel for most of our web applications or for some things it's custom + Symfony components/other packages. I'm certainly no newbie when it comes to best practices and I know how to build a good web app. Just looking to get more into architecture now. 
+
+While I agree Java is more strictly OO, I think I have enough experience to force myself in the right direction. I'm reading a book on design patterns where the examples are in Java and I'm having no problem implementing them in PHP. "

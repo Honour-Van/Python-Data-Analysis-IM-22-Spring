@@ -1,0 +1,20 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,Snakehand,1627981154.0,34.0,Good job everyone for stuffing the ballots !!!
+1,rodrigocfd,1627999297.0,19.0,"I really want to see the result of the survey after Rust is more widely adopted, and people are *forced* to use it at work."
+2,Dhghomon,1627962669.0,52.0,/r/programming today: the Stackoverflow survey is biased because all the people that liked Rust and hoped to use it more only said that because they tried it out and liked it and hoped to use it more
+3,another_day_passes,1628007711.0,9.0,"If Rust is so loved, why are there less than 6000 users in r/rustjerk? Checkmate Rustaceans!"
+4,cnekmp,1627986673.0,3.0,Are there any projects made on Julia? How is it good compared to Go?
+5,,1628760203.0,1.0,If only they'd demand that people are using the language they love.
+6,fp_weenie,1628004784.0,4.0,Plaudits to all involved for being so positive.
+7,dmyrelot,1628022330.0,6.0,"""There are only two kinds of languages: the ones people complain about and the ones nobody uses."" Bjarne Stroustrup"
+8,_alonely0,1627987398.0,11.0,Julia is python++
+9,cnekmp,1627987116.0,8.0,"Oh nvm, it's dynamically typed language :("
+10,another_day_passes,1628007761.0,1.0,More like ++Matlab. :)
+11,BosonCollider,1628002967.0,8.0,"Regarding the comparison to Go:  
+Julia is generally faster than Go and it has parametric types, so code involving polymorphic collections is fast (generics are implemented with monomorphisation much like C++ templates). Despite being dynamically typed, for pretty much anything nontrivially generic it is arguably more strongly typed since nontrivial Go code turns into Interface{} everywhere.
+
+The culture and mission statement is very different to Go though. Julia has a ton of advanced features and is fairly expert-friendly. It's best described as a Lisp with a parametric type system, and an alternate syntax that makes it look comfortable to Matlab users while still being metaprogramming-friendly."
+12,Pear0,1627996629.0,6.0,"Julia is nice for a lot of numerical computations and has a REPL and all that.
+
+It is a dynamically typed language but you dont pay the performance penalty that most dynamically typed languages have because it very aggressively JIT compiles code. Here are some [microbenchmarks](https://julialang.org/benchmarks/)."
+13,cnekmp,1628004602.0,1.0,Thanks a lot for the explanation

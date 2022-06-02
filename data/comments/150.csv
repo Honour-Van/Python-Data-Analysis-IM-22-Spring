@@ -1,0 +1,55 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,droi86,1628594716.0,25.0,Filter by US only
+1,MarcableFluke,1628593188.0,48.0,"* TC versus base salary
+* US versus global
+* Focus on well known companies versus all companies. Joe's WebDev Shack isn't on Levels."
+2,buddyholly27,1628599570.0,14.0,"Total Comp vs Base
+
+[Levels.fyi](https://Levels.fyi) overindexes for major tech companies in tech hubs, SO is across all sorts of companies in all sorts of locations (most engineers don't work at major tech companies in tech hubs..)"
+3,atr5179,1628600730.0,8.0,"I don’t know about the stack overflow survey, but the vast majority of salaries submitted on levels.fyi are from people at top tech companies. So the numbers you’ll see there are way higher than the industry average"
+4,dookie1481,1628605137.0,8.0,"My understanding is that levels requires a W2 or offer letter for verification; if that is the case, it is likely fairly accurate. The comp ranges I have been given by recruiters/offers received track with the ranges I see on levels.
+
+BUT
+
+It is not representative of tech pay for a few reasons:
+
+1. Skewed towards prominent tech companies which tend to pay well
+
+2. Self-selection; people with higher comp are more likely to post there
+
+3. Stock growth is not factored out. If stock price doubles, that component of the compensation package roughly does the same. This skews towards high-growth companies.
+
+tl;dr - They are different data sets and you can draw different conclusions from each."
+5,,1628613596.0,3.0,"levels.fyi is FAANG level tech companies in major cities, SO survey is the industry as a whole"
+6,trg0819,1628614497.0,3.0,"It's quite obvious, as other people have already mentioned, it's heavily skewed towards big tech companies.
+
+Pick a random city in the US outside of Silicon Valley, like Denver.
+
+On [levels.fyi](https://levels.fyi), there are currently 413 records for salaries in Denver.
+
+Of those 413:
+
+* 37 from Amazon
+* 49 from Google
+* 21 from Twitter
+
+26% of the postings in Denver are from 3 companies, 3 which are known for paying very high salaries. Furthermore, I dare you to find a company in the postings for Denver that isn't a fortune 500 company.
+
+Pick another city. Austin: 894 postings:
+
+* 98 from Amazon
+* 29 from Google
+* 50 from Apple
+* 14 from Facebook
+* 24 from Oracle
+* 39 from Indeed
+
+There's 28% of postings in Austin from big famous tech companies. 90% of the postings in [levels.fyi](https://levels.fyi) are from big famous companies.
+
+There are \~1.5 million software developers in the U.S. A relatively small percentage of them work for big tech companies, certainly not 25%."
+7,resonantphoenix,1628615139.0,2.0,"The question on SO’s survey: “What is your current total compensation (salary, bonuses, and perks, before taxes and deductions)? Please enter a whole number in the box below, without any punctuation. If you are paid hourly, please estimate an equivalent weekly, monthly, or yearly salary. If you prefer not to answer, please leave the box empty.”
+
+No mention of stock / equity."
+8,GordBelieverBrett,1628602550.0,1.0,"Its interesting they combined QA and Test together, because Software Test Engineer gets paid dramatically more than a normal QA manual tester."
+9,al_vo,1628605312.0,5.0,"It's not even ""Joe's Web Dev Shack"" level... In my city (2 million metro population) there's only 48 total entries. My previous two employers at around 4-5k employees don't have any entries. Some medium sized Midwest cities aren't even listed as locations (Milwaukee, St Louis, Cincinnati, etc). I imagine people in those locations are less likely to be submitting entries."
+10,buddyholly27,1628699795.0,1.0,It's not too far off of 25% though. Likely 15-20% given the headcount of engineers at these companies.

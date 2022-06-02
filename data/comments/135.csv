@@ -1,0 +1,55 @@
+﻿,username,comment_created_utc,comment_score,comment_text
+0,,1587659936.0,12.0,Pick something you enjoy not just for the money. I switched from Dev to DevOps and I'm realizing the hard way that I don't enjoy it.
+1,alrightcommadude,1587664378.0,5.0,"Pay progression is about the same. These roles are usually harder to fill, though. They require some adequate level of software development skills in addition to all of the hard to acquire domain experience & knowledge as it relates to DevOps/SRE. (I've been on the interviewing side.)
+
+
+
+From my experience, you may have better job security because these roles are hard to fill. During my last recruitment cycle there was a hiring freeze on most of the generic SWE roles but the recruiter mentioned that for DevOps/SRE they were still actively hiring.
+
+
+
+But ultimately I'll echo that you should pick something you enjoy."
+2,Drauren,1587674789.0,5.0,"It's not necessarily that DevOps/Infrastructure and Ops roles pay more than equivalent SWE roles. It's that the average salaries are higher for those roles since those roles don't really hire juniors to do those specific things, since the domain knowledge to really do it well is so deep. Most jobs postings I've seen for DevOps/Infrastructure and Ops Engineers are mid and senior level."
+3,WrastleGuy,1587658853.0,7.0,"Pay is negligible, you're better off picking something you enjoy."
+4,SuhDudeGoBlue,1587657255.0,4.0,I don't think there is good data saying it necessarily pays more or less.  It's tough to even compare.  There is a level of elitism among some SDEs/SWEs who think less of the DevOpsy roles.
+5,190sl,1587675628.0,4.0,"The cold hard truth is that DevOps/SRE is a less desirable role than Dev. The pay is similar, and companies usually have more trouble filling DevOps/SRE roles than pure dev roles. But this is mainly because most people with a CS background would rather write software than operate it.
+
+People usually end up in these roles because they either didn't meet the hiring bar for a pure dev role and were offered the DevOps role as a consolation prize, or they were young and naive and got duped into thinking that the DevOps job was going to be ""just as interesting as dev"". Either way, they usually try to transfer out after a few years.
+
+In fairness some people really do enjoy DevOps/SRE. For them, it's great. They are paid well, they have lots of perks, and the company basically kisses their ass so they won't quit or transfer into a Dev role.
+
+If your company is offering you a temporary rotation in DevOps, then that's pretty low-risk and may be a good opportunity to test the waters. Otherwise I would be very cautious. The odds are you won't like DevOps, and once you're there, it can be hard to come back."
+6,Rizzlestix,1587659310.0,1.0,"Why not learn both and consider yourself a full-stack engineer? FSEs will make more than either of those roles.
+
+Edit: Fixed a mispelled word"
+7,Stickybuns11,1587658814.0,-3.0,"Its a thing and its a thing that isn't going away. And it does pay more than the average SWE. That's why its funny to see some young newbs in here diss on DevOps. Its a bit more specialized and highly important to many companies, especially hybrid cloud. 
+
+Your thoughts on it are accurate. Its valuable."
+8,throwaway133731,1587669530.0,2.0,Agreed. OP says the most important thing is earning potential so I guess on his deathbed he can find solace in the fact that he made alot of money in his life lmaoo
+9,hapachino,1587693463.0,1.0,What do you like and not like about it?
+10,yonatan777,1587706358.0,3.0,"This reason alone (esp with our economy) is why I am leaving software development after 20 years and looking to switch to DevOps.  In  addition, I do like the more Ops side of things and system management was something I always enjoyed, as well as intrigued by the cloud eco-systems such as AWS.    But, I spent many years of my life as an application developer and it was a big hit for me, as most companies only want to hire web developers with the hippest coolest new technology set.  Plus I am 42 and getting up there in the years."
+11,throwaway133731,1587659865.0,1.0,It's because devOps is closer to the operations/ IT side of things
+12,alrightcommadude,1587664513.0,2.0,I don't think it pays more given equivalent YoE generally. DevOps/SRE roles SEEM to pay more because they're usually not trying to hire new grad / junior engineers for these.
+13,,1587694904.0,6.0,"I think DevOps is more about breadth instead of depth. And I also miss being closer to a product and the business. Just more of a personal preference.
+
+Also cloud concepts have been blowing my mind after starting in DevOps four months ago."
+14,alrightcommadude,1587752875.0,3.0,"I'm sure your large number of years of experience will help tremendously with DevOps related work. A lot of it is managing things more cross-functionally and thinking more about overall business impact, even as a lower ""level"" engineer. (e.g,. Build architecture, deployment architecture, Provisioning, Cost Allocation, Security implications on business, Build vs Buy decisions, etc.)"
+15,SuhDudeGoBlue,1587660172.0,2.0,"Right...  I get it, but I'm not a fan of the elitism.  I'm seriously considering doing a rotation as a DevOps Engineer at my company and then coming back to either software or data engineering.  Lots of useful stuff that I could learn"
+16,Stickybuns11,1587664911.0,0.0,"I don't find the SRE role the same as a DevOps role. I know some companies do but others they are different, don't involve on-call, etc. They aren't synonymous to me."
+17,RAGSdale83,1587743724.0,2.0,"Question for you - if you're mind is being blown by cloud concepts but you're not enjoying the role of DevOps, what are your thoughts of something like AWS CDK?"
+18,yonatan777,1587756987.0,1.0,"alrightcommadude, I appreciate your input.. DevOps is a new world for me , but I am already having fun learning Linux and finally getting outside the box of this new hip framework or language for an over-glorified CRUD app.  I  love software development and it is my passion. I help build a company and it was my own work. But , I think some people over glorify the software profession.  Grinding away long hours writing boring code for big companies that own and take credit for all your work is not actually as rewarding as it sounds.  To me, I like the concept of being the guy that keeps the infrastructure together and is heavily depended on rather than being another code jock and dealing with the politics and drama.  Software development is something I will pursue on the side for my own personal ventures.  But, as a career DevOps to me seems more rewarding.  As well, a lot of back-end software jobs I am seeing practically look like DevOps jobs with the amount of architecture an deployment management tools they claim they want you to be proficient in. 
+
+I am going to be rigorously studying DevOps related material for next 6 months. I am even planning on releasing my own hosted DevOps project for our company before I leave.  Going to be developing a subscription based system for our dental software that will only allow customers who pay to use it.  It will be my pet project to show potential employers that will see real-time usage from our customers.   
+
+Being in a small business most of my life, I definitely have gone well beyond what is typical of a normal software dev, but I hope DevOps can help educate me on the corporate environment which is another weakness I have."
+19,alrightcommadude,1587664972.0,2.0,"Fair. I just lump them all together, because to be honest a lot of companies haven't even learned how to probably differentiate them yet.
+
+
+
+I've been on the interviewing side to fill a particular headcount where we advertised both `Software Engineer, DevOps` and `Site Reliability Engineer`."
+20,,1587744762.0,2.0,"I have no opinion on AWS CDK because I'm honestly still trying to understand all the different products and services of the cloud.   
+
+
+When I mean cloud concepts are blowing my mind, I mean that I'm having a hard time grasping all of these concepts and the terminology. It's a lot."
+21,Stickybuns11,1587665009.0,-2.0,Agree with that on some companies.
+22,RAGSdale83,1587749113.0,3.0,LOL! I totally get and respect that. Ive been in a DevOps role for just under a year and im just now starting to grasp the fundamental concepts as they apply to my environments. Coming from the old-school OPS world hasnt been the easiest transition.
