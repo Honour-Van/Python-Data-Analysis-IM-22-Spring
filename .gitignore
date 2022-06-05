@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pyvis
+*.gexf
+
+# playground
+play.ipynb
