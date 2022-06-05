@@ -1,80 +1,106 @@
-Rust
-Jira
-Microsoft Azure
-Python
-Objective-C
-Puppet
-Hadoop
-C
-Flutter
-Confluence
-Mac
-Google Suite (Docs, Meet, etc)
-VBA
-JavaScript
-PHP
-Microsoft Teams
-Microsoft SQL Server
-Apache Spark
-PostgreSQL
-SQL
-Unity 3D
-Unreal Engine
-Xamarin
-Cassandra
-Facebook Workplace
-Ansible
-Vue
-Django
-Stack Overflow for Teams
-R
-Cordova
-DynamoDB
-TensorFlow
-IBM DB2
-Haskell
-Clojure
-Assembly
-Oracle
-Trello
-Couchbase
-Bash/Shell/PowerShell
-Pandas
-MySQL
-React
-Torch/PyTorch
-C++
-React Native
-Swift
-.NET Core
-Chef
-C#
-Angular
-Ubuntu
-.NET
-Dart
-Elasticsearch
-Teraform
-Windows
-Java
-Gitlab
-Firebase
-MariaDB
-Apple
-Notepad++
-Perl
-Github
-Keras
 Kotlin
-Scala
+Angular
+React
+Ansible
+VBA
+Xamarin
+Dart
+DynamoDB
+Gitlab
+AWS
+Bash/Shell/PowerShell
 HTML/CSS
-Go
-Redis
-TypeScript
-Ruby
-SQLite
-Node.js
+React.js
+Slack Apps and Integrations
+Scala
 Julia
+ASP.NET Core
+SQL
+Objective-C
+iOS
+IBM Cloud or Watson
+Symfony
+Spring
+Facebook Workplace
+Microsoft Azure
+Trello
+Firebase
+Windows
+Keras
+R
+Stack Overflow for Teams
+Heroku
+Swift
+MySQL
+Flutter
+Ubuntu
+Cassandra
+jQuery
+Perl
+Gatsby
+IBM DB2
+Microsoft Teams
+Django
+Assembly
+ASP.NET
+Raspberry Pi
+Drupal
+Rust
+PHP
+Vue.js
+Java
+SQLite
+Elasticsearch
+Linux
+Haskell
+Apache Spark
 Slack
+Arduino
+Confluence
+Hadoop
+.NET Core
+Cordova
+Google Cloud Platform
+Puppet
+Ruby
+.NET
+React Native
+Clojure
+C++
+Python
+Redis
+Angular.js
+C
+Laravel
+Microsoft SQL Server
+TypeScript
+Pandas
+Teraform
+Node.js
+Unreal Engine
+Vue
+Go
+Google Suite (Docs, Meet, etc)
+MacOS
+PostgreSQL
+Android
+Flask
+MariaDB
+TensorFlow
+Couchbase
 MongoDB
+C#
+Github
+Kubernetes
+WordPress
+Express
+Chef
+Unity 3D
+Ruby on Rails
+JavaScript
+Jira
+Apple
+Torch/PyTorch
+Docker
 Oracle
+Notepad++
